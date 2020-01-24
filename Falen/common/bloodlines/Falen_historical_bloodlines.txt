@@ -1,0 +1,30 @@
+islam_mahdi = { #구세주 혈통
+	muslim_opinion = 10
+	monthly_character_piety = 0.5
+	inheritance = patrilineal
+	allow_bastards = yes
+	picture = GFX_bloodlines_symbol_norse
+	flags = { historical_bloodline bloodline_historical_muslim }
+}
+moonie = { # 통일교
+	dynasty_opinion = 20
+	unificationist_opinion = 10
+	inheritance = patrilineal
+	allow_bastards = no
+	picture = GFX_bloodlines_symbol_buddhist
+	flags = { historical_bloodline bloodline_unificationist }
+}
+paektu = { #백두혈통
+	general_opinion = -20
+	juche_opinion = 60
+	command_modifier = {
+		morale_offence = 0.1
+		morale_defence = 0.1
+	}
+	monthly_character_prestige = 0.2
+	monthly_character_piety = 0.2
+	inheritance = patrilineal
+	allow_bastards = yes
+	picture = GFX_bloodlines_symbol_buddhist
+	flags = { historical_bloodline }
+}
