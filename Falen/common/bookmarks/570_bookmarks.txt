@@ -1,0 +1,135 @@
+bm_lombardy = {
+	name = "BM_LOMBARDY"
+	desc = "BM_LOMBARDY_DESC"
+	date = 570.4.26	
+	era = yes
+	picture = GFX_pick_era_image_0
+	selectable_character = {
+		id = 190124 # Alboin of Lombardy
+		age = 31
+		name = era_char_name_190124
+		title = k_italy
+		title_name = LOMBARD_KINGDOM
+		coa_dynasty = no
+		character = {
+			dna = zhzaeihbuso
+			portrait = ac000a000000
+			religion = arian
+			culture = lombard
+			government = feudal_government
+			dynasty = 1044031
+		}
+	}
+    selectable_character = {
+		id = 70511 # Justin II of Roman Empire 
+		age = 50
+		name = era_char_name_70511
+		title = e_byzantium
+		title_name = e_byzantium
+		coa_dynasty = no
+		character = {
+			dna = xqwcjncobwr
+			portrait = wd00j0000000
+			religion = orthodox
+			culture = greek
+			government = roman_imperial_government
+			dynasty = 1022186
+		}
+	}
+	selectable_character = {
+		id = 180628 # Khosrau I of Persia
+		age = 65
+		name = era_char_name_180628
+		title = e_persia
+		title_name = ERA_SASSANID
+		dlc = "The Old Gods"
+		character = {
+			dna = dhjbqtoigjw
+			portrait = od00l0000000
+			religion = zoroastrian
+			culture = persian
+			government = feudal_government
+			dynasty = 1029100
+		}
+	}
+	selectable_character = {
+		id = 407012 # Muqan of Gokturk Khaganate
+		age = 50
+		name = era_char_name_407012
+		title = e_gokturks
+		title_name = e_gokturks
+		coa_dynasty = no
+		character = {
+			dna = ynpvimtycoo
+			portrait = ei00k0000000
+			religion = tengri_pagan
+			culture = turkish
+			government = nomadic_government
+			dynasty = 12269
+		}
+	}
+	selectable_character = {
+		id = 407000 # Bayan of Avaria
+		age = 24
+		name = era_char_name_407000
+		title = k_avaria
+		title_name = k_avaria
+		coa_dynasty = yes
+		character = {
+			dna = vvduvyxosao
+			portrait = xj00n0000000
+			religion = tengri_pagan
+			culture = avar
+			government = nomadic_government
+			dynasty = 3000016
+		}
+	}
+	selectable_character = {
+		id = 200275 # Liuva of Visigothica
+		age = 47
+		name = era_char_name_200275
+		title = k_visigothica
+		title_name = k_visigothica
+		character = {
+			dna = uaueluogqpk
+			portrait = al00jb000000
+			religion = arian
+			culture = visigothic
+			government = feudal_government
+			dynasty = 1046033
+		}
+	}
+
+}
+#bm_gokturk_civil_war = 
+# date = 581.1.1
+# Liuvigild, Gokturk Rulers
+#bm_maurice
+# date = 585.1.1
+# character = Maurikios, Khosrau II, Bahram VI, Riccard of Visigothica, Authari
+
+#bm_phocas
+# date = 602
+# character = Phocas, Khosrau II, Heraclius the Elder, Frank, Pushyabhuti,
+
+#bm_rebel_heraclius
+# date = 608
+# Phocas, Heraclius, Khosrau II
+
+bm_hijra = {
+	name = BM_HIJRA
+	desc = BM_HIJRA_DESC
+	date = 622.7.1
+	selectable_character = {
+		id = 33922 # Muhammad
+	}
+	selectable_character = {
+		id = 180631 # Khosrau II
+	}
+	selectable_character = {
+		id = 145071 # Herakleios
+	}
+}
+#bm_the_caliphate
+#date = 632.6.8
+# Abu Bakr, Heraclius, Yazdegerd III
