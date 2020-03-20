@@ -1,0 +1,11 @@
+# 44 - Mungyeong
+
+# County Title
+title = c_mungyeong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = koreanist

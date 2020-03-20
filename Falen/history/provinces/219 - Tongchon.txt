@@ -1,0 +1,11 @@
+# 219 - Tongchon
+
+# County Title
+title = c_thongchon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongdong
+religion = cheondo

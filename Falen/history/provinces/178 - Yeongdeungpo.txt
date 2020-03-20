@@ -1,0 +1,11 @@
+# 178 - Yeongdeungpo
+
+# County Title
+title = c_yeongdeungpo
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = seoul
+religion = koreanist

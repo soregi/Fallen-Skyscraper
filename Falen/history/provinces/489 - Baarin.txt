@@ -1,0 +1,11 @@
+# 489 - Baarin
+
+# County Title
+title = c_baarin
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = mongol
+religion = vajrayana

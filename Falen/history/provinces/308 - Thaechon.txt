@@ -1,0 +1,11 @@
+# 308 - Thaechon
+
+# County Title
+title = c_thachon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

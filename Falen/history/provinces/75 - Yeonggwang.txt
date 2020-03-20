@@ -1,0 +1,11 @@
+# 75 - Yeonggwang
+
+# County Title
+title = c_yeonggwang 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

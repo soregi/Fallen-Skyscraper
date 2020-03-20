@@ -1,0 +1,11 @@
+# 477 - Gongzhuling
+
+# County Title
+title = c_gongzhuling
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jilin
+religion = cheondo

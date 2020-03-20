@@ -1,0 +1,11 @@
+# 124 - Hongju
+
+# County Title
+title = c_hongju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

@@ -1,0 +1,11 @@
+# 276 - Hoechang
+
+# County Title
+title = c_hoechang
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = juche

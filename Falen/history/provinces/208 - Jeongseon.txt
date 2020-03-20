@@ -1,0 +1,11 @@
+# 208 - Jeongseon
+
+# County Title
+title = c_jeongseon
+
+# Settlements
+max_settlements = 1
+
+# Misc
+culture = yeongseo
+religion = mu_pagan

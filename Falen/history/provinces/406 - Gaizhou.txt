@@ -1,0 +1,11 @@
+# 406 - Gaizhou
+
+# County Title
+title = c_gaizhou
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = cheondo

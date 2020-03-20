@@ -1,0 +1,11 @@
+# 91 - Jinan
+
+# County Title
+title = c_jinan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

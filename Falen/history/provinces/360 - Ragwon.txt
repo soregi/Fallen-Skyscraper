@@ -1,0 +1,11 @@
+# 360 - Ragwon
+
+# County Title
+title = c_lak`won
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hamnam
+religion = juche

@@ -1,0 +1,11 @@
+# 9 - Uiryeong
+
+# County Title
+title = c_Uiryeong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = mahayana

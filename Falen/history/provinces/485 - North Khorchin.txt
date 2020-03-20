@@ -1,0 +1,11 @@
+# 485 - North Khorchin
+
+# County Title
+title = c_n_horchin
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = mongol
+religion = vajrayana

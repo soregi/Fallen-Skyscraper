@@ -1,0 +1,11 @@
+# 193 - Ilsan
+
+# County Title
+title = c_llsan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

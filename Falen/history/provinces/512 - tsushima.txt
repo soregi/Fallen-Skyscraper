@@ -1,0 +1,11 @@
+# 512 - tsushima
+
+# County Title
+title = c_tsushima
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = yeongnam
+religion = mahayana

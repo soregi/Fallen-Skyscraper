@@ -1,0 +1,11 @@
+# 357 - Sinhung
+
+# County Title
+title = c_sinheung
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hamnam
+religion = juche

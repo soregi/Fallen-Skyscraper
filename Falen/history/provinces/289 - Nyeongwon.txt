@@ -1,0 +1,11 @@
+# 289 - Nyeongwon
+
+# County Title
+title = c_nyeongwon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = juche

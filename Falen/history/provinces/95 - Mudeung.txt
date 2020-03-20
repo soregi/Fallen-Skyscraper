@@ -1,0 +1,11 @@
+# 95 - Mudeung
+
+# County Title
+title = c_mudeung
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

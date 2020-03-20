@@ -1,0 +1,11 @@
+# 438 - Lianshan
+
+# County Title
+title = c_lianshan
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = maoist

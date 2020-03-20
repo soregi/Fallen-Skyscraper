@@ -1,0 +1,11 @@
+# 202 - Inje
+
+# County Title
+title = c_inje
+
+# Settlements
+max_settlements = 1
+
+# Misc
+culture = yeongseo
+religion = hoguk

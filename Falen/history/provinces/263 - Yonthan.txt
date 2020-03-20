@@ -1,0 +1,11 @@
+# 263 - Yonthan
+
+# County Title
+title = c_yeontan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = juche

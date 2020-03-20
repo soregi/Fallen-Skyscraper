@@ -1,0 +1,11 @@
+# 254 - Koksan
+
+# County Title
+title = c_koksan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = juche

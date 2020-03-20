@@ -1,0 +1,11 @@
+# 352 - Kumya
+
+# County Title
+title = c_geumya
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hamnam
+religion = orthodox

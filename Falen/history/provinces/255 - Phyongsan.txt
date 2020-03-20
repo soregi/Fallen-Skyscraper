@@ -1,0 +1,11 @@
+# 255 - Phyongsan
+
+# County Title
+title = c_phyongsan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = gaian

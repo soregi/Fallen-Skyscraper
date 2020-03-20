@@ -1,0 +1,11 @@
+# 330 - Janggang
+
+# County Title
+title = c_janggang
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = juche

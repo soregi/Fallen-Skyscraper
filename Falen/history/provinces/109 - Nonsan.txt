@@ -1,0 +1,11 @@
+# 109 - Nonsan
+
+# County Title
+title = c_nonsan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

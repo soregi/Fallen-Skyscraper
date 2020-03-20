@@ -1,0 +1,11 @@
+# 19 - Daegu
+
+# County Title
+title = c_daegu
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = catholic

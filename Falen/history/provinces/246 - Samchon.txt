@@ -1,0 +1,11 @@
+# 246 - Samchon
+
+# County Title
+title = c_samchon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = juche

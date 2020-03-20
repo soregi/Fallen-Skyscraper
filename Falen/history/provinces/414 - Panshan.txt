@@ -1,0 +1,11 @@
+# 414 - Panshan
+
+# County Title
+title = c_panshan
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = cheondo

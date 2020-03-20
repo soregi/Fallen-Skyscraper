@@ -1,0 +1,11 @@
+# 74 - Wando
+
+# County Title
+title = c_wando 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

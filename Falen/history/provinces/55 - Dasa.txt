@@ -1,0 +1,11 @@
+# 55 - Dasa
+
+# County Title
+title = c_dasa
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = catholic

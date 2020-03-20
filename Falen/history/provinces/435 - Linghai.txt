@@ -1,0 +1,11 @@
+# 435 - Linghai
+
+# County Title
+title = c_linghai
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = maoist

@@ -1,0 +1,11 @@
+# 128 - Eumseong
+
+# County Title
+title = c_eumseong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

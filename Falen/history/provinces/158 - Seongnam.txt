@@ -1,0 +1,11 @@
+# 158 - Seongnam
+
+# County Title
+title = c_seongnam
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

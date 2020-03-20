@@ -1,0 +1,11 @@
+# 361 - Hong'won
+
+# County Title
+title = c_hong'won
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hamnam
+religion = juche

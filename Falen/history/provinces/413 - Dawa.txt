@@ -1,0 +1,11 @@
+# 413 - Dawa
+
+# County Title
+title = c_dawa
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = cheondo

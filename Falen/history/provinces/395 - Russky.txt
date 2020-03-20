@@ -1,0 +1,11 @@
+# 395 - Russky
+
+# County Title
+title = c_russky
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = russian
+religion = orthodox

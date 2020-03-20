@@ -1,0 +1,11 @@
+# 186 - Yeongjongdo
+
+# County Title
+title = c_yoengjongdo
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = seoul
+religion = koreanist

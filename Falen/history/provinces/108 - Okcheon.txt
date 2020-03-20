@@ -1,0 +1,11 @@
+# 108 - Okcheon
+
+# County Title
+title = c_okcheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = mu_pagan

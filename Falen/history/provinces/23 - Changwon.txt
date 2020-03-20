@@ -1,0 +1,11 @@
+# 23 - Changwon
+
+# County Title
+title = c_changwon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = koreanist

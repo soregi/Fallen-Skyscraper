@@ -1,0 +1,11 @@
+# 505 - Laoshan
+
+# County Title
+title = c_laoshan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = qingdao
+religion = confucian

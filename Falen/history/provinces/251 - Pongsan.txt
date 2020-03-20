@@ -1,0 +1,11 @@
+# 251 - Pongsan
+
+# County Title
+title = c_pongsan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hwanghae
+religion = orthodox

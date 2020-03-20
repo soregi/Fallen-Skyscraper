@@ -1,0 +1,11 @@
+# 114 - Sejong
+
+# County Title
+title = c_sejong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hoseo
+religion = koreanist

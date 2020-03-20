@@ -1,0 +1,11 @@
+# 223 - Sepho
+
+# County Title
+title = c_sepho
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = yeongdong
+religion = cheondo

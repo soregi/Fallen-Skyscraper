@@ -1,0 +1,11 @@
+# 103 - Jiri
+
+# County Title
+title = c_jiri
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = bear
+religion = mahayana

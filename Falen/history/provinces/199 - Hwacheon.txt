@@ -1,0 +1,11 @@
+# 199 - Hwacheon
+
+# County Title
+title = c_hwacheon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongseo
+religion = hoguk

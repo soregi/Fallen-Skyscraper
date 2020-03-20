@@ -1,0 +1,11 @@
+# 26 - Gyeongju
+
+# County Title
+title = c_gyeongju
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = mahayana

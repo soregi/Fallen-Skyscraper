@@ -1,0 +1,11 @@
+# 49 - Dongnae
+
+# County Title
+title = c_dongnae
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = steel_pagan

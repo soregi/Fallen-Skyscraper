@@ -1,0 +1,11 @@
+# 78 - Damyang
+
+# County Title
+title = c_damyang 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = catholic

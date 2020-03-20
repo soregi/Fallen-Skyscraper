@@ -1,0 +1,11 @@
+# 151 - Gunpo
+
+# County Title
+title = c_gunpo
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

@@ -1,0 +1,11 @@
+# 286 - Pukchang
+
+# County Title
+title = c_pukchang
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = juche

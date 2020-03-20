@@ -1,0 +1,11 @@
+# 335 - Jasong
+
+# County Title
+title = c_jasong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = cheondo

@@ -1,0 +1,11 @@
+# 73 - Gwangyang
+
+# County Title
+title = c_gwangyang 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = mahayana

@@ -1,0 +1,11 @@
+# 17 - Busan
+
+# County Title
+title = c_busan
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = steel_pagan

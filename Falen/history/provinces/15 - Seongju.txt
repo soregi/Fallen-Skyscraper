@@ -1,0 +1,11 @@
+# 15 - Seongju
+
+# County Title
+title = c_seongju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = mu_pagan

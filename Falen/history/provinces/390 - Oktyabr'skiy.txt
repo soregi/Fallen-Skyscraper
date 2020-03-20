@@ -1,0 +1,11 @@
+# 390 - Oktyabr'skiy
+
+# County Title
+title = c_oktyabrsky
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = russian
+religion = marxist

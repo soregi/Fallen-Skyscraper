@@ -1,0 +1,11 @@
+# 431 - Heishan
+
+# County Title
+title = c_heishan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yalu
+religion = tengri_pagan

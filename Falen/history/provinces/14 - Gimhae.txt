@@ -1,0 +1,11 @@
+# 14 - Gimhae
+
+# County Title
+title = c_gimhae
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = yeongnam
+religion = koreanist

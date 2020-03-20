@@ -1,0 +1,11 @@
+# 10 - Hamyang
+
+# County Title
+title = c_hamyang
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongnam
+religion = mahayana

@@ -1,0 +1,11 @@
+# 471 - Changchun
+
+# County Title
+title = c_changchun
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = jilin
+religion = cheondo

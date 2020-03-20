@@ -1,0 +1,11 @@
+# 388 - Shkotovsky
+
+# County Title
+title = c_shkotovsky
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = russian
+religion = orthodox

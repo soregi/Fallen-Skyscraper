@@ -1,0 +1,11 @@
+# 141 - Pyeongtaek
+
+# County Title
+title = c_pyeongtaek
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = protestant

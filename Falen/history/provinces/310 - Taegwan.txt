@@ -1,0 +1,11 @@
+# 310 - Taegwan
+
+# County Title
+title = c_taegwan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = cheondo

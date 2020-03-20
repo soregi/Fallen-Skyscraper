@@ -1,0 +1,11 @@
+# 212 - Gangneung
+
+# County Title
+title = c_kangneng
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = yeongdong
+religion = mahayana

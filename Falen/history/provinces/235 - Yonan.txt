@@ -1,0 +1,11 @@
+# 235 - Yonan
+
+# County Title
+title = c_yonan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hwanghae
+religion = cheondo

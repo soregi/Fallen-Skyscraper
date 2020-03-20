@@ -1,0 +1,11 @@
+# 368 - Kimchaek
+
+# County Title
+title = c_gimchaek
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = holy_spirit

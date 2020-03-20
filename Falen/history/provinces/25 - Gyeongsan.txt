@@ -1,0 +1,11 @@
+# 25 - Gyeongsan
+
+# County Title
+title = c_gyeongsan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = catholic

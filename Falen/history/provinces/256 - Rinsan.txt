@@ -1,0 +1,11 @@
+# 256 - Rinsan
+
+# County Title
+title = c_rinsan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = gaian

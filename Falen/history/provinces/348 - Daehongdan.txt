@@ -1,0 +1,11 @@
+# 348 - Daehongdan
+
+# County Title
+title = c_daehongdan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = ¿ŒπŒ±≥»∏

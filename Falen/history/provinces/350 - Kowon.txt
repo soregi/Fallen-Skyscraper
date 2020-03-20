@@ -1,0 +1,11 @@
+# 350 - Kowon
+
+# County Title
+title = c_gowon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hamnam
+religion = orthodox

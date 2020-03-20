@@ -1,0 +1,11 @@
+# 67 - Goheung
+
+# County Title
+title = c_goheung 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

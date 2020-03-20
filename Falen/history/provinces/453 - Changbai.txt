@@ -1,0 +1,11 @@
+# 453 - Changbai
+
+# County Title
+title = c_changbai
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = chaoxian
+religion = red_solar

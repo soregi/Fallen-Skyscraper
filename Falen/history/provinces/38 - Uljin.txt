@@ -1,0 +1,11 @@
+# 38 - Uljin
+
+# County Title
+title = c_uijin
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = atomicist

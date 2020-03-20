@@ -1,0 +1,11 @@
+# 344 - Unhung
+
+# County Title
+title = c_unheung
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = ¿ŒπŒ±≥»∏

@@ -1,0 +1,11 @@
+# 381 - Gyonghung
+
+# County Title
+title = c_gyeongheung
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = holy_spirit

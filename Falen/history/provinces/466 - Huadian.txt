@@ -1,0 +1,11 @@
+# 466 - Huadian
+
+# County Title
+title = c_huadian
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jilin
+religion = cheondo

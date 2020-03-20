@@ -1,0 +1,11 @@
+# 85 - Gimje
+
+# County Title
+title = c_gimje 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

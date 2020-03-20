@@ -1,0 +1,11 @@
+# 502 - Penglai
+
+# County Title
+title = c_penglai
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yantai
+religion = taoist

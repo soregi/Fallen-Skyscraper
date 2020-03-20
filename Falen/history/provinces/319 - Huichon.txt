@@ -1,0 +1,11 @@
+# 319 - Huichon
+
+# County Title
+title = c_huichon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

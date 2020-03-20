@@ -1,0 +1,11 @@
+# 106 - Gogun
+
+# County Title
+title = c_gogun
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = sinan
+religion = protestant

@@ -1,0 +1,11 @@
+# 135 - Gyuam
+
+# County Title
+title = c_gyuam
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

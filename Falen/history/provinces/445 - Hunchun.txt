@@ -1,0 +1,11 @@
+# 445 - Hunchun
+
+# County Title
+title = c_hunchun
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = chaoxian
+religion = cheondo

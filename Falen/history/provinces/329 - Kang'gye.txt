@@ -1,0 +1,11 @@
+# 329 - Kang'gye
+
+# County Title
+title = c_kanggye
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = juche

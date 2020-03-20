@@ -1,0 +1,11 @@
+# 264 - Sinphyong
+
+# County Title
+title = c_sinphyeong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = juche

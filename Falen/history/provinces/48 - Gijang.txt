@@ -1,0 +1,11 @@
+# 48 - Gijang
+
+# County Title
+title = c_gijang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = steel_pagan

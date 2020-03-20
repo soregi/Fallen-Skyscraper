@@ -1,0 +1,11 @@
+# 268 - Unchon
+
+# County Title
+title = c_uncheon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hwanghae
+religion = juche

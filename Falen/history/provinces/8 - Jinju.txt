@@ -1,0 +1,11 @@
+# 8 - Jinju
+
+# County Title
+title = c_jinju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = sudsee
+religion = protestant

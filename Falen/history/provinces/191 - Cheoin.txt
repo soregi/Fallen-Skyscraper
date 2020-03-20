@@ -1,0 +1,11 @@
+# 191 - Cheoin
+
+# County Title
+title = c_cheoin
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = unitary

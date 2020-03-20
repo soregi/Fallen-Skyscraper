@@ -1,0 +1,11 @@
+# 364 - Riwob
+
+# County Title
+title = c_liwon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hamnam
+religion = orthodox

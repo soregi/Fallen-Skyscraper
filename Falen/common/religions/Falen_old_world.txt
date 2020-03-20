@@ -1,0 +1,207 @@
+old_world_group = {
+	has_coa_on_barony_only = no
+	graphical_culture = westerngfx
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2 # always
+	ai_convert_other_group = 2	# always try to convert
+	
+	color = { 0.2 0.4 0.8 }
+	
+	interface_skin = { indian_interface muslim_interface }
+	
+	# Names given only to Indian characters (base names)
+	male_names = {
+	}
+	female_names = {
+	}
+	juche = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.7 0.7 0.1 }
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_SURYONG
+		
+		god_names = {
+			GOD_SURYONG GOD_JANGGUN
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+	}
+	red_solar = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.7 0.7 0.1 }
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		parent = juche
+		high_god_name = GOD_SURYONG
+		
+		god_names = {
+			GOD_SURYONG GOD_JANGGUN
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+	}
+	koreanist = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.7 0.7 0.1 }
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_SURYONG
+		
+		god_names = {
+			GOD_SURYONG GOD_JANGGUN
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+	}
+	mechanist = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.7 0.7 0.1 }
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_SURYONG
+		
+		god_names = {
+			GOD_SURYONG GOD_JANGGUN
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+	}
+	unitary = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.7 0.7 0.1 }
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_SURYONG
+		
+		god_names = {
+			GOD_SURYONG GOD_JANGGUN
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+	}
+	familiar = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.7 0.7 0.1 }
+		parent = unitary
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_SURYONG
+		
+		god_names = {
+			GOD_SURYONG GOD_JANGGUN
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+	}
+}

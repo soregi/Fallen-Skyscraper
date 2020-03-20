@@ -1,0 +1,11 @@
+# 374 - Yonsan
+
+# County Title
+title = c_yeonsa
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = ¿ŒπŒ±≥»∏

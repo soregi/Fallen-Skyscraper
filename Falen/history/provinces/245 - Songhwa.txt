@@ -1,0 +1,11 @@
+# 245 - Songhwa
+
+# County Title
+title = c_songhwa
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = juche

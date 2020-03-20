@@ -1,0 +1,11 @@
+# 316 - Sungho
+
+# County Title
+title = c_sungho
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = cheondo

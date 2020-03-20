@@ -1,0 +1,11 @@
+# 116 - Yeongdong
+
+# County Title
+title = c_yeongdong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = mahayana

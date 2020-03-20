@@ -1,0 +1,11 @@
+# 386 - Ussuriysk
+
+# County Title
+title = c_ussuriysk
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = russian
+religion = orthodox

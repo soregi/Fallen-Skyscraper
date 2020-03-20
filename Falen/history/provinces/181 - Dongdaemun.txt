@@ -1,0 +1,11 @@
+# 181 - Dongdaemun
+
+# County Title
+title = c_dongdaemun
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = seoul
+religion = koreanist

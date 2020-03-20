@@ -1,0 +1,11 @@
+# 369 - Hwadae
+
+# County Title
+title = c_hwadae
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = orthodox

@@ -1,0 +1,11 @@
+# 367 - Hochon
+
+# County Title
+title = c_heocheon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = ¿ŒπŒ±≥»∏

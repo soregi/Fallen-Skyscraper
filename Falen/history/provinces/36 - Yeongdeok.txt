@@ -1,0 +1,11 @@
+# 36 - Yeongdeok
+
+# County Title
+title = c_yeongdeok
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = atomicist

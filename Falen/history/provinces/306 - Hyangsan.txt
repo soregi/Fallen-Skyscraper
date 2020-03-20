@@ -1,0 +1,11 @@
+# 306 - Hyangsan
+
+# County Title
+title = c_hyangsan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongbuk
+religion = juche

@@ -1,0 +1,11 @@
+# 497 - Muping
+
+# County Title
+title = c_muping
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yantai
+religion = confucian

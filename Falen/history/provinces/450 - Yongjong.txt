@@ -1,0 +1,11 @@
+# 450 - Yongjong
+
+# County Title
+title = c_longjing
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = chaoxian
+religion = cheondo

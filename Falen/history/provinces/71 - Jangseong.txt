@@ -1,0 +1,11 @@
+# 71 - Jangseong
+
+# County Title
+title = c_jangseong 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

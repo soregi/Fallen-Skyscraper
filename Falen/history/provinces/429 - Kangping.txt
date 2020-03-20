@@ -1,0 +1,11 @@
+# 429 - Kangping
+
+# County Title
+title = c_kangping
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yalu
+religion = tengri_pagan

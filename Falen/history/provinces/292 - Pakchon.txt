@@ -1,0 +1,11 @@
+# 292 - Pakchon
+
+# County Title
+title = c_pakchon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = cheondo

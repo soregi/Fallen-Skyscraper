@@ -1,0 +1,11 @@
+# 318 - Ryokpho
+
+# County Title
+title = Ryokpho
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = pyongbuk
+religion = cheondo

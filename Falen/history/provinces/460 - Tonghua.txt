@@ -1,0 +1,11 @@
+# 460 - Tonghua
+
+# County Title
+title = c_tonghua
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jilin
+religion = tengri_pagan

@@ -1,0 +1,11 @@
+# 132 - Cheonan
+
+# County Title
+title = c_cheonan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = mechanist

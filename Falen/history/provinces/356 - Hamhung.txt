@@ -1,0 +1,11 @@
+# 356 - Hamhung
+
+# County Title
+title = c_hamheung
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hamnam
+religion = orthodox

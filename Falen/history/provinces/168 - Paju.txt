@@ -1,0 +1,11 @@
+# 168 - Paju
+
+# County Title
+title = c_paju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

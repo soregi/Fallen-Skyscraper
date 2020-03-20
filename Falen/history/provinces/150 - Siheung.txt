@@ -1,0 +1,11 @@
+# 150 - Siheung
+
+# County Title
+title = c_siheung
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

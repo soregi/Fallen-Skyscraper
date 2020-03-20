@@ -1,0 +1,11 @@
+# 338 - Sinpha
+
+# County Title
+title = c_sinpha
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = juche

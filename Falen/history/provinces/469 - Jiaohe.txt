@@ -1,0 +1,11 @@
+# 469 - Jiaohe
+
+# County Title
+title = c_jiaohe
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = cheondo

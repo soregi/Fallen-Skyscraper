@@ -1,0 +1,11 @@
+# 126 - Geumsan
+
+# County Title
+title = c_geumsan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = catholic

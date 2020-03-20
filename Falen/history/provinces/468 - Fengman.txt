@@ -1,0 +1,11 @@
+# 468 - Fengman
+
+# County Title
+title = c_fengman
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = cheondo

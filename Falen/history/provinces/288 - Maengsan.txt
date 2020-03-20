@@ -1,0 +1,11 @@
+# 288 - Maengsan
+
+# County Title
+title = c_maengsan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = juche

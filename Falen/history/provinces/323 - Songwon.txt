@@ -1,0 +1,11 @@
+# 323 - Songwon
+
+# County Title
+title = c_songwon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

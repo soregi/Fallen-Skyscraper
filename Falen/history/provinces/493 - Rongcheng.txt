@@ -1,0 +1,11 @@
+# 493 - Rongcheng
+
+# County Title
+title = c_rongcheng
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = weihai
+religion = confucian

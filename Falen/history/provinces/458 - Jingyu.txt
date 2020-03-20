@@ -1,0 +1,11 @@
+# 458 - Jingyu
+
+# County Title
+title = c_jingyu
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = red_solar

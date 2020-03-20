@@ -1,0 +1,11 @@
+# 410 - Haicheng
+
+# County Title
+title = c_haicheng
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yalu
+religion = tengri_pagan

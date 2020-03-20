@@ -1,0 +1,11 @@
+# 32 - Yecheon
+
+# County Title
+title = c_yecheon
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = confucian

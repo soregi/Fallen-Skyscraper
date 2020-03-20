@@ -1,0 +1,11 @@
+# 42 - Chilgok
+
+# County Title
+title = c_chilgok
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = confucian

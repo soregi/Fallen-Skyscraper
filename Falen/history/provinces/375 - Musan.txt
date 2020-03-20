@@ -1,0 +1,11 @@
+# 375 - Musan
+
+# County Title
+title = c_musan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = ¿ŒπŒ±≥»∏

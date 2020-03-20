@@ -1,0 +1,11 @@
+# 122 - Yesan
+
+# County Title
+title = c_yesan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

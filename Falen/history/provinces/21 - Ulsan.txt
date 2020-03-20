@@ -1,0 +1,11 @@
+# 21 - Ulsan
+
+# County Title
+title = c_ulsan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = steel_pagan

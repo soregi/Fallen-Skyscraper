@@ -1,0 +1,11 @@
+# 295 - Sonchon
+
+# County Title
+title = c_sonchon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

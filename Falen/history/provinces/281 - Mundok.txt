@@ -1,0 +1,11 @@
+# 281 - Mundok
+
+# County Title
+title = c_mundok
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = pyongnam
+religion = cheondo

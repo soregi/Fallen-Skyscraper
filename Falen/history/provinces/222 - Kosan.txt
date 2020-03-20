@@ -1,0 +1,11 @@
+# 222 - Kosan
+
+# County Title
+title = c_kosan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = marxist

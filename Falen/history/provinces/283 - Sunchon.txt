@@ -1,0 +1,11 @@
+# 283 - Sunchon
+
+# County Title
+title = c_sunchon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = pyongnam
+religion = cheondo

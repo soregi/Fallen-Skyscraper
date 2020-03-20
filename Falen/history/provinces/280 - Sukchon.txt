@@ -1,0 +1,11 @@
+# 280 - Sukchon
+
+# County Title
+title = c_sukchon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = pyongnam
+religion = cheondo

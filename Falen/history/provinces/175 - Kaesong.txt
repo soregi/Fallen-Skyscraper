@@ -1,0 +1,11 @@
+# 175 - Kaesong
+
+# County Title
+title = c_kaesong
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = gyeonggi
+religion = gaian

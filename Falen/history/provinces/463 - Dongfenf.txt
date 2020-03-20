@@ -1,0 +1,11 @@
+# 463 - Dongfenf
+
+# County Title
+title = c_dongfeng
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jilin
+religion = tengri_pagan

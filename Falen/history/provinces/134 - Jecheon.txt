@@ -1,0 +1,11 @@
+# 134 - Jecheon
+
+# County Title
+title = c_jecheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = confucian

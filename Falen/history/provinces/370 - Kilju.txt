@@ -1,0 +1,11 @@
+# 370 - Kilju
+
+# County Title
+title = c_gilju
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = holy_spirit

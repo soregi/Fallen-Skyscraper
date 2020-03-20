@@ -1,0 +1,11 @@
+# 30 - Gunwi
+
+# County Title
+title = c_gunwi
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = mu_pagan

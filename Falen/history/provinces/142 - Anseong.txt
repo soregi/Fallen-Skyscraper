@@ -1,0 +1,11 @@
+# 142 - Anseong
+
+# County Title
+title = c_anseong
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = gyeonggi
+religion = mechanist

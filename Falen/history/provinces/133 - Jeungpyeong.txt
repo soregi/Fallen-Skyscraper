@@ -1,0 +1,11 @@
+# 133 - Jeungpyeong
+
+# County Title
+title = c_jeungpyeong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = mechanist

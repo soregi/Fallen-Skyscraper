@@ -1,0 +1,11 @@
+# 99 - Hamyeol
+
+# County Title
+title = c_hamyeol
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

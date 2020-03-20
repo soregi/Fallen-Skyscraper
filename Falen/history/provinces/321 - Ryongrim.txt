@@ -1,0 +1,11 @@
+# 321 - Ryongrim
+
+# County Title
+title = c_ryongrim
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = juche

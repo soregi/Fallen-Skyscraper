@@ -1,0 +1,11 @@
+# 372 - Eorang
+
+# County Title
+title = c_eorang
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = orthodox

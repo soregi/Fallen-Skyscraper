@@ -1,0 +1,11 @@
+# 39 - Bonghwa
+
+# County Title
+title = c_bonghwa
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam.
+religion = confucian

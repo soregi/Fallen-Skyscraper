@@ -1,0 +1,11 @@
+# 277 - Yangdok
+
+# County Title
+title = c_yangdok
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = juche

@@ -1,0 +1,11 @@
+# 12 - Haman
+
+# County Title
+title = c_haman
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = mahayana

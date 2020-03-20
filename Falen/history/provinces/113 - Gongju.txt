@@ -1,0 +1,11 @@
+# 113 - Gongju
+
+# County Title
+title = c_gongju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

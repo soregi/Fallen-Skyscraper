@@ -1,0 +1,11 @@
+# 194 - Anjung
+
+# County Title
+title = c_anjung
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = protestant

@@ -1,0 +1,11 @@
+# 495 - Wendeng
+
+# County Title
+title = c_wendeng
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = weihai
+religion = confucian

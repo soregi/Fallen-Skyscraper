@@ -1,0 +1,11 @@
+# 237 - Haeju
+
+# County Title
+title = c_haeju
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = hwanghae
+religion = cheondo

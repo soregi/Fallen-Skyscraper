@@ -1,0 +1,11 @@
+# 509 - Jimo
+
+# County Title
+title = c_jimo
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = qingdao
+religion = confucian

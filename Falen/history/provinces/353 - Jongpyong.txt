@@ -1,0 +1,11 @@
+# 353 - Jongpyong
+
+# County Title
+title = c_jeongpyeong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hamnam
+religion = orthodox

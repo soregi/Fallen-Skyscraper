@@ -1,0 +1,11 @@
+# 59 - Suncheon
+
+# County Title
+title = c_suncheon 
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = honam
+religion = protestant

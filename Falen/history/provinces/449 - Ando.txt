@@ -1,0 +1,11 @@
+# 449 - Ando
+
+# County Title
+title = c_antu
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = chaoxian
+religion = red_solar

@@ -1,0 +1,11 @@
+# 40 - Ulleung
+
+# County Title
+title = c_ulleung
+
+# Settlements
+max_settlements = 1
+
+# Misc
+culture = yeongnam
+religion = koreanist

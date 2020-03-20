@@ -1,0 +1,11 @@
+# 459 - Ji'an
+
+# County Title
+title = c_jian
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jilin
+religion = tengri_pagan

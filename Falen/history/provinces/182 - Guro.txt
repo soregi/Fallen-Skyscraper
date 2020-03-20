@@ -1,0 +1,11 @@
+# 182 - Guro
+
+# County Title
+title = c_guro
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = seoul
+religion = koreanist

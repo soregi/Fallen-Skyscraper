@@ -1,0 +1,11 @@
+# 47 - Gangseo
+
+# County Title
+title = c_gangseo
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = koreanist

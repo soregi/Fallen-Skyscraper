@@ -1,0 +1,11 @@
+# 278 - Songchon
+
+# County Title
+title = c_songchon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = juche

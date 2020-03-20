@@ -1,0 +1,11 @@
+# 215 - Ganseong
+
+# County Title
+title = c_ganseong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = mahayana

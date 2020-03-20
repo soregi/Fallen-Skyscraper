@@ -1,0 +1,11 @@
+# 440 - Jianchang
+
+# County Title
+title = c_jianchang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = liaoning
+religion = maoist

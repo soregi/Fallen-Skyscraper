@@ -1,0 +1,11 @@
+# 496 - Rushan
+
+# County Title
+title = c_rushan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = weihai
+religion = nightglow

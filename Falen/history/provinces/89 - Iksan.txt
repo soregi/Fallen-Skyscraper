@@ -1,0 +1,11 @@
+# 89 - Iksan
+
+# County Title
+title = c_iksan 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

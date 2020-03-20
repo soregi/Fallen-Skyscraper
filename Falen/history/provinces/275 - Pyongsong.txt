@@ -1,0 +1,11 @@
+# 275 - Pyongsong
+
+# County Title
+title = c_Phyongsong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = pyongnam
+religion = cheondo

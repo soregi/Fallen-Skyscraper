@@ -1,0 +1,11 @@
+# 130 - Boeun
+
+# County Title
+title = c_boeun.
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = mechanist

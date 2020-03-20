@@ -1,0 +1,11 @@
+# 379 - Buryong
+
+# County Title
+title = c_buryeong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = holy_spirit

@@ -1,0 +1,11 @@
+# 461 - Meihekou
+
+# County Title
+title = c_meihekou
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = tengri_pagan

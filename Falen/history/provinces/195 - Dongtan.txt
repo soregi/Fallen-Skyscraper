@@ -1,0 +1,11 @@
+# 195 - Dongtan
+
+# County Title
+title = c_dongtan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = mechanist

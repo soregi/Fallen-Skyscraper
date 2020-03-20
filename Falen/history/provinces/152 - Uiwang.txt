@@ -1,0 +1,11 @@
+# 152 - Uiwang
+
+# County Title
+title = c_uiwang
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

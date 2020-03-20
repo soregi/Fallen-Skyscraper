@@ -1,0 +1,11 @@
+# 301 - Sinuiju
+
+# County Title
+title = c_sinuiju
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

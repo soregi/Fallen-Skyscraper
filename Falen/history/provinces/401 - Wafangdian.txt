@@ -1,0 +1,11 @@
+# 401 - Wafangdian
+
+# County Title
+title = c_wafangdian
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = nightglow

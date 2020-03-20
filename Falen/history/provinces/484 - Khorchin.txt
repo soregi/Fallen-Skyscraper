@@ -1,0 +1,11 @@
+# 484 - Khorchin
+
+# County Title
+title = c_horchin
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = mongol
+religion = vajrayana

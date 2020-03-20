@@ -1,0 +1,11 @@
+# 293 - Jongju
+
+# County Title
+title = c_jongju
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = cheondo

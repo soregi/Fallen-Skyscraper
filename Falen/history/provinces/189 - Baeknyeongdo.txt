@@ -1,0 +1,11 @@
+# 189 - Baeknyeongdo
+
+# County Title
+title = c_baeknyeongdo
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = gyeonggi
+religion = koreanist

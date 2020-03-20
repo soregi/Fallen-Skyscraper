@@ -1,0 +1,11 @@
+# 325 - Usi
+
+# County Title
+title = c_usi
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

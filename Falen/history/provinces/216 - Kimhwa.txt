@@ -1,0 +1,11 @@
+# 216 - Kimhwa
+
+# County Title
+title = c_kimhwa
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = yeongdong
+religion = cheondo

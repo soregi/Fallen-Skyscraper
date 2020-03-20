@@ -1,0 +1,11 @@
+# 66 - Jeju
+
+# County Title
+title = c_jeju 
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jeju
+religion = jeju_pagan

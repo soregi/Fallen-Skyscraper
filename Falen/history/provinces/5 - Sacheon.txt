@@ -1,0 +1,11 @@
+# 5 - Sacheon
+
+# County Title
+title = c_sacheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = sudsee
+religion = protestant

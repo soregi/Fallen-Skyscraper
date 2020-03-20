@@ -1,0 +1,11 @@
+# 371 - Myongchon
+
+# County Title
+title = c_myeongcheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = orthodox

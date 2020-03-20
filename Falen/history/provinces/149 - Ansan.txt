@@ -1,0 +1,11 @@
+# 149 - Ansan
+
+# County Title
+title = c_danwon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

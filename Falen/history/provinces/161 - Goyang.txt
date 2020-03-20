@@ -1,0 +1,11 @@
+# 161 - Goyang
+
+# County Title
+title = c_goyang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

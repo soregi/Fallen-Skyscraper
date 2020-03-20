@@ -1,0 +1,11 @@
+# 45 - Masan
+
+# County Title
+title = c_masan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = koreanist

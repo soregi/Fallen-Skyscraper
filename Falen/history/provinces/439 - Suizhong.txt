@@ -1,0 +1,11 @@
+# 439 - Suizhong
+
+# County Title
+title = c_suizhong
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = maoist

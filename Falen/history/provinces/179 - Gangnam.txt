@@ -1,0 +1,11 @@
+# 179 - Gangnam
+
+# County Title
+title = c_gangnam
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = seoul
+religion = koreanist

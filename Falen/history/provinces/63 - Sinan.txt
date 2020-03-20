@@ -1,0 +1,11 @@
+# 63 - Sinan
+
+# County Title
+title = c_sinan 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = sinan
+religion = protestant

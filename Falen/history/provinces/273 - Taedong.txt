@@ -1,0 +1,11 @@
+# 273 - Taedong
+
+# County Title
+title = c_taedong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = pyongnam
+religion = juche

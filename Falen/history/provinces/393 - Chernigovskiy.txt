@@ -1,0 +1,11 @@
+# 393 - Chernigovskiy
+
+# County Title
+title = c_chernigovsky
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = russian
+religion = marxist

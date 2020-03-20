@@ -1,0 +1,11 @@
+# 77 - Yeosu
+
+# County Title
+title = c_yeosu 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

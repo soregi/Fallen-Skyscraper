@@ -1,0 +1,11 @@
+# 57 - Gwangju
+
+# County Title
+title = c_gwangju 
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = honam
+religion = catholic

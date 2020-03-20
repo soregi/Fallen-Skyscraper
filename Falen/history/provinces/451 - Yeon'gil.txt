@@ -1,0 +1,11 @@
+# 451 - Yeon'gil
+
+# County Title
+title = c_yanji
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = chaoxian
+religion = cheondo

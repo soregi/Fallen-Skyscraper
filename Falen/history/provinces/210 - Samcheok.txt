@@ -1,0 +1,11 @@
+# 210 - Samcheok
+
+# County Title
+title = c_samcheok
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = koreanist

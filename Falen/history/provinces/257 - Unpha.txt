@@ -1,0 +1,11 @@
+# 257 - Unpha
+
+# County Title
+title = c_unpha
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hwanghae
+religion = juche

@@ -1,0 +1,11 @@
+# 206 - Yeongwol
+
+# County Title
+title = c_yeongwol
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongseo
+religion = confucian

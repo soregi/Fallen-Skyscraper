@@ -1,0 +1,11 @@
+# 359 - Jangjin
+
+# County Title
+title = c_jangjin
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = hamnam
+religion = juche

@@ -1,0 +1,11 @@
+# 501 - Qixia
+
+# County Title
+title = c_qixia
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yantai
+religion = taoist

@@ -1,0 +1,11 @@
+# 389 - Fokino
+
+# County Title
+title = c_fokino
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = russian
+religion = orthodox.

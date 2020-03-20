@@ -1,0 +1,11 @@
+# 110 - Seosan
+
+# County Title
+title = c_seosan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = mechanist

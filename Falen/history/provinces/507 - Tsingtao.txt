@@ -1,0 +1,11 @@
+# 507 - Tsingtao
+
+# County Title
+title = c_qingdao
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = tsingtao
+religion = protestant

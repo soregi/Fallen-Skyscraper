@@ -1,0 +1,11 @@
+# 311 - Chonma
+
+# County Title
+title = c_chonma
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = cheondo

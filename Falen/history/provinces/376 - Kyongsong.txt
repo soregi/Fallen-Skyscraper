@@ -1,0 +1,11 @@
+# 376 - Kyongsong
+
+# County Title
+title = c_gyeongseong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = holy_spirit

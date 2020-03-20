@@ -1,0 +1,11 @@
+# 262 - Suan
+
+# County Title
+title = c_suan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = juche

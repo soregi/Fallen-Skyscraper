@@ -1,0 +1,11 @@
+# 131 - Danyang
+
+# County Title
+title = c_danyang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = confucian

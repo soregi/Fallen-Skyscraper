@@ -1,0 +1,11 @@
+# 282 - Anju
+
+# County Title
+title = c_anju
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = pyongnam
+religion = cheondo

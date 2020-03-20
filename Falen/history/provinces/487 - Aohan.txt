@@ -1,0 +1,11 @@
+# 487 - Aohan
+
+# County Title
+title = c_aohan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = mongol
+religion = vajrayana

@@ -1,0 +1,11 @@
+# 467 - Yongju
+
+# County Title
+title = c_yongji
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = jilin
+religion = cheondo

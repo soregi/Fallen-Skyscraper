@@ -1,0 +1,11 @@
+# 363 - Pukchong
+
+# County Title
+title = c_bukcheong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hamnam
+religion = juche

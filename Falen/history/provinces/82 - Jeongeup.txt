@@ -1,0 +1,11 @@
+# 82 - Jeongeup
+
+# County Title
+title = c_jeongeup
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = honam
+religion = protestant

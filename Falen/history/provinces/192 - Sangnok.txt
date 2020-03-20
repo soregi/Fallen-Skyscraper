@@ -1,0 +1,11 @@
+# 192 - Sangnok
+
+# County Title
+title = c_sangnok
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

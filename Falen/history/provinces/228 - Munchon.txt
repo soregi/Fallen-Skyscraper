@@ -1,0 +1,11 @@
+# 228 - Munchon
+
+# County Title
+title = c_munchon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongdong
+religion = orthodox

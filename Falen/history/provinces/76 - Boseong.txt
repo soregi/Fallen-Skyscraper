@@ -1,0 +1,11 @@
+# 76 - Boseong
+
+# County Title
+title = c_boseong 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = mu_pagan

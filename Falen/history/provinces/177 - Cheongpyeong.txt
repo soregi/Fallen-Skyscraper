@@ -1,0 +1,11 @@
+# 177 - Cheongpyeong
+
+# County Title
+title = c_cheongpyeong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = gyeonggi
+religion = catholic

@@ -1,0 +1,11 @@
+# 349 - Sudong'gu
+
+# County Title
+title = c_sudong'gu
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hamnam
+religion = orthodox

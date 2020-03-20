@@ -1,0 +1,11 @@
+# 117 - Daejeon
+
+# County Title
+title = c_daejeon
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = hoseo
+religion = mechanist

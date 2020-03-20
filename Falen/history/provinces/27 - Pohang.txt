@@ -1,0 +1,11 @@
+# 27 - Pohang
+
+# County Title
+title = c_pohang
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = yeongnam
+religion = steel_pagan

@@ -1,0 +1,11 @@
+# 464 - Dongliao
+
+# County Title
+title = c_dongliao
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = mongol
+religion = vajrayana

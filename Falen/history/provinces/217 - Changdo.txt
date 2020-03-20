@@ -1,0 +1,11 @@
+# 217 - Changdo
+
+# County Title
+title = c_changdo
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = yeongdong
+religion = cheondo

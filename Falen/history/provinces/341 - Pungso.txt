@@ -1,0 +1,11 @@
+# 341 - Pungso
+
+# County Title
+title = c_pungso
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

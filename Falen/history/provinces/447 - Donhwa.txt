@@ -1,0 +1,11 @@
+# 447 - Donhwa
+
+# County Title
+title = c_dunhua
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = chaoxian
+religion = cheondo

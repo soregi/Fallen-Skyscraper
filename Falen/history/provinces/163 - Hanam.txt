@@ -1,0 +1,11 @@
+# 163 - Hanam
+
+# County Title
+title = c_hanam
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

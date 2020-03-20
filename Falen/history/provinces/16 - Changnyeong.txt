@@ -1,0 +1,11 @@
+# 16 - Changnyeong
+
+# County Title
+title = c_Changnyeong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = mahayana

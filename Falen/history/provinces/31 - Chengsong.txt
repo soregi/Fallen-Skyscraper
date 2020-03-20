@@ -1,0 +1,11 @@
+# 31 - Chengsong
+
+# County Title
+title = c_cheongsong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongnam
+religion = confucian

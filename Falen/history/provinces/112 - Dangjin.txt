@@ -1,0 +1,11 @@
+# 112 - Dangjin
+
+# County Title
+title = c_dangjin
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = mechanist

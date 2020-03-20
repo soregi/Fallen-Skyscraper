@@ -1,0 +1,11 @@
+# 294 - Kwaksan
+
+# County Title
+title = c_kwaksan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = cheondo

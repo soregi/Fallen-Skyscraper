@@ -1,0 +1,11 @@
+# 172 - Dongducheon
+
+# County Title
+title = c_dongducheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

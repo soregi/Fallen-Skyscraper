@@ -1,0 +1,11 @@
+# 382 - Gyong'won
+
+# County Title
+title = c_gyongwon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = holy_spirit

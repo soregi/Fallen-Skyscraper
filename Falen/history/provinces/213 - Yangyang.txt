@@ -1,0 +1,11 @@
+# 213 - Yangyang
+
+# County Title
+title = c_yangyang
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = mahayana

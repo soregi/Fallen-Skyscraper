@@ -1,0 +1,11 @@
+# 486 - South Khorchin
+
+# County Title
+title = c_s_horchin
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = mongol
+religion = vajrayana

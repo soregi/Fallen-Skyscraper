@@ -1,0 +1,11 @@
+# 378 - Rajin
+
+# County Title
+title = c_Rajin
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = hambuk
+religion = orthodox

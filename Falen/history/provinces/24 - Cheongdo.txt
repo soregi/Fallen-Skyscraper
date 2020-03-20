@@ -1,0 +1,11 @@
+# 24 - Cheongdo
+
+# County Title
+title = c_cheongdo
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = koreanist

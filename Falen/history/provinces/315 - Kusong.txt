@@ -1,0 +1,11 @@
+# 315 - Kusong
+
+# County Title
+title = c_kusong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

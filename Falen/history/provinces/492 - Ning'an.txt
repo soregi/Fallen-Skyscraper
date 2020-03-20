@@ -1,0 +1,11 @@
+# 492 - Ning'an
+
+# County Title
+title = c_ningan
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = russian
+religion = marxist

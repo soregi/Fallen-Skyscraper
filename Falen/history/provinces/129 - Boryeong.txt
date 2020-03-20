@@ -1,0 +1,11 @@
+# 129 - Boryeong
+
+# County Title
+title = c_boryeong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

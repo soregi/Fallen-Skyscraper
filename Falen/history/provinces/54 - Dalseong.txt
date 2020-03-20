@@ -1,0 +1,11 @@
+# 54 - Dalseong
+
+# County Title
+title = c_dalseong
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = mahayana

@@ -1,0 +1,11 @@
+# 137 - Gwangcheon
+
+# County Title
+title = c_gwangcheon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = mechanist

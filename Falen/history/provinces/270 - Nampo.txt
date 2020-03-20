@@ -1,0 +1,11 @@
+# 270 - Nampo
+
+# County Title
+title = c_nampo
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = pyongnam
+religion = cheondo

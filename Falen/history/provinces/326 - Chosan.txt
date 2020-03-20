@@ -1,0 +1,11 @@
+# 326 - Chosan
+
+# County Title
+title = c_chosan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

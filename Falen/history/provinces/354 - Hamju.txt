@@ -1,0 +1,11 @@
+# 354 - Hamju
+
+# County Title
+title = c_hamju
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hamnam
+religion = orthodox

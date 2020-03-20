@@ -1,0 +1,11 @@
+# 229 - Chonnae
+
+# County Title
+title = c_chonnae
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = orthodox

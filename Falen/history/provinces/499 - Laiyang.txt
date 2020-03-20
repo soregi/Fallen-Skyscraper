@@ -1,0 +1,11 @@
+# 499 - Laiyang
+
+# County Title
+title = c_laiyang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yantai
+religion = confucian

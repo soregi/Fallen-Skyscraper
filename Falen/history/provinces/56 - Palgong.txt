@@ -1,0 +1,11 @@
+# 56 - Palgong
+
+# County Title
+title = c_palgong
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = honam
+religion = catholic

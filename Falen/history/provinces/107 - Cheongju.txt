@@ -1,0 +1,11 @@
+# 107 - Cheongju
+
+# County Title
+title = c_cheongju 
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = hoseo
+religion = mechanist

@@ -1,0 +1,11 @@
+# 34 - Yeongju
+
+# County Title
+title = c_yeongju
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = confucian

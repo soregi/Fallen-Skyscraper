@@ -1,0 +1,11 @@
+# 200 - Namchuncheon
+
+# County Title
+title = c_namchuncheon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongseo
+religion = koreanist

@@ -1,0 +1,11 @@
+# 324 - Kopung
+
+# County Title
+title = c_kopung
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

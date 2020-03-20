@@ -1,0 +1,11 @@
+# 442 - Chaoyang
+
+# County Title
+title = c_chaoyang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = liaoning
+religion = maoist

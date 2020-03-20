@@ -1,0 +1,11 @@
+# 473 - Nong'an
+
+# County Title
+title = c_nongan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = cheondo

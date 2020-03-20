@@ -1,0 +1,11 @@
+# 347 - Sanmjiyon
+
+# County Title
+title = c_samjiyeon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jagang
+religion = ¿ŒπŒ±≥»∏

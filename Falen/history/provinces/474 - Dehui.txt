@@ -1,0 +1,11 @@
+# 474 - Dehui
+
+# County Title
+title = c_dehui
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = cheondo

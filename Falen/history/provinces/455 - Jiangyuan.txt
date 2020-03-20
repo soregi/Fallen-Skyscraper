@@ -1,0 +1,11 @@
+# 455 - Jiangyuan
+
+# County Title
+title = c_jiangyuan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = tengri_pagan

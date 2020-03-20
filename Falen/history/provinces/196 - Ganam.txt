@@ -1,0 +1,11 @@
+# 196 - Ganam
+
+# County Title
+title = c_munsan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

@@ -1,0 +1,11 @@
+# 119 - Chungju
+
+# County Title
+title = c_chungju
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = hoseo
+religion = koreanist

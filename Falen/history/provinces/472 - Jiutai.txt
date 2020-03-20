@@ -1,0 +1,11 @@
+# 472 - Jiutai
+
+# County Title
+title = c_jiutai
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = jilin
+religion = cheondo

@@ -1,0 +1,11 @@
+# 427 - Sujiatu
+
+# County Title
+title = c_sujiatu
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yalu
+religion = tengri_pagan

@@ -1,0 +1,11 @@
+# 201 - Yangjgu
+
+# County Title
+title = c_yanggu
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = yeongseo
+religion = hoguk

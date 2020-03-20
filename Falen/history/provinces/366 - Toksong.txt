@@ -1,0 +1,11 @@
+# 366 - Toksong
+
+# County Title
+title = c_deokseong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = juche

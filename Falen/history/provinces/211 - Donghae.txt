@@ -1,0 +1,11 @@
+# 211 - Donghae
+
+# County Title
+title = c_donghae
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = koreanist

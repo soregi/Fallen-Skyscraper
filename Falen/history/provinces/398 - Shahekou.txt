@@ -1,0 +1,11 @@
+# 398 - Shahekou
+
+# County Title
+title = c_shahekou
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = cheondo

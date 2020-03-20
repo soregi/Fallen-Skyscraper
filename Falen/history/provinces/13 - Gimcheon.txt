@@ -1,0 +1,11 @@
+# 13 - Gimcheon
+
+# County Title
+title = c_gimcheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = mu_pagan

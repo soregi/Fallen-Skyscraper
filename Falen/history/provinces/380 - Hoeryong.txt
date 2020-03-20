@@ -1,0 +1,11 @@
+# 380 - Hoeryong
+
+# County Title
+title = c_hoeryong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hambuk
+religion = holy_spirit

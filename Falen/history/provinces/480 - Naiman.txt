@@ -1,0 +1,11 @@
+# 480 - Naiman
+
+# County Title
+title = c_naiman
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = mongol
+religion = vajrayana

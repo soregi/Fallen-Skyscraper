@@ -1,0 +1,11 @@
+# 454 - Hunjiang
+
+# County Title
+title = c_hunjiang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = jilin
+religion = red_solar

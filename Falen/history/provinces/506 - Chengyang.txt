@@ -1,0 +1,11 @@
+# 506 - Chengyang
+
+# County Title
+title = c_chengyang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = tsingtao
+religion = protestant

@@ -1,0 +1,11 @@
+# 339 - Samsu
+
+# County Title
+title = c_samsu
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

@@ -1,0 +1,11 @@
+# 1 - Geochang
+
+# County Title
+title = c_geochang
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = mahayana

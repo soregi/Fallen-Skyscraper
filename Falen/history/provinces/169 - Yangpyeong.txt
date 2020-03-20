@@ -1,0 +1,11 @@
+# 169 - Yangpyeong
+
+# County Title
+title = c_yangpyeong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

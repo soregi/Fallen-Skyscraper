@@ -1,0 +1,11 @@
+# 302 - Pihyon
+
+# County Title
+title = c_pihyon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

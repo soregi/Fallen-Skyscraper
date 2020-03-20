@@ -1,0 +1,11 @@
+# 239 - Pyoksong
+
+# County Title
+title = c_pyoksong
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hwanghae
+religion = cheondo

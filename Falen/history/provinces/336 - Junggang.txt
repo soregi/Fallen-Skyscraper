@@ -1,0 +1,11 @@
+# 336 - Junggang
+
+# County Title
+title = c_junggang
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = cheondo

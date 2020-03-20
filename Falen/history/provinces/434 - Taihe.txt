@@ -1,0 +1,11 @@
+# 434 - Taihe
+
+# County Title
+title = c_taihe
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = liaoning
+religion = maoist

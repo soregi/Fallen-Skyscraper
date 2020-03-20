@@ -1,0 +1,11 @@
+# 171 - Pocheon
+
+# County Title
+title = c_pocheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

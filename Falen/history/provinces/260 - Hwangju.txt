@@ -1,0 +1,11 @@
+# 260 - Hwangju
+
+# County Title
+title = c_hwangju
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = hwanghae
+religion = juche

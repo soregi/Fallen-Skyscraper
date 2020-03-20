@@ -1,0 +1,11 @@
+# 121 - Goesan
+
+# County Title
+title = c_goesan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = mahayana

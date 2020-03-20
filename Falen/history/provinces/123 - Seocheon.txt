@@ -1,0 +1,11 @@
+# 123 - Seocheon
+
+# County Title
+title = c_seocheon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

@@ -1,0 +1,11 @@
+# 333 - Rangrim
+
+# County Title
+title = c_rangrim
+
+# Settlements
+max_settlements = 1
+
+# Misc
+culture = jagang
+religion = juche

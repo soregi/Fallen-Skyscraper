@@ -1,0 +1,11 @@
+# 481 - Hure
+
+# County Title
+title = c_hure
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = mongol
+religion = vajrayana

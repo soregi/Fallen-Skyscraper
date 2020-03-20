@@ -1,0 +1,11 @@
+# 111 - Taean
+
+# County Title
+title = c_taean
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = mechanist

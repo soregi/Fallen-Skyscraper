@@ -1,0 +1,11 @@
+# 358 - Pujon
+
+# County Title
+title = c_bujeon
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = hamnam
+religion = juche

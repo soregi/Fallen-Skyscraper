@@ -1,0 +1,11 @@
+# 373 - Myong'gan
+
+# County Title
+title = c_myeong'gan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = holy_spirit

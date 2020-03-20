@@ -1,0 +1,11 @@
+# 156 - Bucheon
+
+# County Title
+title = c_bucheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

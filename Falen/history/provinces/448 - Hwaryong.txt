@@ -1,0 +1,11 @@
+# 448 - Hwaryong
+
+# County Title
+title = c_helong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = chaoxian
+religion = cheondo

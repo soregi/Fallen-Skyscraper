@@ -1,0 +1,11 @@
+# 41 - Hapcheon
+
+# County Title
+title = c_hapcheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = mahayana

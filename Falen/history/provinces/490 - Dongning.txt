@@ -1,0 +1,11 @@
+# 490 - Dongning
+
+# County Title
+title = c_dongning
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = russian
+religion = marxist

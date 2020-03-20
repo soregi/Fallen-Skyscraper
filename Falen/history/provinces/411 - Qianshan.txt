@@ -1,0 +1,11 @@
+# 411 - Qianshan
+
+# County Title
+title = c_qianshan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yalu
+religion = tengri_pagan

@@ -1,0 +1,11 @@
+# 332 - Manpho
+
+# County Title
+title = c_manpho
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = cheondo

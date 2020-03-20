@@ -1,0 +1,11 @@
+# 253 - Sin'gye
+
+# County Title
+title = c_singye
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hwanghae
+religion = juche

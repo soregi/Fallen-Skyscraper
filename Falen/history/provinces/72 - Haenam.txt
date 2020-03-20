@@ -1,0 +1,11 @@
+# 72 - Haenam
+
+# County Title
+title = c_haenam 
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = honam
+religion = protestant

@@ -1,0 +1,11 @@
+# 104 - sinan
+
+# County Title
+title = c_jido
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = sinan
+religion = protestant

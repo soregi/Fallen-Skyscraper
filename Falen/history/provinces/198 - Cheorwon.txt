@@ -1,0 +1,11 @@
+# 198 - Cheorwon
+
+# County Title
+title = c_cheorwon
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = yengdong
+religion = hoguk

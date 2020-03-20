@@ -1,0 +1,11 @@
+# 377 - Chongjin
+
+# County Title
+title = c_cheongjin
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = orthodox

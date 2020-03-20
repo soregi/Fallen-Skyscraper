@@ -1,0 +1,11 @@
+# 441 - Beipiao
+
+# County Title
+title = c_beipiao
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = liaoning
+religion = maoist

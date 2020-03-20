@@ -1,0 +1,11 @@
+# 173 - Yeoncheon
+
+# County Title
+title = c_yeoncheon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = catholic

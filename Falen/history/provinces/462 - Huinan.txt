@@ -1,0 +1,11 @@
+# 462 - Huinan
+
+# County Title
+title = c_huinan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = tengri_pagan

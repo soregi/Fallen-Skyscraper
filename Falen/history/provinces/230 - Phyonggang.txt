@@ -1,0 +1,11 @@
+# 230 - Phyonggang
+
+# County Title
+title = c_phyonggang
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = gaian

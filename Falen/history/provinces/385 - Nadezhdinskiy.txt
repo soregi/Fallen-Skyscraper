@@ -1,0 +1,11 @@
+# 385 - Nadezhdinskiy
+
+# County Title
+title = c_nadezhdinsky
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = russian
+religion = orthodox

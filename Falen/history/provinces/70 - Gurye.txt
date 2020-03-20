@@ -1,0 +1,11 @@
+# 70 - Gurye
+
+# County Title
+title = c_gurye 
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = honam
+religion = mu_pagan

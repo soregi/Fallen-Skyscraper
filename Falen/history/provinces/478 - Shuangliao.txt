@@ -1,0 +1,11 @@
+# 478 - Shuangliao
+
+# County Title
+title = c_shuangliao
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = mongol
+religion = vajrayana

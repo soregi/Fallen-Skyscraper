@@ -1,0 +1,11 @@
+# 236 - Pongchon
+
+# County Title
+title = c_pongchon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hwanghae
+religion = cheondo

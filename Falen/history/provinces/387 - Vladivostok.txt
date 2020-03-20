@@ -1,0 +1,11 @@
+# 387 - Vladivostok
+
+# County Title
+title = c_vladivostok
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = russian
+religion = orthodox

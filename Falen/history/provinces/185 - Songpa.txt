@@ -1,0 +1,11 @@
+# 185 - Songpa
+
+# County Title
+title = c_songpa
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = seoul
+religion = koreanist

@@ -1,0 +1,11 @@
+# 269 - Thosan
+
+# County Title
+title = c_thosan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = gaian

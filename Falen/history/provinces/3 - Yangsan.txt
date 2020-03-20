@@ -1,0 +1,11 @@
+# 3 - Yangsan
+
+# County Title
+title = c_yangsan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = mahayana

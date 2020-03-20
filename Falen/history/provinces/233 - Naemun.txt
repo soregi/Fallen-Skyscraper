@@ -1,0 +1,11 @@
+# 233 - Naemun
+
+# County Title
+title = c_naemun
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongdong
+religion = gaian

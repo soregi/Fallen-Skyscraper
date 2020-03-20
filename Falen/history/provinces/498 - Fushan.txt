@@ -1,0 +1,11 @@
+# 498 - Fushan
+
+# County Title
+title = c_fushan
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yantai
+religion = taoist

@@ -1,0 +1,11 @@
+# 479 - Changling
+
+# County Title
+title = c_changling
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = mongol
+religion = vajrayana

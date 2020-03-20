@@ -1,0 +1,11 @@
+# 488 - Ongnyud
+
+# County Title
+title = c_ongnyud
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = mongol
+religion = vajrayana

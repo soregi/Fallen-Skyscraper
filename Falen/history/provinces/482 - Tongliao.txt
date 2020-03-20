@@ -1,0 +1,11 @@
+# 482 - Tongliao
+
+# County Title
+title = c_tongliao
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = mongol
+religion = vajrayana

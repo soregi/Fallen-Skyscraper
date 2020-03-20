@@ -1,0 +1,11 @@
+# 224 - Ichon
+
+# County Title
+title = c_ichon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongdong
+religion = marxist

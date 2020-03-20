@@ -1,0 +1,11 @@
+# 145 - Gwaseong
+
+# County Title
+title = c_gwaseong
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = gyeonggi
+religion = koreanist

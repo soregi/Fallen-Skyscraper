@@ -1,0 +1,11 @@
+# 43 - Sangju
+
+# County Title
+title = c_sangju
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongnam
+religion = mu_pagan

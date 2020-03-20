@@ -1,0 +1,11 @@
+# 136 - Yugu
+
+# County Title
+title = c_yugu
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

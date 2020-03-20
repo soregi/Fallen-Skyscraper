@@ -1,0 +1,11 @@
+# 317 - Sang'won
+
+# County Title
+title = c_sangwon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

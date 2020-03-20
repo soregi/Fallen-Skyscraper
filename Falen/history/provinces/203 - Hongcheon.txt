@@ -1,0 +1,11 @@
+# 203 - Hongcheon
+
+# County Title
+title = c_hongcheon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongseo
+religion = familiar

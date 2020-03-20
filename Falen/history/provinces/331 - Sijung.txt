@@ -1,0 +1,11 @@
+# 331 - Sijung
+
+# County Title
+title = c_sijung
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

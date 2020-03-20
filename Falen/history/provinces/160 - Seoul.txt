@@ -1,0 +1,11 @@
+# 160 - Seoul
+
+# County Title
+title = c_seoul
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = seoul
+religion = koreanist

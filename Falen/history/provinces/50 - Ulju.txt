@@ -1,0 +1,11 @@
+# 50 - Ulju
+
+# County Title
+title = c_ulju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam.
+religion = steel_pagan

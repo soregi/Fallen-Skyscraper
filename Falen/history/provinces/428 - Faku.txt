@@ -1,0 +1,11 @@
+# 428 - Faku
+
+# County Title
+title = c_faku
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yalu
+religion = tengri_pagan

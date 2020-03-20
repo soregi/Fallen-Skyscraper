@@ -1,0 +1,11 @@
+# 140 - Jochiwon
+
+# County Title
+title = c_Jochiwon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = mechanist

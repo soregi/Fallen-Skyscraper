@@ -1,0 +1,11 @@
+# 94 - Gwangsan
+
+# County Title
+title = c_gwangsan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = catholic

@@ -1,0 +1,11 @@
+# 284 - Unsan
+
+# County Title
+title = c_eunsan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = cheondo

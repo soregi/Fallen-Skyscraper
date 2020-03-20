@@ -1,0 +1,11 @@
+# 35 - Andong
+
+# County Title
+title = c_andong
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = yeongnam
+religion = confucian

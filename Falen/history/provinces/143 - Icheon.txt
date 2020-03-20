@@ -1,0 +1,11 @@
+# 143 - Icheon
+
+# County Title
+title = c_icheon
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

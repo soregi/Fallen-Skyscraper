@@ -1,0 +1,11 @@
+# 394 - Pogranichnyy
+
+# County Title
+title = c_pogranichny
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = russian
+religion = marxist

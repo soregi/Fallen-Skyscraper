@@ -1,0 +1,11 @@
+# 320 - Tongsin
+
+# County Title
+title = c_tongsin
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

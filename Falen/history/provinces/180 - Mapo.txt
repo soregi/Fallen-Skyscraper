@@ -1,0 +1,11 @@
+# 180 - Mapo
+
+# County Title
+title = c_mapo
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = seoul
+religion = koreanist

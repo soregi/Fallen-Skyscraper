@@ -1,0 +1,11 @@
+# 465 - Panshi
+
+# County Title
+title = c_panshi
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jilin
+religion = cheondo

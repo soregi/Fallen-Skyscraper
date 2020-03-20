@@ -1,0 +1,11 @@
+# 271 - Pyongyang
+
+# County Title
+title = c_pyongyang
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = pyongnam
+religion = cheondo

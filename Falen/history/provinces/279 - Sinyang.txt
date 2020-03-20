@@ -1,0 +1,11 @@
+# 279 - Sinyang
+
+# County Title
+title = c_sinyang
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = pyongnam
+religion = cheondo

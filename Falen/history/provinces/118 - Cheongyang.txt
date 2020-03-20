@@ -1,0 +1,11 @@
+# 118 - Cheongyang
+
+# County Title
+title = c_cheongyang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

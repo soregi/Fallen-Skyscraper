@@ -1,0 +1,11 @@
+# 207 - Pyeongchang
+
+# County Title
+title = c_pyeongchang
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = yeongseo
+religion = mu_pagan

@@ -1,0 +1,11 @@
+# 6 - Namhae
+
+# County Title
+title = c_namhae
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = sudsee
+religion = protestant

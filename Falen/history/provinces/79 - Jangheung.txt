@@ -1,0 +1,11 @@
+# 79 - Jangheung
+
+# County Title
+title = c_jangheung 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

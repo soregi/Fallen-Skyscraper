@@ -1,0 +1,11 @@
+# 491 - Muling
+
+# County Title
+title = c_muling
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = russian
+religion = marxist

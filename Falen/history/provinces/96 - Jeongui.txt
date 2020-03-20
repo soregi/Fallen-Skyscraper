@@ -1,0 +1,11 @@
+# 96 - Jeongui
+
+# County Title
+title = c_jeongui 
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jeju
+religion = jeju_pagan

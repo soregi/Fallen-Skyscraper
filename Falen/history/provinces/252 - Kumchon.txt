@@ -1,0 +1,11 @@
+# 252 - Kumchon
+
+# County Title
+title = c_kumchon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hwanghae
+religion = juche

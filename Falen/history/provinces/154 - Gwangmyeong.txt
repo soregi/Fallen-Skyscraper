@@ -1,0 +1,11 @@
+# 154 - Gwangmyeong
+
+# County Title
+title = c_gwangmyeong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

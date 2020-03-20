@@ -1,0 +1,11 @@
+# 98 - Impi
+
+# County Title
+title = c_impi
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = honam
+religion = protestant

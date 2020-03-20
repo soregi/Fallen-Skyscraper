@@ -1,0 +1,11 @@
+# 162 - Gwangju
+
+# County Title
+title = c_gwangju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = catholic

@@ -1,0 +1,11 @@
+# 494 - Huancui
+
+# County Title
+title = c_huancui
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = weihai
+religion = nightglow

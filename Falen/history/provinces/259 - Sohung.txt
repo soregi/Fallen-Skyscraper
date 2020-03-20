@@ -1,0 +1,11 @@
+# 259 - Sohung
+
+# County Title
+title = c_sohung
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = juche

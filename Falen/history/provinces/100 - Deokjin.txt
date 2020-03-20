@@ -1,0 +1,11 @@
+# 100 - Deokjin
+
+# County Title
+title = c_deokjin
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = honam
+religion = protestant

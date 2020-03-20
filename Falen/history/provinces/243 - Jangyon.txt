@@ -1,0 +1,11 @@
+# 243 - Jangyon
+
+# County Title
+title = c_jangyon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = cheondo

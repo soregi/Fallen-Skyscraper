@@ -1,0 +1,11 @@
+# 470 - Shuang'yang
+
+# County Title
+title = c_shuangyang
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jilin
+religion = cheondo

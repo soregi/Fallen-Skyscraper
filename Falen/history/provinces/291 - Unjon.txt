@@ -1,0 +1,11 @@
+# 291 - Unjon
+
+# County Title
+title = c_unjeon
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

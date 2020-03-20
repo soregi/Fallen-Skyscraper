@@ -1,0 +1,11 @@
+# 87 - Imsil
+
+# County Title
+title = c_imsil 
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = honam
+religion = protestant

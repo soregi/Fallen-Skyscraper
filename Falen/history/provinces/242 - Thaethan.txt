@@ -1,0 +1,11 @@
+# 242 - Thaethan
+
+# County Title
+title = c_thaethan
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = cheondo

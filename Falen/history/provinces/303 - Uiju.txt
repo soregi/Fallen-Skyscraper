@@ -1,0 +1,11 @@
+# 303 - Uiju
+
+# County Title
+title = c_uiju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = pyongbuk
+religion = cheondo

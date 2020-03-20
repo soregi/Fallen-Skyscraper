@@ -1,0 +1,11 @@
+# 58 - Naju
+
+# County Title
+title = c_naju 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

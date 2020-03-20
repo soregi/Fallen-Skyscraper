@@ -1,0 +1,11 @@
+# 204 - Dongwonju
+
+# County Title
+title = c_dongwonju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongseo
+religion = confucian

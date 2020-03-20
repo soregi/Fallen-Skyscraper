@@ -1,0 +1,11 @@
+# 446 - Domun
+
+# County Title
+title = c_tumen
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = chaoxian
+religion = cheondo

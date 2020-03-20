@@ -1,0 +1,11 @@
+# 190 - Gyeyang
+
+# County Title
+title = c_Gyeyang
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = gyeonggi
+religion = koreanist

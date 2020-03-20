@@ -1,0 +1,11 @@
+# 183 - Seodaemun
+
+# County Title
+title = c_seodaemun
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = seoul
+religion = koreanist

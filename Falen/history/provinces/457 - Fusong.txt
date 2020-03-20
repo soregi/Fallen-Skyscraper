@@ -1,0 +1,11 @@
+# 457 - Fusong
+
+# County Title
+title = c_fusong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = jilin
+religion = red_solar

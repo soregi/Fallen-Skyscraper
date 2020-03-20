@@ -1,0 +1,11 @@
+# 337 - Huchang
+
+# County Title
+title = c_huchang
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = juche

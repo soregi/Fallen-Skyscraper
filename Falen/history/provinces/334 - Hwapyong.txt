@@ -1,0 +1,11 @@
+# 334 - Hwapyong
+
+# County Title
+title = c_hwapyeong
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = juche

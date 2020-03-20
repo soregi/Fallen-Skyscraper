@@ -1,0 +1,11 @@
+# 127 - Gyeryong
+
+# County Title
+title = c_gyeryoung
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hoseo
+religion = mu_pagan

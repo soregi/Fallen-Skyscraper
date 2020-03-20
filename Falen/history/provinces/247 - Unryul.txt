@@ -1,0 +1,11 @@
+# 247 - Unryul
+
+# County Title
+title = c_unryul
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hwanghae
+religion = juche

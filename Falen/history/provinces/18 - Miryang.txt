@@ -1,0 +1,11 @@
+# 18 - Miryang
+
+# County Title
+title = c_miryang
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongnam
+religion = mahayana

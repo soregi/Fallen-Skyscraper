@@ -1,0 +1,11 @@
+# 327 - Wiwon
+
+# County Title
+title = c_wiwon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = jagang
+religion = juche

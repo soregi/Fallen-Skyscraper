@@ -1,0 +1,11 @@
+# 90 - Jeonju
+
+# County Title
+title = c_jeonju 
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = honam
+religion = protestant

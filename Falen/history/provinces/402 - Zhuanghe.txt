@@ -1,0 +1,11 @@
+# 402 - Zhuanghe
+
+# County Title
+title = c_zhuanghe
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yalu
+religion = tengri_pagan

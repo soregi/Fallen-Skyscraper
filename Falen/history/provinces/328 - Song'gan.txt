@@ -1,0 +1,11 @@
+# 328 - Song'gan
+
+# County Title
+title = c_songgan
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = cheondo

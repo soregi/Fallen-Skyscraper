@@ -1,0 +1,11 @@
+# 144 - Yeoju
+
+# County Title
+title = c_yeoju
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = gyeonggi
+religion = koreanist

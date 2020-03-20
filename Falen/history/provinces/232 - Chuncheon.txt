@@ -1,0 +1,11 @@
+# 232 - Chuncheon
+
+# County Title
+title = c_chuncheon
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = yeongdong
+religion = hoguk

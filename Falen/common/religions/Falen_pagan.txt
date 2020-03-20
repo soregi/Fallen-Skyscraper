@@ -1,0 +1,616 @@
+pagan_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = norsegfx
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 0	# never try to convert
+	ai_fabricate_claims = no
+	
+	color = { 0.6 0.0 0.0 }
+	
+	interface_skin = { pagan_interface }
+	
+	# Names given only to Pagan characters (base names)
+	male_names = {
+		Anund Asbj?n Aslak Audun Bagge Balder Brage Egil Emund Frej Gnupa Gorm Gudmund Gudr? Hardeknud Helge Odd Orm 
+		Orvar Ottar Rikulfr Rurik Sigbj?n Styrbj?n Starkad Styrkar S?und S?ve S?kver Thorolf Tjudmund Toke Tolir 
+		Torbj?n Torbrand Torfinn Torgeir Toste Tyke
+	}
+	female_names = {
+		Aslaug Bothild Bj?g Freja Grima Gytha Kr?a Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde
+	}
+
+	pagan = { # Use for misc other pagans
+		graphical_culture = pagangfx
+		alternate_start = { always = no }
+
+		icon = 5
+		
+		color = { 0.6 0.0 0.0 }
+		
+		high_god_name = GOD_THE_CREATOR
+		
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			THE_DARK_SPIRITS
+		}
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = PRIEST
+		priests_can_marry = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		
+		defensive_attrition = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		allow_in_ruler_designer = no
+		
+		dislike_tribal_organization = yes
+		
+		dynamic_cult = no
+		secret_religion = no
+	}
+	mu_pagan_reformed = {
+		graphical_culture = chinesegfx
+		secondary_event_pictures = finnish_pagan
+		alternate_start = { always = no }
+		
+		icon = 72
+		heresy_icon = 73
+		
+		ai_convert_other_group = 2 # always try to convert
+		ai_convert_same_group = 2 # always try to convert
+
+		color = { 0.2 0.6 0.03 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_THE_DAGDA
+		
+		god_names = {
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		#unit_modifier = {
+		#	levy_size = 0.3
+		#	
+		#	retinuesize_perc = 0.5
+		#	
+		#	key = "OFF_RELIGION"
+		#}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		can_call_crusade = yes
+		priests_can_marry = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		feminist = yes
+		allow_in_ruler_designer = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mu_pagan
+	}
+
+	mu_pagan = {
+		graphical_culture = chinesegfx
+
+		icon = 20
+		heresy_icon = 73
+		
+		color = { 0.14 0.36 0.16 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_THE_DAGDA
+		
+		god_names = { 
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		unit_modifier = {	
+			levy_size = 0.15
+			
+			retinuesize_perc = 0.3	
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.6
+			light_infantry_defensive = 0.6
+			heavy_infantry_defensive = 0.6
+			pikemen_defensive = 0.6
+			light_cavalry_defensive = 0.6
+			knights_defensive = 0.6
+			archers_defensive = 0.6
+			horse_archers_defensive = 0.6
+			camel_cavalry_defensive = 0.6
+			war_elephants_defensive = 0.6
+			
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION_HOME_TERRITORY"
+		}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		seafarer = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		feminist = yes
+		raised_vassal_opinion_loss = no
+		allow_in_ruler_designer = yes
+		reformed = mu_pagan_reformed
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mu_pagan_reformed
+	}
+	gaian_reformed = {
+		graphical_culture = chinesegfx
+		secondary_event_pictures = finnish_pagan
+		alternate_start = { always = no }
+		
+		icon = 72
+		heresy_icon = 73
+		
+		ai_convert_other_group = 2 # always try to convert
+		ai_convert_same_group = 2 # always try to convert
+
+		color = { 0.2 0.6 0.03 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_THE_DAGDA
+		
+		god_names = {
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		#unit_modifier = {
+		#	levy_size = 0.3
+		#	
+		#	retinuesize_perc = 0.5
+		#	
+		#	key = "OFF_RELIGION"
+		#}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		can_call_crusade = yes
+		priests_can_marry = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		feminist = yes
+		allow_in_ruler_designer = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mu_pagan
+	}
+
+	gaian = {
+		graphical_culture = chinesegfx
+
+		icon = 20
+		heresy_icon = 73
+		
+		color = { 0.14 0.36 0.16 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_MOTHER_EARTH
+		
+		god_names = { 
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		unit_modifier = {	
+			levy_size = 0.15
+			
+			retinuesize_perc = 0.3	
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.6
+			light_infantry_defensive = 0.6
+			heavy_infantry_defensive = 0.6
+			pikemen_defensive = 0.6
+			light_cavalry_defensive = 0.6
+			knights_defensive = 0.6
+			archers_defensive = 0.6
+			horse_archers_defensive = 0.6
+			camel_cavalry_defensive = 0.6
+			war_elephants_defensive = 0.6
+			
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION_HOME_TERRITORY"
+		}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		seafarer = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		feminist = yes
+		raised_vassal_opinion_loss = no
+		allow_in_ruler_designer = yes
+		reformed = gaian_reformed
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mu_pagan_reformed
+	}
+	steel_pagan_reformed = {
+		graphical_culture = chinesegfx
+		secondary_event_pictures = finnish_pagan
+		alternate_start = { always = no }
+		
+		icon = 72
+		heresy_icon = 73
+		
+		ai_convert_other_group = 2 # always try to convert
+		ai_convert_same_group = 2 # always try to convert
+
+		color = { 0.2 0.6 0.03 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_THE_DAGDA
+		
+		god_names = {
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		#unit_modifier = {
+		#	levy_size = 0.3
+		#	
+		#	retinuesize_perc = 0.5
+		#	
+		#	key = "OFF_RELIGION"
+		#}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		can_call_crusade = yes
+		priests_can_marry = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		allow_in_ruler_designer = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = steel_pagan
+	}
+
+	steel_pagan = {
+		graphical_culture = chinesegfx
+
+		icon = 20
+		heresy_icon = 73
+		
+		color = { 0.14 0.36 0.16 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_THE_DAGDA
+		
+		god_names = { 
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		unit_modifier = {	
+			levy_size = 0.15
+			
+			retinuesize_perc = 0.3	
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.6
+			light_infantry_defensive = 0.6
+			heavy_infantry_defensive = 0.6
+			pikemen_defensive = 0.6
+			light_cavalry_defensive = 0.6
+			knights_defensive = 0.6
+			archers_defensive = 0.6
+			horse_archers_defensive = 0.6
+			camel_cavalry_defensive = 0.6
+			war_elephants_defensive = 0.6
+			
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION_HOME_TERRITORY"
+		}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		seafarer = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		raised_vassal_opinion_loss = no
+		allow_in_ruler_designer = yes
+		reformed = steel_pagan_reformed
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mu_pagan_reformed
+	}
+	atomicist_reformed = { #
+		graphical_culture = hellenicgfx
+
+		icon = 6
+		heresy_icon = 7
+		
+		color = { 0.75 1.0 0.2 }
+		
+		#interface_skin = { atomicist_interface }
+
+		high_god_name = GOD_ATOMOS
+
+		god_names = {
+			GOD_FAT_MAN GOD_LITTLE_BOY GOD_TSAR_BOMBA GOD_ATOMOS GOD_THE_ELEMENTS
+		}
+		evil_god_names = {
+			THE_DEMON_CORE THE_VOID
+		}
+		crusade_name = FIRST_STRIKE
+		can_call_crusade = yes #overlooked this somehow
+		scripture_name = THE_LECTURES
+		priest_title = PRIEST
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_rivermovement = yes
+		
+		can_grant_claim = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		
+		#defensive_attrition = yes
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 14
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+		
+		intermarry = consumerist
+		intermarry = monetarist
+		intermarry = aphite
+		intermarry = rust_cultist
+		intermarry = chrome_cultist
+	}
+	atomicist = { #
+		graphical_culture = hellenicgfx
+
+		icon = 6
+		heresy_icon = 7
+		
+		color = { 0.75 1.0 0.2 }
+		
+		#interface_skin = { atomicist_interface }
+
+		high_god_name = GOD_ATOMOS
+
+		god_names = {
+			GOD_FAT_MAN GOD_LITTLE_BOY GOD_TSAR_BOMBA GOD_ATOMOS GOD_THE_ELEMENTS
+		}
+		evil_god_names = {
+			THE_DEMON_CORE THE_VOID
+		}
+		crusade_name = FIRST_STRIKE
+		can_call_crusade = yes #overlooked this somehow
+		scripture_name = THE_LECTURES
+		priest_title = PRIEST
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_rivermovement = yes
+		
+		can_grant_claim = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		reformed = atomicist_reformed
+		#defensive_attrition = yes
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 14
+		
+		intermarry = americanist
+		intermarry = hamiltonian
+		intermarry = jeffersonian
+		intermarry = libertarian
+		
+		intermarry = consumerist
+		intermarry = monetarist
+		intermarry = aphite
+		intermarry = rust_cultist
+		intermarry = chrome_cultist
+	}
+	jeju_pagan_reformed = {
+		graphical_culture = chinesegfx
+		secondary_event_pictures = finnish_pagan
+		alternate_start = { always = no }
+		
+		icon = 72
+		heresy_icon = 73
+		
+		ai_convert_other_group = 2 # always try to convert
+		ai_convert_same_group = 2 # always try to convert
+
+		color = { 0.2 0.6 0.03 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_THE_DAGDA
+		
+		god_names = {
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		#unit_modifier = {
+		#	levy_size = 0.3
+		#	
+		#	retinuesize_perc = 0.5
+		#	
+		#	key = "OFF_RELIGION"
+		#}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		can_call_crusade = yes
+		priests_can_marry = yes
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		allow_in_ruler_designer = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = steel_pagan
+	}
+
+	jeju_pagan = {
+		graphical_culture = chinesegfx
+
+		icon = 20
+		heresy_icon = 73
+		
+		color = { 0.14 0.36 0.16 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_THE_DAGDA
+		
+		god_names = { 
+			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
+			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		}
+		evil_god_names = {
+			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+		}
+		
+		unit_modifier = {	
+			levy_size = 0.15
+			
+			retinuesize_perc = 0.3	
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.6
+			light_infantry_defensive = 0.6
+			heavy_infantry_defensive = 0.6
+			pikemen_defensive = 0.6
+			light_cavalry_defensive = 0.6
+			knights_defensive = 0.6
+			archers_defensive = 0.6
+			horse_archers_defensive = 0.6
+			camel_cavalry_defensive = 0.6
+			war_elephants_defensive = 0.6
+			
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION_HOME_TERRITORY"
+		}
+		
+		piety_name = AWEN
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAGAS
+		priest_title = DRUID
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		seafarer = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		raised_vassal_opinion_loss = no
+		allow_in_ruler_designer = yes
+		reformed = steel_pagan_reformed
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mu_pagan_reformed
+	}
+}

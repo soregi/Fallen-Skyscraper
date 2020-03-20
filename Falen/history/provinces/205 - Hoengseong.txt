@@ -1,0 +1,11 @@
+# 205 - Hoengseong
+
+# County Title
+title = c_hoengseong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongseo
+religion = mu_pagan

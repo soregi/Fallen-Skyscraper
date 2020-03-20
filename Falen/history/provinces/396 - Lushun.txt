@@ -1,0 +1,11 @@
+# 396 - Lushun
+
+# County Title
+title = c_lushun
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = liaoning
+religion = taoist

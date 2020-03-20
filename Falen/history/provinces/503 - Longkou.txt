@@ -1,0 +1,11 @@
+# 503 - Longkou
+
+# County Title
+title = c_longkou
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yantai
+religion = taoist

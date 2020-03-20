@@ -1,0 +1,11 @@
+# 92 - Muju
+
+# County Title
+title = c_muju 
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = honam
+religion = catholic

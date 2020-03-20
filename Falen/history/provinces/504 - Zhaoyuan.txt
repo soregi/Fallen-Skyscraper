@@ -1,0 +1,11 @@
+# 504 - Zhaoyuan
+
+# County Title
+title = c_zhaoyuan
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yantai
+religion = taoist

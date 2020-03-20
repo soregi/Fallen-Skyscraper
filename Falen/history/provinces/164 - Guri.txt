@@ -1,0 +1,11 @@
+# 164 - Guri
+
+# County Title
+title = c_guri
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = gyeonggi
+religion = koreanist

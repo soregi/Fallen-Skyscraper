@@ -1,0 +1,11 @@
+# 238 - Sinwon
+
+# County Title
+title = c_sinwon
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = hwanghae
+religion = cheondo

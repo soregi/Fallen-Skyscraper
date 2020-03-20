@@ -1,0 +1,11 @@
+# 102 - Taein
+
+# County Title
+title = c_taein
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hoseo
+religion = protestant

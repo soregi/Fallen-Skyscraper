@@ -1,0 +1,11 @@
+# 508 - Jiaozhou
+
+# County Title
+title = c_jiaozhou
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = qingdao
+religion = taoist

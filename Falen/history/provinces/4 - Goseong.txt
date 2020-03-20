@@ -1,0 +1,11 @@
+# 4 - Goseong
+
+# County Title
+title = c_goseong
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yeongnam
+religion = mahayana

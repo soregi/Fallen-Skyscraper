@@ -1,0 +1,11 @@
+# 187 - Ongjin
+
+# County Title
+title = c_ongjin 
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = gyeonggi
+religion = koreanist

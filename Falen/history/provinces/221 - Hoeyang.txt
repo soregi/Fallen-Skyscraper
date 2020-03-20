@@ -1,0 +1,11 @@
+# 221 - Hoeyang
+
+# County Title
+title = c_hoeyang
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = yeongdong
+religion = cheondo

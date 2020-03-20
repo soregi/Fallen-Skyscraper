@@ -1,0 +1,11 @@
+# 37 - Yeongyang
+
+# County Title
+title = c_yeongyang
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yeongnam
+religion = confucian

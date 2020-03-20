@@ -1,0 +1,11 @@
+# 214 - Sokcho
+
+# County Title
+title = c_sokcho
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongdong
+religion = mahayana

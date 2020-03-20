@@ -1,0 +1,11 @@
+# 297 - Cholsan
+
+# County Title
+title = c_cholsan
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = pyongbuk
+religion = juche

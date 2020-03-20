@@ -1,0 +1,11 @@
+# 209 - Taebek
+
+# County Title
+title = c_taebek
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = yeongseo
+religion = mu_pagan

@@ -1,0 +1,11 @@
+# 383 - Onsong
+
+# County Title
+title = c_onseong
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = hambuk
+religion = holy_spirit

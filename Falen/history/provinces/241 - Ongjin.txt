@@ -1,0 +1,11 @@
+# 241 - Ongjin
+
+# County Title
+title = c_ongjin
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = hwanghae
+religion = cheondo

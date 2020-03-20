@@ -1,0 +1,11 @@
+# 343 - Kapsan
+
+# County Title
+title = c_kapsan
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = jagang
+religion = ¿ŒπŒ±≥»∏

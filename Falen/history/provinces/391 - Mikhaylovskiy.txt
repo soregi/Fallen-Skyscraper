@@ -1,0 +1,11 @@
+# 391 - Mikhaylovskiy
+
+# County Title
+title = c_mikhailovsky
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = russian
+religion = marxist
