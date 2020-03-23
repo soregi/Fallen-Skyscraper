@@ -55,6 +55,9 @@ k_chungcheong = {
 		c_goesan = {
 			color = { 200 200 200 }
 		}
+		c_danyang = {
+			color = { 200 200 200 }
+		}
 	}
 	
 	d_daejeon = {
