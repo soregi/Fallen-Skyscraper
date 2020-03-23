@@ -147,5 +147,8 @@ k_chungcheong = {
 		c_yesan = {
 			color = { 200 200 200 }
 		}
+		c_ongjin = {
+			color = { 200 200 200 }
+		}
 	}
 }
