@@ -1,7 +1,7 @@
 # 130 - Boeun
 
 # County Title
-title = c_boeun.
+title = c_boeun
 
 # Settlements
 max_settlements = 4

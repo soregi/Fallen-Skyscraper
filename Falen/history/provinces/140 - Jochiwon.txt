@@ -1,7 +1,7 @@
 # 140 - Jochiwon
 
 # County Title
-title = c_Jochiwon
+title = c_jochiwon
 
 # Settlements
 max_settlements = 4

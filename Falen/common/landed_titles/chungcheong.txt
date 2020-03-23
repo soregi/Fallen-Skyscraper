@@ -9,29 +9,71 @@ k_chungcheong = {
 		capital = 132 #천안
 
 		c_cheonan = {
-			color = { 200 200 200 }
+			color = { 102 146 31 }
+			b_cheonan = {} # 천안
+			b_seongjeong = {} # 성정
+			b_ssangyong = {} # 쌍용
+			b_buldang = {}
+			b_baekseok = {}
+			b_buseong = {}
+			b_mokcheon = {}
 		}
 		c_asan = {
-			color = { 200 200 200 }
+			color = { 78 150 21 }
+			b_asan = {}
+			b_onyang = {}
+			b_yeomchi = {}
+			b_sinchang = {}
+			b_baebang = {}
+			b_tangjeong = {}
+			b_dunpo = {}
 		}
-		c_Jochiwon = {
-			color = { 200 200 200 }
+		c_jochiwon = {
+			color = { 89 142 20 }
+			b_jochiwon = {}
+			b_beonam = {}
+			b_juklim = {}
+			b_sinheung = {}
+			b_chimsan = {}
+			b_won_jochiwon = {}
+			b_pyeong_jochiwon = {}
 		}
 	}
 	
 	d_cheongju = {
-		color = { 68 68 68 }
+		color = { 68 168 68 }
 
 		capital = 107 #청주
 
 		c_cheongju  = {
-			color = { 200 200 200 }
+			color = { 130 200 100 }
+			b_cheongju = {}
+			b_seowon = {}
+			b_sangdang = {}
+			b_cheongwon = {}
+			b_heungdeok = {}
+			b_bokdae = {}
+			b_gagyeong = {}
 		}
 		c_jincheon = {
-			color = { 200 200 200 }
+			color = { 142 213 115 }
+			b_jincheon = {}
+			b_iwol = {}
+			b_gwanghyewon = {}
+			b_deoksan = {}
+			b_chopyeong = {}
+			b_baekgok = {}
+			b_munbaek = {}
 		}
-		c_boeun. = {
-			color = { 200 200 200 }
+		c_boeun = {
+			color = { 135 196 104 }
+			b_boeun = {}
+			b_maro = {}
+			b_tanbu = {}
+			b_samseung = {}
+			b_suhan = {}
+			b_sanoe = {}
+			b_hoein = {}
 		}
 		c_jeungpyeong = {
 			color = { 200 200 200 }
