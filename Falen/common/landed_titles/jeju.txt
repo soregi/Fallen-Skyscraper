@@ -1,0 +1,21 @@
+k_jeju = {
+	color = { 255 151 0 }
+
+	capital = 66
+
+	d_jeju = {
+		color = { 255 151 0 }
+
+		capital = 66
+
+		c_jeju = {
+			color = { 200 200 200 }
+		}
+		c_jeongui = {
+			color = { 200 200 200 }
+		}
+		c_daejeong = {
+			color = { 200 200 200 }
+		}
+	}
+}

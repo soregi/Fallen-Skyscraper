@@ -1,0 +1,240 @@
+k_jeolla = { 
+	color = { 255 148 66 }
+
+	capital = 90 #전주
+
+	d_gunsan = {
+		color = { 255 242 0 }
+
+		capital = 86 #군산
+
+		c_gunsan = {
+			color = { 200 200 200 }
+		}
+		c_impi  = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_nonsan = {
+		color = { 193 179 0 }
+
+		capital = 109
+
+		c_nonsan = {
+			color = { 200 200 200 }
+		}
+		c_hamyeol = {
+			color = { 200 200 200 }
+		}
+		c_wanju = {
+			color = { 200 200 200 }
+		}
+		c_iksan = {
+			color = { 200 200 200 }
+		}		
+	}
+	
+	d_saemangeum = {
+		color = { 255 255 0 }
+
+		capital = 81
+
+		c_gimje = {
+			color = { 200 200 200 }
+		}
+		c_buan = {
+			color = { 200 200 200 }
+		}
+		c_gochang = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_jeonju = {
+		color = { 253 255 145 }
+
+		capital = 90
+
+		c_jeonju = {
+			color = { 200 200 200 }
+		}
+		c_deokjin = {
+			color = { 200 200 200 }
+		}
+		c_taein = {
+			color = { 200 200 200 }
+		}
+		c_imsil = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_muju = {
+		color = { 255 217 30 }
+
+		capital = 91
+
+		c_geumsan = {
+			color = { 200 200 200 }
+		}
+		c_jinan = {
+			color = { 200 200 200 }
+		}
+		c_jangsu = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_Jeongeup = {
+		color = { 255 148 66 }
+
+		capital = 82
+
+		c_jeongeup = {
+			color = { 200 200 200 }
+		}
+		c_sunchang = {
+			color = { 200 200 200 }
+		}
+		c_jangseong = {
+			color = { 200 200 200 }
+		}
+		c_damyang = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_gwangju = {
+		color = { 255 110 91 }
+
+		capital = 57
+
+		c_gwangju = {
+			color = { 200 200 200 }
+		}
+		c_mudeung = {
+			color = { 200 200 200 }
+		}
+		c_gwangsan = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_naju = {
+		color = { 227 90 9 }
+
+		capital = 58
+
+		c_yeonggwang = {
+			color = { 200 200 200 }
+		}
+		c_naju = {
+			color = { 200 200 200 }
+		}
+		c_hampyeong = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_haenam = {
+		color = { 255 76 0 }
+
+		capital = 72
+
+		c_haenam = {
+			color = { 200 200 200 }
+		}
+		c_yeongam = {
+			color = { 200 200 200 }
+		}
+		c_muan = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_sinan = {
+		color = { 255 0 89 }
+
+		capital = 62
+
+		c_mokpo = {
+			color = { 200 200 200 }
+		}
+		c_sinan = {
+			color = { 200 200 200 }
+		}
+		c_jindo = {
+			color = { 200 200 200 }
+		}
+		c_gogun = {
+			color = { 200 200 200 }
+		}
+		c_heuksan = {
+			color = { 200 200 200 }
+		}
+		c_jido = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_gangjin = {
+		color = { 164 13 24 }
+
+		capital = 68
+
+		c_gangjin = {
+			color = { 200 200 200 }
+		}
+		c_jangheung = {
+			color = { 200 200 200 }
+		}
+		c_hwasun = {
+			color = { 200 200 200 }
+		}
+		c_wando = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_yeosu = {
+		color = { 255 0 8 }
+
+		capital = 77
+
+		c_boseong = {
+			color = { 200 200 200 }
+		}
+		c_goheung = {
+			color = { 200 200 200 }
+		}
+		c_yeosu = {
+			color = { 200 200 200 }
+		}
+		c_suncheon = {
+			color = { 200 200 200 }
+		}
+		c_gwangyang = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_namwon = {
+		color = { 255 176 30 }
+
+		capital = 84
+
+		c_namwon = {
+			color = { 200 200 200 }
+		}
+		c_jiri = {
+			color = { 200 200 200 }
+		}
+		c_gokseong = {
+			color = { 200 200 200 }
+		}
+		c_gurye = {
+			color = { 200 200 200 }
+		}
+	}
+}
