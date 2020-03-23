@@ -1,0 +1,148 @@
+k_chungcheong = {
+	color = { 232 197 0 }
+
+	capital = 132 #천안
+
+	d_cheonan = {
+		color = { 232 197 0 }
+
+		capital = 132 #천안
+
+		c_cheonan = {
+			color = { 200 200 200 }
+		}
+		c_asan = {
+			color = { 200 200 200 }
+		}
+		c_Jochiwon = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_cheongju = {
+		color = { 68 68 68 }
+
+		capital = 107 #청주
+
+		c_cheongju  = {
+			color = { 200 200 200 }
+		}
+		c_jincheon = {
+			color = { 200 200 200 }
+		}
+		c_boeun. = {
+			color = { 200 200 200 }
+		}
+		c_jeungpyeong = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_chungju = {
+		color = { 102 102 102 }
+
+		capital = 119 #충주
+
+		c_chungju = {
+			color = { 200 200 200 }
+		}
+		c_jecheon = {
+			color = { 200 200 200 }
+		}
+		c_eumseong = {
+			color = { 200 200 200 }
+		}
+		c_goesan = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_daejeon = {
+		color = { 145 145 145 }
+
+		capital = 117 #대전
+
+		c_daejeon = {
+			color = { 200 200 200 }
+		}
+		c_daedeok = {
+			color = { 200 200 200 }
+		}
+		c_Yuseong = {
+			color = { 200 200 200 }
+		}
+		c_gyeryoung = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_gongju = {
+		color = { 185 191 122 }
+
+		capital = 113 #공주
+
+		c_gongju = {
+			color = { 200 200 200 }
+		}
+		c_sejong = {
+			color = { 200 200 200 }
+		}
+		c_buyeo = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_boryeong = {
+		color = { 216 245 48 }
+
+		capital = 123 #서천
+
+		c_seocheon = {
+			color = { 200 200 200 }
+		}
+		c_gyuam = {
+			color = { 200 200 200 }
+		}
+		c_cheongyang = {
+			color = { 200 200 200 }
+		}
+		c_yugu = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_hongseong = {
+		color = { 177 191 21 }
+
+		capital = 124 #홍주
+
+		c_hongju = {
+			color = { 200 200 200 }
+		}
+		c_gwangcheon = {
+			color = { 200 200 200 }
+		}
+		c_boryeong = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_seosan = {
+		color = { 160 155 17 }
+
+		capital = 110 #서산
+
+		c_seosan = {
+			color = { 200 200 200 }
+		}
+		c_taean = {
+			color = { 200 200 200 }
+		}
+		c_dangjin = {
+			color = { 200 200 200 }
+		}
+		c_yesan = {
+			color = { 200 200 200 }
+		}
+	}
+}
