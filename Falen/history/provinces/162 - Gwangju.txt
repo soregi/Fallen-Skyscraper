@@ -1,7 +1,7 @@
 # 162 - Gwangju
 
 # County Title
-title = c_gwangju
+title = c_k_gwangju
 
 # Settlements
 max_settlements = 5
