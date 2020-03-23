@@ -7,5 +7,5 @@ title = c_palgong
 max_settlements = 6
 
 # Misc
-culture = honam
+culture = yeongnam
 religion = catholic

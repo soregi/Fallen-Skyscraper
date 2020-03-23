@@ -1,0 +1,14 @@
+mu_pagan;Muist;;;;;;;;;;;;;x
+jeju_pagan;Harbangist;;;;;;;;;;;;;x
+steel_pagan;Steel;;;;;;;;;;;;;x
+red_solar;Red Solar;;;;;;;;;;;;;x
+cheondo;Cheondo;;;;;;;;;;;;;x
+marxist;Marxist;;;;;;;;;;;;;x
+confucian;Confucian;;;;;;;;;;;;;x
+protestant;Protestant;;;;;;;;;;;;;x
+vajrayana;Vajrayana;;;;;;;;;;;;;x
+mechanist;Mechanist;;;;;;;;;;;;;x
+mahayana;Mahayana;;;;;;;;;;;;;x
+gaian;Gaian;;;;;;;;;;;;;x
+koreanist;Koreanist;;;;;;;;;;;;;x
+juche;Juche;;;;;;;;;;;;;x

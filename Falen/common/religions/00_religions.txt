@@ -1,0 +1,255 @@
+# Religion-specific opinion can be added to modifiers (E.G., norse_pagan_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
+
+# join_crusade_if_bordering_hostile = yes # The AI won't refrain from joining a crusade simply because it borders a heathen/heretic realm
+
+# This trigger defines who can see a character's secret religion. The character with the secret religion is FROM, while the viewer is ROOT
+# Characters can always see their own secret religion. The observer can see all secret religions
+secret_religion_visibility_trigger = {
+	secret_religion = FROM
+}
+
+# women_can_take_consorts = yes # If set, women can take consorts as well, not just men. Defaults to "no". Has no effect if max_consorts is 0
+# men_can_take_consorts = no # If set, men cannot take consorts any more. Defaults to "yes". Has no effect if max_consorts is 0
+# male_temple_holders = no # If set to no, men cannot hold temples. Defaults to "yes". You might need to update your law scripts for this to fully work (see trigger "religion_allows_male_temple_holders")
+
+muslim = {
+	has_coa_on_barony_only = no
+	graphical_culture = muslimgfx
+	crusade_cb = crusade
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 1 # try to convert if ai_zeal is high
+	ai_fabricate_claims = no
+	
+	color = { 0 0.6 0 }
+	
+	interface_skin = { muslim_interface }
+	
+	# Names given only to Muslim characters (base names)
+	male_names = {
+		Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Akbar Allahyar Ali Ali-Fay Ali-Kolon Ali-Zalil Hasan Hossein Hussayn Ismail Mahmud Mohammed Muammar Muhammad
+	}
+	
+	# Names given only to Muslim characters (base names)
+	female_names = {
+		Ayesha Abrar Afifah Anabia Hijrah Hind Hareem Iqra Judi Karida Khadijah Khalidah Khawlah Madeeha Maryam Mariyah Maymunah Mariam Mina Nuwwarrah Qismah Ruqayyah Saba Safaa Safiyyah Salma Shahrazad Sirin Sumaiyah Thuwaibah Umamah Zainab Zubaidah Zainab 
+	}
+	
+	sunni = {
+		graphical_culture = muslimgfx
+
+		icon = 3
+		heresy_icon = 8
+		
+		color = { 0 0.6 0 }
+		
+		crusade_name = JIHAD
+		scripture_name = THE_KORAN
+		priest_title = IMAM_PRIEST
+		
+		high_god_name = GOD_ALLAH
+		
+		god_names = {
+			GOD_ALLAH GOD_THE_GREATEST
+		}
+		
+		evil_god_names = {
+			IBLIS SHAYTAN
+		}
+		
+		can_call_crusade = yes
+		priests_can_marry = yes
+		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
+		max_wives = 4
+		matrilineal_marriages = no
+		
+		landed_kin_prestige_bonus = yes
+		attacking_same_religion_piety_loss = yes
+		uses_decadence = yes
+		uses_jizya_tax = yes
+		intermarry = shiite
+	}
+	shiite = {
+		graphical_culture = muslimgfx
+
+		icon = 4
+		heresy_icon = 9
+		
+		color = { 0 0.8 0 }
+		
+		crusade_name = JIHAD
+		scripture_name = THE_KORAN
+		priest_title = MULLAH
+		
+		high_god_name = GOD_ALLAH
+		
+		god_names = {
+			GOD_ALLAH GOD_THE_GREATEST
+		}
+		evil_god_names = {
+			IBLIS SHAYTAN
+		}
+		
+		can_call_crusade = yes
+		priests_can_marry = yes
+		psc_marriage = no
+		max_wives = 4
+		matrilineal_marriages = no
+		
+		landed_kin_prestige_bonus = yes
+		attacking_same_religion_piety_loss = yes
+		uses_decadence = yes
+		uses_jizya_tax = yes
+		
+		intermarry = sunni
+	}
+	islam = {
+		graphical_culture = muslimgfx
+
+		icon = 3
+		heresy_icon = 8
+		
+		color = { 0 0.6 0 }
+		
+		crusade_name = JIHAD
+		scripture_name = THE_KORAN
+		priest_title = IMAM_PRIEST
+		
+		high_god_name = GOD_ALLAH
+		
+		god_names = {
+			GOD_ALLAH GOD_THE_GREATEST
+		}
+		
+		evil_god_names = {
+			IBLIS SHAYTAN
+		}
+		
+		can_call_crusade = yes
+		priests_can_marry = yes
+		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
+		max_wives = 4
+		matrilineal_marriages = no
+		
+		landed_kin_prestige_bonus = yes
+		attacking_same_religion_piety_loss = yes
+		uses_decadence = yes
+		uses_jizya_tax = yes
+
+	}
+}
+jewish_group = {
+	graphical_culture = jewishgfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 1	# try to convert if ai_zeal is high
+	
+	color = { 0.1 0.7 1.0 }
+	
+	interface_skin = { jews_interface }
+	
+	# Names given only to Jewish characters (base names)
+	male_names = {
+		Belet Ezra Hanukkah Hezekiah Isaac Levi Manasseh Nisi Simeon Yavdi Zebulun
+	}
+	female_names = {
+		Adah Adinah Alte Asnat Batya Bilha Chana Chava Devorah Esther Gisse Hadassah Leah Machla Miriam Puah Peninah Rachel Rivkah Ruth Sarah Tamar Tirtzah Tzipporah Tziviah Yael Yehudit Yiska Yocheved Yonah  
+	}
+
+	jewish = {
+		graphical_culture = jewishgfx
+		
+		icon = 38
+		heresy_icon = 39
+		
+		color = { 0.1 0.7 1.0 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_TORAH
+		priest_title = RABBI
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD ADONAI
+		}
+		evil_god_names = {
+			SATAN
+		}
+		
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		can_grant_invasion_cb = invasion
+		
+		priests_can_marry = yes
+		
+		religious_clothing_head = 7
+		religious_clothing_priest = 7
+		
+		expel_modifier = expelled_jewish
+
+		intermarry = samaritan
+		intermarry = karaite
+	}
+	samaritan = {
+		graphical_culture = jewishgfx
+		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
+		
+		icon = 38
+		heresy_icon = 39
+		
+		color = { 0.1 0.8 0.8 }
+		
+		parent = jewish
+		
+		crusade_name = GREAT_HOLY_WAR
+
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		can_grant_invasion_cb = invasion
+		
+		priests_can_marry = yes
+		
+		religious_clothing_head = 7
+		religious_clothing_priest = 7
+		
+		expel_modifier = expelled_jewish
+
+		intermarry = jewish
+		intermarry = karaite
+	}
+	karaite = {
+		graphical_culture = jewishgfx
+		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
+		
+		icon = 38
+		heresy_icon = 39
+		
+		color = { 0.1 0.5 0.9 }
+		
+		parent = jewish
+		
+		crusade_name = GREAT_HOLY_WAR
+
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		can_grant_invasion_cb = invasion
+		
+		priests_can_marry = yes
+		
+		religious_clothing_head = 7
+		religious_clothing_priest = 7
+		
+		expel_modifier = expelled_jewish
+
+		intermarry = samaritan
+		intermarry = jewish
+	}
+}

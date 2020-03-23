@@ -80,7 +80,7 @@ indian_group = {
 		icon = 21
 		heresy_icon = 22
 		
-		color = { 0.8 0.4 0.0 }
+		color = { 0.8 0.3 0.5 }
 		
 		high_god_name = GOD_THE_BUDDHA
 		
@@ -134,7 +134,7 @@ indian_group = {
 		icon = 40
 		heresy_icon = 41
 		
-		color = { 0.8 0.4 0.0 }
+		color = { 0.8 0.2 0.1 }
 		
 		high_god_name = GOD_THE_BUDDHA
 		
@@ -189,7 +189,7 @@ indian_group = {
 		icon = 10
 		heresy_icon = 11
 		
-		color = { 0.8 0.4 0.0 }
+		color = { 0.6 0.3 0.4 }
 		
 		high_god_name = GOD_THE_SKY
 		
@@ -337,7 +337,7 @@ indian_group = {
 		icon = 53
 		heresy_icon = 54
 		
-		color = { 226 241 182 }
+		color = { 226 241 202 }
 		
 		interface_skin = { taoist_interface indian_interface muslim_interface }
 		

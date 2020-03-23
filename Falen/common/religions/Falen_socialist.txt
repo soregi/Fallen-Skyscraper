@@ -1,0 +1,83 @@
+socialist_group = {
+	has_coa_on_barony_only = no
+	graphical_culture = westerngfx
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2 # always
+	ai_convert_other_group = 2	# always try to convert
+	
+	color = { 0.9 0.1 0.1 }
+	
+	interface_skin = { indian_interface muslim_interface }
+	
+	# Names given only to Indian characters (base names)
+	male_names = {
+	}
+	female_names = {
+	}
+	marxist = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.9 0.0 0.0 }
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_REVOLUTION
+		
+		god_names = {
+			MARX ENGELS WORKERS
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = no
+		priests_can_inherit = yes
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+	}
+	maoist = {
+		graphical_culture = chinesegfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.6 0.0 0.0 }
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = PRIEST
+		
+		high_god_name = GOD_MAO
+		
+		god_names = {
+			MAO_ZEDONG
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = no
+		priests_can_inherit = yes
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+	}
+}
