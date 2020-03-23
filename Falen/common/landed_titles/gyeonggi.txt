@@ -1,0 +1,285 @@
+k_gyeonggi = {
+	color = { 0 121 67 }
+
+	capital = 160
+
+	d_seoul = {
+		color = { 0 121 67 }
+		
+		capital = 160 #서울
+
+		c_seoul = {
+			color = { 213 36 142 }
+			b_jongno = {}
+		}
+	}
+	
+	d_dongdaemun = { 
+		color = { 0 179 0 }
+
+		capital = 181 #동대문
+
+		c_dongdaemun = {
+			color = { 200 200 200 }
+		}
+		c_dobong = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_gangnam = {
+		color = { 0 202 75 }
+
+		capital = 179 #강남
+
+		c_gangnam = {
+			color = { 200 200 200 }
+		}
+		c_songpa = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_yeongdeungpo = { 
+		color = { 19 255 107 }
+
+		capital = 178 #영등포
+
+		c_yeongdeungpo = {
+			color = { 200 200 200 }
+		}
+		c_guro = {
+		color = { 200 200 200 }
+		}
+	}
+
+	d_mapo = { 
+		color = { 0 178 98 }
+
+		capital = 180
+
+		c_mapo = {
+			color = { 200 200 200 }
+		}
+		c_seodaemun = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_bucheon = {
+		color = { 31 67 27 }
+
+		capital = 156
+
+		c_bucheon = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_ganghwa = { 
+		color = { 72 145 63 }
+
+		capital = 188 #강화
+
+		c_ganghwa = {  
+			color = { 200 200 200 }
+		}
+		c_gimpo = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_incheon = { 
+		color = { 104 226 90 }
+
+		capital = 155 #인천
+
+		c_incheon = {
+			color = { 200 200 200 }
+		}
+		c_yoengjongdo = {
+			color = { 200 200 200 }
+		}	
+		c_Gyeyang = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_pocheon = {
+		color = { 101 155 112 }
+
+		capital = 168 #파주
+
+		c_paju = {
+			color = { 200 200 200 }
+		}
+		c_ilsan = {
+			color = { 200 200 200 }
+		}
+		c_goyang = {
+			color = { 200 200 200 }
+		}
+		c_munsan = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_kaesong = {
+		color = { 0 153 2 }
+
+		capital = 175 #개성
+
+		c_kaesong = {
+			color = { 200 200 200 }
+		}
+		c_kaephung = {
+			color = { 200 200 200 }
+		}
+		c_jangphung = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_uijeongbu = {
+		color = { 68 226 113 }
+
+		capital = 166 #의정부
+
+		c_uijeongbu = {
+			color = { 200 200 200 }
+		}
+		c_yangju = {
+			color = { 200 200 200 }
+		}
+		c_pocheon = {
+			color = { 200 200 200 }
+		}
+		c_dongducheon = {
+			color = { 200 200 200 }
+		}
+		c_yeoncheon = {
+			color = { 200 200 200 }
+		}
+	}
+
+	d_namyangju = {
+		color = { 114 229 114 }
+
+		capital = 165 #남양주
+
+		c_namyangju = {
+			color = { 200 200 200 }
+		}
+		c_guri = {
+			color = { 200 200 200 }
+		}
+		c_hwado = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_anyang = {
+		color = { 3 229 0 }
+
+		capital = 153 #안양
+
+		c_gwacheon = {
+			color = { 200 200 200 }
+		}
+		c_uiwang = {
+			color = { 200 200 200 }
+		}
+		c_gunpo = {
+			color = { 200 200 200 }
+		}
+		c_anyang = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_seongnam = { 
+		color = { 46 184 142 }
+
+		capital = 158 #성남
+
+		c_seongnam = {
+			color = { 200 200 200 }
+		}
+		c_k_gwangju = {
+			color = { 200 200 200 }
+		}
+		c_hanam = {
+			color = { 200 200 200 }
+		}
+		c_yongin = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_icheon = {
+		color = { 195 229 45 }
+
+		capital = 143 #이천
+
+		c_icheon = {
+			color = { 200 200 200 }
+		}
+		c_cheoin = {
+			color = { 200 200 200 }
+		}
+		c_anseong = {
+			color = { 200 200 200 }
+		}
+	}
+
+	d_ansan = {
+		color = { 153 235 143 }
+
+		capital = 149 #안산
+
+		c_siheung = {
+			color = { 200 200 200 }
+		}
+		c_danwon = {
+			color = { 200 200 200 }
+		}
+		c_gwangmyeong = {
+			color = { 200 200 200 }
+		}
+		c_sangnok = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_suwon = { 
+		color = { 195 255 0 }
+
+		capital = 147 #수원
+
+		c_suwon = {
+			color = { 200 200 200 }
+		}
+		c_dongtan = {
+			color = { 200 200 200 }
+		}
+		c_gwaseong = {
+			color = { 200 200 200 }
+		}
+	}
+	
+	d_pyeongtaek = {
+		color = { 153 199 16 }
+
+		capital = 141 #평택
+
+		c_pyeongtaek = {
+			color = { 200 200 200 }
+		}
+		c_osan = {
+			color = { 200 200 200 }
+		}
+		c_anjung = {
+			color = { 200 200 200 }
+		}
+	}
+}
