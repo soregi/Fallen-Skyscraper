@@ -1,7 +1,7 @@
 # 193 - Ilsan
 
 # County Title
-title = c_llsan
+title = c_ilsan
 
 # Settlements
 max_settlements = 4
