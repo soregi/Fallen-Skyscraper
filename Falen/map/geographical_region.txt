@@ -11,10 +11,29 @@
 #	These groups are mutually exclusive on the same tier
 ###########################################################################
 
-world_korea = {
-	exclusive = yes
+world_gyeonggi = {
 	duchies = {
-		d_seoul
+		d_seoul d_dongdaemun d_gangnam d_yeongdeungpo d_mapo d_bucheon d_ganghwa d_incheon d_pocheon d_kaesong d_uijeongbu d_namyangju d_anyang d_seongnam d_icheon d_ansan d_suwon d_pyeongtaek 
+	}
+}
+world_chungcheong = {
+	duchies = {
+		d_cheonan d_cheongju d_chungju d_daejeon d_gongju d_boryeong d_hongseong d_seosan 
+	}
+}
+world_jeju = {
+	duchies = {
+		d_jeju 
+	}
+}
+world_jeolla = {
+	duchies = {
+		d_gunsan d_nonsan d_saemangeum d_jeonju d_muju d_Jeongeup d_gwangju d_naju d_haenam d_sinan d_gangjin d_yeosu d_namwon 
+	}
+}
+world_korea = {
+	regions = {
+		world_jeolla world_jeju world_chungcheong world_gyeonggi 
 	}
 }
 
