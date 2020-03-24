@@ -1,7 +1,7 @@
 # 231 - West Wonju
 
 # County Title
-title = c_seowonju
+title = c_west_wonju
 
 # Settlements
 max_settlements = 5
