@@ -1,0 +1,159 @@
+k_gangwon = {
+	color = { 145 81 72 }
+
+	capital = 212
+
+	d_donghae = {
+		color = { 187 73 30 }
+
+		capital =  211
+
+		c_donghae = {
+			color = { 200 200 200 }
+		}
+		c_samcheok = {
+			color = { 200 200 200 }
+		}
+		c_jeongseon = {
+			color = { 200 200 200 }
+		}
+		c_taebek = {
+			color = { 200 200 200 }
+		}
+		c_yeongwol = {
+			color = { 200 200 200 }
+		}
+	}
+	d_east_wonju = {
+		color = { 191 105 95 }
+
+		capital = 204
+
+		c_pyeongchang = {
+			color = { 200 200 200 }
+		}
+		c_hoengseong = {
+			color = { 200 200 200 }
+		}
+		c_east_wonju = {
+			color = { 200 200 200 }
+		}
+	}
+	d_west_wonju = {
+		color = { 192 166 95 }
+
+		capital = 231
+
+		c_west_wonju = {
+			color = { 200 200 200 }
+		}
+		c_yeoju = {
+			color = { 200 200 200 }
+		}
+		c_yangpyeong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_gangneung = {
+		color = { 145 81 72 }
+
+		capital = 212
+
+		c_kangneng = {
+			color = { 200 200 200 }
+		}
+		c_yangyang = {
+			color = { 200 200 200 }
+		}
+		c_sokcho = {
+			color = { 200 200 200 }
+		}
+		c_ganseong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_south_chuncheon = {
+		color = { 243 173 122 }
+
+		capital = 200
+
+		c_namchuncheon = {
+			color = { 200 200 200 }
+		}
+		c_hongcheon = {
+			color = { 200 200 200 }
+		}
+		c_inje = {
+			color = { 200 200 200 }
+		}
+		c_cheongpyeong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_chuncheon = {
+		color = { 244 134 122 }
+
+		capital = 232
+
+		c_chuncheon = {
+			color = { 200 200 200 }
+		}
+		c_yanggu = {
+			color = { 200 200 200 }
+		}
+		c_gapyeong = {
+			color = { 200 200 200 }
+		}
+		c_hwacheon = {
+			color = { 200 200 200 }
+		}
+		c_cheorwon = {
+			color = { 200 200 200 }
+		}
+	}
+	d_pyeonggang = {
+		color = { 145 61 37 }
+
+		capital = 230
+
+		c_phyonggang = {
+			color = { 200 200 200 }
+		}
+		c_sepho = {
+			color = { 200 200 200 }
+		}
+		c_naemun = {
+			color = { 200 200 200 }
+		}
+		c_ichon = {
+			color = { 200 200 200 }
+		}
+		c_phangyo = {
+			color = { 200 200 200 }
+		}
+	}
+	d_keumgang = {
+		color = { 107 45 27 }
+
+		capital = 218
+
+		c_thongchon = {
+			color = { 200 200 200 }
+		}
+		c_kumgang = {
+			color = { 200 200 200 }
+		}
+		c_changdo = {
+			color = { 200 200 200 }
+		}
+		c_kimhwa = {
+			color = { 200 200 200 }
+		}
+		c_kosan = {
+			color = { 200 200 200 }
+		}
+		c_hoeyang = {
+			color = { 200 200 200 }
+		}
+	}
+}
