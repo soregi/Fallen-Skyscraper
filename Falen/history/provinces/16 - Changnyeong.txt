@@ -1,7 +1,7 @@
 # 16 - Changnyeong
 
 # County Title
-title = c_Changnyeong
+title = c_changnyeong
 
 # Settlements
 max_settlements = 5
