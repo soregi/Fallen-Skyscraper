@@ -1,0 +1,283 @@
+k_gyeongsang = {
+	color = { 0 21 255 }
+
+	capital = 26 #경주
+
+	d_namhae = {
+		color = { 223 255 0 }
+
+		capital = 6
+
+		c_namhae = {
+			color = { 200 200 200 }
+		}
+		c_jinju = {
+			color = { 200 200 200 }
+		}
+		c_sacheon = {
+			color = { 200 200 200 }
+		}
+		c_hadong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_geoje = {
+		color = {1 254 179 }
+
+		capital = 20
+
+		c_geoje = {
+			color = { 200 200 200 }
+		}
+		c_goseong = {
+			color = { 200 200 200 }
+		}
+		c_tongyeong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_jinhae = {
+		color = { 70 234 212 }
+
+		capital = 46
+
+		c_jinhae = {
+			color = { 200 200 200 }
+		}
+		c_masan = {
+			color = { 200 200 200 }
+		}
+		c_changwon = {
+			color = { 200 200 200 }
+		}
+	}
+	d_busan = {
+		color = { 117 209 255 }
+
+		capital = 17
+
+		c_gangseo = {
+			color = { 200 200 200 }
+		}
+		c_busan = {
+			color = { 200 200 200 }
+		}
+		c_dongnae = {
+			color = { 200 200 200 }
+		}
+		c_gijang = {
+			color = { 200 200 200 }
+		}
+	}
+	d_gimhae = {
+		color = { 74 138 255 }
+
+		capital = 14
+
+		c_gimhae = {
+			color = { 200 200 200 }
+		}
+		c_yangsan= {
+			color = { 200 200 200 }
+		}
+		c_miryang = {
+			color = { 200 200 200 }
+		}
+	}
+	d_miryang = {
+		color = { 132 175 255 }
+
+		capital = 16
+
+		c_changnyeong = {
+			color = { 200 200 200 }
+		}
+		c_Uiryeong = {
+			color = { 200 200 200 }
+		}
+		c_haman = {
+			color = { 200 200 200 }
+		}
+		c_hapcheon= {
+			color = { 200 200 200 }
+		}
+	}
+	d_gaya = {
+		color = { 45 174 255 }
+
+		capital = 10
+
+		c_hamyang = {
+			color = { 200 200 200 }
+		}
+		c_sancheong = {
+			color = { 200 200 200 }
+		}
+		c_geochang = {
+			color = { 200 200 200 }
+		}
+		c_muju = {
+			color = { 200 200 200 }
+		}
+	}
+	d_sangju = {
+		color = { 142 197 255 }
+
+		capital = 43
+
+		c_sangju = {
+			color = { 200 200 200 }
+		}
+		c_gimcheon = {
+			color = { 200 200 200 }
+		}
+		c_yeongdong = {
+			color = { 200 200 200 }
+		}
+		c_mungyeong= {
+			color = { 200 200 200 }
+		}
+	}
+	d_goryeong = {
+		color = { 78 158 239 }
+
+		capital = 22
+
+		c_chilgok = {
+			color = { 200 200 200 }
+		}
+		c_seongju = {
+			color = { 200 200 200 }
+		}
+		c_goryeong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_daegu = {
+		color = { 61 77 255 }
+
+		capital = 19
+
+		c_daegu = {
+			color = { 200 200 200 }
+		}
+		c_palgong = {
+			color = { 200 200 200 }
+		}
+		c_dalseong = {
+			color = { 200 200 200 }
+		}
+		c_dasa = {
+			color = { 200 200 200 }
+		}
+	}
+	d_gyeongju = {
+		color = { 25 228 255 }
+
+		capital = 26
+
+		c_yeongcheon = {
+			color = { 200 200 200 }
+		}
+		c_gyeongsan = {
+			color = { 200 200 200 }
+		}
+		c_gyeongju = {
+			color = { 200 200 200 }
+		}
+		c_cheongdo = {
+			color = { 200 200 200 }
+		}
+		c_eonyang = {
+			color = { 200 200 200 }
+		}
+	}
+	d_pohang = {
+		color = { 0 21 255 }
+
+		capital = 27
+
+		c_heunghae = {
+			color = { 200 200 200 }
+		}
+		c_pohang = {
+			color = { 0 21 255 }
+			b_ocheon = {}
+			b_yeonil = {}
+			b_yangdeok = {}
+			b_idong = {}
+			b_jukdo = {}
+			b_sangdo = {}
+			b_jecheol = {}
+		}
+		c_wolsong = {
+			color = { 200 200 200 }
+		}
+		c_ulsan = {
+			color = { 200 200 200 }
+		}
+		c_ulju = {
+			color = { 200 200 200 }
+		}
+	}
+	d_yeongdeok = {
+		color = { 13 65 242 }
+
+		capital = 36
+
+		c_yeongdeok = {
+			color = { 200 200 200 }
+		}
+		c_cheongsong = {
+			color = { 200 200 200 }
+		}
+		c_yeongyang = {
+			color = { 200 200 200 }
+		}
+		c_uijin = {
+			color = { 200 200 200 }
+		}
+	}
+	d_gumi = {
+		color = { 12 174 243 }
+
+		capital = 29
+
+		c_gumi = {
+			color = { 200 200 200 }
+		}
+		c_uiseong = {
+			color = { 200 200 200 }
+		}
+		c_gunwi = {
+			color = { 200 200 200 }
+		}
+	}
+	d_andong = {
+		color = { 0 127 255 }
+
+		capital = 35
+
+		c_andong = {
+			color = { 200 200 200 }
+		}
+		c_bonghwa = {
+			color = { 200 200 200 }
+		}
+		c_yeongju = {
+			color = { 200 200 200 }
+		}
+		c_yecheon = {
+			color = { 200 200 200 }
+		}
+	}
+	d_ulleung = { 
+		color = { 29 35 109 }
+
+		capital = 40
+
+		c_ulleung = {
+			color = { 29 35 109 }
+		}
+	}
+}
