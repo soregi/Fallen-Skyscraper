@@ -31,9 +31,19 @@ world_jeolla = {
 		d_gunsan d_nonsan d_saemangeum d_jeonju d_muju d_Jeongeup d_gwangju d_naju d_haenam d_sinan d_gangjin d_yeosu d_namwon 
 	}
 }
+world_gyeongsang = {
+	duchies = {
+		d_namhae d_geoje d_jinhae d_busan d_gimhae d_miryang d_gaya d_sangju d_goryeong d_daegu d_gyeongju d_pohang d_yeongdeok d_gumi d_andong d_ulleung 
+	}
+}
+world_gangwon = {
+	duchies = {
+		d_donghae d_east_wonju d_west_wonju d_gangneung d_south_chuncheon d_chuncheon d_pyeonggang d_keumgang 
+	}
+}
 world_korea = {
 	regions = {
-		world_jeolla world_jeju world_chungcheong world_gyeonggi 
+		world_jeolla world_jeju world_chungcheong world_gyeonggi world_gyeongsang world_gangwon
 	}
 }
 
