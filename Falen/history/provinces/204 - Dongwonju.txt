@@ -1,7 +1,7 @@
 # 204 - Dongwonju
 
 # County Title
-title = c_dongwonju
+title = c_east_wonju
 
 # Settlements
 max_settlements = 5
