@@ -1,7 +1,7 @@
 # 318 - Ryokpho
 
 # County Title
-title = Ryokpho
+title = c_ryokpho
 
 # Settlements
 max_settlements = 6
