@@ -8,4 +8,4 @@ max_settlements = 4
 
 # Misc
 culture = jilin
-religion = cheondo
+religion = holy_spirit
