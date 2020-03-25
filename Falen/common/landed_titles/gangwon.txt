@@ -155,5 +155,33 @@ k_gangwon = {
 		c_hoeyang = {
 			color = { 200 200 200 }
 		}
+	}	
+	d_wonsan = {
+		color = { 153 58 62 }
+		capital = 226
+		c_anbyon = {
+			color = { 200 200 200 }
+		}
+		c_bubdong = {
+			color = { 200 200 200 }
+		}
+		c_wonsan = { 
+			color = { 200 200 200 }
+		}
+		c_munchon = {
+			color = { 200 200 200 }
+		}
+		c_chonnae = {
+			color = { 200 200 200 }
+		}
+		c_gowon = {
+			color = { 200 200 200 }
+		}
+		c_geumya = {
+			color = { 200 200 200 }
+		}
+		c_sudong'gu = {
+			color = { 200 200 200 }
+		}
 	}
 }
