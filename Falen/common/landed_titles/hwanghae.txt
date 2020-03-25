@@ -1,0 +1,144 @@
+k_hwanghae = {
+	color = { 230 218 0 }
+	capital = 237
+	d_haeju = {
+		color = { 230 218 0 }
+		capital = 237
+
+		c_haeju = {
+			color = { 200 200 200 }
+		}
+		c_chongdan = {
+			color = { 200 200 200 }
+		}
+		c_yonan = {
+			color = { 200 200 200 }
+		}
+		c_paechon = {
+			color = { 200 200 200 }
+		}
+		c_sinwon = {
+			color = { 200 200 200 }
+		}
+	}
+	d_kumchon = {
+		color = { 163 183 17 }
+		capital = 252
+
+		c_kumchon = {
+			color = { 200 200 200 }
+		}
+		c_pongchon = {
+			color = { 200 200 200 }
+		}
+		c_phyongsan = {
+			color = { 200 200 200 }
+		}
+		c_rinsan = {
+			color = { 200 200 200 }
+		}
+		c_sohung = {
+			color = { 200 200 200 }
+		}
+	}
+	d_singye = {
+		color = { 150 153 0 }
+		capital = 253
+
+		c_singye = {
+			color = { 200 200 200 }
+		}
+		c_thosan = {
+			color = { 200 200 200 }
+		}
+		c_koksan = {
+			color = { 200 200 200 }
+		}
+		c_suan = {
+			color = { 200 200 200 }
+		}
+		c_sinphyeong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_hwangju = {
+		color = { 184 204 10 }
+		capital = 260
+
+		c_hwangju = {
+			color = { 200 200 200 }
+		}
+		c_yeontan = {
+			color = { 200 200 200 }
+		}
+		c_pongsan = {
+			color = { 200 200 200 }
+		}
+		c_unpha = {
+			color = { 200 200 200 }
+		}
+		c_sariwon = {
+			color = { 200 200 200 }
+		}
+	}
+	d_anak = {
+		color = { 180 184 31 }
+		capital = 250
+
+		c_unryul = {
+			color = { 200 200 200 }
+		}
+		c_uncheon = {
+			color = { 200 200 200 }
+		}
+		c_anak = {
+			color = { 200 200 200 }
+		}
+		c_sinchon = {
+			color = { 200 200 200 }
+		}
+		c_jaeryong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_gwail = {
+		color = { 244 204 0 }
+		capital = 244
+
+		c_kwail = {
+			color = { 200 200 200 }
+		}
+		c_jangyon = {
+			color = { 200 200 200 }
+		}
+		c_ryongyeon = {
+			color = { 200 200 200 }
+		}
+		c_baeknyeongdo = {
+			color = { 200 200 200 }
+		}
+		c_songhwa = {
+			color = { 200 200 200 }
+		}
+	}
+	d_byeokseong = {
+		color = { 221 184 9 }
+		capital = 241
+
+		c_n_ongjin = {
+			color = { 200 200 200 }
+		}
+		c_thaethan = {
+			color = { 200 200 200 }
+		}
+		c_samchon = {
+			color = { 200 200 200 }
+		}
+		c_pyoksong = {
+			color = { 200 200 200 }
+		}
+		c_kangryong = {
+			color = { 200 200 200 }
+		}
+	}
+}
