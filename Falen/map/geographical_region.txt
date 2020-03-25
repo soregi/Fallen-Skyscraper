@@ -41,9 +41,19 @@ world_gangwon = {
 		d_donghae d_east_wonju d_west_wonju d_gangneung d_south_chuncheon d_chuncheon d_pyeonggang d_keumgang d_wonsan
 	}
 }
+world_hwanghae = {
+	duchies = {
+		d_haeju d_kumchon d_singye d_hwangju d_anak d_gwail d_byeokseong 
+	}
+}
+world_pyeongan = {
+	duchies = {
+		d_pyongyang d_songcheon d_maengsan d_anju d_sunchon d_nampo d_yongbyon d_jongju d_dongrim d_uiju d_gusong d_huichon d_ganggye d_jasong 
+	}
+}
 world_korea = {
 	regions = {
-		world_jeolla world_jeju world_chungcheong world_gyeonggi world_gyeongsang world_gangwon
+		world_jeolla world_jeju world_chungcheong world_gyeonggi world_gyeongsang world_gangwon world_hwanghae world_pyeongan 
 	}
 }
 
