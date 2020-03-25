@@ -38,7 +38,7 @@ world_gyeongsang = {
 }
 world_gangwon = {
 	duchies = {
-		d_donghae d_east_wonju d_west_wonju d_gangneung d_south_chuncheon d_chuncheon d_pyeonggang d_keumgang 
+		d_donghae d_east_wonju d_west_wonju d_gangneung d_south_chuncheon d_chuncheon d_pyeonggang d_keumgang d_wonsan
 	}
 }
 world_korea = {
