@@ -1,0 +1,11 @@
+# 513 - Xingcheng
+
+# County Title
+title = c_xingcheng
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = yantai
+religion = confucian
