@@ -1,0 +1,174 @@
+k_liaoning = {
+	color = { 60 112 20 }
+	capital = 470
+	d_shenyang = {
+		color = { 128 182 16 }
+		capital = 470
+		c_dengta = {
+			color = { 200 200 200 }
+		}
+		c_liaozhong = {
+			color = { 200 200 200 }
+		}
+		c_sujiatu = {
+			color = { 200 200 200 }
+		}
+		c_faku = {
+			color = { 200 200 200 }
+		}
+		c_kangping = {
+			color = { 200 200 200 }
+		}
+		c_xinmin = {
+			color = { 200 200 200 }
+		}
+	}
+	d_yingkou = {
+		color = { 60 112 20 }
+		capital = 406
+		c_gaizhou = {
+			color = { 200 200 200 }
+		}
+		c_dashiqiao = {
+			color = { 200 200 200 }
+		}
+		c_xishi = {
+			color = { 200 200 200 }
+		}
+		c_siuyan = {
+			color = { 200 200 200 }
+		}
+	}
+	d_dandong = {
+		color = { 6 104 63 }
+		capital = 403
+		c_donggang = {
+			color = { 200 200 200 }
+		}
+		c_fengcheng = {
+			color = { 200 200 200 }
+		}
+		c_kuandian = {
+			color = { 200 200 200 }
+		}
+		c_benxi = {
+			color = { 200 200 200 }
+		}
+		c_huanren = {
+			color = { 200 200 200 }
+		}
+	}
+	d_liaoyang = {
+		color = { 121 197 75 }
+		capital = 415
+		c_haicheng = {
+			color = { 200 200 200 }
+		}
+		c_qianshan = {
+			color = { 200 200 200 }
+		}
+		c_liaoyang = {
+			color = { 200 200 200 }
+		}
+		c_pingshan = {
+			color = { 200 200 200 }
+		}
+	}
+	d_dalian = {
+		color = { 15 77 33 }
+		capital = 396
+		c_lushun = {
+			color = { 200 200 200 }
+		}
+		c_ganjingzi = {
+			color = { 200 200 200 }
+		}
+		c_shahekou = {
+			color = { 200 200 200 }
+		}
+		c_jinzhou = {
+			color = { 200 200 200 }
+		}
+		c_pulandian = {
+			color = { 200 200 200 }
+		}
+		c_wafangdian = {
+			color = { 200 200 200 }
+		}
+		c_zhuanghe = {
+			color = { 200 200 200 }
+		}
+	}
+	d_jinzhou = {
+		color = { 26 85 66 }
+		capital = 435
+		c_heishan = {
+			color = { 200 200 200 }
+		}
+		c_beizhen = {
+			color = { 200 200 200 }
+		}
+		c_yi = {
+			color = { 200 200 200 }
+		}
+		c_taihe = {
+			color = { 200 200 200 }
+		}
+		c_linghai = {
+			color = { 200 200 200 }
+		}
+	}
+	d_tieling = {
+		color = { 166 133 17 }
+		capital = 444
+		c_fushun = {
+			color = { 200 200 200 }
+		}
+		c_xinbin = {
+			color = { 200 200 200 }
+		}
+		c_cingyuwan = {
+			color = { 200 200 200 }
+		}
+		c_changtu = {
+			color = { 200 200 200 }
+		}
+		c_xifeng = {
+			color = { 200 200 200 }
+		}
+		c_kaiyuan = {
+			color = { 200 200 200 }
+		}
+		c_tieling = {
+			color = { 200 200 200 }
+		}
+	}
+	d_huludao = {
+		color = { 68 111 47 }
+		capital = 513
+		c_xingcheng = {
+			color = { 200 200 200 }
+		}
+		c_lianshan = {
+			color = { 200 200 200 }
+		}
+		c_suizhong = {
+			color = { 200 200 200 }
+		}
+		c_jianchang = {
+			color = { 200 200 200 }
+		}
+	}
+	d_panjin = {
+		color = { 39 129 108 }
+		capital = 413
+		c_taian = {
+			color = { 200 200 200 }
+		}
+		c_dawa = {
+			color = { 200 200 200 }
+		}
+		c_panshan = {
+			color = { 200 200 200 }
+		}
+	}
