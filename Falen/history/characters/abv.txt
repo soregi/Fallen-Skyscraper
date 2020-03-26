@@ -1,8 +1,8 @@
 1 = {
 	name = "Muhammad"
 	dynasty = 644
-	culture = han
-	religion = taoist
+	culture = south_korean
+	religion = protestant
 	2000.1.1 = {
 		birth = yes
 	}

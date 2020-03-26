@@ -1,0 +1,17 @@
+e_north_korea = { # North Korea, or Democratic People's Republic of Korea
+	color = { 223 0 22 }
+	capital = 271 # Pyongyang
+	allow = {
+		religion = juche
+	}
+	title = "RYONGDOJA" # 령도자
+	title_female = "RYONGDOJA"
+	foa = "RYONGDOJA_FOA"
+	short_name = yes
+	dignity = 1000
+	controls_religion = juche
+	religion = juche
+	dynasty_title_names = no
+}
+
+# 본 모드팀은 국가보안법을 준수함

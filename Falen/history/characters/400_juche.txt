@@ -1,0 +1,81 @@
+401 = {
+	name = "Il Sung"
+	dynasty = 4000001 # Kim(North Korean)
+	culture = north_korean
+	religion = protestant
+	trait = ancient
+	1912.4.15 = {
+		birth = yes
+	}
+	1930.1.1 = {
+		religion = marxist
+	}
+	1948.9.1 = {
+		religion = juche
+	}
+	1994.7.8 = {
+		death = yes
+	}
+}
+402 = {
+	name = "Jong Il"
+	dynasty = 4000001
+	father = 401
+	culture = north_korean
+	religion = juche
+	1942.2.16 = {
+		birth = yes
+	}
+	2011.12.17 = {
+		death = yes
+	}
+}
+403 = {
+	name = "Jong Un"
+	dynasty = 4000001
+	father = 402
+	culture = north_korean
+	religion = juche
+	1984.1.6 = {
+		birth = yes
+	}
+	2020.3.14 = {
+		death = yes
+	}
+}
+404 = {
+	name = "Unknown descents"
+	dynasty = 4000001
+	father = 403
+	culture = north_korean
+	religion = juche
+	2020.3.13 = {
+		birth = yes
+	}
+	2443.12.31 = {
+		death = yes
+	}
+}
+405 = {
+	name = "Kunyuk" # 근육
+	dynasty = 4000001
+	father = 404
+	culture = jagang
+	religion = juche
+	trait = misguided_warrior
+	trait = fat
+	trait = shrewd
+	trait = envious
+	trait = lustful
+	trait = gluttnous
+	trait = master_seducer
+	2412.4.4 = {
+		birth = yes
+	}
+	2444.1.1 = {
+		effect = {
+			set_character_flag = kunyuk
+		}
+	}
+	2500.1.1 = { death = yes }
+}
