@@ -1,7 +1,7 @@
 # 378 - Rajin
 
 # County Title
-title = c_Rajin
+title = c_rajin
 
 # Settlements
 max_settlements = 6
