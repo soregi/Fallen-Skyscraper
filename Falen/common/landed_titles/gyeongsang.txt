@@ -92,7 +92,7 @@ k_gyeongsang = {
 		c_changnyeong = {
 			color = { 200 200 200 }
 		}
-		c_Uiryeong = {
+		c_uiryeong = {
 			color = { 200 200 200 }
 		}
 		c_haman = {
@@ -234,7 +234,7 @@ k_gyeongsang = {
 		c_yeongyang = {
 			color = { 200 200 200 }
 		}
-		c_uijin = {
+		c_uljin = {
 			color = { 200 200 200 }
 		}
 	}

@@ -1,7 +1,7 @@
 # 38 - Uljin
 
 # County Title
-title = c_uijin
+title = c_uljin
 
 # Settlements
 max_settlements = 4

@@ -1,7 +1,7 @@
 # 9 - Uiryeong
 
 # County Title
-title = c_Uiryeong
+title = c_uiryeong
 
 # Settlements
 max_settlements = 5
