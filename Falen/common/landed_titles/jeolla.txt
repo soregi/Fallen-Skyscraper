@@ -213,30 +213,39 @@ k_jeolla = {
 	}
 }
 e_sinan = {
-	k_sinan = {
-		d_sinan = {
-		color = { 255 0 89 }
+	color = { 155 0 249 }
 
 		capital = 62
+	k_sinan = {
+		color = { 155 0 189 }
 
-		c_mokpo = {
-			color = { 200 200 200 }
+		capital = 62
+		d_sinan = {
+			color = { 255 0 89 }
+
+			capital = 62
+
+			c_mokpo = {
+				color = { 200 200 200 }
+				b_mokpo = {}
+			}
+			c_sinan = {
+				color = { 200 200 200 }
+			}
+			c_heuksan = {
+				color = { 200 200 200 }
+			}
+			c_jido = {
+				color = { 200 200 200 }
+			}
 		}
-		c_sinan = {
-			color = { 200 200 200 }
+		d_jindo = {
+			c_jindo = {
+				color = { 200 200 200 }
+			}
+			c_gogun = {
+				color = { 200 200 200 }
+			}
 		}
-		c_jindo = {
-			color = { 200 200 200 }
-		}
-		c_gogun = {
-			color = { 200 200 200 }
-		}
-		c_heuksan = {
-			color = { 200 200 200 }
-		}
-		c_jido = {
-			color = { 200 200 200 }
-		}
-	}
 	}
 }

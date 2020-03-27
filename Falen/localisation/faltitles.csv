@@ -2,6 +2,16 @@ e_north_korea;Democratic People's Republic of Korea;;;;;;;;;;;;;x
 e_north_korea_adj;North Korean;;;;;;;;;;;;;x
 e_south_korea;Republic of Korea;;;;;;;;;;;;;x
 e_south_korea_adj;South Korean;;;;;;;;;;;;;x
+e_sinan;Sinan;;;;;;;;;;;;;x
+e_sinan_adj;Sinan;;;;;;;;;;;;;x
+e_hec;Holy Evangelical Confederacy;;;;;;;;;;;;;x
+e_hec_adj;Holy Evangelical;;;;;;;;;;;;;x
+e_yalu;Yalu;;;;;;;;;;;;;x
+e_yalu_adj;Yalu;;;;;;;;;;;;;x
+e_joseon;Joseon;;;;;;;;;;;;;x
+e_joseon_adj;Joseon;;;;;;;;;;;;;x
+k_sinan;Sinan;;;;;;;;;;;;;x
+k_sinan_adj;Sinan;;;;;;;;;;;;;x
 d_seoul;Seoul;;;;;;;;;;;;;x
 d_seoul_adj;Seoul;;;;;;;;;;;;;x
 c_seoul;Seoul;;;;;;;;;;;;;x

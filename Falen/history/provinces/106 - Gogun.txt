@@ -7,5 +7,5 @@ title = c_gogun
 max_settlements = 5
 
 # Misc
-culture = sinan
+culture = honam
 religion = protestant
