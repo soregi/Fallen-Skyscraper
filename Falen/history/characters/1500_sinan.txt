@@ -1,0 +1,439 @@
+# Old Sinan leaders
+1501 = {
+	name = "Munjik"
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2087.3.14 = { birth = yes }
+	2141.5.23 = { death = yes }
+}
+1502 = {
+	name = "Yeong'il"
+	dynasty = 4000004 # Choi
+	culture = sinan
+	religion = protestant
+	2096.6.16 = { birth = yes }
+	2152.1.12 = { death = yes }
+}
+1503 = {
+	name = "Hyeonggi"
+	dynasty = 4000005 # No
+	culture = sinan
+	religion = protestant
+	2101.12.23 = { birth = yes }
+	2167.7.15 = { death = yes }
+}
+# Sinan Kim dynasty
+1504 = {
+	name = "Hyeonseong"
+	dynasty = 4000002 # Kim(Sinan)
+	culture = sinan
+	religion = protestant
+	2103.3.24 = { birth = yes }
+	2162.2.28 = { death = yes }
+}
+1505 = {
+	name = "Jungdae" # 중대. 정대X
+	father = 1504
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2137.3.25 = { birth = yes }
+	2184.6.7 = { death = yes }
+}
+1506 = {
+	name = "Seongho"
+	father = 1505
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2164.1.16 = { birth = yes }
+	2222.2.22 = { death = yes }
+}
+1507 = {
+	name = "Seong"
+	father = 1506
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2188.9.6 = { birth = yes }
+	2250.3.11 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1508 = {
+	name = "Myeongsu"
+	father = 1507
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2211.12.7 = { birth = yes }
+	2250.3.11 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1509 = {
+	name = "Pungjeon" # The Architect 건축왕
+	father = 1508
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	trait = architect
+	2232.3.1 = { birth = yes }
+	2283.9.7 = { death = yes }
+}
+1510 = {
+	name = "Daeju" # The Salt Emperor 염제
+	father = 1509
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	trait = brilliant_strategist
+	trait = genius
+	trait = strong
+	trait = brave
+	trait = robust
+	trait = cruel
+	trait = diligent
+	give_nickname = nick_salt_emperor
+	2267.7.16 = {
+		birth = yes
+	}
+	2296.3.23 = {
+		create_bloodline={
+			type=salt_blood
+			has_dlc="Holy Fury"
+		}
+	}
+	2325.8.4 = {
+		death = yes
+	}
+}
+1511 = {
+	name = "Ung"
+	father = 1510
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2292.4.16 = { birth = yes }
+	2335.3.2 = { death = yes }
+}
+1512 = {
+	name = "Sin"
+	father = 1510
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2296.5.17 = { birth = yes }
+	2337.3.12 = { death = yes } # 대충 병사라는 말
+}
+1513 = {
+	name = "Cheol"
+	father = 1510
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2299.8.4 = { birth = yes }
+	2341.1.23 = {
+		death = {
+			death_reason = death_execution
+			killer = 1516
+		}
+	}
+}
+1514 = {
+	name = "Heon"
+	father = 1511
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2322.4.1 = { birth = yes }
+	2338.3.15 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+1515 = {
+	name = "Hwan"
+	father = 1511
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2324.6.7 = { birth = yes }
+	2341.3.31 = {
+		death = {
+			death_reason = death_execution
+			killer = 1516
+		}
+	}
+}
+1516 = {
+	name = "Taewu"
+	father = 1512
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	trait = kinslayer
+	2318.6.5 = { birth = yes }
+	2377.9.18 = { death = yes }
+}
+1517 = {
+	name = "Taemin"
+	father = 1512
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2320.4.16 = { birth = yes }
+	2379.9.7 = { death = yes }
+}
+1518 = {
+	name = "Daecheol"
+	father = 1513
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2317.8.23 = { birth = yes }
+	2341.1.23 = {
+		death = {
+			death_reason = death_execution
+			killer = 1516
+		}
+	}
+}
+1519 = {
+	name = "Mincheol"
+	father = 1513
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	trait = kinslayer
+	2319.7.28 = { birth = yes }
+	2341.1.23 = {
+		death = {
+			death_reason = death_execution
+			killer = 1516
+		}
+	}
+}
+1520 = {
+	name = "Suncheol"
+	father = 1513
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2320.5.17 = { birth = yes }
+	2387.6.5 = { death = yes }
+}
+1521 = {
+	name = "Hyeoncheol"
+	father = 1513
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2322.1.12 = { birth = yes }
+	2339.10.5 = {
+		death = {
+			death_reason = death_murder
+			killer = 1519
+		}
+	}
+}
+1522 = {
+	name = "Mihee"
+	father = 1511
+	female = yes
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2310.3.14 = { birth = yes }
+	2375.6.3 = { death = yes }
+}
+1523 = {
+	name = "Hun"
+	father = 1516
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2350.5.2 = { birth = yes }
+	2386.11.15 = { 
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+1524 = {
+	name = "Hyerim"
+	female = yes
+	father = 1516
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2354.3.16 = { birth = yes }
+	2408.2.1 = { death = yes }
+}
+1525 = {
+	name = "Guri"
+	father = 1523
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2374.4.5 = { birth = yes }
+	2405.5.3 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1526 = {
+	name = "Suho"
+	father = 1517
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2358.3.4 = { birth = yes }
+	2393.1.15 = { death = {
+		death_reason = death_murder_unknown
+		}
+	}
+}
+1527 = {
+	name = "Junseong"
+	father = 1526
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2379.6.9 = { birth = yes }
+	2407.2.3 = { death = {
+		death_reason = death_battle
+	}
+	}
+}
+1528 = {
+	name = "Yohan"
+	father = 1520
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2344.5.6 = { birth = yes }
+	2390.8.2 = { death = yes }
+}
+1529 = {
+	name = "Myeonghyeol"
+	father = 1528
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2370.2.12 = { birth = yes }
+	2413.5.3 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1530 = {
+	name = "Geonho"
+	father = 1529
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2398.5.6 = { birth = yes }
+	2441.3.4 = { death = yes }
+}
+1531 = {
+	name = "Hong"
+	father = 1530
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2420.3.1 = { birth = yes }
+	2489.1.1 = { death = yes }
+}
+1532 = {
+	name = "Yoseb"
+	father = 1527
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	trait = stressed
+	2398.4.5 = { birth = yes }
+	2428.5.3 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1533 = {
+	name = "Muneo"
+	father = 1525
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	trait = dull
+	trait = humble
+	trait = content
+	trait = kind
+	2400.2.5 = { birth = yes }
+	2420.8.1 = {
+		add_spouse = 1537
+	}
+	2460.1.1 = { death = yes }
+}
+1534 = {
+	name = "Seonho"
+	father = 1533
+	mother = 1537
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2421.5.3 = { birth = yes }
+}
+1535 = {
+	name = "Seonhee"
+	female = yes
+	father = 1533
+	mother = 1537
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2423.4.5 = { birth = yes }
+}
+1536 = {
+	name = "Seonyeop"
+	father = 1533
+	mother = 1537
+	dynasty = 4000002 # Kim
+	culture = sinan
+	religion = protestant
+	2428.5.2 = { birth = yes }
+}
+1537 = {
+	name = "Okryeon"
+	female = yes
+	culture = sinan
+	religion = protestant
+	2404.2.1 = { birth = yes }
+}
+# Seo Family of Heuksan
+1541 = {
+	name = "Seokmun"
+	father = 1501
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2131.3.14 = { birth = yes }
+	2198.9.13 = { death = yes }
+}
+1542 = {
+	name = "Sanho"
+	father = 1541
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2169.5.5 = { birth = yes }
+	2238.6.11 = { death = yes }
+}

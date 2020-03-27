@@ -6,8 +6,28 @@
 		template = 0
 		layer = {
 			texture = 11
-			texture_internal = 7
+			texture_internal = 0
 		}
-		religion = juche
+		religion = catholic
 	}
+}
+4000002 = {
+	name = "Kim" #Sinan
+	culture = sinan
+	religion = protestant
+}
+4000003 = {
+	name = "Seo" #Sinan
+	culture = sinan
+	religion = protestant
+}
+4000004 = {
+	name = "Choi" #Sinan
+	culture = sinan
+	religion = protestant
+}
+4000005 = {
+	name = "No" #Sinan
+	culture = sinan
+	religion = protestant
 }

@@ -7,5 +7,5 @@ title = c_ulju
 max_settlements = 5
 
 # Misc
-culture = yeongnam.
+culture = yeongnam
 religion = steel_pagan

@@ -12,6 +12,10 @@
 	}
 	1948.9.1 = {
 		religion = juche
+		create_bloodline = {
+			type = paektu
+			has_dlc = "Holy Fury"
+		}
 	}
 	1994.7.8 = {
 		death = yes

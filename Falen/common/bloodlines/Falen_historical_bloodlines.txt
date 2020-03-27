@@ -40,3 +40,12 @@ ilnam = { # 얄루 황제 정일남
 	picture = GFX_bloodlines_symbol_horse
 	flags = { historical_bloodline bloodline_sky_burial bloodline_mercenary_traditions }
 }
+salt_blood = { # 신안 염제 혈통
+	combat_rating = 5
+	sinan_opinion = 5
+	monthly_character_prestige = 0.1
+	inheritance = patrilineal
+	allow_bastards = yes
+	picture = GFX_bloodlines_symbol_longship
+	flags = { historical_bloodline }
+}

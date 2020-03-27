@@ -7,5 +7,5 @@ title = c_cheorwon
 max_settlements = 2
 
 # Misc
-culture = yengdong
+culture = yeongseo
 religion = hoguk

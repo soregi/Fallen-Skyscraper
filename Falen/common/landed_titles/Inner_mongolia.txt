@@ -55,7 +55,7 @@ k_Inner_mongolia = {
 			color = { 200 200 200 }
 		}
 	}
-	chifeng = { 
+	d_chifing = {
 		color = { 111 135 48 }
 		capital = 477
 		c_lishu = {
