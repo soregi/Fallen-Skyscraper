@@ -55,5 +55,21 @@ k_Inner_mongolia = {
 			color = { 200 200 200 }
 		}
 	}
+	chifeng = { 
+		color = { 111 135 48 }
+		capital = 477
+		c_lishu = {
+			color = { 200 200 200 }
+		}
+		c_gongzhuling = {
+			color = { 200 200 200 }
+		}
+		c_shuangliao = {
+			color = { 200 200 200 }
+		}
+		c_changling = {
+			color = { 200 200 200 }
+		}
+	}
 }
 		

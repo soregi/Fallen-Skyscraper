@@ -1,0 +1,130 @@
+k_manchuria = {
+	color = { 188 139 10 }
+	cpaital = 468
+	d_yanbian = {
+		color = { 199 5 95 }
+		capital = 446
+		c_hunchun = {
+			color = { 200 200 200 }
+		}
+		c_tumen = {
+			color = { 200 200 200 }
+		}
+		c_dunhua = {
+			color = { 200 200 200 }
+		}
+		c_helong = {
+			color = { 200 200 200 }
+		}
+		c_antu = {
+			color = { 200 200 200 }
+		}
+		c_longjing = {
+			color = { 200 200 200 }
+		}
+		c_yanji = {
+			color = { 200 200 200 }
+		}
+		c_wangqing = {
+			color = { 200 200 200 }
+		}
+	}
+	d_baishan = {
+		color = { 173 156 37 }
+		capital = 453
+		c_changbai = {
+			color = { 200 200 200 }
+		}
+		c_jiangyuan = {
+			color = { 200 200 200 }
+		}
+		c_linjiang = {
+			color = { 200 200 200 }
+		}
+		c_fusong = {
+			color = { 200 200 200 }
+		}
+		c_jingyu = {
+			color = { 200 200 200 }
+		}
+		c_hunjiang = {
+			color = { 200 200 200 }
+		}
+	}
+	d_tonghua = {
+		color = { 149 164 47 }
+		capital = 460
+		c_jian = {
+			color = { 200 200 200 }
+		}
+		c_tonghua = {
+			color = { 200 200 200 }
+		}
+		c_meihekou = {
+			color = { 200 200 200 }
+		}
+		c_huinan = {
+			color = { 200 200 200 }
+		}
+	}
+	d_changchun = {
+		color = { 185 95 13 }
+		capital = 471
+		c_dongfeng = {
+			color = { 200 200 200 }
+		}
+		c_dongliao = {
+			color = { 200 200 200 }
+		}
+		c_shuangyang = {
+			color = { 200 200 200 }
+		}
+		c_changchun = {
+			color = { 200 200 200 }
+		}
+		c_jiutai = {
+			color = { 200 200 200 }
+		}
+		c_nongan = {
+			color = { 200 200 200 }
+		}
+		c_dehui = {
+			color = { 200 200 200 }
+		}
+		c_yitong = {
+			color = { 200 200 200 }
+		}
+	}
+	d_jilin = {
+		color = { 188 139 10 }
+		capital = 468
+		c_panshi = {
+			color = { 200 200 200 }
+		}
+		c_huadian = {
+			color = { 200 200 200 }
+		}
+		c_yongji = {
+			color = { 200 200 200 }
+		}
+		c_jiaohe = {
+			color = { 200 200 200 }
+		}
+		c_fengman = {
+			color = { 200 200 200 }
+		}
+	}
+	d_Heilongjiang = {
+		color = { 183 33 209 }
+		capital = 490
+		c_dongning = {
+			color = { 200 200 200 }
+		}
+		c_muling = {
+			color = { 200 200 200 }
+		}
+		c_ningan = {
+			color = { 200 200 200 }
+		}
+	}
+}

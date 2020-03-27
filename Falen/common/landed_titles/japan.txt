@@ -1,0 +1,7 @@
+d_tsushima = {
+	color = { 0 10 0 }
+	capital = 512
+	c_tsushima = {
+		color = { 200 200 200 }
+	}
+}
