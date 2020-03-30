@@ -1,5 +1,5 @@
 401 = {
-	name = "Il Sung"
+	name = "Il-Sung"
 	dynasty = 4000001 # Kim(North Korean)
 	culture = north_korean
 	religion = protestant
@@ -22,7 +22,7 @@
 	}
 }
 402 = {
-	name = "Jong Il"
+	name = "Jong-Il"
 	dynasty = 4000001
 	father = 401
 	culture = north_korean
@@ -35,7 +35,7 @@
 	}
 }
 403 = {
-	name = "Jong Un"
+	name = "Jong-Un"
 	dynasty = 4000001
 	father = 402
 	culture = north_korean
