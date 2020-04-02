@@ -1,0 +1,11 @@
+# 10 - shenyang
+
+# County Title
+title = c_shenyang
+
+# Settlements
+max_settlements = 7
+
+# Misc
+culture = ylau
+religion = tengri_pagan
