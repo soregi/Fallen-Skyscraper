@@ -1,7 +1,7 @@
-# 176 - Kaephung
+# 176 - Jangdan
 
 # County Title
-title = c_kaephung
+title = c_angdan
 
 # Settlements
 max_settlements = 5
