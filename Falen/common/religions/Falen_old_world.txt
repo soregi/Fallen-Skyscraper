@@ -17,7 +17,7 @@ old_world_group = {
 	female_names = {
 	}
 	juche = {
-		graphical_culture = chinesegfx
+		graphical_culture = westerngfx
 		
 		icon = 19
 		heresy_icon = 20
@@ -49,7 +49,7 @@ old_world_group = {
 		
 	}
 	red_solar = {
-		graphical_culture = chinesegfx
+		graphical_culture = westerngfx
 		
 		icon = 19
 		heresy_icon = 20
@@ -80,7 +80,7 @@ old_world_group = {
 		religious_clothing_priest = 2
 	}
 	koreanist = {
-		graphical_culture = chinesegfx
+		graphical_culture = westerngfx
 		
 		icon = 19
 		heresy_icon = 20
@@ -111,7 +111,7 @@ old_world_group = {
 		religious_clothing_priest = 2
 	}
 	mechanist = {
-		graphical_culture = chinesegfx
+		graphical_culture = westerngfx
 		
 		icon = 19
 		heresy_icon = 20
@@ -142,7 +142,7 @@ old_world_group = {
 		religious_clothing_priest = 2
 	}
 	unitary = {
-		graphical_culture = chinesegfx
+		graphical_culture = westerngfx
 		
 		icon = 19
 		heresy_icon = 20
@@ -173,7 +173,7 @@ old_world_group = {
 		religious_clothing_priest = 2
 	}
 	familiar = {
-		graphical_culture = chinesegfx
+		graphical_culture = westerngfx
 		
 		icon = 19
 		heresy_icon = 20
