@@ -3,13 +3,13 @@ import re
 import csv
 
 
-#### 사용법: Falen 폴더, 그 왜 있잖아 common, localisation, map있는 모드 최상위폴더 거기에 넣고 실행하면 됨.
+#### 사용법: Fallen-Skyscraper 폴더, Readme 있는 모드 최상위폴더 거기에 넣고 실행하면 됨.
 #### 왜냐? 지금 open함수의 경로를 다 그걸 기준으로 잡아놧거든. 싫으면 직접 수정하셈.
 
 
 #### definition.csv에서 백작령의 이름과 color를 가져옴
 #### [백작령id, R, G, B, 이름, x]
-temp_file = open('./map/definition.csv')
+temp_file = open('./Falen/map/definition.csv')
 province_data = csv.reader(temp_file, delimiter=';')
 province_data = list(province_data)
 temp_file.close()
@@ -18,7 +18,7 @@ temp_file.close()
 #### provinces.txt에서 백작령 코드를 비교해서 리스트에 추가함.
 #### [백작령id, R, G, B, 이름, x, 백작령 코드]
 match_title = re.compile('title ?= ?c_[a-zA-Z0-9_]+')   # 'title = '찾는 정규식
-for (path, dir, files) in os.walk('./history/provinces'):
+for (path, dir, files) in os.walk('./Falen/history/provinces'):
     for file in files:
         filename, ext = os.path.splitext(file)
         if ext == '.txt':
@@ -79,9 +79,9 @@ for (path, dir, files) in os.walk('./history/provinces'):
 
 
 #### landed_titles.txt의 color를 찾아 바꿈.
-match_code = re.compile('[^#]+[ \t](c_[a-zA-Z0-9_]+)')    # 백작령 코드 찾는 정규식 
-match_color = re.compile('[^#]+[ \t]color ?= ?\{[^}]+\}')    # 백작령 칼라 찾는 정규식
-for (path, dir, files) in os.walk('./common/landed_titles'):
+match_code = re.compile('[^#]*[ \t](c_[a-zA-Z0-9_]+)')    # 백작령 코드 찾는 정규식 
+match_color = re.compile('[^#]*[ \t]color ?= ?\{[^}]+\}')    # 백작령 칼라 찾는 정규식
+for (path, dir, files) in os.walk('./Falen/common/landed_titles'):
     for filename in files:
         ext = os.path.splitext(filename)[-1]
         if ext == '.txt':
