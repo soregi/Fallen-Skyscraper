@@ -1,0 +1,152 @@
+decisions = {
+	# 대한민국을 재건한다
+	restore_korea = {
+		only_playable = yes
+		is_high_prio = yes
+		ai_check_interval = 24
+		
+		potential = {
+			is_playable = yes
+			independent = yes
+		}
+		allow = {
+			completely_controls = d_seoul
+			realm_size = 300
+			wealth = 500
+			prestige = 5000
+			tier = EMPEROR
+			AND = {
+				religion = 한국교
+				# 한국교 숭배 시 대통령이어야 한다는 조건 추가해야되는데 대통령 직위가 없네
+			}
+		}
+		effect = {
+			custom_tooltip = {
+				text = RESTORE_KOREAN_EMPIRE_TOOLTIP		# 대한제국 생성
+				if = {
+					limit = { is_feudal = yes }
+					primary_title = {
+						save_event_target_as = current_primary_title
+					}
+					e_대한제국 = {
+						copy_title_laws = event_target:current_primary_title
+					}
+					grant_title = e_대한제국
+				}
+			}
+			custom_tooltip = {
+				text = RESTORE_REPUBLIC_OF_KOREA_TOOLTIP	# 대한민국 생성
+				if = {
+					limit = {
+						OR = {
+							is_merchant_republic = yes
+							is_republic = yes
+						}
+					}
+					primary_title = {
+						save_event_target_as = current_primary_title
+					}
+					e_대한민국 = {
+						copy_title_laws = event_target:current_primary_title
+					}
+					grant_title = e_대한민국
+				}
+			}
+			
+			hidden_tooltip = {
+				# 모든 남한땅의 데쥬레를 옮김.
+				# 근데 데쥬레는 게임 중간에 바뀔수 있잖아?
+				# 전륜성왕처럼 지역코드로 데쥬레 바꾸는게 낫지 않을까 싶은데 지도파트에서 그거까지 구현해줄지 모르겠네.
+				e_남한작위 = {
+					any_de_jure_vassal_title = {
+						limit = { tier = KING }
+						de_jure_liege = 대한민국 작위
+					}
+				}
+				
+				add_claim = c_gilan
+				prestige = 5000
+				piety = 2500
+				
+				any_playable_ruler = {
+					limit = {
+						OR = {
+							independent = yes
+							ai = no
+						}
+						is_within_diplo_range = ROOT
+					}
+					narrative_event = { id = 주변영주에게 대한민국/대한제국 생성알림 이벤트 }
+				}
+				
+				create_bloodline = {
+					type = 추가할 혈통
+				}
+				
+				give_nickname = nick_the_great
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 1.0
+				always = yes	# ai조건 추가
+			}
+		}
+	}
+	
+	# 러시아를 재건한다
+	restore_russian_empire = {
+		
+	}
+	
+	# 프로이센 제국 선포
+	create_prussian_empire = {
+		
+	}
+	
+	# 독일 제국 선포
+	create_german_empire = {
+		
+	}
+	
+	# 조선 인민공화국 북한 완전통합 선포
+	unify_north_korea = {
+		
+	}
+	
+	# 조선 인민공화국 한반도 통일 선포
+	unify_korean_peninsula = {
+		
+	}
+	
+	# 대조선국 재건
+	form_great_josun_empire = {
+		
+	}
+	
+	# 행정체계 복구
+	restore_administration = {
+		
+	}
+	
+	# 백두혈통의 명분을 조작하다
+	fabricate_north_korean_blood = {
+		
+	}
+	
+	# 러시아 연방해군 재건
+	restore_russian_navy = {
+		
+	}
+	
+	# 혼슈열도로의 원정
+	expedition_to_honshu_islands = {
+		
+	}
+	
+	# 프룬제 교파가 쿠데타를 일으키다
+	frunze_coup = {
+		
+	}
+}
