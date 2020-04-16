@@ -185,4 +185,104 @@ republic_governments = {
 		## Modifiers
 		court_size_modifier = 10
 	}
+	
+	secular_republic_government = {
+		preferred_holdings = { CITY }
+		allowed_holdings = { 
+			TRADE_POST
+			CITY
+			FORT
+			HOSPITAL
+		}
+		
+		# 봉신에게 잘못된 정부형태 패널티를 받지 않는 홀딩 리스트
+		# _culture의 경우 문화가 같아야함, _religion의 경우 종교가 같아야함, _culture_and_religion의 경우 문화와 종교가 같아야함.
+		allowed_holdings_culture = {
+			TRIBAL
+		}
+		
+		# 봉신에게 잘못된 정부형태 패널티를 받지 않는 정부형태 리스트
+		# _culture의 경우 문화가 같아야함, _religion의 경우 종교가 같아야함, _culture_and_religion의 경우 문화와 종교가 같아야함.
+		accepts_liege_governments = {
+			republic_government
+		}
+		
+		# 제한없이 작위회수가 가능한 정부형태 리스트
+		# _culture의 경우 문화가 달라야함, _religion의 경우 종교가 달라야함, _culture_and_religion의 경우 문화와 종교가 달라야함.
+		free_revoke_on_governments_religion = {
+			tribal_government
+		}
+		
+		frame_suffix = "_secular_republic"		# 서픽스 이후에 로컬라이제이션에 추가할 것
+		title_prefix = "city_"					# 프리픽스 이후에 로컬라이제이션에 추가할 것
+		
+		potential = {
+			OR = {
+				controls_religion = no
+				religion_group = muslim
+				has_religion_feature = religion_temporal_head
+				AND = {
+					religion = norse_pagan_reformed
+					has_religion_features = no # Old saves, and campaigns without HF, need the Fylkirate to continue working
+				}
+			}
+			#is_female = no
+			OR = {
+				AND = {
+					is_patrician = yes
+					OR = {
+						liege_before_war = {
+							NOT = { character = PREV }
+							is_merchant_republic = yes
+							NOT = {
+								liege_before_war = {
+									NOT = { character = PREV }
+									is_merchant_republic = yes
+								}
+							}
+						}
+						has_game_started = no
+					}
+				}
+				AND = {
+					OR = {
+						AND = {
+							has_game_started = yes
+							is_merchant_republic = yes
+						}
+						capital_scope = { port = yes }
+					}
+					higher_real_tier_than = count
+					any_demesne_province = {
+						always = yes
+					}
+					NOT = {
+						liege_before_war = {
+							NOT = { character = PREV }
+							is_merchant_republic = yes
+						}
+					}
+				}
+			}
+		}
+		
+		color = { 250 0 0 }
+		
+		can_imprison_without_reason = no		# 이유없이 투옥해도 패널티 받는가
+		can_revoke_without_reason = no			# 이유없이 작위회수해도 패널티 받는가
+		can_usurp_kingdoms_and_empires = no		# 왕작위와 황제작위를 강탈할 수 있는가
+		have_gender_laws = no					# no로 하면 성별법 고정됨 법률탭에서 못바꿈.
+		can_grant_kingdoms_and_empires_to_other_government = yes		# 다른 정부형태의 사람에게 왕국작위 제국작위 줄수있는지 여부 기본적으로 yes임
+		allows_matrilineal_marriage = no		# 모계결혼을 허용하는가
+
+		can_build_tribal = no					# 부족 홀딩을 지을수 있는가
+		
+		landed_inheritance = no					# 작위없는 아들 패널티가 있는가
+		
+		capital_move_delay = 2000				# 수도이전 딜레이
+
+		## Modifiers
+		court_size_modifier = 5					# 기본적으로 주어질 궁정인원 수
+		court_size_maintenance_cost_modifier = -0.05	# 궁정 유지비
+	}
 }
