@@ -80,13 +80,13 @@ for (path, dir, files) in os.walk('./Falen/history/provinces'):
 
 
 #### landed_titles.txt의 color를 찾아 바꿈.
-match_code = re.compile('[^#]*[ \t](c_[a-zA-Z0-9_]+)')    # 백작령 코드 찾는 정규식 
-match_color = re.compile('[^#]*[ \t]color ?= ?\{[^}]+\}')    # 백작령 칼라 찾는 정규식
+match_code = re.compile('^[^\n^#]*[ \t](c_[a-zA-Z0-9_]+)')    # 백작령 코드 찾는 정규식 
+match_color = re.compile('^[^\n^#]*[ \t]color ?= ?\{[^}]+\}')    # 백작령 코드 찾는 정규식 
 for (path, dir, files) in os.walk('./Falen/common/landed_titles'):
     for filename in files:
         ext = os.path.splitext(filename)[-1]
         if ext == '.txt':
-            try:
+            #try:
                 temp_file = open(path+'/'+filename, 'r', encoding='UTF-8')
                 data = temp_file.read().split('\n')
                 temp_file.close()
@@ -94,19 +94,19 @@ for (path, dir, files) in os.walk('./Falen/common/landed_titles'):
                 find_color = False
                 title_code = None
                 for i in range(len(data)):
-                    if find_color:
+                    if find_color == False:
+                        m = match_code.search(data[i])
+                        if m != None:
+                            title_code = m[1]
+                            find_color = True
+                    if find_color == True and match_color.search(data[i]) != None:
                         for tuple in province_data:
                             if len(tuple) == 7 and tuple[6] == title_code:
                                 data[i] = re.sub('color[ \t]?=[ \t]?\{[^}]+\}', 'color = { '+tuple[1]+' '+tuple[2]+' '+tuple[3]+' }', data[i])
                                 find_color = False
                                 break
-                    else:
-                        m = match_code.search(data[i])
-                        if m != None:
-                            title_code = m[1]
-                            find_color = True
                 temp_file = open(path+'/'+filename, 'w', encoding='UTF-8')
                 temp_file.write('\n'.join(data))
                 temp_file.close()
-            except:
-                print(path+'/'+filename+' 파일을 열 수 없거나 처리에 실패했습니다. 문의바람.')
+            #except:
+                #print(path+'/'+filename+' 파일을 열 수 없거나 처리에 실패했습니다. 문의바람.')
