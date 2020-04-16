@@ -136,7 +136,7 @@ k_gyeonggi = {
 			color = { 200 200 200 }
 		}
 		c_jangphung = {
-			color = { 200 200 200 }
+			color = { 150 10 50 }
 		}
 	}
 	
@@ -146,19 +146,19 @@ k_gyeonggi = {
 		capital = 166 #의정부
 
 		c_uijeongbu = {
-			color = { 200 200 200 }
+			color = { 191 38 38 }
 		}
 		c_yangju = {
-			color = { 200 200 200 }
+			color = { 127 51 0 }
 		}
 		c_pocheon = {
-			color = { 200 200 200 }
+			color = { 150 0 0 }
 		}
 		c_dongducheon = {
-			color = { 200 200 200 }
+			color = { 124 25 25 }
 		}
 		c_yeoncheon = {
-			color = { 200 200 200 }
+			color = { 200 10 10 }
 		}
 	}
 
@@ -168,13 +168,13 @@ k_gyeonggi = {
 		capital = 165 #남양주
 
 		c_namyangju = {
-			color = { 200 200 200 }
+			color = { 191 78 38 }
 		}
 		c_guri = {
-			color = { 200 200 200 }
+			color = { 178 38 38 }
 		}
 		c_hwado = {
-			color = { 200 200 200 }
+			color = { 191 157 38 }
 		}
 	}
 	
@@ -184,16 +184,16 @@ k_gyeonggi = {
 		capital = 153 #안양
 
 		c_gwacheon = {
-			color = { 200 200 200 }
+			color = { 240 40 0 }
 		}
 		c_uiwang = {
-			color = { 200 200 200 }
+			color = { 173 0 0 }
 		}
 		c_gunpo = {
-			color = { 200 200 200 }
+			color = { 163 85 38 }
 		}
 		c_anyang = {
-			color = { 200 200 200 }
+			color = { 104 37 0 }
 		}
 	}
 	
@@ -203,16 +203,16 @@ k_gyeonggi = {
 		capital = 158 #성남
 
 		c_seongnam = {
-			color = { 200 200 200 }
+			color = { 250 0 0 }
 		}
 		c_k_gwangju = {
-			color = { 200 200 200 }
+			color = { 178 26 0 }
 		}
 		c_hanam = {
-			color = { 200 200 200 }
+			color = { 178 0 26 }
 		}
 		c_yongin = {
-			color = { 200 200 200 }
+			color = { 122 56 0 }
 		}
 	}
 	
@@ -222,13 +222,13 @@ k_gyeonggi = {
 		capital = 143 #이천
 
 		c_icheon = {
-			color = { 200 200 200 }
+			color = { 158 0 0 }
 		}
 		c_cheoin = {
-			color = { 200 200 200 }
+			color = { 176 22 63 }
 		}
 		c_anseong = {
-			color = { 200 200 200 }
+			color = { 46 0 0 }
 		}
 	}
 
@@ -238,16 +238,16 @@ k_gyeonggi = {
 		capital = 149 #안산
 
 		c_siheung = {
-			color = { 200 200 200 }
+			color = { 148 41 0 }
 		}
 		c_danwon = {
-			color = { 200 200 200 }
+			color = { 138 0 0 }
 		}
 		c_gwangmyeong = {
-			color = { 200 200 200 }
+			color = { 199 0 0 }
 		}
 		c_sangnok = {
-			color = { 200 200 200 }
+			color = { 138 72 0 }
 		}
 	}
 	
@@ -257,13 +257,13 @@ k_gyeonggi = {
 		capital = 147 #수원
 
 		c_suwon = {
-			color = { 200 200 200 }
+			color = { 112 0 0 }
 		}
 		c_dongtan = {
-			color = { 200 200 200 }
+			color = { 255 47 0 }
 		}
 		c_gwaseong = {
-			color = { 200 200 200 }
+			color = { 87 0 0 }
 		}
 	}
 	
@@ -273,13 +273,13 @@ k_gyeonggi = {
 		capital = 141 #평택
 
 		c_pyeongtaek = {
-			color = { 200 200 200 }
+			color = { 112 78 0 }
 		}
 		c_osan = {
-			color = { 200 200 200 }
+			color = { 94 53 0 }
 		}
 		c_anjung = {
-			color = { 200 200 200 }
+			color = { 132 34 0 }
 		}
 	}
 }
