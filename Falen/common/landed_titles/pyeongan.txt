@@ -5,257 +5,257 @@ k_pyeongan = {
 		color = { 0 23 204 }
 		capital = 271
 		c_pyongyang = {
-			color { 200 200 200 }
+			color = { 75 0 0 }
 		}
 		c_ryokpho = {
-			color { 200 200 200 }
+			color = { 217 78 28 }
 		}
 		c_sangwon = {
-			color { 200 200 200 }
+			color = { 157 129 0 }
 		}
 		c_sungho = {
-			color { 200 200 200 }
+			color = { 195 104 60 }
 		}
 		c_yeonsan = {
-			color { 200 200 200 }
+			color = { 0 5 230 }
 		}
 	}
 	d_songcheon = {
 		color = { 0 22 102 }
 		capital = 278
 		c_songchon = {
-			color { 200 200 200 }
+			color = { 65 0 0 }
 		}
 		c_hoechang = {
-			color { 200 200 200 }
+			color = { 60 0 0 }
 		}
 		c_eunsan = {
-			color { 200 200 200 }
+			color = { 135 0 0 }
 		}
 		c_pukchang = {
-			color { 200 200 200 }
+			color = { 85 0 0 }
 		}
 	}
 	d_maengsan = {
 		color = { 93 97 160 }
 		capital = 271
 		c_maengsan = {
-			color { 200 200 200 }
+			color = { 100 30 10 }
 		}
 		c_nyeongwon = {
-			color { 200 200 200 }
+			color = { 245 0 0 }
 		}
 		c_sinyang = {
-			color { 200 200 200 }
+			color = { 155 25 25 }
 		}
 		c_yangdok = {
-			color { 200 200 200 }
+			color = { 160 0 0 }
 		}
 	}
 	d_anju = {
 		color = { 16 159 228 }
 		capital = 282
 		c_mundok = {
-			color { 200 200 200 }
+			color = { 145 0 0 }
 		}
 		c_anju = {
-			color { 200 200 200 }
+			color = { 80 0 0 }
 		}
 		c_kaechon = {
-			color { 200 200 200 }
+			color = { 120 0 0 }
 		}
 		c_dokchon = {
-			color { 200 200 200 }
+			color = { 155 0 0 }
 		}
 	}
 	d_sunchon = {
 		color = { 27 104 163 }
 		capital = 283
 		c_sunchon = {
-			color { 200 200 200 }
+			color = { 210 0 0 }
 		}
 		c_Phyongsong = {
-			color { 200 200 200 }
+			color = { 170 0 0 }
 		}
 		c_Phyongwon = {
-			color { 200 200 200 }
+			color = { 25 0 0 }
 		}
 		c_sukchon = {
-			color { 200 200 200 }
+			color = { 255 22 100 }
 		}
 	}
 	d_nampo = {
 		color = { 0 115 204 }
 		capital = 270
 		c_nampo = {
-			color { 200 200 200 }
+			color = { 50 0 0 }
 		}
 		c_songrim = {
-			color { 200 200 200 }
+			color = { 122 100 140 }
 		}
 		c_taedong = {
-			color { 200 200 200 }
+			color = { 200 0 0 }
 		}
 		c_jungsan = {
-			color { 200 200 200 }
+			color = { 150 10 10 }
 		}
 	}
 	d_yongbyon = {
 		color = { 48 52 153 }
 		capital = 304
 		c_nyongbyon = {
-			color { 200 200 200 }
+			color = { 170 40 40 }
 		}
 		c_pakchon = {
-			color { 200 200 200 }
+			color = { 20 0 0 }
 		}
 		c_gujang = {
-			color { 200 200 200 }
+			color = { 135 20 20 }
 		}
 		c_thachon = {
-			color { 200 200 200 }
+			color = { 230 0 0 }
 		}
 	}
 	d_jongju = {
 		color = { 91 113 153 }
 		capital = 293
 		c_unjeon = {
-			color { 200 200 200 }
+			color = { 175 0 0 }
 		}
 		c_jongju = {
-			color { 200 200 200 }
+			color = { 35 0 0 }
 		}
 		c_kwaksan = {
-			color { 200 200 200 }
+			color = { 240 10 10 }
 		}
 		c_sonchon = {
-			color { 200 200 200 }
+			color = { 40 0 0 }
 		}
 	}
 	d_dongrim = {
 		color = { 67 97 146 }
 		capital = 296
 		c_dongrim = {
-			color { 200 200 200 }
+			color = { 255 10 10 }
 		}
 		c_cholsan = {
-			color { 200 200 200 }
+			color = { 100 25 25 }
 		}
 		c_yomju = {
-			color { 200 200 200 }
+			color = { 250 50 50 }
 		}
 		c_ryongchon = {
-			color { 200 200 200 }
+			color = { 75 25 25 }
 		}
 		c_sindo = {
-			color { 200 200 200 }
+			color = { 145 10 10 }
 		}
 	}
 	d_uiju = {
 		color = { 65 142 155 }
 		capital = 303
 		c_uiju = {
-			color { 200 200 200 }
+			color = { 95 0 0 }
 		}
 		c_sinuiju = {
-			color { 200 200 200 }
+			color = { 170 25 25 }
 		}
 		c_pihyon = {
-			color { 200 200 200 }
+			color = { 125 40 40 }
 		}
 	}
 	d_gusong = {
 		color = { 101 71 153 }
 		capital = 315
 		c_sakju = {
-			color { 200 200 200 }
+			color = { 220 40 40 }
 		}
 		c_chonma = {
-			color { 200 200 200 }
+			color = { 175 100 0 }
 		}
 		c_taegwan = {
-			color { 200 200 200 }
+			color = { 120 40 40 }
 		}
 		c_kusong = {
-			color { 200 200 200 }
+			color = { 180 90 90 }
 		}
 	}
 	d_huichon = {
 		color = { 188 213 255 }
 		capital = 319
 		c_huichon = {
-			color { 200 200 200 }
+			color = { 0 25 0 }
 		}
 		c_changsong = {
-			color { 200 200 200 }
+			color = { 180 45 45 }
 		}
 		c_tongchang = {
-			color { 200 200 200 }
+			color = { 180 80 0 }
 		}
 		c_usi = {
-			color { 200 200 200 }
+			color = { 60 120 0 }
 		}
 		c_unsan = {
-			color { 200 200 200 }
+			color = { 85 10 10 }
 		}
 		c_songwon = {
-			color { 200 200 200 }
+			color = { 0 200 10 }
 		}
 		c_hyangsan = {
-			color { 200 200 200 }
+			color = { 175 25 25 }
 		}
 		c_pyoktong = {
-			color { 200 200 200 }
+			color = { 225 45 45 }
 		}
 		c_tongsin = {
-			color { 200 200 200 }
+			color = { 0 250 0 }
 		}
 	}
 	d_ganggye = {
 		color = { 188 178 255 }
 		capital = 322
 		c_chosan = {
-			color { 200 200 200 }
+			color = { 0 120 60 }
 		}
 		c_kopung = {
-			color { 200 200 200 }
+			color = { 25 215 75 }
 		}
 		c_wiwon = {
-			color { 200 200 200 }
+			color = { 145 255 0 }
 		}
 		c_jonchon = {
-			color { 200 200 200 }
+			color = { 0 175 25 }
 		}
 		c_songgan = {
-			color { 200 200 200 }
+			color = { 120 220 45 }
 		}
 		c_ryongrim = {
-			color { 200 200 200 }
+			color = { 103 175 0 }
 		}
 	}
 	d_jasong = {
 		color = { 179 117 255 }
 		capital = 335
 		c_junggang = {
-			color { 200 200 200 }
+			color = { 45 175 0 }
 		}
 		c_jasong = {
-			color { 200 200 200 }
+			color = { 120 140 40 }
 		}
 		c_manpho = {
-			color { 200 200 200 }
+			color = { 100 255 100 }
 		}
 		c_sijung = {
-			color { 200 200 200 }
+			color = { 150 200 0 }
 		}
 		c_kanggye = {
-			color { 200 200 200 }
+			color = { 50 255 145 }
 		}
 		c_janggang = {
-			color { 200 200 200 }
+			color = { 50 190 120 }
 		}
 		c_hwapyeong = {
-			color { 200 200 200 }
+			color = { 20 100 20 }
 		}
 	}
 }

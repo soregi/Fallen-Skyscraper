@@ -5,70 +5,70 @@ k_Inner_mongolia = {
 		color = { 31 139 131 }
 		capital = 484
 		c_horchin = {
-			color = { 200 200 200 }
+			color = { 254 254 0 }
 		}
 		c_n_horchin = { 
-			color = { 200 200 200 }
+			color = { 77 77 0 }
 		}
 		c_s_horchin = {
-			color = { 200 200 200 }
+			color = { 143 143 0 }
 		}
 		c_kailu = { 
-			color = { 200 200 200 }
+			color = { 49 49 0 }
 		}
 		c_naiman = {
-			color = { 200 200 200 }
+			color = { 36 36 0 }
 		}
 		c_tongliao = {
-			color = { 200 200 200 }
+			color = { 112 226 0 }
 		}
 	}
 	d_chifeng = {
 		color = { 33 98 137 }
 		capital = 488
 		c_ongnyud = {
-			color = { 200 200 200 }
+			color = { 104 85 0 }
 		}
 		c_aohan = { 
-			color = { 200 200 200 }
+			color = { 195 85 0 }
 		}
 		c_baarin = {
-			color = { 200 200 200 }
+			color = { 198 120 0 }
 		}
 	}
 	d_chaoyang = {
 		color = { 32 166 72 }
 		capital = 442
 		c_chaoyang = {
-			color = { 200 200 200 }
+			color = { 101 161 0 }
 		}
 		c_lingyuan = {
-			color = { 200 200 200 }
+			color = { 227 195 0 }
 		}
 		c_fuxin = {
-			color = { 200 200 200 }
+			color = { 186 142 0 }
 		}
 		c_beipiao = {
-			color = { 200 200 200 }
+			color = { 189 105 0 }
 		}
 		c_zhangwu = { 
-			color = { 200 200 200 }
+			color = { 66 173 0 }
 		}
 	}
 	d_chifing = {
 		color = { 111 135 48 }
 		capital = 477
 		c_lishu = {
-			color = { 200 200 200 }
+			color = { 0 192 51 }
 		}
 		c_gongzhuling = {
-			color = { 200 200 200 }
+			color = { 0 104 91 }
 		}
 		c_shuangliao = {
-			color = { 200 200 200 }
+			color = { 0 129 252 }
 		}
 		c_changling = {
-			color = { 200 200 200 }
+			color = { 0 153 35 }
 		}
 	}
 }

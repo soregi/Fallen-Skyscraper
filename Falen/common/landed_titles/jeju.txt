@@ -9,13 +9,13 @@ k_jeju = {
 		capital = 66
 
 		c_jeju = {
-			color = { 200 200 200 }
+			color = { 255 127 0 }
 		}
 		c_jeongui = {
-			color = { 200 200 200 }
+			color = { 230 215 36 }
 		}
 		c_daejeong = {
-			color = { 200 200 200 }
+			color = { 164 107 41 }
 		}
 	}
 }

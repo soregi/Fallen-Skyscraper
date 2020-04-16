@@ -9,7 +9,7 @@ k_gyeonggi = {
 		capital = 160 #서울
 
 		c_seoul = {
-			color = { 213 36 142 }
+			color = { 127 0 38 }
 			b_jongno = {}
 		}
 	}
@@ -20,10 +20,10 @@ k_gyeonggi = {
 		capital = 181 #동대문
 
 		c_dongdaemun = {
-			color = { 200 200 200 }
+			color = { 227 110 138 }
 		}
 		c_dobong = {
-			color = { 200 200 200 }
+			color = { 227 167 107 }
 		}
 	}
 	
@@ -33,10 +33,10 @@ k_gyeonggi = {
 		capital = 179 #강남
 
 		c_gangnam = {
-			color = { 200 200 200 }
+			color = { 132 79 22 }
 		}
 		c_songpa = {
-			color = { 200 200 200 }
+			color = { 255 79 75 }
 		}
 	}
 	
@@ -46,10 +46,10 @@ k_gyeonggi = {
 		capital = 178 #영등포
 
 		c_yeongdeungpo = {
-			color = { 200 200 200 }
+			color = { 69 0 66 }
 		}
 		c_guro = {
-		color = { 200 200 200 }
+		color = { 113 82 141 }
 		}
 	}
 
@@ -59,10 +59,10 @@ k_gyeonggi = {
 		capital = 180
 
 		c_mapo = {
-			color = { 200 200 200 }
+			color = { 255 79 22 }
 		}
 		c_seodaemun = {
-			color = { 200 200 200 }
+			color = { 132 55 140 }
 		}
 	}
 	
@@ -72,7 +72,7 @@ k_gyeonggi = {
 		capital = 156
 
 		c_bucheon = {
-			color = { 200 200 200 }
+			color = { 224 60 0 }
 		}
 	}
 	
@@ -82,10 +82,10 @@ k_gyeonggi = {
 		capital = 188 #강화
 
 		c_ganghwa = {  
-			color = { 200 200 200 }
+			color = { 47 0 0 }
 		}
 		c_gimpo = {
-			color = { 200 200 200 }
+			color = { 127 38 0 }
 		}
 	}
 	
@@ -95,13 +95,13 @@ k_gyeonggi = {
 		capital = 155 #인천
 
 		c_incheon = {
-			color = { 200 200 200 }
+			color = { 214 0 0 }
 		}
 		c_yoengjongdo = {
-			color = { 200 200 200 }
+			color = { 252 76 0 }
 		}	
 		c_Gyeyang = {
-			color = { 200 200 200 }
+			color = { 141 63 0 }
 		}
 	}
 	
@@ -111,16 +111,16 @@ k_gyeonggi = {
 		capital = 168 #파주
 
 		c_paju = {
-			color = { 200 200 200 }
+			color = { 127 0 51 }
 		}
 		c_ilsan = {
-			color = { 200 200 200 }
+			color = { 255 50 38 }
 		}
 		c_goyang = {
-			color = { 200 200 200 }
+			color = { 127 38 38 }
 		}
 		c_munsan = {
-			color = { 200 200 200 }
+			color = { 127 57 51 }
 		}
 	}
 	
@@ -130,7 +130,7 @@ k_gyeonggi = {
 		capital = 175 #개성
 
 		c_kaesong = {
-			color = { 200 200 200 }
+			color = { 150 50 0 }
 		}
 		c_kaephung = {
 			color = { 200 200 200 }

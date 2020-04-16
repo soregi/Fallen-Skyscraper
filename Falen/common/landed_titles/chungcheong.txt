@@ -9,7 +9,7 @@ k_chungcheong = {
 		capital = 132 #천안
 
 		c_cheonan = {
-			color = { 102 146 31 }
+			color = { 26 70 26 }
 			b_cheonan = {} # 천안
 			b_seongjeong = {} # 성정
 			b_ssangyong = {} # 쌍용
@@ -19,7 +19,7 @@ k_chungcheong = {
 			b_mokcheon = {}
 		}
 		c_asan = {
-			color = { 78 150 21 }
+			color = { 0 204 0 }
 			b_asan = {}
 			b_onyang = {}
 			b_yeomchi = {}
@@ -29,7 +29,7 @@ k_chungcheong = {
 			b_dunpo = {}
 		}
 		c_jochiwon = {
-			color = { 89 142 20 }
+			color = { 103 166 0 }
 			b_jochiwon = {}
 			b_beonam = {}
 			b_juklim = {}
@@ -46,7 +46,7 @@ k_chungcheong = {
 		capital = 107 #청주
 
 		c_cheongju  = {
-			color = { 130 200 100 }
+			color = { 64 217 64 }
 			b_cheongju = {}
 			b_seowon = {}
 			b_sangdang = {}
@@ -56,7 +56,7 @@ k_chungcheong = {
 			b_gagyeong = {}
 		}
 		c_jincheon = {
-			color = { 142 213 115 }
+			color = { 127 217 0 }
 			b_jincheon = {}
 			b_iwol = {}
 			b_gwanghyewon = {}
@@ -66,7 +66,7 @@ k_chungcheong = {
 			b_munbaek = {}
 		}
 		c_boeun = {
-			color = { 135 196 104 }
+			color = { 127 217 64 }
 			b_boeun = {}
 			b_maro = {}
 			b_tanbu = {}
@@ -76,7 +76,7 @@ k_chungcheong = {
 			b_hoein = {}
 		}
 		c_jeungpyeong = {
-			color = { 200 200 200 }
+			color = { 4 76 4 }
 		}
 	}
 	
@@ -86,19 +86,19 @@ k_chungcheong = {
 		capital = 119 #충주
 
 		c_chungju = {
-			color = { 200 200 200 }
+			color = { 0 191 64 }
 		}
 		c_jecheon = {
-			color = { 200 200 200 }
+			color = { 45 190 5 }
 		}
 		c_eumseong = {
-			color = { 200 200 200 }
+			color = { 64 127 0 }
 		}
 		c_goesan = {
-			color = { 200 200 200 }
+			color = { 64 255 0 }
 		}
 		c_danyang = {
-			color = { 200 200 200 }
+			color = { 13 204 13 }
 		}
 	}
 	
@@ -108,19 +108,19 @@ k_chungcheong = {
 		capital = 117 #대전
 
 		c_daejeon = {
-			color = { 200 200 200 }
+			color = { 0 191 0 }
 		}
 		c_daedeok = {
-			color = { 200 200 200 }
+			color = { 122 255 97 }
 		}
 		c_Yuseong = {
-			color = { 200 200 200 }
+			color = { 59 141 72 }
 		}
 		c_gyeryoung = {
-			color = { 200 200 200 }
+			color = { 0 140 0 }
 		}
 		c_okcheon = {
-			color = { 200 200 200 }
+			color = { 26 178 26 }
 		}
 	}
 	
@@ -130,13 +130,13 @@ k_chungcheong = {
 		capital = 113 #공주
 
 		c_gongju = {
-			color = { 200 200 200 }
+			color = { 0 77 0 }
 		}
 		c_sejong = {
-			color = { 200 200 200 }
+			color = { 0 166 0 }
 		}
 		c_buyeo = {
-			color = { 200 200 200 }
+			color = { 0 89 0 }
 		}
 	}
 	
@@ -146,16 +146,16 @@ k_chungcheong = {
 		capital = 123 #서천
 
 		c_seocheon = {
-			color = { 200 200 200 }
+			color = { 0 38 0 }
 		}
 		c_gyuam = {
-			color = { 200 200 200 }
+			color = { 66 129 47 }
 		}
 		c_cheongyang = {
-			color = { 200 200 200 }
+			color = { 59 204 0 }
 		}
 		c_yugu = {
-			color = { 200 200 200 }
+			color = { 136 214 0 }
 		}
 	}
 	
@@ -165,13 +165,13 @@ k_chungcheong = {
 		capital = 124 #홍주
 
 		c_hongju = {
-			color = { 200 200 200 }
+			color = { 0 102 0 }
 		}
 		c_gwangcheon = {
-			color = { 200 200 200 }
+			color = { 122 198 104 }
 		}
 		c_boryeong = {
-			color = { 200 200 200 }
+			color = { 0 51 0 }
 		}
 	}
 	
@@ -181,19 +181,19 @@ k_chungcheong = {
 		capital = 110 #서산
 
 		c_seosan = {
-			color = { 200 200 200 }
+			color = { 0 127 0 }
 		}
 		c_taean = {
-			color = { 200 200 200 }
+			color = { 0 178 0 }
 		}
 		c_dangjin = {
-			color = { 200 200 200 }
+			color = { 0 153 0 }
 		}
 		c_yesan = {
-			color = { 200 200 200 }
+			color = { 0 242 0 }
 		}
 		c_ongjin = {
-			color = { 200 200 200 }
+			color = { 255 110 97 }
 		}
 	}
 }

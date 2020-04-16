@@ -9,16 +9,16 @@ k_gyeongsang = {
 		capital = 6
 
 		c_namhae = {
-			color = { 200 200 200 }
+			color = { 64 64 255 }
 		}
 		c_jinju = {
-			color = { 200 200 200 }
+			color = { 127 0 255 }
 		}
 		c_sacheon = {
-			color = { 200 200 200 }
+			color = { 0 64 255 }
 		}
 		c_hadong = {
-			color = { 200 200 200 }
+			color = { 127 64 255 }
 		}
 	}
 	d_geoje = {
@@ -27,13 +27,13 @@ k_gyeongsang = {
 		capital = 20
 
 		c_geoje = {
-			color = { 200 200 200 }
+			color = { 0 0 89 }
 		}
 		c_goseong = {
-			color = { 200 200 200 }
+			color = { 64 0 255 }
 		}
 		c_tongyeong = {
-			color = { 200 200 200 }
+			color = { 0 0 242 }
 		}
 	}
 	d_jinhae = {
@@ -42,13 +42,13 @@ k_gyeongsang = {
 		capital = 46
 
 		c_jinhae = {
-			color = { 200 200 200 }
+			color = { 199 0 255 }
 		}
 		c_masan = {
-			color = { 200 200 200 }
+			color = { 72 0 139 }
 		}
 		c_changwon = {
-			color = { 200 200 200 }
+			color = { 0 0 38 }
 		}
 	}
 	d_busan = {
@@ -57,16 +57,16 @@ k_gyeongsang = {
 		capital = 17
 
 		c_gangseo = {
-			color = { 200 200 200 }
+			color = { 132 0 201 }
 		}
 		c_busan = {
-			color = { 200 200 200 }
+			color = { 0 0 127 }
 		}
 		c_dongnae = {
-			color = { 200 200 200 }
+			color = { 95 77 255 }
 		}
 		c_gijang = {
-			color = { 200 200 200 }
+			color = { 13 0 170 }
 		}
 	}
 	d_gimhae = {
@@ -75,13 +75,13 @@ k_gyeongsang = {
 		capital = 14
 
 		c_gimhae = {
-			color = { 200 200 200 }
+			color = { 0 0 191 }
 		}
 		c_yangsan= {
-			color = { 200 200 200 }
+			color = { 10 10 255 }
 		}
 		c_miryang = {
-			color = { 200 200 200 }
+			color = { 0 0 115 }
 		}
 	}
 	d_miryang = {
@@ -90,16 +90,16 @@ k_gyeongsang = {
 		capital = 16
 
 		c_changnyeong = {
-			color = { 200 200 200 }
+			color = { 0 0 166 }
 		}
 		c_uiryeong = {
-			color = { 200 200 200 }
+			color = { 0 127 255 }
 		}
 		c_haman = {
-			color = { 200 200 200 }
+			color = { 0 0 204 }
 		}
 		c_hapcheon= {
-			color = { 200 200 200 }
+			color = { 35 70 90 }
 		}
 	}
 	d_gaya = {
@@ -108,16 +108,16 @@ k_gyeongsang = {
 		capital = 10
 
 		c_hamyang = {
-			color = { 200 200 200 }
+			color = { 127 127 255 }
 		}
 		c_sancheong = {
-			color = { 200 200 200 }
+			color = { 64 64 164 }
 		}
 		c_geochang = {
-			color = { 200 200 200 }
+			color = { 64 127 255 }
 		}
 		c_muju = {
-			color = { 200 200 200 }
+			color = { 77 0 0 }
 		}
 	}
 	d_sangju = {
@@ -126,16 +126,16 @@ k_gyeongsang = {
 		capital = 43
 
 		c_sangju = {
-			color = { 200 200 200 }
+			color = { 27 91 102 }
 		}
 		c_gimcheon = {
-			color = { 200 200 200 }
+			color = { 10 10 204 }
 		}
 		c_yeongdong = {
-			color = { 200 200 200 }
+			color = { 26 127 26 }
 		}
 		c_mungyeong= {
-			color = { 200 200 200 }
+			color = { 0 5 255 }
 		}
 	}
 	d_goryeong = {
@@ -144,13 +144,13 @@ k_gyeongsang = {
 		capital = 22
 
 		c_chilgok = {
-			color = { 200 200 200 }
+			color = { 22 0 77 }
 		}
 		c_seongju = {
-			color = { 200 200 200 }
+			color = { 0 0 178 }
 		}
 		c_goryeong = {
-			color = { 200 200 200 }
+			color = { 0 0 51 }
 		}
 	}
 	d_daegu = {
@@ -159,16 +159,16 @@ k_gyeongsang = {
 		capital = 19
 
 		c_daegu = {
-			color = { 200 200 200 }
+			color = { 0 0 102 }
 		}
 		c_palgong = {
-			color = { 200 200 200 }
+			color = { 50 100 167 }
 		}
 		c_dalseong = {
-			color = { 200 200 200 }
+			color = { 97 154 144 }
 		}
 		c_dasa = {
-			color = { 200 200 200 }
+			color = { 189 135 249 }
 		}
 	}
 	d_gyeongju = {
@@ -177,19 +177,19 @@ k_gyeongsang = {
 		capital = 26
 
 		c_yeongcheon = {
-			color = { 200 200 200 }
+			color = { 0 0 217 }
 		}
 		c_gyeongsan = {
-			color = { 200 200 200 }
+			color = { 0 0 140 }
 		}
 		c_gyeongju = {
-			color = { 200 200 200 }
+			color = { 0 0 77 }
 		}
 		c_cheongdo = {
-			color = { 200 200 200 }
+			color = { 0 0 26 }
 		}
 		c_eonyang = {
-			color = { 200 200 200 }
+			color = { 217 167 236 }
 		}
 	}
 	d_pohang = {
@@ -198,10 +198,10 @@ k_gyeongsang = {
 		capital = 27
 
 		c_heunghae = {
-			color = { 200 200 200 }
+			color = { 183 214 255 }
 		}
 		c_pohang = {
-			color = { 0 21 255 }
+			color = { 0 0 153 }
 			b_ocheon = {}
 			b_yeonil = {}
 			b_yangdeok = {}
@@ -211,13 +211,13 @@ k_gyeongsang = {
 			b_jecheol = {}
 		}
 		c_wolsong = {
-			color = { 200 200 200 }
+			color = { 66 117 145 }
 		}
 		c_ulsan = {
-			color = { 200 200 200 }
+			color = { 0 0 64 }
 		}
 		c_ulju = {
-			color = { 200 200 200 }
+			color = { 69 123 236 }
 		}
 	}
 	d_yeongdeok = {
@@ -226,16 +226,16 @@ k_gyeongsang = {
 		capital = 36
 
 		c_yeongdeok = {
-			color = { 200 200 200 }
+			color = { 0 102 204 }
 		}
 		c_cheongsong = {
-			color = { 200 200 200 }
+			color = { 51 0 178 }
 		}
 		c_yeongyang = {
-			color = { 200 200 200 }
+			color = { 51 127 255 }
 		}
 		c_uljin = {
-			color = { 200 200 200 }
+			color = { 77 77 255 }
 		}
 	}
 	d_gumi = {
@@ -244,13 +244,13 @@ k_gyeongsang = {
 		capital = 29
 
 		c_gumi = {
-			color = { 200 200 200 }
+			color = { 26 26 127 }
 		}
 		c_uiseong = {
-			color = { 200 200 200 }
+			color = { 38 51 102 }
 		}
 		c_gunwi = {
-			color = { 200 200 200 }
+			color = { 64 64 127 }
 		}
 	}
 	d_andong = {
@@ -259,16 +259,16 @@ k_gyeongsang = {
 		capital = 35
 
 		c_andong = {
-			color = { 200 200 200 }
+			color = { 38 38 217 }
 		}
 		c_bonghwa = {
-			color = { 200 200 200 }
+			color = { 115 115 204 }
 		}
 		c_yeongju = {
-			color = { 200 200 200 }
+			color = { 102 127 217 }
 		}
 		c_yecheon = {
-			color = { 200 200 200 }
+			color = { 26 51 153 }
 		}
 	}
 	d_ulleung = { 
@@ -277,7 +277,7 @@ k_gyeongsang = {
 		capital = 40
 
 		c_ulleung = {
-			color = { 29 35 109 }
+			color = { 45 10 50 }
 		}
 	}
 }

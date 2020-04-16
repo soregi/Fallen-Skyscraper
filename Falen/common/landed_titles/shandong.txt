@@ -5,69 +5,69 @@ k_shandong = {
 		color = { 202 108 181 }
 		capital = 507
 		c_qingdao = {
-			color = { 200 200 200 }
+			color = { 104 0 208 }
 		}
 		c_pingdu = {
-			color = { 200 200 200 }
+			color = { 47 0 73 }
 		}
 		c_laixi = {
-			color = { 200 200 200 }
+			color = { 98 0 70 }
 		}
 		c_jimo = {
-			color = { 200 200 200 }
+			color = { 136 0 255 }
 		}
 		c_laoshan = {
-			color = { 200 200 200 }
+			color = { 82 0 82 }
 		}
 		c_jiaozhou = {
-			color = { 200 200 200 }
+			color = { 136 0 13 }
 		}
 		c_chengyang = {
-			color = { 200 200 200 }
+			color = { 167 0 82 }
 		}
 	}
 	d_yantai = {
 		color = { 239 92 217 }
 		capital = 501
 		c_haiyang = {
-			color = { 200 200 200 }
+			color = { 148 0 183 }
 		}
 		c_laiyang = {
-			color = { 200 200 200 }
+			color = { 221 0 101 }
 		}
 		c_qixia = {
-			color = { 200 200 200 }
+			color = { 25 0 195 }
 		}
 		c_muping = {
-			color = { 200 200 200 }
+			color = { 97 0 59 }
 		}
 		c_fushan = {
-			color = { 200 200 200 }
+			color = { 148 0 66 }
 		}
 		c_penglai = {
-			color = { 200 200 200 }
+			color = { 236 0 113 }
 		}
 		c_longkou = {
-			color = { 200 200 200 }
+			color = { 91 0 113 }
 		}
 		c_zhaoyuan = {
-			color = { 200 200 200 }
+			color = { 179 0 34 }
 		}
 	}
 	d_weihai = {
 		color = { 255 174 201 }
 		capital = 495
 		c_wendeng = {
-			color = { 200 200 200 }
+			color = { 154 0 44 }
 		}
 		c_rushan = {
-			color = { 200 200 200 }
+			color = { 76 0 217 }
 		}
 		c_huancui = {
-			color = { 200 200 200 }
+			color = { 63 0 126 }
 		}
 		c_rongcheng = {
-			color = { 200 200 200 }
+			color = { 214 0 221 }
 		}	
 	}
 }

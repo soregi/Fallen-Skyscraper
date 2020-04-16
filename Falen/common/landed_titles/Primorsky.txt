@@ -5,44 +5,44 @@ k_primorsky = {
 		color = { 160 39 112 }
 		capital = 387
 		c_vladivostok = {
-			color = { 200 200 200 }
+			color = { 0 252 0 }
 		}
 		c_russky = {
-			color = { 200 200 200 }
+			color = { 0 88 0 }
 		}
 		c_khasansky = {
-			color = { 200 200 200 }
+			color = { 0 22 0 }
 		}
 		c_nadezhdinsky = {
-			color = { 200 200 200 }
+			color = { 0 57 0 }
 		}
 		c_ussuriysk = {
-			color = { 200 200 200 }
+			color = { 0 124 0 }
 		}
 		c_shkotovsky = {
-			color = { 200 200 200 }
+			color = { 0 174 0 }
 		}
 		c_fokino = {
-			color = { 200 200 200 }
+			color = { 0 62 0 }
 		}
 	}
 	d_ussuriysk = {
 		color = { 164 36 154 }
 		capital = 391
 		c_mikhailovsky = {
-			color = { 200 200 200 }
+			color = { 0 36 0 }
 		}
 		c_oktyabrsky = {
-			color = { 200 200 200 }
+			color = { 0 137 0 }
 		}
 		c_khorolsky = {
-			color = { 200 200 200 }
+			color = { 0 177 0 }
 		}
 		c_chernigovsky = {
-			color = { 200 200 200 }
+			color = { 0 226 0 }
 		}
 		c_pogranichny = {
-			color = { 200 200 200 }
+			color = { 0 49 0 }
 		}
 	}
 }
