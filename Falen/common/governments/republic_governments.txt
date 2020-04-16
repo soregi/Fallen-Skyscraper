@@ -186,6 +186,7 @@ republic_governments = {
 		court_size_modifier = 10
 	}
 	
+	# 세속공화정 작업중
 	secular_republic_government = {
 		preferred_holdings = { CITY }
 		allowed_holdings = { 
