@@ -1,0 +1,23 @@
+#서울
+k_civil_seoul = {
+	color={ 130 180 240 }
+	color2={ 255 255 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	culture = seoul
+	religion = koreanist
+}
+k_mil_seoul = {
+	color = { 240 17 17 }
+	color2 = { 255 20 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	culture = seoul
+	religion = koreanist
+}
