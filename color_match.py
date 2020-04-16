@@ -3,8 +3,9 @@ import re
 import csv
 
 
-#### 사용법: Fallen-Skyscraper 폴더, Readme 있는 모드 최상위폴더 거기에 넣고 실행하면 됨.
-#### 왜냐? 지금 open함수의 경로를 다 그걸 기준으로 잡아놧거든. 싫으면 직접 수정하셈.
+#### 이게 무슨 코드인가?
+#### definition.csv를 열고 색상정보를 가져와서 province.txt를 읽고 백작령 코드 가져와서 landed titles에 자동으로 매칭시켜주는 코드임
+#### 사용법: Fallen-Skyscraper 폴더, Readme 있는 모드 최상위폴더에 넣고 실행하면 됨. 지금 넣어놓은 위치.
 
 
 #### definition.csv에서 백작령의 이름과 color를 가져옴
