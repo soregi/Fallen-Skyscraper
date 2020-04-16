@@ -1,7 +1,7 @@
 4000001 = {
 	name = "Kim" # North Korea
 	culture = north_korean
-	religion = juche
+	religion = protestant # 김일성 전엔 원래 개신교가문 맞다
 	coat_of_arms = {
 		template = 0
 		layer = {
