@@ -28,7 +28,7 @@ world_jeju = {
 }
 world_jeolla = {
 	duchies = {
-		d_gunsan d_nonsan d_saemangeum d_jeonju d_muju d_Jeongeup d_gwangju d_naju d_haenam d_sinan d_gangjin d_yeosu d_namwon 
+		d_gunsan d_nonsan d_saemangeum d_jeonju d_muju d_jeongeup d_gwangju d_naju d_haenam d_sinan d_gangjin d_yeosu d_namwon 
 	}
 }
 world_gyeongsang = {

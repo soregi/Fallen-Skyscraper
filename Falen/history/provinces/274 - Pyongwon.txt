@@ -1,7 +1,7 @@
 # 274 - Pyongwon
 
 # County Title
-title = c_Phyongwon
+title = c_phyongwon
 
 # Settlements
 max_settlements = 5

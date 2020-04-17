@@ -1,7 +1,7 @@
 # 355 - Yong'gwang
 
 # County Title
-title = c_yeong`gwang
+title = c_h_yeonggwang
 
 # Settlements
 max_settlements = 3

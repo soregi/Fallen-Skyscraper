@@ -113,7 +113,7 @@ k_chungcheong = {
 		c_daedeok = {
 			color = { 122 255 97 }
 		}
-		c_Yuseong = {
+		c_yuseong = {
 			color = { 59 141 72 }
 		}
 		c_gyeryoung = {

@@ -1,7 +1,7 @@
 # 360 - Ragwon
 
 # County Title
-title = c_lak`won
+title = c_lakwon
 
 # Settlements
 max_settlements = 4

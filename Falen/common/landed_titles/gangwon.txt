@@ -180,7 +180,7 @@ k_gangwon = {
 		c_geumya = {
 			color = { 10 20 70 }
 		}
-		c_sudong'gu = {
+		c_sudonggu = {
 			color = { 10 10 45 }
 		}
 	}

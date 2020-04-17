@@ -86,7 +86,7 @@ k_jeolla = {
 		}
 	}
 	
-	d_Jeongeup = {
+	d_jeongeup = {
 		color = { 255 148 66 }
 
 		capital = 82

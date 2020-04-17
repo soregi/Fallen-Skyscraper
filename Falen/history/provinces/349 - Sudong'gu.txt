@@ -1,7 +1,7 @@
 # 349 - Sudong'gu
 
 # County Title
-title = c_sudong'gu
+title = c_sudonggu
 
 # Settlements
 max_settlements = 3

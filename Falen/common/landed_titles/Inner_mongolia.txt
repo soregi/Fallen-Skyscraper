@@ -1,4 +1,4 @@
-k_Inner_mongolia = {
+k_inner_mongolia = {
 	color = { 33 98 137 }
 	
 	d_tongliao = {

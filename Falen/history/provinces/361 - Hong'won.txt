@@ -1,7 +1,7 @@
 # 361 - Hong'won
 
 # County Title
-title = c_hong'won
+title = c_hongwon
 
 # Settlements
 max_settlements = 3

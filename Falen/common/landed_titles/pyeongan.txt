@@ -74,10 +74,10 @@ k_pyeongan = {
 		c_sunchon = {
 			color = { 210 0 0 }
 		}
-		c_Phyongsong = {
+		c_phyongsong = {
 			color = { 170 0 0 }
 		}
-		c_Phyongwon = {
+		c_phyongwon = {
 			color = { 25 0 0 }
 		}
 		c_sukchon = {

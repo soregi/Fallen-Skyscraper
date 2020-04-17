@@ -1,7 +1,7 @@
 # 373 - Myong'gan
 
 # County Title
-title = c_myeong'gan
+title = c_myeonggan
 
 # Settlements
 max_settlements = 4

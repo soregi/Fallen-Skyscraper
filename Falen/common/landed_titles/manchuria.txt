@@ -114,7 +114,7 @@ k_manchuria = {
 			color = { 0 136 95 }
 		}
 	}
-	d_Heilongjiang = {
+	d_heilongjiang = {
 		color = { 183 33 209 }
 		capital = 490
 		c_dongning = {

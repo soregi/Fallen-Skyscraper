@@ -100,7 +100,7 @@ k_gyeonggi = {
 		c_yoengjongdo = {
 			color = { 252 76 0 }
 		}	
-		c_Gyeyang = {
+		c_gyeyang = {
 			color = { 141 63 0 }
 		}
 	}

@@ -3,7 +3,7 @@ import re
 import csv
 
 
-#### 이게 무슨 코드인가?
+#### 코드 설명
 #### definition.csv를 열고 색상정보를 가져와서 province.txt를 읽고 백작령 코드 가져와서 landed titles에 자동으로 매칭시켜주는 코드임
 #### 사용법: Fallen-Skyscraper 폴더, Readme 있는 모드 최상위폴더에 넣고 실행하면 됨. 지금 넣어놓은 위치.
 
@@ -18,7 +18,7 @@ temp_file.close()
 
 #### provinces.txt에서 백작령 코드를 비교해서 리스트에 추가함.
 #### [백작령id, R, G, B, 이름, x, 백작령 코드]
-match_title = re.compile('title ?= ?c_[a-zA-Z0-9_]+')   # 'title = '찾는 정규식
+match_title = re.compile('title ?= ?c_[a-zA-Z0-9_]+')       # 'title = c_~'찾는 정규식
 for (path, dir, files) in os.walk('./Falen/history/provinces'):
     for file in files:
         filename, ext = os.path.splitext(file)
@@ -32,7 +32,7 @@ for (path, dir, files) in os.walk('./Falen/history/provinces'):
                     title_code = title_code[0].replace(' ', '').replace('title=', '')
                     for tuple in province_data:
                         if tuple[4] == title_name and len(tuple) == 6:
-                            if tuple[0] == '265':        # 중복지명 처리
+                            if tuple[0] == '265':       # 중복지명 예외처리
                                 tuple.append('c_yeonsan')
                                 break
                             elif tuple[0] == '374':
@@ -70,23 +70,14 @@ for (path, dir, files) in os.walk('./Falen/history/provinces'):
                 print(path+'/'+filename+ext+' 파일을 열 수 없거나 처리에 실패했습니다. 문의바람.')
 
 
-#for tuple in province_data:    # 테스트용
-#    if len(tuple) < 7:
-#        print(tuple)
-#    elif len(tuple) == 7:
-#        print(tuple)
-#    elif len(tuple) > 7:
-#        print(tuple)
-
-
 #### landed_titles.txt의 color를 찾아 바꿈.
-match_code = re.compile('^[^\n^#]*[ \t](c_[a-zA-Z0-9_]+)')    # 백작령 코드 찾는 정규식 
-match_color = re.compile('^[^\n^#]*[ \t]color ?= ?\{[^}]+\}')    # 백작령 코드 찾는 정규식 
+match_code = re.compile('^[^\n^#]*[ \t](c_[a-zA-Z0-9_]+)')      # 백작령 코드 찾는 정규식
+match_color = re.compile('^[^\n^#]*[ \t]color ?= ?\{[^}]+\}')       # 백작령 color 찾는 정규식
 for (path, dir, files) in os.walk('./Falen/common/landed_titles'):
     for filename in files:
         ext = os.path.splitext(filename)[-1]
         if ext == '.txt':
-            #try:
+            try:
                 temp_file = open(path+'/'+filename, 'r', encoding='UTF-8')
                 data = temp_file.read().split('\n')
                 temp_file.close()
@@ -108,5 +99,5 @@ for (path, dir, files) in os.walk('./Falen/common/landed_titles'):
                 temp_file = open(path+'/'+filename, 'w', encoding='UTF-8')
                 temp_file.write('\n'.join(data))
                 temp_file.close()
-            #except:
-                #print(path+'/'+filename+' 파일을 열 수 없거나 처리에 실패했습니다. 문의바람.')
+            except:
+                print(path+'/'+filename+' 파일을 열 수 없거나 처리에 실패했습니다. 문의바람.')

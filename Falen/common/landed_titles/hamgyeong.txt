@@ -23,10 +23,10 @@ k_hamgyeong = {
 	d_sinpo = {
 		color = { 226 85 74 }
 		capital = 362
-		c_lak`won = {
+		c_lakwon = {
 			color = { 80 40 110 }
 		}
-		c_hong'won = {
+		c_hongwon = {
 			color = { 75 20 100 }
 		}
 		c_sinpo = {
@@ -42,7 +42,7 @@ k_hamgyeong = {
 	d_gaema = {
 		color = { 255 53 231 }
 		capital = 357
-		c_yeong`gwang = {
+		c_h_yeonggwang = {
 			color = { 60 60 140 }
 		}
 		c_sinheung = {
@@ -140,7 +140,7 @@ k_hamgyeong = {
 		c_gilju = {
 			color = { 25 25 70 }
 		}
-		c_myeong'gan = {
+		c_myeonggan = {
 			color = { 45 80 160 }
 		}
 	}

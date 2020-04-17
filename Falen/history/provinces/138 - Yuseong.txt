@@ -1,7 +1,7 @@
 # 138 - Yuseong
 
 # County Title
-title = c_Yuseong
+title = c_yuseong
 
 # Settlements
 max_settlements = 5

@@ -1,7 +1,7 @@
 # 190 - Gyeyang
 
 # County Title
-title = c_Gyeyang
+title = c_gyeyang
 
 # Settlements
 max_settlements = 6

@@ -1,7 +1,7 @@
 # 275 - Pyongsong
 
 # County Title
-title = c_Phyongsong
+title = c_phyongsong
 
 # Settlements
 max_settlements = 5
