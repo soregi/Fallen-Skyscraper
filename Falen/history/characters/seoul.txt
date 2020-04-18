@@ -1,5 +1,5 @@
 2001 = {
-	name = "minuk"
+	name = "Minuk"
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
@@ -8,19 +8,19 @@
 	trait = proud
 	trait = ambitious
 	2198.7.15 = { birth=yes }
-	2267.8.19	 = { death=yes }
+	2267.8.19 = { death=yes }
 }
 2002 = {
-	name = "jihun"
+	name = "Jihun"
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
 	father = 2001
-	2222.2.22 = { brith = yes }
+	2222.2.22 = { birth = yes }
 	2288.8.8 = { death = yes }
 }
 2003 = {
-	name = "sanghyeok"
+	name = "Sanghyeok"
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
@@ -29,7 +29,7 @@
 	2289.3.7 = { death = yes }
 }
 2004 = {
-	name = "sangjun"
+	name = "Sangjun"
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
@@ -69,34 +69,34 @@
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
-	fathe = 2007
+	father = 2007
 	2344.4.4 = { birth = yes }
 	2377.7.7 = { death = yes }
 }
 2009 = {
-	name = "gobo"
+	name = "Gobo"
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
-	fathe = 2008
+	father = 2008
 	2366.6.6 = { birth = yes }
 	2411.1.11 = { death = yes }
 }
 2010 = {
-	name = "guryeo"
+	name = "Guryeo"
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
-	fathe = 2009
+	father = 2009
 	2399.9.9 = { birth = yes }
 	2433.3.3 = { death = yes }
 } 
 2011 = {
-	name = "seungju"
+	name = "Seungju"
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
-	fathe = 2010
+	father = 2010
 	2422.2.2 = { birth = yes }
 }
 2012 = {
@@ -104,7 +104,7 @@
 	dynasty = 4000006
 	religion="koreanist"
 	culture="seoul"
-	fathe = 2010
+	father = 2010
 	2419.9.17 = { birth = yes }
 }
 2013 = {
@@ -124,7 +124,7 @@
 	2425.6.25 = { add_spouse=2013 }
 }
 2015 = {
-	name = "muhammad"
+	name = "Muhammad"
 	dynasty = 4000009
 	religion="sunni"
 	culture="bedouin_arabic"
@@ -170,7 +170,7 @@
 	dynasty = 4000011
 	religion="koreanist"
 	culture="seoul"
-	mather = 2020
+	mother = 2020
 	2338.4.3 = { birth = yes }
 	2387.7.26	 = { death = yes }
 }
@@ -197,7 +197,7 @@
 	dynasty = 4000011
 	religion="koreanist"
 	culture="seoul"
-	mather = 2023
+	mother = 2023
 	2406.5.5 = { birth = yes }
 }
 2025 = {
@@ -215,7 +215,7 @@
 	religion="koreanist"
 	culture="seoul"
 	father = 2024
-	mather = 2025
+	mother = 2025
 	2442.1.12 = { birth = yes }
 }
 2027 = {
@@ -235,7 +235,7 @@
 	culture="seoul"
 	trait = genius
 	father = 2023
-	mather = 2027
+	mother = 2027
 	2439.12.7 = { birth = yes }
 }
 2029 = {
@@ -355,7 +355,7 @@
 	religion="koreanist"
 	culture="seoul"
 	father = 2045
-	mather = 2046
+	mother = 2046
 	2401.12.15 = { birth = yes }
 	2421.12.15 = { add_spouse=2047 }
 }
@@ -383,7 +383,7 @@
 	religion="koreanist"
 	culture="seoul"
 	father = 2040
-	mather = 2041
+	mother = 2041
 	2324.8.19 = { birth = yes }
 }
 2048 = {
@@ -392,6 +392,6 @@
 	religion="koreanist"
 	culture="seoul"
 	father = 2044
-	mather = 2047
+	mother = 2047
 	2439.10.5 = { birth = yes }
 }

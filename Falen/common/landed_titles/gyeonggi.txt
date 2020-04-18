@@ -262,7 +262,7 @@ k_gyeonggi = {
 		c_dongtan = {
 			color = { 255 47 0 }
 		}
-		c_gwaseong = {
+		c_hwaseong = {
 			color = { 87 0 0 }
 		}
 	}

@@ -1,7 +1,7 @@
-# 145 - Gwaseong
+# 145 - Hwaseong
 
 # County Title
-title = c_gwaseong
+title = c_hwaseong
 
 # Settlements
 max_settlements = 6

@@ -1,4 +1,4 @@
-max_provinces = 557
+max_provinces = 2059
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -27,7 +27,7 @@ tree = { 3 4 7 10 }
 
 major_rivers = 
 { 
-	
+
 }
 
-externals = {  } # Silkroad Paths to china
+externals = { } # Silkroad Paths to china
