@@ -1,6 +1,6 @@
 401 = {
 	name = "Il-Sung"
-	dynasty = 4000001 # Kim(North Korean)
+	dynasty = 4000401 # Kim(North Korean)
 	culture = north_korean
 	religion = protestant
 	trait = ancient
@@ -23,7 +23,7 @@
 }
 402 = {
 	name = "Jong-Il"
-	dynasty = 4000001
+	dynasty = 4000401
 	father = 401
 	culture = north_korean
 	religion = juche
@@ -36,7 +36,7 @@
 }
 403 = {
 	name = "Jong-Un"
-	dynasty = 4000001
+	dynasty = 4000401
 	father = 402
 	culture = north_korean
 	religion = juche
@@ -49,7 +49,7 @@
 }
 404 = {
 	name = "Unknown descents"
-	dynasty = 4000001
+	dynasty = 4000401
 	father = 403
 	culture = north_korean
 	religion = juche
@@ -62,7 +62,7 @@
 }
 405 = {
 	name = "Kunyuk" # 근육
-	dynasty = 4000001
+	dynasty = 4000401
 	father = 404
 	culture = jagang
 	religion = juche
