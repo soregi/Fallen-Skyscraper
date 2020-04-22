@@ -1,0 +1,388 @@
+# 만주 501~
+501 = {
+	name = "gabsu"	# 갑수
+	dynasty = 4000501 # 최
+	culture = chaoxian	# 조선족
+	religion = stalinist	# 스탈린주의
+	2399.5.27 = {
+		birth = yes
+	}
+	2415.5.27 = {
+		add_spouse = 502
+	}
+	2499.5.27 = {
+		death = yes
+	}
+}
+502 = {
+	name = "Nazezda"	# 나제즈다
+	female = yes
+	dynasty = 4000502	# 아르만트
+	culture = russian	# 러시아
+	religion = marxist	# 맑시즘
+	trait = twin
+	2403.7.17 = {
+		birth = yes
+	}
+	2503.7.17 = {
+		death = yes
+	}
+}
+503 = {
+	name = "Rosa"	# 로자
+	female = yes
+	dynasty = 4000502	# 아르만트
+	culture = russian	# 러시아
+	religion = left_communism	# 평의회주의
+	trait = twin
+	2403.7.17 = {
+		birth = yes
+	}
+	2503.7.17 = {
+		death = yes
+	}
+}
+504 = {
+	name = "Leo"	# 레오
+	mother = 503
+	dynasty = 4000502	# 아르만트
+	culture = russian	# 러시아
+	religion = left_communism	# 평의회주의
+	2426.9.23 = {
+		birth = yes
+	}
+	2526.9.23 = {
+		death = yes
+	}
+}
+505 = {
+	name = "Margarita"	# 마가리타
+	female = yes
+	mother = 503
+	dynasty = 4000502	# 아르만트
+	culture = russian	# 러시아
+	religion = left_communism	# 평의회주의
+	2431.6.30 = {
+		birth = yes
+	}
+	2531.6.30 = {
+		death = yes
+	}
+}
+506 = {
+	name = "Constantinope"	# 콘스탄티노프
+	female = yes
+	dynasty = 4000503	# 꼴론따이
+	culture = russian	# 러시아
+	religion = trotskist	# 트로츠키주의
+	2402.4.18 = {
+		birth = yes
+	}
+	2418.4.18 = {
+		add_matrilineal_spouse = 512
+	}
+	2502.4.18 = {
+		death = yes
+	}
+}
+507 = {
+	name = "Flora"	# 플로라
+	female = yes
+	mother = 506
+	dynasty = 4000503	# 꼴론따이
+	culture = russian	# 러시아
+	religion = trotskist	# 트로츠키주의
+	2424.8.3 = {
+		birth = yes
+	}
+	2524.8.3 = {
+		death = yes
+	}
+}
+508 = {
+	name = "Victor"	# 빅또르
+	mother = 509
+	dynasty = 4000504	# 안드로포프
+	culture = russian	# 러시아
+	religion = social_democratic	# 사민주의
+	2430.6.26 = {
+		birth = yes
+	}
+	2530.6.26 = {
+		death = yes
+	}
+}
+509 = {
+	name = "Rita"	# 리타
+	female = yes
+	dynasty = 4000505	# 울리야노프
+	culture = russian	# 러시아
+	religion = social_democratic	# 사민주의
+	2404.7.8 = {
+		birth = yes
+	}
+	2504.7.8 = {
+		death = yes
+	}
+}
+510 = {
+	name = "Pyotor"	# 표또르
+	dynasty = 4000504	# 안드로포프
+	culture = russian	# 러시아
+	religion = social_democratic	# 사민주의
+	2403.8.2 = {
+		birth = yes
+	}
+	2419.8.2 = {
+		add_spouse = 509
+	}
+	2439.2.22 = {
+		death = yes
+	}
+}
+511 = {
+	name = "Woojin"	# 우진
+	father = 501
+	mother = 502
+	dynasty = 4000501	# 최
+	culture = russian	# 러시아
+	religion = stalinist	# 스탈린주의
+	2425.5.8 = {
+		birth = yes
+	}
+	2525.5.8 = {
+		death = yes
+	}
+}
+512 = {
+	name = "Iosif"	# 이오시프
+	dynasty = none
+	culture = russian	# 러시아
+	religion = trotskist	# 트로츠키주의
+	2400.1.1 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+
+# 건주왕국
+514 = {
+	name = "Nyau"	# 냐우
+	father = 531
+	dynasty = 4000507	# 아이산기오로
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2415.4.5 = {
+		birth = yes
+	}
+	2515.4.5 = {
+		death = yes
+	}
+}
+515 = {
+	name = "Dyabakeu"	# 댜바크
+	father = 531
+	dynasty = 4000507	# 아이산기오로
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2417.7.12 = {
+		birth = yes
+	}
+	2517.7.12 = {
+		death = yes
+	}
+}
+516 = {
+	name = "Nyau"	# 냐우
+	dynasty = 4000508	# 원린
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2415.9.10 = {
+		birth = yes
+	}
+	2515.9.10 = {
+		death = yes
+	}
+}
+517 = {
+	name = "Muchan"	# 무찬
+	father = 531
+	dynasty = 4000507	# 아이산기오로
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2411.1.4 = {
+		birth = yes
+	}
+	2511.1.4 = {
+		death = yes
+	}
+}
+518 = {
+	name = "Kwak-Lan"	# 곽란
+	dynasty = 4000509	# 굉
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2411.11.28 = {
+		birth = yes
+	}
+	2511.11.28 = {
+		death = yes
+	}
+}
+519 = {
+	name = "Luneuchahi"	# 루느차히
+	dynasty = 4000507	# 아이산기오로
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2425.12.31 = {
+		birth = yes
+	}
+	2525.12.31 = {
+		death = yes
+	}
+}
+520 = {
+	name = "Chuha"	# 추하
+	dynasty = 4000510	# 고롼
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2420.7.23 = {
+		birth = yes
+	}
+	2520.7.23 = {
+		death = yes
+	}
+}
+521 = {
+	name = "Chakalaha"	# 차칼라하
+	father = 518
+	dynasty = 4000509	# 굉
+	culture = 	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2427.2.14 = {
+		birth = yes
+	}
+	2527.2.14 = {
+		death = yes
+	}
+}
+523 = {
+	name = "Berucci"	# 베루치
+	dynasty = 4000511	# 완안
+	culture = 	# 해서
+	religion = wanyan	# 완안씨 숭배
+	2414.1.23 = {
+		birth = yes
+	}
+	2514.1.23 = {
+		death = yes
+	}
+}
+524 = {
+	name = "Liu"	# 리우
+	dynasty = 4000512	# 귐
+	culture = 	# 해서
+	religion = wanyan	# 완안씨 숭배
+	2417.2.29 = {
+		birth = yes
+	}
+	2517.2.29 = {
+		death = yes
+	}
+}
+525 = {
+	name = "Guchona"	# 구초나
+	dynasty = 4000511	# 완안
+	culture = 	# 해서
+	religion = wanyan	# 완안씨 숭배
+	2412.12.31 = {
+		birth = yes
+	}
+	2512.12.31 = {
+		death = yes
+	}
+}
+526 = {
+	name = "Angoloma"	# 앙골오마
+	dynasty = 4000511	# 완안
+	culture = 	# 해서
+	religion = wanyan	# 완안씨 숭배
+	2421.3.16 = {
+		birth = yes
+	}
+	2521.3.16 = {
+		death = yes
+	}
+}
+527 = {
+	name = "Zia"	# 지아
+	dynasty = 4000513	# 이
+	culture = 	# 해서
+	religion = wanyan	# 완안씨 숭배
+	2419.3.16 = {
+		birth = yes
+	}
+	2519.3.16 = {
+		death = yes
+	}
+}
+528 = {
+	name = "Leah"	# 리아
+	dynasty = 4000514	# 궁니
+	culture = 	# 해서
+	religion = wanyan	# 완안씨 숭배
+	2427.12.31 = {
+		birth = yes
+	}
+	2527.12.31 = {
+		death = yes
+	}
+}
+529 = {
+	name = "Arok"	# 아록
+	dynasty = 4000511	# 완안
+	culture = 	# 해서
+	religion = wanyan	# 완안씨 숭배
+	2421.1.1 = {
+		birth = yes
+	}
+	2521.1.1 = {
+		death = yes
+	}
+}
+536 = {
+	name = "Gurian"	# 구리안
+	father = 531
+	dynasty = 4000507	# 아이산기오로
+	culture = russian	# 러시아
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2419.10.31 = {
+		birth = yes
+	}
+	2519.10.31 = {
+		death = yes
+	}
+}
+537 = {
+	name = "Likonyaod"	# 리코냐옫
+	father = 531
+	dynasty = 4000507	# 아이산기오로
+	culture = russian	# 러시아
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	2413.5.17 = {
+		birth = yes
+	}
+	2513.5.17 = {
+		death = yes
+	}
+}
+
+# 해서왕국
+
+# 건주 조상
+
+# 건주왕 가족
+
+# 해서 조상
