@@ -167,7 +167,8 @@ south_koreanic = {
 		dynasty_title_names = no
 		
 		from_dynasty_prefix = ""
-		
+		allow_looting = yes
+		seafarer = yes
 		modifier = default_culture_modifier
 	}
 	yeongnam = {

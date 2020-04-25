@@ -1,4 +1,4 @@
-4000001 = {
+4000401 = {
 	name = "Kim" # North Korea
 	culture = north_korean
 	religion = protestant # 김일성 전엔 원래 개신교가문 맞다

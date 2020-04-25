@@ -418,6 +418,16 @@
 	religion = protestant
 	2404.2.1 = { birth = yes }
 }
+1538 = {
+	name = "Dahee"
+	female = yes
+	dynasty = 4000002 # Kim
+	father = 1526
+	culture = sinan
+	religion = protestant
+	2405.5.16 = { birth = yes }
+	2470.1.1 = { death = yes }
+}
 # Seo Family of Heuksan
 1541 = {
 	name = "Seokmun"
@@ -437,3 +447,119 @@
 	2169.5.5 = { birth = yes }
 	2238.6.11 = { death = yes }
 }
+1543 = {
+	name = "Hoseong"
+	father = 1542
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2191.6.13 = { birth = yes }
+	2263.4.1 = { death = yes }
+}
+1544 = {
+	name = "Miyeok"
+	father = 1543
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2230.5.11 = { birth = yes }
+	2293.5.7 = { 
+		death = {
+			death_reason = death_execution
+			killer = 1510
+		}
+	}
+}
+1545 = {
+	name = "Hong'eo"
+	father = 1544
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2270.4.6 = { birth = yes }
+	2322.5.6 = { death = yes }
+}
+1546 = {
+	name = "Cheolsu"
+	father = 1545
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2298.3.14 = { birth = yes }
+	2341.3.2 = {
+		death = {
+			death_reason = death_execution
+			killer = 1516
+		}
+	}
+}
+1547 = {
+	name = "Seungho"
+	father = 1546
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2328.12.25 = { birth = yes }
+	2382.3.11 = { death = yes }
+}
+1548 = {
+	name = "Suhan"
+	father = 1547
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2357.8.25 = { birth = yes }
+	2393.1.15 = { death = yes }
+}
+1549 = {
+	name = "Byeongsu"
+	father = 1548
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2375.5.11 = { birth = yes }
+	2423.11.25 = { death = yes }
+}
+1550 = {
+	name = "Cheonghae"
+	father = 1549
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	trait = depressed
+	2401.12.13 = { birth = yes }
+	2418.1.1 = { add_spouse = 1538 }
+	2443.11.15 = { death = { death_reason = death_trait } }
+}
+1551 = {
+	name = "Jeongman"
+	father = 1550
+	mother = 1538
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2419.5.13 = { birth = yes }
+	2443.10.2 = { death = { death_reason = death_poor_health } }
+}
+1552 = {
+	name = "Sujeong"
+	female = yes
+	father = 1550
+	mother = 1538
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2423.5.1 = { birth = yes }
+	2480.1.1 = { death = yes }
+}
+1553 = {
+	name = "Mansu"
+	father = 1550
+	mother = 1538
+	dynasty = 4000003 # Seo
+	culture = sinan
+	religion = protestant
+	2426.9.1 = { birth = yes }
+	2490.1.1 = { death = yes }
+}
+# Choi Dynasty of Gogun
