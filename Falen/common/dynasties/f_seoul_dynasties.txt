@@ -1,0 +1,120 @@
+4001801 = {
+	name = "Yang"
+	culture = seoul 
+	religion = koreanist
+}
+4001802 = {
+	name = "jeong"
+	culture = seoul 
+	religion = koreanist
+}
+4001803 = {
+	name = "Bek"
+	culture = seoul 
+	religion = koreanist
+}
+4001804 = {
+	name = "Hatsan"
+	culture = seoul 
+	religion = koreanist
+}
+4001805 = {
+	name = "Wang"
+	culture = seoul 
+	religion = koreanist
+}
+4001806 = {
+	name = "O"
+	culture = seoul 
+	religion = koreanist
+}
+4001807 = {
+	name = "Yuk"
+	culture = seoul 
+	religion = koreanist
+}
+4001808 = {
+	name = "Chae"
+	culture = seoul 
+	religion = koreanist
+}
+4001809 = {
+	name = "Yu"
+	culture = seoul 
+	religion = koreanist
+}
+4001810 = {
+	name = "Lyu"
+	culture = seoul 
+	religion = koreanist
+}
+4001811 = {
+	name = "Ha"
+	culture = seoul 
+	religion = koreanist
+}
+4001812 = {
+	name = "Gong"
+	culture = seoul 
+	religion = koreanist
+}
+4001813 = {
+	name = "Min"
+	culture = seoul 
+	religion = koreanist
+}
+4001814 = {
+	name = "Um"
+	culture = seoul 
+	religion = koreanist
+}
+400115 = {
+	name = "Kye"
+	culture = seoul 
+	religion = koreanist
+}
+4001816 = {
+	name = "No"
+	culture = seoul 
+	religion = koreanist
+}
+4001817 = {
+	name = "Bak"
+	culture = seoul 
+	religion = koreanist
+}
+4001818 = {
+	name = "U"
+	culture = seoul 
+	religion = koreanist
+}
+4001819 = {
+	name = "Seong"
+	culture = seoul 
+	religion = koreanist
+}
+4001820 = {
+	name = "Go"
+	culture = seoul 
+	religion = koreanist
+}
+4001821 = {
+	name = "Chu"
+	culture = seoul 
+	religion = koreanist
+}
+4001822 = {
+	name = "Bak"
+	culture = seoul 
+	religion = koreanist
+}
+4001823 = {
+	name = "Hwang"
+	culture = seoul 
+	religion = koreanist
+}
+4001824 = {
+	name = "Ahn"
+	culture = seoul 
+	religion = koreanist
+}
