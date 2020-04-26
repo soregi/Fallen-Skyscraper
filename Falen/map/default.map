@@ -16,7 +16,7 @@ static = "statics"
 seasons = "seasons.txt"
 
 # Seas
-sea_zones = { 516 556 }
+sea_zones = { 516 557 }
 
 ocean_region = {
 	sea_zones = { 1 }
@@ -27,7 +27,11 @@ tree = { 3 4 7 10 }
 
 major_rivers = 
 { 
-
+	564 565 566 567 # 낙동강/Nakdong
+	568 569 570 571 572 573 574 # Yalu
+	575 576 577 # Taedong
+	578 579 580 581 582 583 584 # Han
+	585 586 # Imjin
 }
 
 externals = { } # Silkroad Paths to china
