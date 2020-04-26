@@ -1,4 +1,4 @@
-# 104 - sinan # Jido
+# 104 - Jido # Jido
 
 # County Title
 title = c_jido

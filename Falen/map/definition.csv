@@ -102,7 +102,7 @@ provinces;red;green;blue;x;x
 101;214;116;41;Wanju;x
 102;233;123;95;Taein;x
 103;255;32;9;Jiri;x
-104;249;104;54;sinan;x
+104;249;104;54;Jido;x
 105;202;73;126;Heuksan;x
 106;204;102;66;Gogun;x
 107;64;217;64;Cheongju;x
@@ -172,7 +172,7 @@ provinces;red;green;blue;x;x
 171;150;0;0;Pocheon;x
 172;124;25;25;Dongducheon;x
 173;200;10;10;Yeoncheon;x
-174;150;10;50;Pungsan;x
+174;150;10;50;Pungsan;x # 장풍(Jangphung)
 175;150;50;0;Kaesong;x
 176;198;22;123;Jangdan;x
 177;144;63;0;Cheongpyeong;x
@@ -555,3 +555,10 @@ provinces;red;green;blue;x;x
 554;200;200;250;;x
 555;2;201;155;;x
 556;0;148;255;;x
+557;0;48;143;;x
+558;103;175;60;;x
+559;2;81;135;;x # Bay of Vladivostok
+560;255;20;0;Geomundo;x # Port Hamilton
+561;198;38;217;West Andong;x #
+562;38;38;78;Yean;x # 예안
+563;38;122;217;Imha;x # 임하
