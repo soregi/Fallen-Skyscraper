@@ -22,6 +22,9 @@ k_inner_mongolia = {
 		c_tongliao = {
 			color = { 112 226 0 }
 		}
+		c_hure = {
+			color = { 226 226 0 }
+		}
 	}
 	d_chifeng = {
 		color = { 33 98 137 }
@@ -53,6 +56,9 @@ k_inner_mongolia = {
 		}
 		c_zhangwu = { 
 			color = { 66 173 0 }
+		}
+		c_jianping = { 
+			color = { 227 195 0 }
 		}
 	}
 	d_chifing = {
