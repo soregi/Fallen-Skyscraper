@@ -25,6 +25,12 @@ k_shandong = {
 		c_chengyang = {
 			color = { 167 0 82 }
 		}
+		c_gaomi = {
+			color = { 20 0 20 }
+		}
+		c_huangdao = {
+			color = { 115 65 140 }
+		}
 	}
 	d_yantai = {
 		color = { 239 92 217 }
@@ -52,6 +58,9 @@ k_shandong = {
 		}
 		c_zhaoyuan = {
 			color = { 179 0 34 }
+		}
+		c_laizhou = {
+			color = { 60 10 75 }
 		}
 	}
 	d_weihai = {
