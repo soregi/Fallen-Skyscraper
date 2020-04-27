@@ -1,0 +1,10 @@
+# 590 - Jiaozhou
+
+# County Title
+title = c_jiaozhou
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = tsingtao
+religion = protestant

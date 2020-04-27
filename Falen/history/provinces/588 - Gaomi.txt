@@ -1,0 +1,9 @@
+# 588 - Gaomi
+# County Title
+title = c_gaomi
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = qingdao
+religion = taoist

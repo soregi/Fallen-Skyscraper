@@ -1,0 +1,10 @@
+# 594 - Gongchongling
+
+# County Title
+title = c_gongchongling
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yalu
+religion = tengri_pagan

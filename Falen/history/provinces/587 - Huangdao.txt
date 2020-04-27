@@ -1,0 +1,10 @@
+# 587 - Huangdao
+
+# County Title
+title = c_huangdao
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = tsingtao
+religion = protestant

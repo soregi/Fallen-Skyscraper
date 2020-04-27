@@ -1,0 +1,10 @@
+# 592 - Liaozhong
+
+# County Title
+title = c_liaozhong
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yalu
+religion = tengri_pagan

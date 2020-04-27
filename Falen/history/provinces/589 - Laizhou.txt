@@ -1,0 +1,10 @@
+# 589 - Laizhou
+
+# County Title
+title = c_laizhou
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = yantai
+religion = taoist

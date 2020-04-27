@@ -1,0 +1,10 @@
+# 563 - Yongsan
+
+# County Title
+title = c_yongsan
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = seoul
+religion = koreanist
