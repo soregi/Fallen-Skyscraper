@@ -1,0 +1,4 @@
+2425.9.16 = {
+	liege = k_mil_seoul
+	holder = 2015 
+}
