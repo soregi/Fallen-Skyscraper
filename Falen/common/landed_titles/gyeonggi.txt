@@ -12,6 +12,9 @@ k_gyeonggi = {
 			color = { 127 0 38 }
 			b_jongno = {}
 		}
+		c_yongsan = {
+			color = { 91 5 38 }
+		}
 	}
 	
 	d_dongdaemun = { 
