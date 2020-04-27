@@ -1,0 +1,4 @@
+2406.4.12 = {
+	liege = d_anyang
+	holder = 2039
+}

@@ -1,0 +1,4 @@
+2417.6.6 = {
+	liege = d_ganghwa
+	holder = 2032
+}

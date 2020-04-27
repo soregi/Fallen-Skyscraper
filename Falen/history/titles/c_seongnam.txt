@@ -1,0 +1,4 @@
+2426.2.6 = {
+	liege = k_civil_seoul
+	holder = 2042
+}

@@ -1,0 +1,4 @@
+2424.2.4 = {
+	liege = d_ansan
+	holder = 2037
+}

@@ -1,0 +1,7 @@
+2356.8.29 = {
+	liege = k_civil_seoul
+	holder = 2029
+}
+2432.10.19 = {
+	holder = 2030
+}
