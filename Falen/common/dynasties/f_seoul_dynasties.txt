@@ -4,7 +4,7 @@
 	religion = koreanist
 }
 4001802 = {
-	name = "jeong"
+	name = "Jeong"
 	culture = seoul 
 	religion = koreanist
 }
@@ -14,7 +14,7 @@
 	religion = koreanist
 }
 4001804 = {
-	name = "Hatsan"
+	name = "Hassan"
 	culture = seoul 
 	religion = koreanist
 }
@@ -64,7 +64,7 @@
 	religion = koreanist
 }
 4001814 = {
-	name = "Um"
+	name = "Eom"
 	culture = seoul 
 	religion = koreanist
 }
