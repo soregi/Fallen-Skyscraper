@@ -50,9 +50,23 @@ k_hamgyeong = {
 		}
 		c_jangjin = {
 			color = { 80 40 100 }
+			b_jangjin = {}
+			b_hwangcho = {}
+			b_yangji = {}
+			b_mangphung = {}
+			b_tonae = {}
+			b_sinnae = {}
+			b_jukjon = {}
 		}
 		c_bujeon = {
 			color = { 70 70 100 }
+			b_pujon = {}
+			b_chail = {}
+			b_hoban = {}
+			b_paegam = {}
+			b_munchon = {}
+			b_munam = {}
+			b_kwangdae = {}
 		}
 		c_rangrim = {
 			color = { 150 255 150 }
@@ -65,11 +79,25 @@ k_hamgyeong = {
 			b_munak = {}
 			b_ryubol = {}
 		}
-		c_pungsan = {
+		c_pungsan = { #김형권군
 			color = { 80 180 80 }
+			b_phungsan = {}
+			b_phyongsan = {}
+			b_jiksol = {}
+			b_sai = {}
+			b_hajigyong = {}
+			b_ryangpyong = {}
+			b_migam = {}
 		}
 		c_deokseong = {
 			color = { 72 94 255 }
+			b_toksong = {}
+			b_cholsan = {}
+			b_yangsung = {}
+			b_janghung = {}
+			b_changsong = {}
+			b_jungdol = {}
+			b_sangdong = {}
 		}
 	}
 	d_baekdu = {

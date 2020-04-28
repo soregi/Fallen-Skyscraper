@@ -6,12 +6,33 @@ k_pyeongan = {
 		capital = 271
 		c_pyongyang = {
 			color = { 75 0 0 }
+			b_pyongyang = {}
+			b_rakrang = {}
+			b_moranbong = {}
+			b_samsok = {} #삼석
+			b_unjong = {} #은정
+			b_phyongchon = {} #평천
+			b_tongdaewon = {} #동대원
 		}
 		c_ryokpho = {
 			color = { 217 78 28 }
+			b_ryokpho = {} #력포
+			b_sosin = {} #소신
+			b_jangjin = {} #장진
+			b_taehyon = {} #태현
+			b_ryuhyon = {} #류현
+			b_sosamjong = {} #소삼정
+			b_yang-um = {} #양음
 		}
 		c_sangwon = {
 			color = { 157 129 0 }
+			b_sangwon = {}
+			b_ryongchon = {} #령천
+			b_rungsong = {} #릉성
+			b_hugu = {} #흑우
+			b_kwiil = {} # 귀일
+			b_ryonggok = {} #룡곡
+			b_pondong = {} #번동
 		}
 		c_sungho = {
 			color = { 195 104 60 }
