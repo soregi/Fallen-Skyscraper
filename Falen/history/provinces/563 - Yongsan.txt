@@ -5,6 +5,9 @@ title = c_yongsan
 # Settlements
 max_settlements = 3
 
+b_yongsan = castle
+b_itaewon = temple
+
 # Misc
 culture = seoul
 religion = koreanist

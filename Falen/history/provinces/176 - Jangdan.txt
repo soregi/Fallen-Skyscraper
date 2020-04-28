@@ -1,7 +1,7 @@
 # 176 - Jangdan
 
 # County Title
-title = c_jangdan
+title = c_kaephung
 
 # Settlements
 max_settlements = 5

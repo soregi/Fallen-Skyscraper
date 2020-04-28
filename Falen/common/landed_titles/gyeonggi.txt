@@ -10,10 +10,19 @@ k_gyeonggi = {
 
 		c_seoul = {
 			color = { 127 0 38 }
-			b_jongno = {}
+			b_jongno = {} #종로
+			b_eulji = {} #을지
+			b_chungmu = {} #충무
+			b_jangchung = {} #장충
+			b_myeongdong = {} #명동
+			b_bukchon = {} #북촌
+			b_hyehwa = {} #혜화
 		}
 		c_yongsan = {
 			color = { 91 5 38 }
+			b_yongsan = {} #용산
+			b_itaewon = {} #이태원
+			
 		}
 	}
 	
@@ -24,9 +33,23 @@ k_gyeonggi = {
 
 		c_dongdaemun = {
 			color = { 227 110 138 }
+			b_dongdaemun = {}
+			b_gwangjin = {}
+			b_jungrang = {}
+			b_majang = {}
+			b_jayang = {}
+			b_mangu = {} #망우
+			b_wangsipri = {}
 		}
 		c_dobong = {
 			color = { 227 167 107 }
+			b_dobong = {}
+			b_seongbuk = {}
+			b_nowon = {}
+			b_ssangmun = {}
+			b_sanggye = {}
+			b_ui = {} #우이
+			b_bomun = {}
 		}
 	}
 	
@@ -37,9 +60,22 @@ k_gyeonggi = {
 
 		c_gangnam = {
 			color = { 132 79 22 }
+			b_gangnam = {}
+			b_apkujeong = {} #압구정
+			b_nonhyeon = {}
+			b_cheongdam = {}
+			b_seocho = {}
+			b_banpo = {}
 		}
 		c_songpa = {
 			color = { 255 79 75 }
+			b_songpa = {}
+			b_jamsil = {}
+			b_garak = {}
+			b_seokchon = {}
+			b_wirye = {}
+			b_gangil = {} #강일
+			b_cheonho = {}
 		}
 	}
 	
@@ -52,7 +88,7 @@ k_gyeonggi = {
 			color = { 69 0 66 }
 		}
 		c_guro = {
-		color = { 113 82 141 }
+			color = { 113 82 141 }
 		}
 	}
 

@@ -1,6 +1,6 @@
 k_manchuria = {
 	color = { 188 139 10 }
-	cpaital = 468
+	capital = 468
 	d_yanbian = {
 		color = { 199 5 95 }
 		capital = 446
