@@ -10,24 +10,24 @@ k_gangwon = {
 
 		c_donghae = {
 			color = { 75 175 0 }
-			b_donghae={}
-			b_guho={}
-			b_mukho={}
-			b_naan={}
-			b_songjong={}
-			b_samhwa={}
-			b_dongho={}
+			b_donghae = {}
+			b_guho = {}
+			b_mukho = {}
+			b_naan = {}
+			b_songjong = {}
+			b_samhwa = {}
+			b_dongho = {}
 
 		}
 		c_samcheok = {
-			color = { 50 255 50 }
-			b_samcheok={}
-			b_dogye={}
-			b_gagok={}
-			b_hosan={}
-			b_eupsang={}
-			b_namyang={}
-			b_dongmak={}
+			color  =  { 50 255 50 }
+			b_samcheok = {}
+			b_dogye = {}
+			b_gagok = {}
+			b_hosan = {}
+			b_eupsang = {}
+			b_namyang = {}
+			b_dongmak = {}
 		}
 		c_jeongseon = {
 			color = { 0 90 0 }
