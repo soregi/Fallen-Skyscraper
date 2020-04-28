@@ -10,6 +10,13 @@ k_gangwon = {
 
 		c_donghae = {
 			color = { 75 175 0 }
+			b_donghae={}
+			b_guho={}
+			b_samhwa={}
+			b_mukho={}
+			b_naan={}
+			b_songjong={}
+			b_dongho={}
 		}
 		c_samcheok = {
 			color = { 50 255 50 }
