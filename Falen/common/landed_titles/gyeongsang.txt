@@ -77,7 +77,7 @@ k_gyeongsang = {
 		c_gimhae = {
 			color = { 0 0 191 }
 		}
-		c_yangsan= {
+		c_yangsan = {
 			color = { 10 10 255 }
 		}
 		c_miryang = {
@@ -98,7 +98,7 @@ k_gyeongsang = {
 		c_haman = {
 			color = { 0 0 204 }
 		}
-		c_hapcheon= {
+		c_hapcheon = {
 			color = { 35 70 90 }
 		}
 	}
@@ -134,7 +134,7 @@ k_gyeongsang = {
 		c_yeongdong = {
 			color = { 26 127 26 }
 		}
-		c_mungyeong= {
+		c_mungyeong = {
 			color = { 0 5 255 }
 		}
 	}

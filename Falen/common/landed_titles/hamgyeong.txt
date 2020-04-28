@@ -134,7 +134,7 @@ k_hamgyeong = {
 		c_yeonsa = {
 			color = { 90 70 160 }
 		}
-		c_eorang= {
+		c_eorang = {
 			color = { 150 100 200 }
 		}
 		c_gilju = {
