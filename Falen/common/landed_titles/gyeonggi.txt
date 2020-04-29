@@ -297,12 +297,27 @@ k_gyeonggi = {
 
 		c_suwon = {
 			color = { 112 0 0 }
+			b_hwasong = {}
+			b_suwon = {}
+			b_yeongtong = {}
+			b_mangpo = {}
+			b_paldal = {}
+			b_jang'an = {}
+			b_gwonseon = {}
 		}
 		c_dongtan = {
 			color = { 255 47 0 }
+			b_dongtan_a = {}
+			b_dongtan_b = {}
 		}
 		c_hwaseong = {
 			color = { 87 0 0 }
+			b_hwaseong = {}
+			b_byeongjeom = {}
+			b_bibong = {}
+			b_ujeong = {}
+			b_yanggam = {}
+			b_seosin = {}
 		}
 	}
 	

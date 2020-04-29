@@ -5,7 +5,9 @@ title = c_hwaseong
 
 # Settlements
 max_settlements = 6
-
+b_hwaseong = castle
+b_byeongjeom = temple
+b_bibong = city
 # Misc
 culture = gyeonggi
 religion = koreanist
