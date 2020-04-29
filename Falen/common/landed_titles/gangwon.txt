@@ -31,12 +31,33 @@ k_gangwon = {
 		}
 		c_jeongseon = {
 			color = { 0 90 0 }
+b_jeongseon
+b_sindong
+b_bukpyeong
+b_yeoryang
+b_imgye
+b_mureung
 		}
 		c_taebek = {
 			color = { 25 100 25 }
+b_taebak
+b_sangjang
+b_samsu
+b_jangseong
+b_cheoram
+b_hwajeon
+b_jeokgak
 		}
 		c_yeongwol = {
+
 			color = { 0 50 0 }
+b_yeongwol
+b_jucheon
+b_suju
+b_deokpo
+b_ssangyong
+b_jungdong
+b_gimsatgat
 		}
 	}
 	d_east_wonju = {
@@ -46,12 +67,33 @@ k_gangwon = {
 
 		c_pyeongchang = {
 			color = { 0 225 0 }
+b_pyeongchang
+b_daehwa
+b_sinri
+b_yongpyeong
+b_jinbu
+b_daegwallyeong
 		}
 		c_hoengseong = {
 			color = { 0 160 0 }
+b_heongseong
+b_ucheon
+b_dunnae
+b_gonggeun
+b_cheongil
+b_bugok
 		}
 		c_east_wonju = {
 			color = { 0 110 0 }
+b_eastwonju
+b_hakseong
+b_myeongnyun
+b_bangok
+b_jangnam
+b_seocheo
+b_sillim
+Hakseong/myeongnyun/bangok/jangam/seocheo/sillim
+
 		}
 	}
 	d_west_wonju = {
