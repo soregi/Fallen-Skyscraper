@@ -100,7 +100,7 @@
 	2422.2.2 = { birth = yes }
 }
 2012 = {
-	name = "seungbo"
+	name = "Seungbo"
 	dynasty = 4001801
 	religion="koreanist"
 	culture="seoul"
@@ -108,14 +108,14 @@
 	2419.9.17 = { birth = yes }
 }
 2013 = {
-	name = "mongma"
+	name = "Mongma"
 	dynasty = 4001802
 	religion="koreanist"
 	culture="seoul"
 	2403.7.22 = { birth = yes }
 }		
 2014 = {
-	name = "jiyeong"
+	name = "Jiyeong"
 	female = yes
 	dynasty = 4001803
 	religion="koreanist"
@@ -131,7 +131,7 @@
 	2425.9.16 = { birth = yes }
 }		
 2016 = {
-	name = "sangkuk"
+	name = "Sangkuk"
 	dynasty = 4001805
 	religion="koreanist"
 	culture="seoul"
@@ -148,7 +148,7 @@
 	culture="seoul"
 }		
 2019 = {
-	name = "seongtae"
+	name = "Seongtae"
 	dynasty = 4001806
 	religion="koreanist"
 	culture="seoul"
@@ -166,7 +166,7 @@
 	2348.1.12	 = { death = yes }	
 }
 2021 = {
-	name = "guli"
+	name = "Guli"
 	dynasty = 4001806
 	religion="koreanist"
 	culture="seoul"
@@ -175,7 +175,7 @@
 	2387.7.26	 = { death = yes }
 }
 2022 = {
-	name = "sangtaek"
+	name = "Sangtaek"
 	dynasty = 4001806
 	religion="koreanist"
 	culture="seoul"
@@ -184,7 +184,7 @@
 	2435.9.16	 = { death = yes }
 }
 2023 = {
-	name = "ranhui"
+	name = "Ranhui"
 	female = yes
 	dynasty = 4001806
 	religion="koreanist"
@@ -193,7 +193,7 @@
 	2402.2.16 = { birth = yes }
 }
 2024 = {
-	name = "am"
+	name = "Am"
 	dynasty = 4001806
 	religion="koreanist"
 	culture="seoul"
@@ -201,7 +201,7 @@
 	2406.5.5 = { birth = yes }
 }
 2025 = {
-	name = "miae"
+	name = "Miae"
 	female = yes
 	dynasty = 4001807
 	religion="koreanist"
@@ -210,7 +210,7 @@
 	2429.10.12 = { add_spouse=2024 }
 }
 2026 = {
-	name = "ilpal"
+	name = "Ilpal"
 	dynasty = 4001806
 	religion="koreanist"
 	culture="seoul"
@@ -219,7 +219,7 @@
 	2442.1.12 = { birth = yes }
 }
 2027 = {
-	name = "suheon"
+	name = "Suheon"
 	dynasty = 4001808
 	religion="koreanist"
 	culture="seoul"
@@ -229,7 +229,7 @@
 	2443.8.16	 = { death = yes }
 }
 2028 = {
-	name = "sobung"
+	name = "Sobung"
 	dynasty = 4001808
 	religion="koreanist"
 	culture="seoul"
@@ -239,7 +239,7 @@
 	2439.12.7 = { birth = yes }
 }
 2029 = {
-	name = "horyeong"
+	name = "Horyeong"
 	dynasty = 4001809
 	religion="koreanist"
 	culture="seoul"
@@ -247,87 +247,87 @@
 	2432.10.19 = { death = yes }
 }		
 2030 = {
-	name = "bi"
+	name = "Bi"
 	dynasty = 4001809
 	religion="koreanist"
 	culture="seoul"
 	father = 2029
 	trait = zealous
 	trait = celibate
-	2395.4.14	 = { birth = yes }
+	2395.4.14 = { birth = yes }
 }
 2031 = {
-	name = "hanseong"
+	name = "Hanseong"
 	dynasty = 4001810
 	religion="koreanist"
 	culture="seoul"
 	2426.7.16	 = { birth = yes }
 }	
 2032 = {
-	name = "jinseong"
+	name = "Jinseong"
 	dynasty = 4001811
 	religion="koreanist"
 	culture="seoul"
 	2417.6.6 = { birth = yes }
 }	
 2033 = {
-	name = "hyeongjun"
+	name = "Hyeongjun"
 	dynasty = 4001812
 	religion="koreanist"
 	culture="seoul"
 	2420.1.1 = { birth = yes }
 }
 2034 = {
-	name = "hyeok"
+	name = "Hyeok"
 	dynasty = 4001813
 	religion="koreanist"
 	culture="seoul"
-	2417.9.16	 = { birth = yes }
+	2417.9.16 = { birth = yes }
 }
 2035 = {
-	name = "jungsik"
+	name = "Jungsik"
 	dynasty = 4001814
 	religion="koreanist"
 	culture="seoul"
-	2417.7.5	 = { birth = yes }
+	2417.7.5 = { birth = yes }
 }
 2036 = {
-	name = "dongan"
+	name = "Dongan"
 	dynasty = 400115
 	religion="koreanist"
 	culture="seoul"
-	2405.2.28	 = { birth = yes }
+	2405.2.28 = { birth = yes }
 }
 2037 = {
-	name = "mugeun"
+	name = "Mugeun"
 	dynasty = 4001816
 	religion="koreanist"
 	culture="seoul"
 	2424.2.4 = { birth = yes }
 }
 2038 = {
-	name = "geunha"
+	name = "Geunha"
 	dynasty = 4001817
 	religion="koreanist"
 	culture="seoul"
 	2421.4.14	 = { birth = yes }
 }
 2039 = {
-	name = "munye"
+	name = "Munye"
 	dynasty = 4001818
 	religion="koreanist"
 	culture="seoul"
 	2406.4.12	 = { birth = yes }
 }
 2040 = {
-	name = "namseon"
+	name = "Namseon"
 	dynasty = 4001819
 	religion="koreanist"
 	culture="seoul"
 	2396.4.15	 = { birth = yes }
 }
 2041 = {
-	name = "minju"
+	name = "Minju"
 	female = yes
 	dynasty = 4001820
 	religion="koreanist"
@@ -335,14 +335,14 @@
 	2400.1.1 = { birth = yes }
 }
 2042 = {
-	name = "minhyeok"
+	name = "Minhyeok"
 	dynasty = 4001821
 	religion="koreanist"
 	culture="seoul"
 	2426.2.6  = { birth = yes }
 }
 2043 = {
-	name = "gagyeong"
+	name = "Gagyeong"
 	female = yes
 	dynasty = 4001822
 	religion="koreanist"
@@ -350,7 +350,7 @@
 	2428.9.13	 = { birth = yes }
 }
 2044 = {
-	name = "jiyeop"
+	name = "Jiyeop"
 	dynasty = 4001823
 	religion="koreanist"
 	culture="seoul"
@@ -360,7 +360,7 @@
 	2421.12.15 = { add_spouse=2047 }
 }
 2045 = {
-	name = "gohun"
+	name = "Gohun"
 	dynasty = 4001823
 	religion="koreanist"
 	culture="seoul"
@@ -368,7 +368,7 @@
 	2413.6.7 = { death = yes }
 }
 2046 = {
-	name = "jeongsuk"
+	name = "Jeongsuk"
 	female = yes
 	dynasty = 4001824
 	religion="koreanist"
@@ -377,7 +377,7 @@
 	2421.12.15 = { add_spouse=2045 }
 }
 2047 = {
-	name = "hyeonah"
+	name = "Hyeona"
 	female = yes
 	dynasty = 4001819
 	religion="koreanist"
@@ -387,7 +387,7 @@
 	2324.8.19 = { birth = yes }
 }
 2048 = {
-	name = "ujin"
+	name = "Ujin"
 	dynasty = 4001823
 	religion="koreanist"
 	culture="seoul"
