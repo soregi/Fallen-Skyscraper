@@ -10,12 +10,33 @@ k_jeju = {
 
 		c_jeju = {
 			color = { 255 127 0 }
+			b_jeju = {}
+			b_aewol = {}
+			b_geonip = {}
+			b_yongdam = {}
+			b_chuja = {}
+			b_udo = {}
+			b_songsan = {}
 		}
 		c_jeongui = {
 			color = { 230 215 36 }
+			b_jeongui = {}
+			b_daeryun = {}
+			b_yeongcheonjeju = {}
+			b_jeongbang = {}
+			b_jungangjeju = {}
+			b_cheonji = {}
+			b_hyodon = {}
 		}
 		c_daejeong = {
 			color = { 164 107 41 }
+			b_daejeong = {}
+			b_hamo = {}
+			b_sangmo = {}
+			b_dongil = {}
+			b_ilgwa = {}
+			b_gapa = {}
+			b_mureung = {}
 		}
 	}
 }

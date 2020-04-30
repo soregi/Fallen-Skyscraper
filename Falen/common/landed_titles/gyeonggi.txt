@@ -86,9 +86,23 @@ k_gyeonggi = {
 
 		c_yeongdeungpo = {
 			color = { 69 0 66 }
+			b_yeongdeungpo = {}
+			b_yeouido = {}
+			b_daerim = {}
+			b_noryangjin = {}
+			b_dongjak = {}
+			b_gwanak = {}
+			b_bongcheon = {}
 		}
 		c_guro = {
 			color = { 113 82 141 }
+			b_guro = {}
+			b_sindorim = {}
+			b_gocheok = {}
+			b_yangcheon = {}
+			b_mokdong = {}
+			b_yeomchang = {}
+			b_banghwa = {}
 		}
 	}
 
@@ -99,9 +113,23 @@ k_gyeonggi = {
 
 		c_mapo = {
 			color = { 255 79 22 }
+			b_mapo = {}
+			b_hapjeong = {}
+			b_donggyo = {}
+			b_gongdeok = {}
+			b_sangam = {}
+			b_seogang = {}
+			b_mangwon = {}
 		}
 		c_seodaemun = {
 			color = { 132 55 140 }
+			b_seodaemun = {}
+			b_eunpyeong = {}
+			b_sinchon = {}
+			b_yeonhuiseoul = {}
+			b_yeokdong = {}
+			b_sinsa = {}
+			b_yeoneun = {}
 		}
 	}
 	
@@ -112,6 +140,13 @@ k_gyeonggi = {
 
 		c_bucheon = {
 			color = { 224 60 0 }
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
 		}
 	}
 	
@@ -122,6 +157,13 @@ k_gyeonggi = {
 
 		c_ganghwa = {  
 			color = { 47 0 0 }
+			b_ganghwa
+			b_samsan
+			b_gyodong
+			b_yangsa
+			b_songhae
+			b_hwado
+			b_gilsang
 		}
 		c_gimpo = {
 			color = { 127 38 0 }
