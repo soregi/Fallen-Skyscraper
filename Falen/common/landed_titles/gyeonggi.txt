@@ -140,13 +140,13 @@ k_gyeonggi = {
 
 		c_bucheon = {
 			color = { 224 60 0 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_bucheon = {}
+			b_ojeong = {}
+			b_simgok = {}
+			b_daesan = {}
+			b_seonggok = {}
+			b_beoman = {}
+			b_sosa = {}
 		}
 	}
 	

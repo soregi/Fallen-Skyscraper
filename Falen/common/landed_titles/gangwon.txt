@@ -113,23 +113,23 @@ k_gangwon = {
 		}
 		c_yeoju = {
 			color = { 181 59 66 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_yeoju = {}
+			b_yeoheung = {}
+			b_ohak = {}
+			b_ganam = {}
+			b_jeomdong = {}
+			b_geumsan = {}
+			b_neungseo = {}
 		}
 		c_yangpyeong = {
 			color = { 127 51 51 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_yangpyeong = {}
+			b_seojong = {}
+			b_okchon = {}
+			b_yongmun = {}
+			b_danwol = {}
+			b_cheongun = {}
+			b_jipyeong = {}
 		}
 	}
 	d_gangneung = {
