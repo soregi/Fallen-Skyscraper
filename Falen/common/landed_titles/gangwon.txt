@@ -152,9 +152,23 @@ k_gangwon = {
 		}
 		c_sokcho = {
 			color = { 10 150 35 }
+b_sokcho={}
+b_joyang={}
+b_daepo={}
+b_nohak={}
+b_seorak={}
+b_jangsa={}
+b_yeongyang={}
 		}
 		c_ganseong = {
 			color = { 25 180 30 }
+b_ganseong={}
+b_toseong={}
+b_geojin={}
+b_ayajin={}
+b_gonghyeonjin={}
+b_daejin={}
+b_myeongpa={}
 		}
 	}
 	d_south_chuncheon = {
@@ -164,12 +178,33 @@ k_gangwon = {
 
 		c_namchuncheon = {
 			color = { 0 200 0 }
+b_namchuncheon={}
+b_seoksa={}
+b_songam
+b_hakgok={}
+b_Uiam={}
+b_banggok={}
+b_joyang={}
 		}
 		c_hongcheon = {
 			color = { 20 20 0 }
+b_hongcheon={}
+b_hwachon={}
+b_duchon={}
+b_naechon={}
+b_yangdeogwan={}
+b_seoseok={}
+b_mogok={}
 		}
 		c_inje = {
 			color = { 10 75 35 }
+b_inje={}
+b_wontong={}
+b_seohwa
+b_girin={}
+b_hanam={}
+b_sinnam={}
+b_eoron
 		}
 		c_cheongpyeong = {
 			color = { 144 63 0 }
