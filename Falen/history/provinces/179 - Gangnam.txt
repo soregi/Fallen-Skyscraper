@@ -6,6 +6,11 @@ title = c_gangnam
 # Settlements
 max_settlements = 6
 
+b_gangnam = castle
+b_apkujeong = city
+b_seocho = city
+b_cheongdam = temple
+
 # Misc
 culture = seoul
 religion = koreanist

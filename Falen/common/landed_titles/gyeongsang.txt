@@ -21,10 +21,10 @@ k_gyeongsang = {
 		c_jinju = {
 			color = { 127 0 255 }
 			b_jinju = {}
-			b_seongbuk = {}
+			b_sangpyeong = {}
 			b_cheonjeon = {}
 			b_pyeonggeo = {}
-			b_geumsan = {}
+			b_naedong = {}
 			b_panmun = {}
 			b_daean = {}
 		}
@@ -72,7 +72,7 @@ k_gyeongsang = {
 			b_daega = {}
 			b_samsan = {}
 			b_georyu = {}
-			b_donghae = {}
+			b_sangli = {}
 		}
 		c_tongyeong = {
 			color = { 0 0 242 }
@@ -96,7 +96,7 @@ k_gyeongsang = {
 			b_taepyeong = {}
 			b_yeojwa = {}
 			b_gyeonghwa = {}
-			b_deoksan = {}
+			b_sokuri = {}
 			b_ungcheon = {}
 			b_ungdong = {}
 		}
@@ -198,9 +198,9 @@ k_gyeongsang = {
 			b_naeil = {}
 			b_sammun = {}
 			b_samnangjin = {}
-			b_gagok = {}
-			b_hanam = {}
-			b_gyodong = {}
+			b_gagok_m = {}
+			b_hanam_m = {}
+			b_gyodong_m = {}
 		}
 	}
 	d_miryang = {
@@ -216,14 +216,14 @@ k_gyeongsang = {
 			b_daehap = {}
 			b_namji = {}
 			b_yeongsan = {}
-			b_bugok = {}
+			b_bugok_c = {}
 		}
 		c_uiryeong = {
 			color = { 0 127 255 }
 			b_uiryeong = {}
-			b_dongdonguiryeong = {}
-			b_jungdonguiryeong = {}
-			b_seodonguiryeong = {}
+			b_dongdong_uiryeong = {}
+			b_jungdong_uiryeong = {}
+			b_seodong_uiryeong = {}
 			b_burim = {}
 			b_bongsu = {}
 			b_yugok = {}
@@ -307,7 +307,7 @@ k_gyeongsang = {
 			b_sinheung = {}
 			b_hamchang = {}
 			b_cheongri = {}
-			b_naeseosangju = {}
+			b_naeseo_sangju = {}
 			b_euncheok = {}
 		}
 		c_gimcheon = {
@@ -316,19 +316,19 @@ k_gyeongsang = {
 			b_daegok = {}
 			b_yanggeum = {}
 			b_jijwa = {}
-			b_pyeonghwagimcheon = {}
-			b_namsangimcheon = {}
+			b_pyeonghwa_gimcheon = {}
+			b_namsan_gimcheon = {}
 			b_apo = {}
 		}
 		c_yeongdong = {
 			color = { 26 127 26 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
 		}
 		c_mungyeong = {
 			color = { 0 5 255 }

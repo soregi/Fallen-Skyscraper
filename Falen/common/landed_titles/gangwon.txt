@@ -31,33 +31,33 @@ k_gangwon = {
 		}
 		c_jeongseon = {
 			color = { 0 90 0 }
-			b_jeongseon={}
-			b_sindong={}
-			b_sabuk={}
-			b_bukpyeong={}
-			b_yeoryang={}
-			b_imgye={}
-			b_mureung={}
+			b_jeongseon = {}
+			b_sindong = {}
+			b_sabuk = {}
+			b_bukpyeong = {}
+			b_yeoryang = {}
+			b_imgye = {}
+			b_mureung = {}
 		}
 		c_taebek = {
 			color = { 25 100 25 }
-			b_taebak={}
-			b_sangjang={}
-			b_samsu={}
-			b_jangseong={}
-			b_cheoram={}
-			b_hwajeon={}
-			b_jeokgak={}
+			b_taebak = {}
+			b_sangjang = {}
+			b_samsu = {}
+			b_jangseong = {}
+			b_cheoram = {}
+			b_hwajeon = {}
+			b_jeokgak = {}
 		}
 		c_yeongwol = {
 			color = { 0 50 0 }
-			b_yeongwol={}
-			b_jucheon={}
-			b_suju={}
-			b_deokpo={}
-			b_ssangyong={}
-			b_jungdong={}
-			b_gimsatgat={}
+			b_yeongwol = {}
+			b_jucheon = {}
+			b_suju = {}
+			b_deokpo = {}
+			b_ssangyong = {}
+			b_jungdong = {}
+			b_gimsatgat = {}
 		}
 	}
 	d_east_wonju = {
@@ -67,33 +67,33 @@ k_gangwon = {
 
 		c_pyeongchang = {
 			color = { 0 225 0 }
-			b_pyeongchang={}
-			b_daehwa={}
-			b_sinri={}
-			b_yongpyeong={}
-			b_bongpyeong={}
-			b_jinbu={}
-			b_daegwallyeong={}
+			b_pyeongchang = {}
+			b_daehwa = {}
+			b_sinri = {}
+			b_yongpyeong = {}
+			b_sanganri = {} #상안리
+			b_jinbu = {}
+			b_daegwallyeong = {}
 		}
 		c_hoengseong = {
 			color = { 0 160 0 }
-			b_heongseong={}
-			b_ucheon={}
-			b_dunnae={}
-			b_anheung={}
-			b_gonggeun={}
-			b_cheongil={}
-			b_bugok={}
+			b_heongseong = {}
+			b_ucheon = {}
+			b_dunnae = {}
+			b_anheung = {}
+			b_gonggeun = {}
+			b_cheongil = {}
+			b_bugok = {}
 		}
 		c_east_wonju = {
 			color = { 0 110 0 }
-			b_eastwonju={}
-			b_hakseong={}
-			b_myeongnyun={}
-			b_bangok={}
-			b_jangnam={}
-			b_seocheo={}
-			b_sillim={}
+			b_eastwonju = {}
+			b_hakseong = {}
+			b_myeongnyun = {}
+			b_bangok = {}
+			b_jangnam = {}
+			b_seocheo = {}
+			b_sillim = {}
 		}
 	}
 	d_west_wonju = {
@@ -103,13 +103,13 @@ k_gangwon = {
 
 		c_west_wonju = {
 			color = { 53 211 103 }
-			b_westwonju={}
-			b_dangye={}
-			b_musil={}
-			b_gagok={}
-			b_munmak={}
-			b_gwurae={}
-			b_buron={}	
+			b_westwonju = {}
+			b_dangye = {}
+			b_musil = {}
+			b_gagok = {}
+			b_munmak = {}
+			b_gwurae = {}
+			b_buron = {}	
 		}
 		c_yeoju = {
 			color = { 181 59 66 }
@@ -142,33 +142,33 @@ k_gangwon = {
 		}
 		c_yangyang = {
 			color = { 0 170 0 }
-			b_yangyang={}
-			b_sonyang={}
-			b_ganghyeon={}
-			b_seokgyogangwon={}
-			b_hyeonnam={}
-			b_seokgye={}
-			b_yeongdeokgangwon={}
+			b_yangyang = {}
+			b_sonyang = {}
+			b_ganghyeon = {}
+			b_seokgyogangwon = {}
+			b_hyeonnam = {}
+			b_seokgye = {}
+			b_yeongdeokgangwon = {}
 		}
 		c_sokcho = {
 			color = { 10 150 35 }
-			b_sokcho={}
-			b_joyang={}
-			b_daepo={}
-			b_nohak={}
-			b_seorak={}
-			b_jangsa={}
-			b_yeongyang={}
+			b_sokcho = {}
+			b_joyang = {}
+			b_daepo = {}
+			b_nohak = {}
+			b_seorak = {}
+			b_jangsa = {}
+			b_yeongyang = {}
 		}
 		c_ganseong = {
 			color = { 25 180 30 }
-			b_ganseong={}
-			b_toseong={}
-			b_geojin={}
-			b_ayajin={}
-			b_gonghyeonjin={}
-			b_daejin={}
-			b_myeongpa={}
+			b_ganseong = {}
+			b_toseong = {}
+			b_geojin = {}
+			b_ayajin = {}
+			b_gonghyeonjin = {}
+			b_daejin = {}
+			b_myeongpa = {}
 		}
 	}
 	d_south_chuncheon = {
@@ -178,33 +178,33 @@ k_gangwon = {
 
 		c_namchuncheon = {
 			color = { 0 200 0 }
-			b_namchuncheon={}
-			b_seoksa={}
-			b_songam
-			b_hakgok={}
-			b_Uiam={}
-			b_banggok={}
-			b_joyang={}
+			b_namchuncheon = {}
+			b_seoksa = {}
+			b_songam = {}
+			b_hakgok = {}
+			b_uiam = {}
+			b_banggok = {}
+			b_joyang_ch = {}
 		}
 		c_hongcheon = {
 			color = { 20 20 0 }
-			b_hongcheon={}
-			b_hwachon={}
-			b_duchon={}
-			b_naechon={}
-			b_yangdeogwan={}
-			b_seoseok={}
-			b_mogok={}
+			b_hongcheon = {}
+			b_hwachon = {}
+			b_duchon = {}
+			b_naechon = {}
+			b_yangdeogwan = {}
+			b_seoseok = {}
+			b_mogok = {}
 		}
 		c_inje = {
 			color = { 10 75 35 }
-			b_inje={}
-			b_wontong={}
-			b_seohwa
-			b_girin={}
-			b_hanam={}
-			b_sinnam={}
-			b_eoron
+			b_inje = {}
+			b_wontong = {}
+			b_seohwa = {}
+			b_girin = {}
+			b_hanam = {}
+			b_sinnam = {}
+			b_eoron = {}
 		}
 		c_cheongpyeong = {
 			color = { 144 63 0 }

@@ -6,6 +6,9 @@ title = c_songpa
 # Settlements
 max_settlements = 6
 
+b_songpa = castle
+b_jamsil = city
+
 # Misc
 culture = seoul
 religion = koreanist

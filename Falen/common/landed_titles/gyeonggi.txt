@@ -71,7 +71,7 @@ k_gyeonggi = {
 			color = { 255 79 75 }
 			b_songpa = {}
 			b_jamsil = {}
-			b_garak = {}
+			b_garak_seoul = {}
 			b_seokchon = {}
 			b_wirye = {}
 			b_gangil = {} #강일
@@ -157,13 +157,13 @@ k_gyeonggi = {
 
 		c_ganghwa = {  
 			color = { 47 0 0 }
-			b_ganghwa
-			b_samsan
-			b_gyodong
-			b_yangsa
-			b_songhae
-			b_hwado
-			b_gilsang
+			b_ganghwa = {}
+			b_samsan = {}
+			b_gyodong = {}
+			b_yangsa = {}
+			b_songhae = {}
+			b_hwado = {}
+			b_gilsang = {}
 		}
 		c_gimpo = {
 			color = { 127 38 0 }
@@ -177,17 +177,17 @@ k_gyeonggi = {
 
 		c_incheon = {
 			color = { 214 0 0 }
-			b_incheon={}
-			b_michuhol={}
-			b_bupyeong={}
-			b_ganghwa={}
-			b_gyeyang={}
-			b_ongjin={}
-			b_yeonsu={}
+			b_incheon = {}
+			b_michuhol = {}
+			b_bupyeong = {}
+			b_ongjin = {}
+			b_yeonsu = {}
+			b_wolmi = {}
+			b_cheongra = {}
 		}
 		c_yoengjongdo = {
 			color = { 252 76 0 }
-			b_yeongjongdo
+			b_yeongjongdo = {}
 			b_undong = {}
 			b_yeongyu = {}
 			b_jungsan = {}
@@ -237,11 +237,11 @@ k_gyeonggi = {
 			color = { 127 38 38 }
 			b_goyang = {}
 			b_deogyang = {}
-			b_ilsan = {}
+			b_jugyo = {}
 			b_seongsa = {}
 			b_hwajeong = {}
 			b_haengsin = {}
-			b_baekseok = {}
+			b_naegok = {}
 		}
 		c_munsan = {
 			color = { 127 57 51 }
@@ -272,7 +272,7 @@ k_gyeonggi = {
 		c_kaephung = {
 			color = { 200 200 200 }
 			b_kaephung = {}
-			b_seorak = {}
+			b_sorak = {}
 			b_cheongpyeong = {}
 			b_jojong = {}
 			b_deokyeon = {}

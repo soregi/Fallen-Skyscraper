@@ -6,6 +6,8 @@ title = c_jeju
 # Settlements
 max_settlements = 4
 
+b_jeju = tribal
+
 # Misc
 culture = jeju
 religion = jeju_pagan
