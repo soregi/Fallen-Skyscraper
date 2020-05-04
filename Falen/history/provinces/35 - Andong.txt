@@ -6,6 +6,12 @@ title = c_andong
 # Settlements
 max_settlements = 6
 
+b_andong = castle
+b_taehwa = castle
+b_ok = city
+b_songha = city
+b_myeongnyun = temple
+
 # Misc
 culture = yeongnam
 religion = confucian

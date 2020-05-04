@@ -6,6 +6,9 @@ title = c_yean
 # Settlements
 max_settlements = 3
 
+b_yean = castle
+b_dosan = temple
+
 # Misc
 culture = yeongnam
 religion = confucian

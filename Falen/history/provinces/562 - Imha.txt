@@ -6,6 +6,9 @@ title = c_imha
 # Settlements
 max_settlements = 3
 
+b_imha = castle
+b_songcheon = temple
+
 # Misc
 culture = yeongnam
 religion = confucian
