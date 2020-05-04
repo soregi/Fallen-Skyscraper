@@ -92,7 +92,7 @@ k_gyeongsang = {
 
 		c_jinhae = {
 			color = { 199 0 255 }
-			b_jinhae = 
+			b_jinhae = {}
 			b_taepyeong = {}
 			b_yeojwa = {}
 			b_gyeonghwa = {}
