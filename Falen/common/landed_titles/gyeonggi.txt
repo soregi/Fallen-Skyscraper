@@ -177,34 +177,34 @@ k_gyeonggi = {
 
 		c_incheon = {
 			color = { 214 0 0 }
-b_incheon={}
-b_michuhol={}
-b_bupyeong={}
-b_ganghwa={}
-b_gyeyang={}
-b_ongjin={}
-b_yeonsu={}
+			b_incheon={}
+			b_michuhol={}
+			b_bupyeong={}
+			b_ganghwa={}
+			b_gyeyang={}
+			b_ongjin={}
+			b_yeonsu={}
 		}
 		c_yoengjongdo = {
 			color = { 252 76 0 }
-b_yeongjongdo
-b_undong
-b_yeongyu
-b_jungsan
-b_eurwang
-b_deokgyo
-b_unseo
+			b_yeongjongdo
+			b_undong = {}
+			b_yeongyu = {}
+			b_jungsan = {}
+			b_eurwang = {}
+			b_deokgyo = {}
+			b_unseo = {}
 
 		}	
 		c_gyeyang = {
 			color = { 141 63 0 }
-b_gyeyang
-b_gyesan
-b_hyoseong
-b_jakjeon
-b_seoun
-b_ihwa
-b_oryu
+			b_gyeyang = {}
+			b_gyesan = {}
+			b_hyoseong = {}
+			b_jakjeon = {}
+			b_seoun = {}
+			b_ihwa = {}
+			b_oryu = {}
 		}
 	}
 	
@@ -215,42 +215,42 @@ b_oryu
 
 		c_paju = {
 			color = { 127 0 51 }
-b_paju
-b_geumchon
-b_unjeong
-b_jeokseong
-b_gwangtan
-b_jangdan
-b_papyeong
+			b_paju = {}
+			b_geumchon = {}
+			b_unjeong = {}
+			b_jeokseong = {}
+			b_gwangtan = {}
+			b_jangdan = {}
+			b_papyeong = {}
 		}
 		c_ilsan = {
 			color = { 255 50 38 }
-b_ilsan
-b_jeongbalsan
-b_madu
-b_baekseok
-b_songpo
-b_siksa
-b_tanhyeon
+			b_ilsan = {}
+			b_jeongbalsan = {}
+			b_madu = {}
+			b_baekseok = {}
+			b_songpo = {}
+			b_siksa = {}
+			b_tanhyeon = {}
 		}
 		c_goyang = {
 			color = { 127 38 38 }
-b_goyang
-b_deogyang
-b_ilsan
-b_seongsa
-b_hwajeong
-b_haengsin
-b_baekseok
+			b_goyang = {}
+			b_deogyang = {}
+			b_ilsan = {}
+			b_seongsa = {}
+			b_hwajeong = {}
+			b_haengsin = {}
+			b_baekseok = {}
 		}
 		c_munsan = {
 			color = { 127 57 51 }
-b_dangdong
-b_majeong
-b_samok
-b_seonyu
-b_uncheon
-b_incheon
+			b_dangdong = {}
+			b_majeong = {}
+			b_samok = {}
+			b_seonyu = {}
+			b_uncheon = {}
+			b_inchon = {} #인..천?
 		}
 	}
 	
@@ -261,23 +261,23 @@ b_incheon
 
 		c_kaesong = {
 			color = { 150 50 0 }
-b_kaesong
-b_goryeo
-b_unhak
-b_gwanhun
-b_boseon
-b_seonjuk
-b_samgeo
+			b_kaesong = {}
+			b_goryeo = {}
+			b_unhak = {}
+			b_gwanhun = {}
+			b_boseon = {}
+			b_seonjuk = {}
+			b_samgeo = {}
 		}
 		c_kaephung = {
 			color = { 200 200 200 }
-b_kaephung
-b_seorak
-b_cheongpyeong
-b_jojong
-b_deokyeon
-b_dodae
-b_gyeongban
+			b_kaephung = {}
+			b_seorak = {}
+			b_cheongpyeong = {}
+			b_jojong = {}
+			b_deokyeon = {}
+			b_dodae = {}
+			b_gyeongban = {}
 		}
 		c_jangphung = {
 			color = { 150 10 50 }

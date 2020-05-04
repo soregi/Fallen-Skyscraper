@@ -506,30 +506,30 @@ k_gyeongsang = {
 		}
 		c_wolsong = {
 			color = { 66 117 145 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_gampo = {}
+			b_oedong = {}
+			b_wolseong = {}
+			b_yangnam = {}
+			b_doji = {}
+			b_inwang = {}
+			b_baeban = {}
 		}
 		c_ulsan = {
 			color = { 0 0 64 }
 			b_ulsan = {}
-			b_samsanulsan = {}
+			b_samsan_ulsan = {}
 			b_bangeo = {}
 			b_sinjeong = {}
-			b_ilsanulsan = {}
+			b_ilsan_ulsan = {}
 			b_mugeo = {}
-			b_taehwaulsan = {}
+			b_taehwa_ulsan = {}
 		}
 		c_ulju = {
 			color = { 69 123 236 }
 			b_ulju = {}
 			b_bemseo = {}
 			b_gori = {}
-			b_eonyangulju = {}
+			b_eonyang_ulju = {}
 			b_cheongnyang = {}
 			b_duseo = {}
 			b_onsan = {}
@@ -554,7 +554,7 @@ k_gyeongsang = {
 			color = { 51 0 178 }
 			b_cheongsong = {}
 			b_juwangsan = {}
-			b_bunamcheongsong = {}
+			b_bunam_cheongsong = {}
 			b_hyeondong = {}
 			b_hyeonseo = {}
 			b_andeok = {}
@@ -568,7 +568,7 @@ k_gyeongsang = {
 			b_cheonggi = {}
 			b_seokbo = {}
 			b_ibam = {}
-			b_gisanyeongyang = {}
+			b_gisan_yeongyang = {}
 		}
 		c_uljin = {
 			color = { 77 77 255 }
@@ -629,8 +629,38 @@ k_gyeongsang = {
 			b_angi = {}
 			b_myeongnyun = {}
 			b_yongsang = {}
-			b_taehwaandong = {}
+			b_taehwa_andong = {}
+			b_ok = {}
+		}
+		c_pungshan = {
+			color = { 198 38 217 }
 			b_pungsan = {}
+			b_docheong = {}
+			b_pungcheon = {}
+			b_bukhu = {}
+			b_iljik = {}
+			b_namhu = {}
+			b_seohu = {}
+		}
+		c_imha = {
+			color = { 38 122 127 }
+			b_imha = {}
+			b_namseon = {}
+			b_giran = {}
+			b_imdong = {}
+			b_songcheon = {} # 안동대
+			b_odae = {}
+			b_hyeonnae = {}
+		}
+		c_yean = {
+			color = { 188 155 38 }
+			b_yean = {}
+			b_dosan = {}
+			b_waryong = {}
+			b_nokjeon = {}
+			b_onhye = {}
+			b_iha = {}
+			b_seoji = {}
 		}
 		c_bonghwa = {
 			color = { 115 115 204 }
@@ -647,7 +677,7 @@ k_gyeongsang = {
 			b_yeongju = {}
 			b_gaheung = {}
 			b_hamang = {}
-			b_hyucheonyeongju = {}
+			b_hyucheon_yeongju = {}
 			b_punggi = {}
 			b_sangmang = {}
 			b_buseok = {}
@@ -663,6 +693,11 @@ k_gyeongsang = {
 			b_gaepo = {}
 		}
 	}
+}
+k_ulleung = {
+	color = { 21 34 182 }
+	capital = 40
+	
 	d_ulleung = { 
 		color = { 29 35 109 }
 
@@ -670,11 +705,11 @@ k_gyeongsang = {
 
 		c_ulleung = {
 			color = { 45 10 50 }
-			b_ulleung = {}
+			b_dodong = {}
 			b_namseo = {}
 			b_cheonbu = {}
 			b_hyeonpo = {}
-			b_namyanggyeongsang = {}
+			b_nari = {}
 			b_jeodong = {}
 			b_sadong = {}
 		}

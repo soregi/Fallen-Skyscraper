@@ -1,10 +1,10 @@
-# 35 - Andong
+# 562 - Imha
 
 # County Title
-title = c_andong
+title = c_imha
 
 # Settlements
-max_settlements = 6
+max_settlements = 3
 
 # Misc
 culture = yeongnam

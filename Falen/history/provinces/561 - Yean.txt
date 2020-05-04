@@ -1,10 +1,10 @@
-# 35 - Andong
+# 561 - Yean
 
 # County Title
-title = c_andong
+title = c_yean
 
 # Settlements
-max_settlements = 6
+max_settlements = 3
 
 # Misc
 culture = yeongnam
