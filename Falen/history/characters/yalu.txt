@@ -3,6 +3,11 @@
 	dynasty = 4000301
 	culture = yalu
 	religion = tengri_pagan
+	trait = brilliant_strategist
+	trait = genius
+	trait = robust
+	trait = Brave
+	trait = ambitious
 	2382.3.14 = {
 		birth = yes
 	}
@@ -57,6 +62,8 @@
 	dynasty = 4000303
 	culture = pyongnam
 	religion = cheondo
+	trait = intricate_webweaver
+	trait = ambitious
 	2398.8.24 = {
 		birth = yes
 	}
@@ -84,6 +91,8 @@
 	dynasty = 4000306
 	culture = yalu
 	religion = tengri_pagan
+	trait = brilliant_strategist
+	trait = content
 	2410.5.3 = {
 		birth = yes
 	}
