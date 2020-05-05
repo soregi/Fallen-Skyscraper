@@ -1,0 +1,80 @@
+4000301 = {
+	name = "Jong"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000302 = {
+	name = "Hong"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000303 = {
+	name = "Jo"
+	culture = pyongnam
+	religion = cheondo
+}
+4000304 = {
+	name = "Gu"
+	culture = liaoning
+	religion = holy_spirit
+}
+4000305 = {
+	name = "Lee"
+	culture = liaoning
+	religion = holy_spirit
+}
+4000306 = {
+	name = "Won"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000307 = {
+	name = "Kim"
+	culture = pyongbuk
+	religion = cheondo
+}
+4000308 = {
+	name = "Wu"
+	culture = pyongbuk
+	religion = juche
+}
+4000309 = {
+	name = "Kye"
+	culture = pyongnam
+	religion = cheondo
+}
+4000310 = {
+	name = "Sang"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000311 = {
+	name = "Ji"
+	culture = pyongbuk
+	religion = cheondo 
+}
+4000312 = {
+	name = "Ha"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000313 = {
+	name = "Ji"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000314 = {
+	name = "Pa"
+	culture = yalu
+	religion = cheondo
+}
+4000315 = {
+	name = "Sam"
+	culture = yalu
+	religion = cheondo
+}
+4000316 = {
+	name = "Wang"
+	culture = liaoning
+	religion = holy_spirit
+}
