@@ -1,10 +1,13 @@
 # 127 - Gyeryong
 
 # County Title
-title = c_gyeryoung
+title = c_gyeryong
 
 # Settlements
 max_settlements = 4
+
+b_geumam = tribal
+b_gyeryong = temple
 
 # Misc
 culture = hoseo

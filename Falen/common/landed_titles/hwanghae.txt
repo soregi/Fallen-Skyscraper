@@ -116,6 +116,13 @@ k_hwanghae = {
 		}
 		c_baeknyeongdo = {
 			color = { 135 100 22 }
+			b_baeknyeong = {}
+			b_daecheong = {}
+			b_socheong = {}
+			b_yeonpyeong = {}
+			b_satan = {}
+			b_guji_q = {}
+			b_u_island = {}
 		}
 		c_songhwa = {
 			color = { 0 0 145 }
@@ -125,7 +132,7 @@ k_hwanghae = {
 		color = { 221 184 9 }
 		capital = 241
 
-		c_n_ongjin = {
+		c_ongjin = {
 			color = { 0 0 175 }
 		}
 		c_thaethan = {

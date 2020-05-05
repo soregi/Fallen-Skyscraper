@@ -1,7 +1,7 @@
 # 241 - Ongjin
 
 # County Title
-title = c_n_ongjin
+title = c_ongjin
 
 # Settlements
 max_settlements = 5

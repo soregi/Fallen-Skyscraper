@@ -179,15 +179,15 @@ k_chungcheong = {
 			b_jeonmin = {}
 			b_jinjam = {}
 		}
-		c_gyeryoung = {
+		c_gyeryong = {
 			color = { 0 140 0 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_gyeryong = {}
+			b_geumam = {}
+			b_duma = {}
+			b_sindoan = {}
+			b_eomsa = {}
+			b_nongso = {}
+			b_dugye = {}
 		}
 		c_okcheon = {
 			color = { 26 178 26 }
@@ -266,8 +266,8 @@ k_chungcheong = {
 		c_cheongyang = {
 			color = { 59 204 0 }
 			b_cheongyang = {}
-			b_namyangcheongyang = {}
-			b_daechicheongyang = {}
+			b_namyang_cheongyang = {}
+			b_daechi_cheongyang = {}
 			b_mok = {}
 			b_bibong = {}
 			b_ungok = {}
@@ -292,13 +292,13 @@ k_chungcheong = {
 
 		c_hongju = {
 			color = { 0 102 0 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_hongju = {}
+			b_hongbuk = {}
+			b_hongseong = {}
+			b_galsan = {}
+			b_gyeolseong = {}
+			b_guhang = {}
+			b_hongdong = {}
 		}
 		c_gwangcheon = {
 			color = { 122 198 104 }
@@ -367,15 +367,15 @@ k_chungcheong = {
 			b_oga = {}
 			b_eungbong = {}
 		}
-		c_ongjin = {
+		c_ongjin_islands = {
 			color = { 255 110 97 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_jangbong = {}
+			b_modo = {}
+			b_sido = {}
+			b_shindo = {}
+			b_deokjeok = {}
+			b_jawol = {}
+			b_yeongheung = {}
 		}
 	}
 }
