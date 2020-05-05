@@ -79,7 +79,7 @@ k_chungcheong = {
 			color = { 4 76 4 }
 			b_jeungpyeong = {}
 			b_doan = {}
-			b_songsanjeungpyeong = {}
+			b_songsan_jeungpyeong = {}
 			b_yeontan = {}
 			b_miam = {}
 			b_gyodong = {}
@@ -115,7 +115,7 @@ k_chungcheong = {
 		c_eumseong = {
 			color = { 64 127 0 }
 			b_eumseong = {}
-			b_samseongeumseong = {}
+			b_samseong_eumseong = {}
 			b_mugeuk = {}
 			b_daeso = {}
 			b_maengdong = {}
@@ -124,20 +124,20 @@ k_chungcheong = {
 		}
 		c_goesan = {
 			color = { 64 255 0 }
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
-			b_
+			b_goesan = {}
+			b_gammul = {}
+			b_jangyeon = {}
+			b_yeonpung = {}
+			b_mungwang = {}
+			b_cheongcheon = {}
+			b_cheongan = {} #청안
 		}
 		c_danyang = {
 			color = { 13 204 13 }
 			b_danyang = {}
 			b_maepo = {}
-			b_gagokdanyang = {}
-			b_danseongdanyang = {}
+			b_gagok_danyang = {}
+			b_danseong_danyang = {}
 			b_daegang = {}
 			b_yeongchun = {}
 			b_jeokseong = {}
@@ -261,7 +261,7 @@ k_chungcheong = {
 			b_nohwa = {}
 			b_sumok = {}
 			b_seogu = {}
-			b_hamyanggyuam = {}
+			b_hamyang_gyuam = {}
 		}
 		c_cheongyang = {
 			color = { 59 204 0 }
@@ -307,7 +307,7 @@ k_chungcheong = {
 			b_damsan = {}
 			b_maehyeon = {}
 			b_gasong = {}
-			b_daehyeongwangcheon = {}
+			b_daehyeon_gwangcheon = {}
 			b_dosan = {}
 		}
 		c_boryeong = {
@@ -332,9 +332,9 @@ k_chungcheong = {
 			b_seosan = {}
 			b_dongmun = {}
 			b_buchun = {}
-			b_seongnamseosan = {}
-			b_suseokseosan = {}
-			b_daesanseosan = {}
+			b_seongnam_seosan = {}
+			b_suseok_seosan = {}
+			b_daesan_seosan = {}
 			b_unsan = {}
 		}
 		c_taean = {
@@ -343,16 +343,16 @@ k_chungcheong = {
 			b_wonbuk = {}
 			b_sowon = {}
 			b_geunheung = {}
-			b_nammuntaean = {}
+			b_nammun_taean = {}
 			b_anmyeon = {}
-			b_iwontaean = {}
+			b_iwon_taean = {}
 		}
 		c_dangjin = {
 			color = { 0 153 0 }
 			b_dangjin = {}
-			b_songakdangjin = {}
+			b_songak_dangjin = {}
 			b_myeoncheon = {}
-			b_songsandangjin = {}
+			b_songsan_dangjin = {}
 			b_ugang = {}
 			b_hamdeok = {}
 			b_sinpyeong = {}
