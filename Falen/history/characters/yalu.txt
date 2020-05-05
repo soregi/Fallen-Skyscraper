@@ -6,7 +6,7 @@
 	trait = brilliant_strategist
 	trait = genius
 	trait = robust
-	trait = Brave
+	trait = brave
 	trait = ambitious
 	2382.3.14 = {
 		birth = yes
@@ -24,6 +24,7 @@
 	culture = yalu
 	religion = tengri_pagan
 	father = 301
+	trait = sturdy
 	2402.7.9 = {
 		birth = yes
 	}
@@ -34,6 +35,7 @@
 	culture = yalu
 	religion = tengri_pagan
 	father = 301
+	trait = sturdy
 	2405.1.23 = {
 		birth = yes
 	}
@@ -44,6 +46,7 @@
 	culture = yalu
 	religion = tengri_pagan
 	father = 301
+	trait = sturdy
 	2408.9.30 = {
 		birth = yes
 	}
