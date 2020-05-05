@@ -77,6 +77,13 @@ k_chungcheong = {
 		}
 		c_jeungpyeong = {
 			color = { 4 76 4 }
+			b_jeungpyeong = {}
+			b_doan = {}
+			b_songsanjeungpyeong = {}
+			b_yeontan = {}
+			b_miam = {}
+			b_gyodong = {}
+			b_chojung = {}
 		}
 	}
 	
@@ -87,18 +94,53 @@ k_chungcheong = {
 
 		c_chungju = {
 			color = { 0 191 64 }
+			b_chungju = {}
+			b_yeonsu = {}
+			b_judeok = {}
+			b_bongbang = {}
+			b_yongtan = {}
+			b_gyohyeon = {}
+			b_allim = {}
 		}
 		c_jecheon = {
 			color = { 45 190 5 }
+			b_jecheon = {}
+			b_namhyeon = {}
+			b_sinbaek = {}
+			b_yangsa = {}
+			b_bongyang = {}
+			b_yongdu = {}
+			b_uirimji = {}
 		}
 		c_eumseong = {
 			color = { 64 127 0 }
+			b_eumseong = {}
+			b_samseongeumseong = {}
+			b_mugeuk = {}
+			b_daeso = {}
+			b_maengdong = {}
+			b_geumwang = {}
+			b_gamgok = {}
 		}
 		c_goesan = {
 			color = { 64 255 0 }
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
 		}
 		c_danyang = {
 			color = { 13 204 13 }
+			b_danyang = {}
+			b_maepo = {}
+			b_gagokdanyang = {}
+			b_danseongdanyang = {}
+			b_daegang = {}
+			b_yeongchun = {}
+			b_jeokseong = {}
 		}
 	}
 	
@@ -109,18 +151,53 @@ k_chungcheong = {
 
 		c_daejeon = {
 			color = { 0 191 0 }
+			b_daejeon = {}
+			b_busa = {}
+			b_gijang = {}
+			b_goejeong = {}
+			b_doma = {}
+			b_jeongnim = {}
+			b_dunsan = {}
 		}
 		c_daedeok = {
 			color = { 122 255 97 }
+			b_daedeok = {}
+			b_deogam = {}
+			b_moksang = {}
+			b_seokbong = {}
+			b_sintanjin = {}
+			b_gayang = {}
+			b_yongjeon = {}
 		}
 		c_yuseong = {
 			color = { 59 141 72 }
+			b_yuseong = {}
+			b_wonsinheung = {}
+			b_noeun = {}
+			b_sinseong = {}
+			b_gwanpyeong = {}
+			b_jeonmin = {}
+			b_jinjam = {}
 		}
 		c_gyeryoung = {
 			color = { 0 140 0 }
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
 		}
 		c_okcheon = {
 			color = { 26 178 26 }
+			b_okcheon = {}
+			b_annam = {}
+			b_gunbuk = {}
+			b_annae = {}
+			b_cheongseong = {}
+			b_gunseo = {}
+			b_iwon = {}
 		}
 	}
 	
@@ -131,12 +208,33 @@ k_chungcheong = {
 
 		c_gongju = {
 			color = { 0 77 0 }
+			b_gongju = {}
+			b_junghak = {}
+			b_ungjin = {}
+			b_singwan = {}
+			b_wolsong = {}
+			b_iin = {}
+			b_tancheon = {}
 		}
 		c_sejong = {
 			color = { 0 166 0 }
+			b_sejong = {}
+			b_dodam = {}
+			b_areum = {}
+			b_jungchon = {}
+			b_goun = {}
+			b_boram = {}
+			b_sodam = {}
 		}
 		c_buyeo = {
 			color = { 0 89 0 }
+			b_buyeo = {}
+			b_gua = {}
+			b_ssangbuk = {}
+			b_gugyo = {}
+			b_wangpo = {}
+			b_chochon = {}
+			b_seokseong = {}
 		}
 	}
 	
@@ -147,15 +245,43 @@ k_chungcheong = {
 
 		c_seocheon = {
 			color = { 0 38 0 }
+			b_seocheon = {}
+			b_janghang = {}
+			b_gisan = {}
+			b_maseo = {}
+			b_munsan = {}
+			b_biin = {}
+			b_hansan = {}
 		}
 		c_gyuam = {
 			color = { 66 129 47 }
+			b_gyuam = {}
+			b_bansan = {}
+			b_hapsong = {}
+			b_nohwa = {}
+			b_sumok = {}
+			b_seogu = {}
+			b_hamyanggyuam = {}
 		}
 		c_cheongyang = {
 			color = { 59 204 0 }
+			b_cheongyang = {}
+			b_namyangcheongyang = {}
+			b_daechicheongyang = {}
+			b_mok = {}
+			b_bibong = {}
+			b_ungok = {}
+			b_cheongnam = {}
 		}
 		c_yugu = {
 			color = { 136 214 0 }
+			b_yugu = {}
+			b_gugye = {}
+			b_sagok = {}
+			b_useong = {}
+			b_sinpung = {}
+			b_jeongan = {}
+			b_uidang = {}
 		}
 	}
 	
@@ -166,12 +292,33 @@ k_chungcheong = {
 
 		c_hongju = {
 			color = { 0 102 0 }
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
 		}
 		c_gwangcheon = {
 			color = { 122 198 104 }
+			b_gwangcheon = {}
+			b_naejuk = {}
+			b_damsan = {}
+			b_maehyeon = {}
+			b_gasong = {}
+			b_daehyeongwangcheon = {}
+			b_dosan = {}
 		}
 		c_boryeong = {
 			color = { 0 51 0 }
+			b_boryeong = {}
+			b_daecheon = {}
+			b_jugyo = {}
+			b_jupo = {}
+			b_ungcheon = {}
+			b_cheongna = {}
+			b_ocheon = {}
 		}
 	}
 	
@@ -182,18 +329,53 @@ k_chungcheong = {
 
 		c_seosan = {
 			color = { 0 127 0 }
+			b_seosan = {}
+			b_dongmun = {}
+			b_buchun = {}
+			b_seongnamseosan = {}
+			b_suseokseosan = {}
+			b_daesanseosan = {}
+			b_unsan = {}
 		}
 		c_taean = {
 			color = { 0 178 0 }
+			b_taean = {}
+			b_wonbuk = {}
+			b_sowon = {}
+			b_geunheung = {}
+			b_nammuntaean = {}
+			b_anmyeon = {}
+			b_iwontaean = {}
 		}
 		c_dangjin = {
 			color = { 0 153 0 }
+			b_dangjin = {}
+			b_songakdangjin = {}
+			b_myeoncheon = {}
+			b_songsandangjin = {}
+			b_ugang = {}
+			b_hamdeok = {}
+			b_sinpyeong = {}
 		}
 		c_yesan = {
 			color = { 0 242 0 }
+			b_yesan = {}
+			b_samgyo = {}
+			b_imseong = {}
+			b_daesul = {}
+			b_sinam = {}
+			b_oga = {}
+			b_eungbong = {}
 		}
 		c_ongjin = {
 			color = { 255 110 97 }
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
+			b_
 		}
 	}
 }
