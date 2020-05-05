@@ -1,0 +1,412 @@
+301 = {
+	name = "Ilnam"
+	dynasty = 4000301
+	culture = yalu
+	religion = tengri_pagan
+	2382.3.14 = {
+		birth = yes
+	}
+}
+302 = {
+	name = "Hyeonggi"
+	dynasty = 4000301
+	culture = yalu
+	religion = tengri_pagan
+	father = 301
+	2402.7.9 = {
+		birth = yes
+	}
+}
+303 = {
+	name = "Sanggi"
+	dynasty = 4000301
+	culture = yalu
+	religion = tengri_pagan
+	father = 301
+	2405.1.23 = {
+		birth = yes
+	}
+}
+304 = {
+	name = "Mangi"
+	dynasty = 4000301
+	culture = yalu
+	religion = tengri_pagan
+	father = 301
+	2408.9.30 = {
+		birth = yes
+	}
+}
+305 = {
+	name = "Seongdea"
+	dynasty = 4000302
+	culture = yalu
+	religion = tengri_pagan
+	2412.7.13 = {
+		birth = yes
+	}
+}
+306 = {
+	name = "Bochang"
+	dynasty = 4000303
+	culture = pyongnam
+	religion = cheondo
+	2398.8.24 = {
+		birth = yes
+	}
+}
+307 = {
+	name = "Honggu"
+	dynasty = 4000304
+	culture = liaoning
+	religion = holy_spirit
+	2421.4.30 = {
+		birth = yes
+	}
+}
+308 = {
+	name = "Minhea"
+	dynasty = 4000305
+	culture = liaoning
+	religion = holy_spirit
+	2414.2.14 = {
+		birth = yes
+	}
+}
+309 = {
+	name = "Mok"
+	dynasty = 4000306
+	culture = yalu
+	religion = tengri_pagan
+	2410.5.3 = {
+		birth = yes
+	}
+}
+310 = {
+	name = "Hanbyeol"
+	dynasty = 4000307
+	culture = pyongbuk
+	religion = cheondo
+	2388.8.8 = {
+		birth = yes
+	}
+}
+311 = {
+	name = "Seongteak"
+	dynasty = 4000308
+	culture = pyongbuk
+	religion = juche
+	2422.1.13 = {
+		birth = yes
+	}
+}
+312 = {
+	name = "Jiryeong
+	dynasty = 4000309
+	culture = pyongnam
+	religion = cheondo
+	2415.6.4 = {
+		birth = yes
+	}
+}
+313 = {
+	name = "Bigun"
+	dynasty = 4000310
+	culture = yalu
+	religion = tengri_pagan
+	2419.12.20 = {
+		birth = yes
+	}
+}
+314 = {
+	name = "Seonggi
+	dynasty = 4000311
+	culture = pyongbuk
+	religion = cheondo 
+	2398.9.8 = {
+		birth = yes
+	}
+}
+315 = {
+	name = "Seonggwon"
+	dynasty = 4000312
+	culture = yalu
+	religion = tengri_pagan
+	2410.2.25 = {
+		birth = yes
+	}
+}
+316 = {
+	name = "Bicheon"
+	dynasty = 4000313
+	culture = yalu
+	religion = tengri_pagan
+	2425.6.26 = {
+		birth = yes
+	}
+}
+317 = {
+	name = "Rang"
+	dynasty = 4000314
+	culture = yalu
+	religion = cheondo
+	2377.7.7 = {
+		birth = yes
+	}
+}
+318 = {
+	name = "Sibi"
+	dynasty = 4000315
+	culture = yalu
+	religion = cheondo
+	2412.3.15 = {
+		birth = yes
+	}
+}
+319 = {
+	name = "Hyeonseo"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=302 }
+}
+320 = {
+	name = "Hearyong"
+	dynasty = 4000301
+	culture = yalu
+	religion = tengri_pagan
+	father = 302
+	mother = 318
+	2422.3.5 = {
+		birth = yes
+	}
+}
+321 = {
+	name = "Choseon"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=303 }
+}
+322 = {
+	name = "Sinji"
+	dynasty = 4000301
+	culture = yalu
+	religion = tengri_pagan
+	father = 303
+	mother = 321
+	2424.2.24 = {
+		birth = yes
+	}
+}
+323 = {
+	name = "Minji"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=304 }
+}
+324 = {
+	name = "Maknam"
+	dynasty = 4000301
+	culture = yalu
+	religion = tengri_pagan
+	father = 304
+	mother = 323
+	2427.7.18 = {
+		birth = yes
+	}
+}
+325 = {
+	name = "Minyeong"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=305 }
+}
+326 = {
+	name = "Cheaeun"
+	female = yes
+	culture = liaoning
+	religion = holy_spirit
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=306 }
+}
+327 = {
+	name = "Sanggu"
+	dynasty = 4000316
+	culture = liaoning
+	religion = holy_spirit
+	father = 306
+	mother = 326
+	2428.4.16 = {
+		birth = yes
+	}
+}
+328 = {
+	name = "Jieun"
+	female = yes
+	culture = liaoning
+	religion = atomicist
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=307 }
+}
+329 = {
+	name = "Chunja"
+	female = yes
+	culture = liaoning
+	religion = taoist 
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=308 }
+}
+330 = {
+	name = "Okja"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=309 }
+}
+331 = {
+	name = "Sunja"
+	female = yes
+	culture = pyongbuk
+	religion = cheondo 
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=310 }
+}
+332 = {
+	name = "Cheonja"
+	dynasty = 4000307
+	culture = pyongbuk
+	religion = cheondo 
+	father = 310
+	mother = 331
+	2432.10.11 = {
+		birth = yes
+	}
+}
+333 = {
+	name = "Minju"
+	female = yes
+	culture = pyongbuk
+	religion = juche
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=311 }
+}
+334 = {
+	name = "Heayeong"
+	female = yes
+	culture = pyongbuk
+	religion = cheondo 
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=312 }
+}
+335 = {
+	name = "Miseon"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=313 }
+}
+336 = {
+	name = "Eunju"
+	female = yes
+	culture = pyongbuk
+	religion = cheondo 
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=314 }
+}
+337 = {
+	name = "Rongteak"
+	dynasty = 4000311
+	culture = pyongbuk
+	religion = cheondo 
+	father = 314
+	mother = 336
+	2441.2.23 = {
+		birth = yes
+	}
+}
+338 = {
+	name = "Eunji"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=315 }
+}
+339 = {
+	name = "Seeun"
+	female = yes
+	culture = yalu
+	religion = tengri_pagan
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=316 }
+}
+340 = {
+	name = "Seryeong"
+	female = yes
+	culture = yalu
+	religion = cheondo 
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=317 }
+}
+341 = {
+	name = "Ran"
+	dynasty = 4000314
+	culture = yalu
+	religion = cheondo 
+	father = 317
+	mother = 340
+	2332.2.15 = {
+		birth = yes
+	}
+}
+342 = {
+	name = "Heayeong"
+	female = yes
+	culture = yalu
+	religion = cheondo 
+	2412.3.15 = {
+		birth = yes
+	}
+	2432.3.15 = { add_spouse=318 }
+}
