@@ -294,43 +294,43 @@ k_gyeonggi = {
 
 		c_uijeongbu = {
 			color = { 191 38 38 }
-b_uijeongbu = {}
-b_howon = {}
-b_singok = {}
-b_songnam = {}
-b_jageum = {}
-b_jangan = {}
-b_ganeung = {}
+			b_uijeongbu = {}
+			b_howon = {}
+			b_singok = {}
+			b_songnam = {}
+			b_jageum = {}
+			b_jangan = {}
+			b_ganeung = {}
 		}
 		c_yangju = {
 			color = { 127 51 0 }
-b_yangju = {}
-b_hoecheon = {}
-b_jangheung = {}
-b_baekseok = {}
-b_gwangjeok = {}
-b_eunhyeon = {}
-b_nammyeon = {}
+			b_yangju = {}
+			b_hoecheon = {}
+			b_jangheung = {}
+			b_baekseok = {}
+			b_gwangjeok = {}
+			b_eunhyeon = {}
+			b_nammyeon = {}
 		}
 		c_pocheon = {
 			color = { 150 0 0 }
-b_pocheon = {}
-b_seondan = {}
-b_soheul = {}
-b_gwanin = {}
-b_hwahyeon = {}
-b_cheongju = {}
-b_gasan = {}
+			b_pocheon = {}
+			b_seondan = {}
+			b_soheul = {}
+			b_gwanin = {}
+			b_hwahyeon = {}
+			b_cheongju = {}
+			b_gasan = {}
 		}
 		c_dongducheon = {
 			color = { 124 25 25 }
-b_dongducheon
-b_saengyeon = {}
-b_bosan = {}
-b_bulhyeon = {}
-b_songnae = {}
-b_soyo = {}
-b_sangpae = {}
+			b_dongducheon
+			b_saengyeon = {}
+			b_bosan = {}
+			b_bulhyeon = {}
+			b_songnae = {}
+			b_soyo = {}
+			b_sangpae = {}
 		}
 		c_yeoncheon = {
 			color = { 200 10 10 }
