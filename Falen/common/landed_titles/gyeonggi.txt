@@ -334,6 +334,13 @@ k_gyeonggi = {
 		}
 		c_yeoncheon = {
 			color = { 200 10 10 }
+b_yeoncheon = {}
+b_sinseo = {}
+b_wangjing = {}
+b_gunnam = {}
+b_misan = {}
+b_baekap = {}
+b_jangnam = {}
 		}
 	}
 
@@ -344,12 +351,34 @@ k_gyeonggi = {
 
 		c_namyangju = {
 			color = { 191 78 38 }
+b_namyangju = {}
+b_dasan = {}
+b_jinjeop = {}
+b_sudong = {}
+b_joan = {}
+b_jingeon = {}
+b_jyeolle = {}
 		}
 		c_guri = {
 			color = { 178 38 38 }
+b_guri = {}
+b_inchang = {}
+b_dong-gu = {}
+b_sutaek = {}
+b_ttalgiwon = {}
+b_galmae = {}
+b_acheon = {}
+
 		}
 		c_hwado = {
 			color = { 191 157 38 }
+b_hwado = {}
+b_maseogu = {}
+b_mukyeon = {}
+b_changhyeon = {}
+b_nokchon = {}
+b_chasan = {}
+b_gagok = {}
 		}
 	}
 	
@@ -360,6 +389,13 @@ k_gyeonggi = {
 
 		c_gwacheon = {
 			color = { 240 40 0 }
+b_gwacheon = {}
+b_galhyeon = {}
+b_byeoryang = {}
+b_gurim = {}
+b_munwon = {}
+b_wonmun = {}
+b_makgye = {}
 		}
 		c_uiwang = {
 			color = { 173 0 0 }
