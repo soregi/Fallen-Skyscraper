@@ -18,6 +18,7 @@ seasons = "seasons.txt"
 # Seas
 sea_zones = { 516 557 }
 sea_zones = { 564 586 }
+sea_zones = { 597 } # 천지 호수
 ocean_region = {
 	sea_zones = { 1 2 }
 }

@@ -161,6 +161,7 @@ culture =
 			size = { x = 10 y = 1 }
 			noOfFrames = 1
 			color = 0
+			random = no
 		}
 	}
 }
