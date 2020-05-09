@@ -1,0 +1,5 @@
+4001701 = {
+	name = "Hyeon"
+	culture = jeju
+	religion = jeju_pagan
+}

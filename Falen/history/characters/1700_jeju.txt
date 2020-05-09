@@ -1,6 +1,6 @@
 
 1701 = {
-	name = "munhwa"
+	name = "Munhwa"
 	dynasty = 4001701 #제주 현씨
 	culture = jeju
 	religion = jeju_pagan
