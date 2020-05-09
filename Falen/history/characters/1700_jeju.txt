@@ -4,6 +4,7 @@
 	dynasty = 4001701 #제주 현씨
 	culture = jeju
 	religion = jeju_pagan
+	female = yes
 	trait = brilliant_strategist
 	trait = fair
 	trait = robust
