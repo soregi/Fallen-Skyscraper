@@ -1,0 +1,15 @@
+
+1701 = {
+	name = "munhwa"
+	dynasty = 4001701 #제주 현씨
+	culture = jeju
+	religion = jeju_pagan
+	trait = brilliant_strategist
+	trait = fair
+	trait = robust
+	trait = lustful
+	trait = cruel
+	2423.7.18 = {
+		birth = yes
+	}
+}
