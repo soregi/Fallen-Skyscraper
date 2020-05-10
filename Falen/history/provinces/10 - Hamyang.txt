@@ -6,6 +6,8 @@ title = c_hamyang
 # Settlements
 max_settlements = 3
 
+b_hamyang = tribal
+
 # Misc
 culture = yeongnam
 religion = mahayana

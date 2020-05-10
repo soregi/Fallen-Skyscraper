@@ -6,6 +6,8 @@ title = c_gurye
 # Settlements
 max_settlements = 3
 
+b_gurye = tribal
+
 # Misc
 culture = honam
 religion = mu_pagan

@@ -6,6 +6,8 @@ title = c_sacheon
 # Settlements
 max_settlements = 4
 
+b_sacheon = castle
+
 # Misc
 culture = sudsee
 religion = protestant

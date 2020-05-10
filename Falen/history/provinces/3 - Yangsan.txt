@@ -6,6 +6,8 @@ title = c_yangsan
 # Settlements
 max_settlements = 4
 
+b_yangsan = tribal
+
 # Misc
 culture = yeongnam
 religion = mahayana

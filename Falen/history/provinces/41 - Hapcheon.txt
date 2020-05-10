@@ -6,6 +6,9 @@ title = c_hapcheon
 # Settlements
 max_settlements = 4
 
+b_hapcheon = castle
+b_haein = temple
+
 # Misc
 culture = yeongnam
 religion = mahayana

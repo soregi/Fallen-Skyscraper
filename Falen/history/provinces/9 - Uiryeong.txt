@@ -6,6 +6,9 @@ title = c_uiryeong
 # Settlements
 max_settlements = 5
 
+c_uiryeong = tribal
+c_dongdong_uiryeong = temple
+
 # Misc
 culture = yeongnam
 religion = mahayana
