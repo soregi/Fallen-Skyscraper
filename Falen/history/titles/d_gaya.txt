@@ -1,0 +1,4 @@
+2430.1.1 = {
+	liege = k_gaya
+	holder = 1802
+}

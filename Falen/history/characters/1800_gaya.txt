@@ -1,0 +1,122 @@
+1801 = {
+	name = "Sinpil"
+	dynasty = 4001801 #가야쪽 김씨
+	culture = gaya
+	religion = mahayana
+	father = 1809
+	trait = naive_appeaser
+	trait = shy
+	trait = chaste
+	2422.7.6 = {
+		birth = yes
+	}
+}
+1802 = {
+	name = "Wonil"
+	dynasty = 4001802 #가야쪽 이씨
+	culture = gaya
+	religion = mahayana
+	trait = intricate_webweaver
+	trait = ambitious
+	trait = cynical
+	trait = quick
+	2411.6.22 = {
+		birth = yes
+	}
+}
+1803 = {
+	name = "Ilgyeong"
+	dynasty = 4001803 #가야쪽 박씨
+	culture = gaya
+	religion = mahayana
+	trait = martial_cleric
+	trait = diligent
+	trait = content
+	2417.1.17 = {
+		birth = yes
+	}
+}
+1804 = {
+	name = "Gangpil"
+	dynasty = 4001801 #가야쪽 김씨
+	culture = gaya
+	religion = mahayana
+	father = 1809
+	trait = tough_soldier
+	2424.1.4 = {
+		birth = yes
+	}
+}
+1805 = {
+	name = "Youngkyu"
+	dynasty = 4001804 #가야쪽 문씨
+	culture = gaya
+	religion = mahayana
+	trait = underhanded_rogue
+	2417.6.16 = {
+		birth = yes
+	}
+}
+1806 = {
+	name = "Heejae"
+	dynasty = 4001805 #가야쪽 임씨
+	culture = gaya
+	religion = mahayana
+	trait = misguided_warrior
+	2419.12.11 = {
+		birth = yes
+	}
+}
+1807 = {
+	name = "Youngil"
+	dynasty = 4001806 #가야쪽 안씨
+	culture = gaya
+	religion = mahayana
+	trait = thrifty_clerk
+	2414.9.26 = {
+		birth = yes
+	}
+}
+1808 = {
+	name = "Jaesuk"
+	dynasty = 4001807 #가야쪽 최씨
+	culture = gaya
+	religion = mahayana
+	trait = flamboyant_schemer
+	2409.3.23 = {
+		birth = yes
+	}
+}
+1809 = {
+	name = "Seokjun"
+	dynasty = 4001801 #가야쪽 김씨
+	culture = gaya
+	religion = mahayana
+	trait = martial_cleric
+	2394.4.24 = {
+		birth = yes
+	}
+	2422.7.22 = {
+		death = yes
+	}
+}
+1810 = {
+	name = "Gyechun"
+	dynasty = 4001808 #가야쪽 조씨
+	culture = gaya
+	religion = mahayana
+	trait = thrifty_clerk
+	2408.4.29 = {
+		birth = yes
+	}
+}
+1811 = {
+	name = "Sangwook"
+	dynasty = 4001809 #가야쪽 염씨
+	culture = gaya
+	religion = mahayana
+	trait = tough_soldier
+	2413.8.18 = {
+		birth = yes
+	}
+}
