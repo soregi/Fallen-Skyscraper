@@ -6,6 +6,9 @@ title = c_gyeyang
 # Settlements
 max_settlements = 6
 
+b_gyeyang = castle
+b_gyesan = city
+
 # Misc
 culture = gyeonggi
 religion = koreanist

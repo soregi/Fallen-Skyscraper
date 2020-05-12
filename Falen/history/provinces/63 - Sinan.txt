@@ -6,6 +6,12 @@ title = c_sinan
 # Settlements
 max_settlements = 5
 
+b_aphae = castle
+b_bigeum = city
+b_ha'eui = temple
+b_jeungdo = temple
+b_palgeum = city
+
 # Misc
 culture = sinan
 religion = protestant

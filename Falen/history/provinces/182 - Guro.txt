@@ -6,6 +6,9 @@ title = c_guro
 # Settlements
 max_settlements = 6
 
+b_guro = castle
+b_sindorim = city
+
 # Misc
 culture = seoul
 religion = koreanist

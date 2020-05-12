@@ -6,6 +6,9 @@ title = c_jido
 # Settlements
 max_settlements = 3
 
+b_jido = castle
+b_saok = temple
+
 # Misc
 culture = sinan
 religion = protestant

@@ -6,6 +6,10 @@ title = c_heuksan
 # Settlements
 max_settlements = 3
 
+b_heuksan = castle
+b_hongdo = temple
+b_gageo = castle
+
 # Misc
 culture = sinan
 religion = protestant

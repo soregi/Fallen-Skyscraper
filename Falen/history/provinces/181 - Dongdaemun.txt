@@ -6,6 +6,8 @@ title = c_dongdaemun
 # Settlements
 max_settlements = 6
 
+b_dongdaemun = castle
+
 # Misc
 culture = seoul
 religion = koreanist

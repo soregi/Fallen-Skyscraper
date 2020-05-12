@@ -33,7 +33,9 @@ k_gaya = {
 e_joseon = {
 	color={ 200 158 70 }
 	color2={ 200 158 70 }
-	
+	title = "KING" #
+	title_female = "QUEEN"
+	foa = "KING_FOA"
 	allow = {
 		always = yes
 	}

@@ -138,14 +138,18 @@
 	2412.3.26 = { birth = yes }
 }	
 2017 = {
-	name = ""
+	name = "Ragnaros"
 	religion="koreanist"
 	culture="seoul"
+	2421.1.1 = { birth = yes }
+	2500.1.1 = { death = yes }
 }	
 2018 = {
-	name = ""
+	name = "Mrgl"
 	religion="koreanist"
 	culture="seoul"
+	2421.1.1 = { birth = yes }
+	2500.1.1 = { death = yes }
 }		
 2019 = {
 	name = "Seongtae"

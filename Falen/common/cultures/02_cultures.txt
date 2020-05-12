@@ -1,7 +1,27 @@
 
 south_koreanic = {
 	graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
-	
+	old_korean = {
+		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		dynasty_name_first = yes
+		
+		color = { 171 144 124 }
+
+		male_names = {
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+		}
+		female_names = {
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+		}
+		
+		dynasty_title_names = no
+		
+		from_dynasty_prefix = ""
+		
+		modifier = default_culture_modifier
+	}
 	south_korean = {
 		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic

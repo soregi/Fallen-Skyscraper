@@ -1,10 +1,12 @@
 # 186 - Yeongjongdo
 
 # County Title
-title = c_yoengjongdo
+title = c_yeongjongdo
 
 # Settlements
 max_settlements = 4
+
+b_yeongjongdo = tribal
 
 # Misc
 culture = seoul

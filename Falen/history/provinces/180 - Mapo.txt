@@ -6,6 +6,10 @@ title = c_mapo
 # Settlements
 max_settlements = 6
 
+b_mapo = castle
+b_hapjeong = city
+b_donggyo = temple
+
 # Misc
 culture = seoul
 religion = koreanist

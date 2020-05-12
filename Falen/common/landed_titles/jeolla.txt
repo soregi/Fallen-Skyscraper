@@ -531,18 +531,18 @@ e_sinan = {
 			}
 			c_sinan = {
 				color = { 255 64 64 }
-				b_sinan = {}
-				b_jido_sinan = {}
-				b_apae = {}
+				b_aphae = {}
+				b_bigeum = {}
+				b_ha'eui = {}
 				b_jeungdo = {}
-				b_imja = {}
+				b_palgeum = {}
 				b_jaeun = {}
-				b_heuksan_sinan = {}
+				b_amtae = {}
 			}
 			c_heuksan = {
 				color = { 202 73 126 }
 				b_heuksan = {}
-				b_cheonghaejin = {}
+				b_hongdo = {}
 				b_gageo = {}
 				b_manjae = {}
 				b_sangtae = {}
@@ -555,7 +555,7 @@ e_sinan = {
 				b_saok = {}
 				b_seon = {}
 				b_anma = {}
-				b_sol = {}
+				b_imja = {}
 				b_eoui = {}
 				b_pojak = {}
 			}
