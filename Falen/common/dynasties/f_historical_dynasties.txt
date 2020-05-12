@@ -2,4 +2,12 @@
 	name = "Yi" #전주이씨
 	culture = old_korean
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 1
+		}
+		religion = catholic
+	}
 }
