@@ -6,6 +6,8 @@ title = c_gimpo
 # Settlements
 max_settlements = 5
 
+b_gimpo = castle
+
 # Misc
 culture = gyeonggi
 religion = koreanist

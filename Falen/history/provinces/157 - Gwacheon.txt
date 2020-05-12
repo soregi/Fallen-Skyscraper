@@ -6,6 +6,8 @@ title = c_gwacheon
 # Settlements
 max_settlements = 4
 
+b_gwacheon = castle
+
 # Misc
 culture = gyeonggi
 religion = koreanist

@@ -4,7 +4,12 @@
 title = c_incheon
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
+
+b_incheon = castle
+b_michuhol = city
+b_bupyeong = temple
+b_songdo_incheon = city
 
 # Misc
 culture = gyeonggi

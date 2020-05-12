@@ -6,6 +6,8 @@ title = c_seongnam
 # Settlements
 max_settlements = 5
 
+b_seongnam = castle
+
 # Misc
 culture = gyeonggi
 religion = koreanist
