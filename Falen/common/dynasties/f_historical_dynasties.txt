@@ -1,0 +1,5 @@
+4000801 = {
+	name = "Yi" #전주이씨
+	culture = old_korean
+	religion = confucian
+}
