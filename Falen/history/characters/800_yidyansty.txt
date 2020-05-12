@@ -1,7 +1,6 @@
 801 = {
 	name = "Seonggye"
 	dynasty = 4000801 # 전주이씨
-	#give_nickname = taejo #닉 fal_miscs.csv에 넣고 # 제거하기 이하 동일
 	culture = old_korean
 	religion = confucian
 	martial = 11
@@ -17,8 +16,10 @@
 	1335.10.11 = {
 		birth = yes
 	}
-	#create_bloodline = {
-			type = 조선왕조 형통 집어넣기
+	1392.8.5 = {
+		give_nickname = nick_taejo #아 나도 묘효 죽으면 주는거 안다, 근데 너무 귀찮잖아. 아니 솔직히 말하면 저기 death = yes 아래에 한줄만 달아도 될것같긴 한데
+		create_bloodline = {
+			type = yi_joseon
 			has_dlc = "Holy Fury"
 		}
 	}
@@ -26,605 +27,666 @@
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+802 = {
+	name = "Banggwa"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = tough_soldier
+	give_nickname = nick_jeongjong
+	father = 801
+	1357.7.18 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1419.10.15 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+803 = {
+	name = "Bangwon"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = elusive_shadow
+	trait = kinslayer
+	trait = cruel
+	trait = wroth	
+	give_nickname = nick_taejong
+	father = 801
+	1367.6.13 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1422.6.11 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+804 = {
+	name = "Do"
+	dynasty = 4000801 # 전주이씨
+	culture = old_korean
+	religion = confucian
+	martial = 20
+	diplomacy = 20
+	intrigue = 20
+	stewardship = 20
+	learning = 20
+	trait = ancient
+	trait = mastermind_theologian
+	trait = genius
+	trait = erudite
+	trait = diligent
+	trait = patient
+	trait = humble
+	trait = ambitious
+	trait = gluttonous
+	trait = scholar
+	trait = is_fat
+	give_nickname = nick_sejong_the_great
+	father = 803
+	1397.5.7 = {
+		birth = yes
+	}
+	create_bloodline = {
+			type = sejong_the_great
+			has_dlc = "Holy Fury"
+		}
+	1450.3.30 = {
+		death = { death_reason = death_trait } #병사로 표기되는지 확인 바람
+	}
+}
+805 = {
+	name = "Hyang"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = mastermind_theologian
+	trait = quick
+	trait = feeble
+	trait = erudite
+	give_nickname = nick_munjong
+	father = 804
+	1414.11.15 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1452.6.1 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+806 = {
+	name = "Hongwi"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = scholarly_theologian
+	give_nickname = nick_danjong
+	father = 805
+	1441.8.9 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1457.11.7 = {
+	death = { death_reason = death_execution killer = 807 }
+	}
+}
+807 = {
+	name = "Yu"
+	dynasty = 4000801 # 전주이씨
+	culture = old_korean
+	religion = confucian
+	trait = ancient
+	trait = brilliant_strategist
+	trait = wroth
+	trait = cruel
+	trait = kinslayer
+	give_nickname = sejo
+	father = 804
+	1417.11.2 = {
+		birth = yes
+	}
+	1468.9.23 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+808 = {
+	name = "Hwang"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = scholarly_theologian
+	give_nickname = nick_yejong
+	father = 807
+	1450.1.14 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1469.12.31 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+809 = {
+	name = "Hyeol"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = mastermind_theologian
+	give_nickname = nick_seongjong
+	father = 830
+	1457.8.19 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1495.1.20 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+810 = {
+	name = "Yung"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = tough_soldier
+	trait = wroth
+	trait = lustful
+	trait = lunatic
+	give_nickname = nick_yeonsangun
+	father = 809
+	1476.11.23 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1506.11.20 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+811 = {
+	name = "Yeok"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_jungjong
+	father = 809
+	1488.4.16 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1544.11.29 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+812 = {
+	name = "Ho"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_injong
+	father = 811
+	1515.3.10 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1545.8.7 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+813 = {
+	name = "Hwan"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_myeongjong
+	father = 811
+	1534.7.3 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1567.8.2 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+814 = {
+	name = "Yeon"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = grey_eminence
+	give_nickname = nick_seonjo
+	father = 813
+	1552.11.26 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1608.3.16 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+815 = {
+	name = "Hon"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = charismatic_negotiator
+	trait = lunatic
+	trait = wroth
+	trait = kinslayer
+	give_nickname = nick_gwanghaegun
+	father = 814
+	1575.6.4 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1641.8.16 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+816 = {
+	name = "Jong"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
+	martial = 0
+	diplomacy = 0
+	intrigue = 0
+	stewardship = 0
+	learning = 0
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = amateurich_plotter
+	trait = slow
+	trait = kinslayer
+	give_nickname = nick_injo
+	father = 829
+	1595.12.7 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1649.6.27 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+817 = {
+	name = "Ho"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = skilled_tactician
+	give_nickname = nick_hyojong
+	father = 816
+	1619.7.3 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1659.6.23 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+818 = {
+	name = "Yeon"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_hyeonjong
+	father = 817
+	1641.3.14 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1674.9.17 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+819 = {
+	name = "Sun"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = sukjong
+	father = 818
+	1661.10.7 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1720.7.12 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+820 = {
+	name = "Kyun"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_gyeongjong
+	father = 819
+	1688.11.20 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1724.10.11 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+821 = {
+	name = "Geum"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = mastermind_theologian
+	trait = quick
+	trait = stressed
+	trait = kinslayer
+	give_nickname = nick_yeongjo
+	father = 819
+	1694.10.31 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1776.4.22 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+822 = {
+	name = "Seon"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_crown_prince_sado
+	father = 821
+	1735.1.21 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1762.5.21 = {	
+	death = { death_reason = death_execution killer = 821 }
+	}
+}
+823 = {
+	name = "San"
+	dynasty = 4000801 # 전주이씨
+	culture = old_korean
+	religion = confucian
+	trait = ancient
+	trait = mastermind_theologian
+	trait = quick
+	give_nickname = nick_jeongjo
+	father = 822
+	1752.10.28 = {
+		birth = yes
+	}
+	1800.8.18 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+824 = {
+	name = "Gong"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_sunjo
+	father = 823
+	1790.7.29 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1834.12.13 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+825 = {
+	name = "Hwan"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_heonjong
+	father = 831
+	1827.9.8 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1849.7.25 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+826 = {
+	name = "Byeon"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = detached_priest
+	trait = slow
+	give_nickname = nick_cheoljong
+	father = 832
+	1831.7.25 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1864.1.16 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+827 = {
+	name = "Hyeong"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = naive_appeaser
+	trait = arbitrary
+	give_nickname = nick_gojong
+	father = 834
+	1852.9.8 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1919.1.21 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+828 = {
+	name = "Cheok"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	trait = naive_appeaser
+	trait = imbecile
+	give_nickname = nick_sunjong
+	father = 827
+	1874.3.25 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1926.4.26 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+829 = {
+	name = "Bu"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_prince_jeongwon
+	father = 814
+	1580.6.22 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1619.12.29 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+830 = {
+	name = "Jang"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_crown_prince_uigyeong
+	father = 804
+	1438.9.15 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1457.9.2 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+831 = {
+	name = "Young"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_crown_prince_hyomyeong
+	father = 824
+	1809.8.9 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1830.5.6 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+832 = {
+	name = "Kwang"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_jeongye_daewongun
+	father = 833
+	1785.4.29 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1841.12.14 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+833 = {
+	name = "In"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_prince_euneon
+	father = 822
+	1754.5.29 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1801.6.30 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+834 = {
+	name = "Haeung"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_heungseon_daewongun
+	father = 835
+	1820.12.21 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1898.2.22 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+835 = {
+	name = "Chejung"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_prince_namyeon
+	father = 836
+	1788.8.22 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1836.3.19 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+836 = {
+	name = "Byungwon"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	father = 837
+	1752.4.6 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1822.11.11 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+837 = {
+	name = "Jinik"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	father = 838
+	1728.9.25 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1796.4.26 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+838 = {
+	name = "Suk"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_prince_anheung
+	father = 839
+	1693.10.9 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1768.4.7 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+839 = {
+	name = "Hyeok"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_prince_uiwon
+	father = 840
+	1661.6.13 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1722.11.12 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+840 = {
+	name = "Uk"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_prince_boknyeong
+	father = 841
+	1639.1.1 = {
 		birth = yes
 	}
-	1994.7.8 = {
+	1670.10.15 = {
 		death = yes
 	}
 }
-#801 = {
-	name = ""
+841 = {
+	name = "Yo"
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	father = 
-	1912.4.15 = {
+	give_nickname = nick_crown_prince_inpyeong
+	father = 816
+	1622.12.10 = {
 		birth = yes
 	}
-	1994.7.8 = {
-		death = yes
-	}
-}
-#801 = {
-	name = ""
-	dynasty = 4000801 # 전주이씨
-	culture = old_korean
-	religion = confucian
-	trait = ancient
-	father = 
-	1912.4.15 = {
-		birth = yes
-	}
-	1994.7.8 = {
-		death = yes
-	}
-}
-#801 = {
-	name = ""
-	dynasty = 4000801 # 전주이씨
-	culture = old_korean
-	religion = confucian
-	trait = ancient
-	father = 
-	1912.4.15 = {
-		birth = yes
-	}
-	1994.7.8 = {
-		death = yes
-	}
-}
-#801 = {
-	name = ""
-	dynasty = 4000801 # 전주이씨
-	culture = old_korean
-	religion = confucian
-	trait = ancient
-	father = 
-	1912.4.15 = {
-		birth = yes
-	}
-	1994.7.8 = {
-		death = yes
-	}
-}
-#801 = {
-	name = ""
-	dynasty = 4000801 # 전주이씨
-	culture = old_korean
-	religion = confucian
-	trait = ancient
-	father = 
-	1912.4.15 = {
-		birth = yes
-	}
-	1994.7.8 = {
-		death = yes
-	}
-}
-#801 = {
-	name = ""
-	dynasty = 4000801 # 전주이씨
-	culture = old_korean
-	religion = confucian
-	trait = ancient
-	father = 
-	1912.4.15 = {
-		birth = yes
-	}
-	1994.7.8 = {
-		death = yes
-	}
-}
-#801 = {
-	name = ""
-	dynasty = 4000801 # 전주이씨
-	culture = old_korean
-	religion = confucian
-	trait = ancient
-	father = 
-	1912.4.15 = {
-		birth = yes
-	}
-	1994.7.8 = {
+	1658.5.13 = {
 		death = yes
 	}
 }
