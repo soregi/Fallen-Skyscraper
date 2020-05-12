@@ -6,6 +6,8 @@ title = c_guri
 # Settlements
 max_settlements = 4
 
+b_guri = castle
+
 # Misc
 culture = gyeonggi
 religion = koreanist

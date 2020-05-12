@@ -6,6 +6,8 @@ title = c_namyangju
 # Settlements
 max_settlements = 5
 
+b_namyangju = castle
+
 # Misc
 culture = gyeonggi
 religion = koreanist
