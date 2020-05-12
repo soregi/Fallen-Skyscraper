@@ -21,10 +21,18 @@ k_mil_seoul = {
 	culture = seoul
 	religion = koreanist
 }
-#인물 작동 여부를 확인하기 위해 임시로 k_gaya를 추가함
+#인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을 추가함
 k_gaya = {
 	color={ 138 188 248 }
 	color2={ 258 258 28 }
+	
+	allow = {
+		always = yes
+	}
+}
+e_joseon = {
+	color={ 200 158 70 }
+	color2={ 200 158 70 }
 	
 	allow = {
 		always = yes

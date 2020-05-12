@@ -48,3 +48,19 @@ salt_blood = { # 신안 염제 혈통
 	picture = GFX_bloodlines_symbol_longship
 	flags = { historical_bloodline }
 }
+yi_joseon = {
+	combat_rating = 8
+	vassal_opinion = 5
+	bloodline_effect_great_heroes_appear = 1
+	inheritance = patrilineal
+	allow_bastards = yes
+	picture = GFX_bloodlines_symbol_carolingian #이화 gfx에 넣고 바꾸기
+	flags = { historical_bloodline bloodline_heroes }
+}
+sejong_the_great = {
+	just_opinion = 5
+	 allow_bastards = yes
+	picture = GFX_bloodlines_symbol_carolingian #이것도 뭔가로 바꾸고
+	flags = { historical_bloodline }
+}
+#세종대왕 혈통에 학력 2 줘야하는데 도저히 못찾겠다
