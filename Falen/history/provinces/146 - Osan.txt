@@ -6,6 +6,10 @@ title = c_osan
 # Settlements
 max_settlements = 4
 
+b_osan = castle
+b_namchon = city
+b_sema = city
+
 # Misc
 culture = gyeonggi
 religion = koreanist

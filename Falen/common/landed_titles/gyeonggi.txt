@@ -1,4 +1,4 @@
-k_gyeonggi = {
+fk_gyeonggi = {
 	color = { 0 121 67 }
 
 	capital = 160
@@ -191,7 +191,7 @@ k_gyeonggi = {
 			b_incheon = {}
 			b_michuhol = {}
 			b_bupyeong = {}
-			b_ongjin = {}
+			b_songdo_incheon = {}
 			b_yeonsu = {}
 			b_wolmi = {}
 			b_cheongra = {}
@@ -538,6 +538,13 @@ k_gyeonggi = {
 		}
 		c_danwon = {
 			color = { 138 0 0 }
+			b_ansan = {}
+			b_danwon = {}
+			b_wongok = {}
+			b_gojan = {}
+			b_baegun = {}
+			b_singil_ansan = {}
+			b_seonbu_ansan = {}
 		}
 		c_gwangmyeong = {
 			color = { 199 0 0 }
@@ -556,8 +563,8 @@ k_gyeonggi = {
 			b_bono = {}
 			b_wolpi = {}
 			b_banwol_sangnok = {}
-			b_ansan_sangok = {}
-			b_bugok_sangok = {}
+			b_sa_sangnok = {}
+			b_bugok_sangnok = {}
 		}
 	}
 	

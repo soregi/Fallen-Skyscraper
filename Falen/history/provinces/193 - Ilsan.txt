@@ -6,6 +6,11 @@ title = c_ilsan
 # Settlements
 max_settlements = 4
 
+b_jeongbalsan = castle
+b_ilsan = city
+b_tanhyeon = city
+b_baekseok = temple
+
 # Misc
 culture = gyeonggi
 religion = koreanist

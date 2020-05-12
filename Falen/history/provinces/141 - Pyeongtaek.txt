@@ -6,6 +6,10 @@ title = c_pyeongtaek
 # Settlements
 max_settlements = 5
 
+b_pyeongtaek = castle
+b_bijeon = temple
+b_yongi = city
+
 # Misc
 culture = gyeonggi
 religion = protestant

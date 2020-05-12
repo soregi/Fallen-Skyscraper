@@ -6,6 +6,9 @@ title = c_gunpo
 # Settlements
 max_settlements = 4
 
+b_gunpo = castle
+b_daeya_gunpo = city
+
 # Misc
 culture = gyeonggi
 religion = koreanist

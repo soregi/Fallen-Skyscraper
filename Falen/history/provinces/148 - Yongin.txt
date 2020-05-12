@@ -6,6 +6,10 @@ title = c_yongin
 # Settlements
 max_settlements = 4
 
+b_cheoin_yongin = castle
+b_yongin = city
+b_jukjeon = temple
+
 # Misc
 culture = gyeonggi
 religion = koreanist

@@ -6,6 +6,10 @@ title = c_uiwang
 # Settlements
 max_settlements = 4
 
+b_uiwang = castle
+b_naeson = temple
+b_cheonggye = city
+
 # Misc
 culture = gyeonggi
 religion = koreanist

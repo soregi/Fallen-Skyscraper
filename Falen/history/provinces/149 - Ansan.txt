@@ -6,6 +6,9 @@ title = c_danwon
 # Settlements
 max_settlements = 4
 
+b_danwon = castle
+b_wongok = temple
+
 # Misc
 culture = gyeonggi
 religion = koreanist
