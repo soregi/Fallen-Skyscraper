@@ -1,4 +1,4 @@
-fk_gyeonggi = {
+k_gyeonggi = {
 	color = { 0 121 67 }
 
 	capital = 160
