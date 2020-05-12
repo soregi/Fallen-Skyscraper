@@ -1,1 +1,42 @@
 nick_salt_emperor = {}
+
+#이하 조선왕조 별명
+nick_taejo = {}
+nick_jeongjong
+nick_taejong
+nick_sejong_the_great
+nick_munjong
+nick_danjong
+nick_sejo
+nick_yejong
+nick_seongjong
+nick_yeonsangun
+nick_jungjong
+nick_injong
+nick_myeongjong
+nick_seonjo
+nick_gwanghaegun
+nick_injo
+nick_hyojong
+nick_hyeonjong
+nick_sukjong
+nick_gyeongjong
+nick_yeongjo
+nick_crown_prince_sado
+nick_jeongjo
+nick_sunjo
+nick_heonjong
+nick_cheoljong
+nick_gojong
+nick_sunjong
+nick_prince_jeongwon
+nick_crown_prince_uigyeong
+nick_crown_prince_hyomyeong
+nick_jeongye_daewongun
+nick_prince_euneon
+nick_heungseon_daewongun
+nick_prince_namyeon
+nick_prince_anheung
+nick_prince_uiwon
+nick_prince_boknyeong
+nick_crown_prince_inpyeong
