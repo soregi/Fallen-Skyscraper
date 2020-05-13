@@ -98,6 +98,7 @@
 	trait = elusive_shadow
 	trait = kinslayer
 	trait = cruel
+<<<<<<< HEAD
 	trait = ambitious
 	trait = deceitful
 	trait = gregarious
@@ -105,6 +106,11 @@
 	trait = paranoid
 	trait = trickster
 	trait = impaler
+=======
+	trait = wroth	
+	trait = quick
+	trait = patient
+>>>>>>> 57a6d5376c5b1702f9019dd9466aa92ae338fbc4
 	give_nickname = nick_taejong
 	father = 801
 	1367.6.13 = {
@@ -478,7 +484,7 @@
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	give_nickname = sukjong
+	give_nickname = nick_sukjong
 	father = 818
 	1661.10.7 = {
 		birth = yes
