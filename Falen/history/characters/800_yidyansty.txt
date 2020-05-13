@@ -53,6 +53,8 @@
 	trait = kinslayer
 	trait = cruel
 	trait = wroth	
+	trait = quick
+	trait = patient
 	give_nickname = nick_taejong
 	father = 801
 	1367.6.13 = {
@@ -341,7 +343,7 @@
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	give_nickname = sukjong
+	give_nickname = nick_sukjong
 	father = 818
 	1661.10.7 = {
 		birth = yes
