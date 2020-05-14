@@ -53,6 +53,7 @@
 	father = 403
 	culture = north_korean
 	religion = juche
+	occluded=yes
 	2020.3.13 = {
 		birth = yes
 	}
