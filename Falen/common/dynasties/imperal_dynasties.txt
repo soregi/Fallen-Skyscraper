@@ -1,0 +1,56 @@
+#대한민국 대통령
+4000701 = {
+	name = "Rhee"
+	culture = old_korean 
+	religion = koreanist
+}
+4000702 = {
+	name = "Yun"
+	culture = old_korean 
+	religion = koreanist
+}
+4000703 = {
+	name = "Park"
+	culture = old_korean 
+	religion = koreanist
+}
+4000704 = {
+	name = "Choi"
+	culture = old_korean 
+	religion = koreanist
+}
+4000705 = {
+	name = "Chun"
+	culture = old_korean 
+	religion = koreanist
+}
+4000706 = {
+	name = "Roh"
+	culture = old_korean 
+	religion = koreanist
+}
+4000707 = {
+	name = "Kim"
+	culture = old_korean 
+	religion = koreanist
+}
+4000707 = {
+	name = "Kim"
+	culture = old_korean 
+	religion = koreanist
+}
+4000709 = {
+	name = "Roh"
+	culture = old_korean 
+	religion = koreanist
+}
+4000710 = {
+	name = "Lee"
+	culture = old_korean 
+	religion = koreanist
+}
+4000711 = {
+	name = "Moon"
+	culture = old_korean 
+	religion = koreanist
+}

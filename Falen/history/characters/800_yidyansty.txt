@@ -838,3 +838,22 @@
 		death = yes
 	}
 }
+842 = {
+	name = "Je"
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	trait = ancient
+	trait = lustful
+	trait = poet
+	trait = slothful
+	trait = hedonist
+	trait = drunkard
+	trait = greedy
+	trait = gregarious
+	trait = sturdy
+	give_nickname = nick_yangnyeong
+	father = 803
+	1394.1.1 = { birth = yes }
+	1462.9.7 = { death = yes }
+}

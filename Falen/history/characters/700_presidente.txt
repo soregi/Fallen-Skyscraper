@@ -1,0 +1,129 @@
+700 = {
+	name = "Descendants of Yangnyeong"
+	dynasty = 4000801
+	father = 842
+	culture = old_korean
+	religion = confucian
+	occluded = yes
+	1420.1.1 = { birth = yes }
+	1900.1.1 = { death = yes }
+}
+701 = {
+	name = "Syngman"
+	dynasty = 4000701
+	father = 700
+	culture = south_korean
+	religion = protestant
+	occluded = yes
+	1875.3.26 = { birth = yes }
+	1965.7.19 = { death = yes }
+}
+702 = {
+	name = "Posun"
+	dynasty = 4000702
+	culture = south_korean
+	religion = protestant
+	occluded = yes
+	1897.8.26 = { birth = yes }
+	1990.7.18 = { death = yes }
+}
+703 = {
+	name = "Chunghee"
+	dynasty = 4000703
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	1917.11.14 = { birth = yes }
+	1979.10.26 = {
+		death = {
+			death_reason = death_murder_arrow
+		}
+	}
+}
+704 = {
+	name = "Kyuhah"
+	dynasty = 4000704
+	culture = south_korean
+	religion = confucian
+	occluded = yes
+	1919.7.16 = { birth = yes }
+	2006.10.22 = { death = yes }
+}
+705 = {
+	name = "Doohwan"
+	dynasty = 4000705
+	culture = south_korean
+	religion = catholic
+	occluded = yes
+	1931.1.18 = { birth = yes }
+	1988.1.1 = { religion = mahayana }
+	2020.3.14 = { death = yes }
+}
+706 = {
+	name = "Taewoo"
+	dynasty = 4000706
+	culture = south_korean
+	religion = protestant
+	occluded = yes
+	1932.12.4 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+707 = {
+	name = "Youngsam"
+	dynasty = 4000707
+	culture = yeongnam
+	religion = protestant
+	occluded = yes
+	1929.1.14 = { birth = yes }
+	2015.11.22 = { death = yes }
+}
+708 = {
+	name = "Daejung"
+	dynasty = 4000708
+	culture = sinan
+	religion = protestant
+	occluded = yes
+	1924.1.6 = { birth = yes }
+	2009.8.18 = { death = yes }
+}
+709 = {
+	name = "Moohyun"
+	dynasty = 4000709
+	culture = yeongnam
+	religion = koreanist
+	occluded = yes
+	1946.9.1 = { birth = yes }
+	2009.5.23 = {
+		death = {
+			death_reason = death_suicide_fall
+		}
+	}
+}
+710 = {
+	name = "Myungbak"
+	dynasty = 4000710
+	culture = old_korean
+	religion = protestant
+	occluded = yes
+	1941.12.19 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+711 = {
+	name = "Geunhye"
+	dynasty = 4000703
+	father = 703
+	culture = old_korean
+	religion = mu_pagan
+	occluded = yes
+	female = yes
+	1952.2.2 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+712 = {
+	name = "Jaein"
+	dynasty = 4000711
+	culture = old_korean
+	religion = catholic
+	1953.1.24 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
