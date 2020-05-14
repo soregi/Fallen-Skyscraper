@@ -13,9 +13,10 @@
 	dynasty = 4000701
 	father = 700
 	culture = south_korean
-	religion = protestant
+	religion = confucian
 	occluded = yes
 	1875.3.26 = { birth = yes }
+	1901.1.1 = { religion = protestant }
 	1965.7.19 = { death = yes }
 }
 702 = {
@@ -71,7 +72,7 @@
 707 = {
 	name = "Youngsam"
 	dynasty = 4000707
-	culture = yeongnam
+	culture = south_korean
 	religion = protestant
 	occluded = yes
 	1929.1.14 = { birth = yes }
@@ -102,7 +103,7 @@
 710 = {
 	name = "Myungbak"
 	dynasty = 4000710
-	culture = old_korean
+	culture = south_korean
 	religion = protestant
 	occluded = yes
 	1941.12.19 = { birth = yes }
@@ -112,7 +113,7 @@
 	name = "Geunhye"
 	dynasty = 4000703
 	father = 703
-	culture = old_korean
+	culture = south_korean
 	religion = mu_pagan
 	occluded = yes
 	female = yes
@@ -122,8 +123,9 @@
 712 = {
 	name = "Jaein"
 	dynasty = 4000711
-	culture = old_korean
+	culture = south_korean
 	religion = catholic
+	occluded = yes
 	1953.1.24 = { birth = yes }
 	2020.3.14 = { death = yes }
 }

@@ -36,7 +36,19 @@ e_joseon = {
 	title = "KING" #
 	title_female = "QUEEN"
 	foa = "KING_FOA"
+	title_prefix = KINGDOM_PREFIX
 	allow = {
 		always = yes
+	}
+}
+e_south_korea = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+	title = "PRESIDENT"
+	title_female = "PRESIDENT"
+	foa = "PRESIDENT_FOA"
+	short_name = yes
+	allow = {
+		always = no
 	}
 }
