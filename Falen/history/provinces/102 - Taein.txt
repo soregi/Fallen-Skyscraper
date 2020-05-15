@@ -7,5 +7,5 @@ title = c_taein
 max_settlements = 5
 
 # Misc
-culture = hoseo
+culture = honam
 religion = protestant

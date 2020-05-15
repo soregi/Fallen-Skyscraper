@@ -40,3 +40,8 @@ nick_prince_anheung = {}
 nick_prince_uiwon = {}
 nick_prince_boknyeong = {}
 nick_crown_prince_inpyeong = {}
+#이하 불국토 별명
+nick_hyeonjeong = {} #현정, 뭔가 의미가있는 별명인것같긴 한데, 몰라서 그냥 독음대로 씀 이하 동일
+nick_beopcheon = {} #법천
+nick_wonmyeong = {} #원명
+nick_jeongsim = {} #정심

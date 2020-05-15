@@ -1,7 +1,7 @@
 1801 = {
 	name = "Sinpil"
 	dynasty = 4001801 #가야쪽 김씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	father = 1809
 	trait = naive_appeaser
@@ -14,7 +14,7 @@
 1802 = {
 	name = "Wonil"
 	dynasty = 4001802 #가야쪽 이씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = intricate_webweaver
 	trait = ambitious
@@ -27,7 +27,7 @@
 1803 = {
 	name = "Ilgyeong"
 	dynasty = 4001803 #가야쪽 박씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = martial_cleric
 	trait = diligent
@@ -39,7 +39,7 @@
 1804 = {
 	name = "Gangpil"
 	dynasty = 4001801 #가야쪽 김씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	father = 1809
 	trait = tough_soldier
@@ -50,7 +50,7 @@
 1805 = {
 	name = "Youngkyu"
 	dynasty = 4001804 #가야쪽 문씨
-	culture = gaya
+	culture = honam
 	religion = mahayana
 	trait = underhanded_rogue
 	2417.6.16 = {
@@ -60,7 +60,7 @@
 1806 = {
 	name = "Heejae"
 	dynasty = 4001805 #가야쪽 임씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = misguided_warrior
 	2419.12.11 = {
@@ -70,7 +70,7 @@
 1807 = {
 	name = "Youngil"
 	dynasty = 4001806 #가야쪽 안씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = thrifty_clerk
 	2414.9.26 = {
@@ -80,7 +80,7 @@
 1808 = {
 	name = "Jaesuk"
 	dynasty = 4001807 #가야쪽 최씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = flamboyant_schemer
 	2409.3.23 = {
@@ -90,7 +90,7 @@
 1809 = {
 	name = "Seokjun"
 	dynasty = 4001801 #가야쪽 김씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = martial_cleric
 	2394.4.24 = {
@@ -103,7 +103,7 @@
 1810 = {
 	name = "Gyechun"
 	dynasty = 4001808 #가야쪽 조씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = thrifty_clerk
 	2408.4.29 = {
@@ -113,7 +113,7 @@
 1811 = {
 	name = "Sangwook"
 	dynasty = 4001809 #가야쪽 염씨
-	culture = gaya
+	culture = yeongnam
 	religion = mahayana
 	trait = tough_soldier
 	2413.8.18 = {
