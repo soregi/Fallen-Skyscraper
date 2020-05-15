@@ -19,7 +19,7 @@ indian_group = {
 	female_names = {
 	}
 	
-	mahayana = {
+	mahayana = { #대승불교
 		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
@@ -72,7 +72,7 @@ indian_group = {
 		intermarry = tengri_pagan_reformed
 		intermarry = nestorian
 	}
-	vajrayana = {
+	vajrayana = { #밀교
 		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
@@ -126,7 +126,7 @@ indian_group = {
 		intermarry = tengri_pagan_reformed
 		intermarry = nestorian
 	}
-	won_buddhist = {
+	won_buddhist = { #원불교
 		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
@@ -181,7 +181,7 @@ indian_group = {
 		intermarry = tengri_pagan_reformed
 		intermarry = nestorian
 	}
-	cheondo = {
+	cheondo = { #천도교
 		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
@@ -236,7 +236,7 @@ indian_group = {
 		intermarry = tengri_pagan_reformed
 		intermarry = nestorian
 	}
-	taoist = {
+	taoist = { #도교
 		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
 		has_coa_on_barony_only = yes
@@ -328,7 +328,7 @@ indian_group = {
 		intermarry = nestorian
 		intermarry = manichean
 	}
-	confucian = {
+	confucian = { #유교
 		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
 		has_coa_on_barony_only = yes

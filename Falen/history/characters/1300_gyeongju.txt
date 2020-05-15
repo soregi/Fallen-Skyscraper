@@ -1,1 +1,219 @@
 #주의! 현재 이 캐릭터들은 아티펙트가 부여되지 않은 미완성 상태의 캐릭터들임
+1301 = {
+	name = "Wonil"
+	dynasty = 4001301 # 경주쪽 서씨
+	culture = yeongnam
+	religion = mahayana
+	trait = ancient
+	trait = mastermind_theologian
+	trait = temperate
+	trait = charitable
+	trait = kind
+	trait = humble
+	trait = erudite
+	give_nickname = nick_hyeonjeong
+	2140.1.4 = {
+		birth = yes
+	}
+	2239.4.26 = {
+	death = yes
+	}
+}
+1302 = {
+	name = "Taesu"
+	dynasty = 4001302 # 경주쪽 연씨
+	culture = yeongnam
+	religion = mahayana
+	2184.2.10 = {
+		birth = yes
+	}
+	2264.6.27 = {
+	death = yes
+	}
+}
+1303 = {
+	name = "Mincheol"
+	dynasty = 4001303 # 경주쪽 경씨
+	culture = yeongnam
+	religion = mahayana
+	2217.2.15 = {
+		birth = yes
+	}
+	2298.3.6 = {
+	death = yes
+	}
+}
+1304 = {
+	name = "Yongha"
+	dynasty = 4001304 # 경주쪽 이씨
+	culture = yeongnam
+	religion = mahayana
+	2237.9.4 = {
+		birth = yes
+	}
+	2323.5.17 = {
+	death = yes
+	}
+}
+1305 = {
+	name = "Johyeok"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	2268.1.20 = {
+		birth = yes
+	}
+	2312.11.27 = {
+	death = yes
+	}
+}
+1306 = {
+	name = "Kyungtae"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	father = 1305
+	2284.11.19 = {
+		birth = yes
+	}
+	2337.10.7 = {
+	death = yes
+	}
+}
+1307 = {
+	name = "Kyeongil"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	father = 1305
+	2289.12.14 = {
+		birth = yes
+	}
+	2376.1.23 = {
+	death = yes
+	}
+}
+1308 = {
+	name = "Ilhwan"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	father = 1306
+	2319.12.20 = {
+		birth = yes
+	}
+	2395.8.11 = {
+	death = yes
+	}
+}
+1309 = {
+	name = "Cheonyeong"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	father = 1308
+	2352.12.25 = {
+		birth = yes
+	}
+	2422.2.16 = {
+	death = yes
+	}
+}
+1310 = {
+	name = "Munjin"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	father = 1309
+	2373.8.16 = {
+		birth = yes
+	}
+	2440.9.30 = {
+	death = yes
+	}
+}
+1311 = {
+	name = "Myeonggil"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	trait = fortune_builder
+	trait = just
+	trait = proud
+	trait = greedy
+	nick_beopcheon = {}
+	father = 1310
+	2408.8.17 = {
+		birth = yes
+	}
+	2428.1.1 = {
+	add_spouse = 1312
+	}
+}
+1312 = {
+	name = "Kyeonghye"
+	female = yes
+	dynasty = 4001306 # 경주쪽 임씨1
+	culture = yeongnam
+	religion = mahayana
+	father = 1309
+	2412.12.8 = {
+	birth = yes
+	}
+}
+1313 = {
+	name = "Chanyeol"
+	dynasty = 4001305 # 경주쪽 김씨
+	culture = yeongnam
+	religion = mahayana
+	father = 1311
+	mother = 1312
+	2436.11.7 = {
+		birth = yes
+	}
+}
+1314 = {
+	name = "Byeongjin"
+	dynasty = 4001307 # 경주쪽 임씨2
+	culture = yeongnam
+	religion = mahayana
+	father = 1311
+	mother = 1312
+	2405.10.12 = {
+		birth = yes
+	}
+	2430.1.1 = {
+	add_spouse = 1315
+	}
+}
+1315 = {
+	name = "Kyeonga"
+	dynasty = 4001308 # 경주쪽 송씨
+	culture = yeongnam
+	religion = mahayana
+	2412.5.28 = {
+		birth = yes
+	}
+}
+1316 = {
+	name = "Jaehyuk"
+	dynasty = 4001307 # 경주쪽 임씨2
+	culture = yeongnam
+	religion = mahayana
+	father = 1314
+	mother = 1315
+	2433.6.9 = {
+		birth = yes
+	}
+}
+1317 = {
+	name = "Jaeo"
+	dynasty = 4001308 # 경주쪽 안씨
+	culture = yeongnam
+	religion = mahayana
+	father = 1311
+	mother = 1312
+	2436.11.7 = {
+		birth = yes
+	}
+}
