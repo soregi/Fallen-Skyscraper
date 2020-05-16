@@ -210,7 +210,7 @@
 	name = "Jaeo"
 	dynasty = 4001308 # 경주쪽 안씨
 	culture = yeongnam
-	religion = mahayana
+	religion = mahayana #종교 추가되면 여기서부터 다시 만들기
 	father = 1311
 	mother = 1312
 	2436.11.7 = {
