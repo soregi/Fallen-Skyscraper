@@ -1,4 +1,4 @@
 2433.6.13 = {
-	liege = d_maitreya
+	liege = k_bulgukto
 	holder = 1323
 }
