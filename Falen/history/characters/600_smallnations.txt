@@ -36,6 +36,7 @@
 	mother = 651
 	trait = mastermind_theologian
 	trait = zealous
+	trait = content
 	2422.10.21 = {
 		birth = yes
 	}
@@ -65,7 +66,8 @@
 	culture = hoseo
 	religion = mu_pagan
 	trait = intricate_webweaver
-	triat = shrewd
+	trait = shrewd
+	trait = ambitious
 	father = 650
 	mother = 651
 	2424.6.18 = {
