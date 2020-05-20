@@ -33,21 +33,21 @@
 }
 4001101 = {
 	name = "Kim" #Namhae
-	culture = central_germanic
+	culture = sudsee
 	religion = protestant
 }
 4001102 = {
 	name = "Jang" #Namhae
-	culture = central_germanic
+	culture = sudsee
 	religion = protestant
 }
 4001103 = {
 	name = "Gwon" #Namhae
-	culture = central_germanic
+	culture = sudsee
 	religion = protestant
 }
 4001104 = {
 	name = "von der Pfalz" #Namhae
-	culture = central_germanic
+	culture = sudsee
 	religion = protestant
 }
