@@ -1,4 +1,4 @@
 2429.4.30 = {
-	liege = d_gimhae
+	liege = d_bailian
 	holder = 1324
 }
