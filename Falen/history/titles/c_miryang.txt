@@ -1,0 +1,4 @@
+2428.7.2 = {
+	liege = d_gimhae
+	holder = 1327
+}

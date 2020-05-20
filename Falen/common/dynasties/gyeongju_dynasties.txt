@@ -1,0 +1,88 @@
+4001301 = {
+	name = "Seo"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001302 = {
+	name = "Yeon"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001303 = {
+	name = "Gyeong"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001304 = {
+	name = "Lee"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001305 = {
+	name = "Kim"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001306 = {
+	name = "Lim"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001307 = {
+	name = "Lim"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001308 = {
+	name = "Song"
+	culture =  yeongnam
+	religion = mahayana
+}
+4001309 = {
+	name = "Jeong"
+	culture =  yeongnam
+	religion = maitreya
+}
+4001317 = {
+	name = "Ahn"
+	culture =  yeongnam
+	religion = maitreya
+}
+4001310 = {
+	name = "Kang"
+	culture =  yeongnam
+	religion = maitreya
+}
+4001311 = {
+	name = "Shin"
+	culture =  yeongnam
+	religion = maitreya
+}
+4001312 = {
+	name = "Jeon"
+	culture =  yeongnam
+	religion = maitreya
+}
+4001313 = {
+	name = "Yang"
+	culture =  yeongnam
+	religion = bailian
+}
+4001314 = {
+	name = "Son"
+	culture =  yeongnam
+	religion = bailian
+}
+4001315 = {
+	name = "Han"
+	culture =  yeongnam
+	religion = bailian
+}
+4001316 = {
+	name = "Ko"
+	culture =  yeongnam
+	religion = bailian
+}
+
+
+

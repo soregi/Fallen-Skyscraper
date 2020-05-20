@@ -1,0 +1,4 @@
+2429.4.30 = {
+	liege = k_bulgukto
+	holder = 1324
+}

@@ -188,6 +188,7 @@
 }
 1315 = {
 	name = "Kyeonga"
+	female = yes
 	dynasty = 4001308 # 경주쪽 송씨
 	culture = yeongnam
 	religion = mahayana
@@ -210,10 +211,151 @@
 	name = "Jaeo"
 	dynasty = 4001308 # 경주쪽 안씨
 	culture = yeongnam
-	religion = mahayana #종교 추가되면 여기서부터 다시 만들기
-	father = 1311
-	mother = 1312
-	2436.11.7 = {
+	religion = maitreya #여기부터 미륵종
+	2418.3.2 = {
+		birth = yes
+	}
+}
+1318 = {
+	name = "Sangduk"
+	dynasty = 4001309 # 경주쪽 정씨
+	culture = yeongnam
+	religion = maitreya
+	trait = skiled_tactician
+	trait = cruel
+	trait = paranoid
+	trait = wroth
+	give_nickname = nick_wonmyeong
+	2384.4.26 = {
+		birth = yes
+	}
+	2405.3.7 = {
+		add_spouse = 1319
+	}
+}
+1319 = {
+	name = "Siyeon"
+	female = yes
+	dynasty = 4001310 # 경주쪽 강씨
+	culture = yeongnam
+	religion = maitreya
+	2380.4.19 = {
+		birth = yes
+	}
+}
+1320 = {
+	name = "Huiwoo"
+	dynasty = 4001309 # 경주쪽 정씨
+	culture = yeongnam
+	religion = maitreya 
+	father = 1318
+	mother = 1319
+	2413.8.19 = {
+		birth = yes
+	}
+	2430.4.12 = {
+		add_spouse = 1321
+
+}
+1321 = {
+	name = "Dohui"
+	female = yes
+	dynasty = 4001311 # 경주쪽 신씨
+	culture = yeongnam
+	religion = maitreya
+	2414.5.12 = {
+		birth = yes
+	}
+}
+1322 = {
+	name = "Baekhwa"
+	dynasty = 4001309 # 경주쪽 정씨
+	culture = yeongnam
+	religion = maitreya
+	father = 1320
+	mother = 1321
+	2442.7.5 = {
+		birth = yes
+	}
+}
+1323 = {
+	name = "Jinwoo"
+	dynasty = 4001312 # 경주쪽 전씨
+	culture = yeongnam
+	religion = maitreya
+	2414.4.23 = {
+		birth = yes
+	}
+}
+1324 = {
+	name = "Cheonwook"
+	dynasty = 4001313 # 경주쪽 양씨
+	culture = yeongnam
+	religion = bailian
+	trait = martial_cleric
+	trait = zealous
+	trait = brave
+	trait = trusting
+	give_nickname = nick_jeongsim
+	2407.11.21 = {
+		birth = yes
+	}
+	2430.1.16 = {
+		add_spouse = 1325
+	}
+	
+}
+1325 = {
+	name = "Kyeongae"
+	female = yes
+	dynasty = 4001314 # 경주쪽 손씨
+	culture = yeongnam
+	religion = bailian
+	2404.10.15 = {
+		birth = yes
+	}
+}
+1326 = {
+	name = "Jihwan"
+	dynasty = 4001313 # 경주쪽 양씨
+	culture = yeongnam
+	religion = bailian
+	father = 1324
+	mother = 1325
+	2432.8.30 = {
+		birth = yes
+	}
+}
+1327 = {
+	name = "Jeongyu"
+	dynasty = 4001315 # 경주쪽 한씨
+	culture = yeongnam
+	religion = bailian
+	2416.12.20 = {
+		birth = yes
+	}
+	2437.6.28 = {
+		add_spouse = 1328
+	}
+}
+1328 = {
+	name = "Juyeon"
+	female = yes
+	dynasty = 4001316 # 경주쪽 고씨
+	culture = yeongnam
+	religion = bailian
+	2417.6.2 = {
+		birth = yes
+	}
+}
+1329 = {
+	name = "Huiyeong"
+	dynasty = 4001315 # 경주쪽 한씨
+	culture = yeongnam
+	religion = bailian
+	father = 1327
+	mother = 1328
+	2439.1.5 = {
 		birth = yes
 	}
 }

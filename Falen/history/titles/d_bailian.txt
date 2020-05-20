@@ -1,0 +1,4 @@
+2432.8.26 = {
+	liege = k_bulgukto
+	holder = 1324
+}

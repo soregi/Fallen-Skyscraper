@@ -22,6 +22,7 @@ k_mil_seoul = {
 	religion = koreanist
 }
 #인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
+#위와 같은 이유로 k_bulgukto, d_maitreya, d_bailian 추가, 뒤의 2개는 종교지도자인듯 한데, 일단 일반적인 명목공작으로 만듬
 k_gaya = {
 	color={ 138 188 248 }
 	color2={ 258 258 28 }
@@ -50,5 +51,29 @@ e_south_korea = {
 	short_name = yes
 	allow = {
 		always = no
+	}
+}
+k_bulgukto = {
+	color={ 210 178 65 }
+	color2={ 132 148 120 }
+	
+	allow = {
+		always = yes
+	}
+}
+d_maitreya = { #미륵종
+	color={ 110 178 65 }
+	color2={ 132 148 110 }
+	
+	allow = {
+		always = yes
+	}
+}
+d_bailian = { #백련교
+	color={ 10 178 65 }
+	color2={ 132 148 100 }
+	
+	allow = {
+		always = yes
 	}
 }
