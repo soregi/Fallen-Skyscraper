@@ -1,0 +1,55 @@
+1101 = {
+	name = "Eduard"
+	dynasty = 4001101 # 남해쪽 김씨
+	culture = central_germanic
+	religion = protestant
+	2437.4.5 = {
+		birth = yes
+	}
+	2042.4.8 = {
+		effect = {
+			add_friend = 1102
+		} # 얘는 뭘했길래 이나이에 친구가 있냐
+	}
+}
+1102 = {
+	name = "Hans"
+	dynasty = 4001102 # 남해쪽 장씨
+	culture = central_germanic
+	religion = protestant
+	2415.8.22 = {
+		birth = yes
+	}
+}
+1103 = {
+	name = "Gunter" # u에 움라우트 있다는데 못넣었다
+	dynasty = 4001103 # 남해쪽 권씨
+	culture = central_germanic
+	religion = protestant
+	2403.2.1 = {
+		birth = yes
+	}
+	2440.8.12 = {
+		add_spouse = 1104
+	}
+}
+1104 = {
+	name = "Sophie"
+	dynasty = 4001104 # 남해쪽 폰 데어 팔츠
+	culture = central_germanic
+	religion = protestant
+	2422.7.7 = {
+		birth = yes
+	}
+}
+1105 = {
+	name = "Adel"
+	dynasty = 4001103 # 남해쪽 권씨
+	culture = central_germanic
+	religion = protestant
+	father = 1103
+	mother = 1104
+	2439.8.25 = {
+		birth = yes
+	}
+}

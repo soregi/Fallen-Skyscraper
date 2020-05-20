@@ -1,0 +1,4 @@
+2432.5.27 = {
+	liege = d_namhae
+	holder = 1102
+}
