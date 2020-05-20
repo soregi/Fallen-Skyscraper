@@ -1,0 +1,71 @@
+650 = {
+	name = "Sansle"
+	dynasty = 4000650 # 계룡쪽 유씨
+	culture = hoseo
+	religion = mu_pagan
+	2400.5.20 = {
+		birth = yes
+	}
+	2419.6.12 = {
+	add_spouse = 651
+	}
+	2440.5.20 = {
+	death = {death_reason = cancer}
+	}
+}
+651 = {
+	name = "Oksle"
+	dynasty = 4000651 # 계룡쪽 이씨
+	culture = hoseo
+	religion = mu_pagan
+	2399.6.20 = {
+		birth = yes
+	}
+	2441.6.21 = {
+	death = {death_reason = stress}
+	}
+}
+652 = {
+	name = "Kayoung"
+	dynasty = 4000650 # 계룡쪽 유씨
+	culture = hoseo
+	religion = mu_pagan
+	father = 650
+	mother = 651
+	trait = mastermind_theologian
+	trait = zealous
+	2422.10.21 = {
+		birth = yes
+	}
+	2437.8.16 = {
+	add_spouse = 653
+	}
+	2437.8.17 = {
+	add_lover = 653
+	}
+}
+653 = {
+	name = "Yasa"
+	dynasty = 4000652 # 계룡쪽 이누씨
+	culture = dog
+	religion = mu_pagan
+	2424.12.12 = {
+		birth = yes
+	}
+	2437.8.17 = {
+	add_lover = 653
+	}
+}
+654 = {
+	name = "Nayoung"
+	dynasty = 4000650 # 계룡쪽 유씨
+	culture = hoseo
+	religion = mu_pagan
+	trait = intricate_webweaver
+	triat = shrewd
+	father = 650
+	mother = 651
+	2424.6.18 = {
+		birth = yes
+	}
+}
