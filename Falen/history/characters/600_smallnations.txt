@@ -15,6 +15,7 @@
 }
 651 = {
 	name = "Oksle"
+	female = yes
 	dynasty = 4000651 # 계룡쪽 이씨
 	culture = hoseo
 	religion = mu_pagan
@@ -27,6 +28,7 @@
 }
 652 = {
 	name = "Kayoung"
+	female = yes
 	dynasty = 4000650 # 계룡쪽 유씨
 	culture = hoseo
 	religion = mu_pagan
@@ -58,6 +60,7 @@
 }
 654 = {
 	name = "Nayoung"
+	female = yes
 	dynasty = 4000650 # 계룡쪽 유씨
 	culture = hoseo
 	religion = mu_pagan
