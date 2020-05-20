@@ -41,7 +41,7 @@
 		birth = yes
 	}
 	2437.8.16 = {
-	add_spouse = 653
+	add_matrilineal_spouse = 653
 	}
 	2437.8.17 = {
 	add_lover = 653
