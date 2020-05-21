@@ -6,6 +6,10 @@ title = c_wolsong
 # Settlements
 max_settlements = 5
 
+b_gampo = castle
+b_oedong = city
+b_wolseong = temple
+
 # Misc
 culture = yeongnam
 religion = steel_pagan

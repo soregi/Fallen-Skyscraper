@@ -6,6 +6,11 @@ title = c_ryokpho
 # Settlements
 max_settlements = 6
 
+b_ryokpho = castle
+b_sosin = city
+b_jangjin = temple
+b_taehyon = castle
+
 # Misc
 culture = pyongbuk
 religion = cheondo

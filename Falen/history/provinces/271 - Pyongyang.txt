@@ -6,6 +6,13 @@ title = c_pyongyang
 # Settlements
 max_settlements = 7
 
+b_pyongyang = castle
+b_rakrang = city
+b_moranbong = temple
+b_samsok = castle
+b_unjong = castle
+b_phyongchon = city
+
 # Misc
 culture = pyongnam
 religion = cheondo

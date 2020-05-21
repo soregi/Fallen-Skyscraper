@@ -6,6 +6,11 @@ title = c_ulju
 # Settlements
 max_settlements = 5
 
+b_ulju = castle
+b_bemseo = city
+b_gori = temple
+b_eonyang_ulju = castle
+
 # Misc
 culture = yeongnam
 religion = steel_pagan

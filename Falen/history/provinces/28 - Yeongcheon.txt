@@ -6,6 +6,10 @@ title = c_yeongcheon
 # Settlements
 max_settlements = 5
 
+b_yeongcheon = castle
+b_wansan = city
+b_geumho = temple
+
 # Misc
 culture = yeongnam
 religion = confucian
