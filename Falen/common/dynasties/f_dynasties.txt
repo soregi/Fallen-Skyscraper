@@ -51,3 +51,19 @@
 	culture = sudsee
 	religion = protestant
 }
+4000650 = {
+	name = "Yu" #
+	culture = hoseo
+	religion = mu_pagan
+}
+4000651 = {
+	name = "Yi" #
+	culture = hoseo
+	religion = mu_pagan
+}
+4000652 = {
+	name = "Yinu" #
+	culture = dog
+	religion = mu_pagan
+}
+
