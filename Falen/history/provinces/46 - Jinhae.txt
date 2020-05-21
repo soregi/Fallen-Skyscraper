@@ -6,7 +6,7 @@ title = c_jinhae
 # Settlements
 max_settlements = 5
 
-b_jinhae = city
+b_jinhae = castle
 b_taepyeong = castle
 b_yeojwa = city
 b_gyeonghwa = temple

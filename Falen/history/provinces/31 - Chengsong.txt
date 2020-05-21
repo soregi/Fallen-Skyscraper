@@ -6,7 +6,9 @@ title = c_cheongsong
 # Settlements
 max_settlements = 3
 
-#왜 없냐
+b_cheongsong = castle
+b_juwangsan = city
+b_bunam_cheongsong = temple
 
 # Misc
 culture = yeongnam
