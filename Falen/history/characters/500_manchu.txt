@@ -15,7 +15,7 @@
 	}
 }
 502 = {
-	name = "Nazezda"	# 나제즈다
+	name = "Nadzezda"	# 나제즈다
 	female = yes
 	dynasty = 4000502	# 아르만트
 	culture = russian	# 러시아
@@ -172,7 +172,7 @@
 	name = "Nyau"	# 냐우
 	father = 531
 	dynasty = 4000507	# 아이산기오로
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2415.4.5 = {
 		birth = yes
@@ -185,7 +185,7 @@
 	name = "Dyabakeu"	# 댜바크
 	father = 531
 	dynasty = 4000507	# 아이산기오로
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2417.7.12 = {
 		birth = yes
@@ -197,7 +197,7 @@
 516 = {
 	name = "Nyau"	# 냐우
 	dynasty = 4000508	# 원린
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2415.9.10 = {
 		birth = yes
@@ -210,7 +210,7 @@
 	name = "Muchan"	# 무찬
 	father = 531
 	dynasty = 4000507	# 아이산기오로
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2411.1.4 = {
 		birth = yes
@@ -222,7 +222,7 @@
 518 = {
 	name = "Kwak-Lan"	# 곽란
 	dynasty = 4000509	# 굉
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2411.11.28 = {
 		birth = yes
@@ -232,9 +232,9 @@
 	}
 }
 519 = {
-	name = "Luneuchahi"	# 루느차히
+	name = "Lunechahi"	# 루느차히
 	dynasty = 4000507	# 아이산기오로
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2425.12.31 = {
 		birth = yes
@@ -246,7 +246,7 @@
 520 = {
 	name = "Chuha"	# 추하
 	dynasty = 4000510	# 고롼
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2420.7.23 = {
 		birth = yes
@@ -259,7 +259,7 @@
 	name = "Chakalaha"	# 차칼라하
 	father = 518
 	dynasty = 4000509	# 굉
-	culture = 	# 건주
+	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
 	2427.2.14 = {
 		birth = yes
@@ -271,7 +271,7 @@
 523 = {
 	name = "Berucci"	# 베루치
 	dynasty = 4000511	# 완안
-	culture = 	# 해서
+	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
 	2414.1.23 = {
 		birth = yes
@@ -283,7 +283,7 @@
 524 = {
 	name = "Liu"	# 리우
 	dynasty = 4000512	# 귐
-	culture = 	# 해서
+	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
 	2417.2.29 = {
 		birth = yes
@@ -295,7 +295,7 @@
 525 = {
 	name = "Guchona"	# 구초나
 	dynasty = 4000511	# 완안
-	culture = 	# 해서
+	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
 	2412.12.31 = {
 		birth = yes
@@ -307,7 +307,7 @@
 526 = {
 	name = "Angoloma"	# 앙골오마
 	dynasty = 4000511	# 완안
-	culture = 	# 해서
+	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
 	2421.3.16 = {
 		birth = yes
@@ -319,7 +319,7 @@
 527 = {
 	name = "Zia"	# 지아
 	dynasty = 4000513	# 이
-	culture = 	# 해서
+	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
 	2419.3.16 = {
 		birth = yes
@@ -331,7 +331,7 @@
 528 = {
 	name = "Leah"	# 리아
 	dynasty = 4000514	# 궁니
-	culture = 	# 해서
+	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
 	2427.12.31 = {
 		birth = yes
@@ -343,7 +343,7 @@
 529 = {
 	name = "Arok"	# 아록
 	dynasty = 4000511	# 완안
-	culture = 	# 해서
+	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
 	2421.1.1 = {
 		birth = yes

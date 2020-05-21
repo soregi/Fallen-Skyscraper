@@ -105,7 +105,6 @@
 	trait = paranoid
 	trait = trickster
 	trait = impaler
-	trait = wroth	
 	give_nickname = nick_taejong
 	father = 801
 	1367.6.13 = {

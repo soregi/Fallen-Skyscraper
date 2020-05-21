@@ -4,6 +4,7 @@ character_event = {
 	id = XT.1
 	hide_window = yes
 	trigger = {
+		ai = no
 		NOT = { has_global_flag = setup_complete }
 	}
 	mean_time_to_happen = {

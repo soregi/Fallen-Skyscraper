@@ -238,8 +238,8 @@
 	religion="koreanist"
 	culture="seoul"
 	trait = genius
-	father = 2023
-	mother = 2027
+	father = 2027
+	mother = 2023
 	2439.12.7 = { birth = yes }
 }
 2029 = {

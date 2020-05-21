@@ -38,6 +38,7 @@
 	dynasty = 4001104 # 남해쪽 폰 데어 팔츠
 	culture = sudsee
 	religion = protestant
+	female = yes
 	2422.7.7 = {
 		birth = yes
 	}

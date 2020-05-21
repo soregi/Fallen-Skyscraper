@@ -126,7 +126,7 @@ k_jeolla = {
 			b_samcheon = {}
 			b_hyoja = {}
 			b_inhu = {}
-			b_geumam = {}
+			b_geumam_jeonju = {}
 			b_songcheon_jeonju = {}
 		}
 		c_deokjin = {
