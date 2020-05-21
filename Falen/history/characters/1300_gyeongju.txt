@@ -141,7 +141,7 @@
 	trait = just
 	trait = proud
 	trait = greedy
-	nick_beopcheon = {}
+	give_nickname = nick_beopcheon
 	father = 1310
 	2408.8.17 = {
 		birth = yes
