@@ -1,8 +1,9 @@
 650 = {
-	name = "Sansle"
+	name = "Sanseul"
 	dynasty = 4000650 # 계룡쪽 유씨
 	culture = hoseo
 	religion = mu_pagan
+	trait = cancer
 	2400.5.20 = {
 		birth = yes
 	}
@@ -14,11 +15,12 @@
 	}
 }
 651 = {
-	name = "Oksle"
+	name = "Okseul"
 	female = yes
 	dynasty = 4000651 # 계룡쪽 이씨
 	culture = hoseo
 	religion = mu_pagan
+	trait = stress
 	2399.6.20 = {
 		birth = yes
 	}
@@ -27,7 +29,7 @@
 	}
 }
 652 = {
-	name = "Kayoung"
+	name = "Kayeong"
 	female = yes
 	dynasty = 4000650 # 계룡쪽 유씨
 	culture = hoseo
@@ -60,7 +62,7 @@
 	}
 }
 654 = {
-	name = "Nayoung"
+	name = "Nayeong"
 	female = yes
 	dynasty = 4000650 # 계룡쪽 유씨
 	culture = hoseo
