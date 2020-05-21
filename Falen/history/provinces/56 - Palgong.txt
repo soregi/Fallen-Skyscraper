@@ -6,6 +6,12 @@ title = c_palgong
 # Settlements
 max_settlements = 6
 
+b_palgong = castle
+b_chilseong = city
+b_dalseongpalgong = temple
+b_sinam = castle
+
+
 # Misc
 culture = yeongnam
 religion = catholic

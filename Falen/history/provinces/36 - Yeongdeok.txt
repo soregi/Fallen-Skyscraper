@@ -6,6 +6,11 @@ title = c_yeongdeok
 # Settlements
 max_settlements = 5
 
+b_yeongdeok = castle
+b_ganggu = city
+b_namjeong = temple
+
+
 # Misc
 culture = yeongnam
 religion = atomicist

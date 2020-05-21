@@ -6,6 +6,10 @@ title = c_masan
 # Settlements
 max_settlements = 5
 
+b_masan = castle
+b_nosan = city
+b_wanwol = temple
+
 # Misc
 culture = yeongnam
 religion = koreanist

@@ -6,6 +6,12 @@ title = c_daegu
 # Settlements
 max_settlements = 6
 
+b_daegu = castle
+b_suseong = city
+b_daesin = temple
+b_dalseo = castle
+b_pyeongni = city
+
 # Misc
 culture = yeongnam
 religion = catholic

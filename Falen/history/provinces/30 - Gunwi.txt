@@ -6,6 +6,10 @@ title = c_gunwi
 # Settlements
 max_settlements = 5
 
+b_gunwi = castle
+b_sobo = city
+b_hyoryeong = temple 
+
 # Misc
 culture = yeongnam
 religion = mu_pagan

@@ -385,11 +385,11 @@ k_gyeongsang = {
 		c_daegu = {
 			color = { 0 0 102 }
 			b_daegu = {}
+			b_suseong = {}	
+			b_daesin = {}		
 			b_dalseo = {}
-			b_daesin = {}
 			b_pyeongni = {}
 			b_daemyeong = {}
-			b_suseong = {}
 			b_nongong = {}
 		}
 		c_palgong = {
