@@ -6,6 +6,10 @@ title = c_gimcheon
 # Settlements
 max_settlements = 4
 
+b_gimcheon = castle
+b_daegok = city
+b_yanggeum = temple
+
 # Misc
 culture = yeongnam
 religion = mu_pagan

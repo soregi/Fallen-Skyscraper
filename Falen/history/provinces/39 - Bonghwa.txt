@@ -6,6 +6,10 @@ title = c_bonghwa
 # Settlements
 max_settlements = 6
 
+b_bonghwa = castle
+b_bongseong = city
+b_sangun = town
+
 # Misc
 culture = yeongnam
 religion = confucian

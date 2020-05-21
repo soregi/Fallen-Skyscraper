@@ -1,10 +1,16 @@
 # 11 - Tongyeon
 
+#통연 뭐냐 이거 오타지?
+
 # County Title
 title = c_tongyeong
 
 # Settlements
 max_settlements = 5
+
+b_tongyeong = castle
+b_myeongjeong = city
+b_bongpyeong = temple
 
 # Misc
 culture = yeongnam

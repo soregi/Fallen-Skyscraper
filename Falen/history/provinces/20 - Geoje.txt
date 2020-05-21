@@ -6,6 +6,11 @@ title = c_geoje
 # Settlements
 max_settlements = 5
 
+b_geoje = castle
+b_gohyeongeoje = city
+b_sangmun = temple
+
+
 # Misc
 culture = yeongnam
 religion = mahayana

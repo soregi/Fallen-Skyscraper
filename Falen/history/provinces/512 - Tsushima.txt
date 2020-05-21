@@ -6,6 +6,8 @@ title = c_tsushima
 # Settlements
 max_settlements = 7
 
+b_tsushima
+
 # Misc
 culture = yeongnam
 religion = mahayana

@@ -6,6 +6,10 @@ title = c_miryang
 # Settlements
 max_settlements = 4
 
+b_miryang = castle
+b_naeil = temple
+b_sammun = city
+
 # Misc
 culture = yeongnam
 religion = mahayana

@@ -3,5 +3,6 @@ d_tsushima = {
 	capital = 512
 	c_tsushima = {
 		color = { 0 10 0 }
+		b_tsuchima
 	}
 }

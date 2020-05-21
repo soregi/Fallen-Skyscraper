@@ -6,6 +6,10 @@ title = c_cheongdo
 # Settlements
 max_settlements = 4
 
+b_cheongdo = castle
+b_hoeyang = temple
+b_iseo = city
+
 # Misc
 culture = yeongnam
 religion = koreanist

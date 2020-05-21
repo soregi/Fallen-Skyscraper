@@ -6,6 +6,11 @@ title = c_changwon
 # Settlements
 max_settlements = 5
 
+b_changwon = city
+b_sapa = castle
+b_sangnam = temple
+b_bongnim = castle
+
 # Misc
 culture = yeongnam
 religion = koreanist

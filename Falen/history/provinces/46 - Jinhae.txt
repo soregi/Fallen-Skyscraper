@@ -6,6 +6,11 @@ title = c_jinhae
 # Settlements
 max_settlements = 5
 
+b_jinhae = city
+b_taepyeong = castle
+b_yeojwa = city
+b_gyeonghwa = temple
+
 # Misc
 culture = yeongnam
 religion = koreanist

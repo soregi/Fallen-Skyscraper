@@ -6,6 +6,8 @@ title = c_cheongsong
 # Settlements
 max_settlements = 3
 
+#왜 없냐
+
 # Misc
 culture = yeongnam
 religion = confucian
