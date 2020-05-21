@@ -6,6 +6,13 @@ title = c_busan
 # Settlements
 max_settlements = 6
 
+b_busan = city
+b_nampobusan = city
+b_beomil = castle
+b_daeyeon = temple
+b_yeongseon = city
+b_hadan = city
+
 # Misc
 culture = yeongnam
 religion = steel_pagan

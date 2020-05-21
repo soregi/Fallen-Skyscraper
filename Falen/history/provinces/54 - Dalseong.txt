@@ -6,6 +6,10 @@ title = c_dalseong
 # Settlements
 max_settlements = 6
 
+b_dalseong = castle
+b_nongongdalseong = temple
+b_okpodalseong = city
+
 # Misc
 culture = yeongnam
 religion = mahayana

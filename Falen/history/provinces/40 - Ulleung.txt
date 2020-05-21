@@ -6,6 +6,8 @@ title = c_ulleung
 # Settlements
 max_settlements = 1
 
+b_dodong = {}
+
 # Misc
 culture = yeongnam
 religion = koreanist

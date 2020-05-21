@@ -6,6 +6,9 @@ title = c_uljin
 # Settlements
 max_settlements = 4
 
+b_uljin = castle
+b_geunnam = city
+
 # Misc
 culture = yeongnam
 religion = atomicist

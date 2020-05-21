@@ -6,6 +6,16 @@ title = c_gyeongju
 # Settlements
 max_settlements = 6
 
+b_gyeongju = castle
+b_angang = city
+b_bodeok = temple
+b_bulguksa = temple
+b_geoncheon = castle
+b_gangdonggyeongju = city
+
+
+
+
 # Misc
 culture = yeongnam
 religion = mahayana

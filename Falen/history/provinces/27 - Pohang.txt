@@ -5,13 +5,12 @@ title = c_pohang
 
 # Settlements
 max_settlements = 7
-#b_ocheon
-#b_yeonil
-#b_yangdeok
-#b_idong
-#b_jukdo
-#b_sangdo
-#b_jecheol
+b_pohang = castle
+b_jungangpohang = castle 
+b_jecheol = castle
+b_jukdo = temple
+b_ocheon = city
+b_guryongpo = city
 
 # Misc
 culture = yeongnam
