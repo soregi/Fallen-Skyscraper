@@ -24,7 +24,7 @@ k_mil_seoul = {
 #인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을, k_pohang을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
 #위와 같은 이유로 k_bulgukto, d_maitreya, d_bailian 추가, 뒤의 2개는 종교지도자인듯 한데, 일단 일반적인 명목공작으로 만듬
 k_gaya = {
-	color={ 138 188 248 }
+	color={ 211 126 65 }
 	color2={ 258 258 28 }
 	
 	allow = {

@@ -153,6 +153,15 @@
 	2380.4.8 = {
 		birth = yes
 	}
+	2398.3.9 = {
+		add_spouse = 1420
+	}
+	2409.3.13 = {
+		remove_spouse = 1420
+	}
+	2409.3.27 = {
+		add_spouse = 1417
+	}
 	2440.6.24 = {
 	death = yes
 	}
