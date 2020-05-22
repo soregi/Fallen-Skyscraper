@@ -6,7 +6,7 @@ title = c_ulleung
 # Settlements
 max_settlements = 1
 
-b_dodong = {}
+b_dodong = castle
 
 # Misc
 culture = yeongnam

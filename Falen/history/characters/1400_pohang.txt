@@ -1,1 +1,362 @@
 #주의! 현재 이 캐릭터들은 아티펙트가 부여되지 않은 미완성 상태의 캐릭터들임
+1401 = {
+	name = "Gwakyong"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	#religion = steel_pagan #종교가 -로 되어있으니 이렇게 해놓음.
+	give_nickname = nick_king_of_steel
+	2214.10.31 = {
+		birth = yes
+	}
+	2232.8.16 = {
+		add_spouse = 1422
+	}
+	2282.7.14 = {
+	death = yes
+	}
+}
+1402 = {
+	name = "Myeongyong"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	#religion = steel_pagan #종교가 -로 되어있으니 이렇게 해놓음.
+	give_nickname = nick_king_of_pabul
+	father = 1401
+	2243.3.16 = {
+		birth = yes
+	}
+	2301.2.3 = {
+	death = yes #death_reason = 폭사로 해야하는데 이거 코드를 00.death하고 characters를 뒤져봐도 못찼겠다
+	}
+}
+1403 = {
+	name = "Jein"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	#religion = steel_pagan #종교가 -로 되어있으니 이렇게 해놓음.
+	father = 1402
+	give_nickname = nick_the_revenger
+	2274.5.13 = {
+		birth = yes
+	}
+	2318.5.13 = {
+	death = { death_reason = death_execution killer = 1408 }
+	}
+}
+1404 = {
+	name = "Wonseon"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1403
+	give_nickname = nick_king_of_zealous
+	2303.7.19 = {
+		birth = yes
+	}
+	2352.5.12 = {
+	death = yes
+	}
+}
+1405 = {
+	name = "Kyungwon"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1404
+	give_nickname = nick_king_of_jangsu
+	2324.12.23 = {
+		birth = yes
+	}
+	2402.6.23 = {
+	death = yes
+	}
+}
+1406 = {
+	name = "Mungyeong"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1405
+	give_nickname = nick_the_unready
+	2345.3.23 = {
+		birth = yes
+	}
+	2385.4.18 = {
+	death = {
+			death_reason = death_battle
+		}
+	}
+}
+1407 = {
+	name = "Yongso"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1406
+	2369.1.13 = {
+		birth = yes
+	}
+	2404.2.28 = {
+	death = {
+			death_reason = death_battle
+		}
+	}
+}
+1408 = {
+	name = "Yongin"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1406
+	2374.3.28 = {
+		birth = yes
+	}
+	2408.9.14 = {
+	death = { death_reason = death_execution killer = 1409 }
+	}
+}
+1409 = {
+	name = "Kyoungmin"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1404
+	2328.2.3 = {
+		birth = yes
+	}
+	2375.6.1 = {
+	death = yes
+	}
+}
+1410 = {
+	name = "Bano"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1409
+	2351.5.16 = {
+		birth = yes
+	}
+	2404.2.28 = {
+	death = {
+			death_reason = death_battle
+		}
+	}
+}
+1411 = {
+	name = "Juwoon"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1410
+	give_nickname = nick_the_usurper
+	2380.4.8 = {
+		birth = yes
+	}
+	2440.6.24 = {
+	death = yes
+	}
+}
+1412 = {
+	name = "Moonhyu"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1411
+	mother = 1420
+	2406.10.31 = {
+		birth = yes
+	}
+}
+1413 = {
+	name = "Moonye"
+	dynasty = 4001401 # 포항쪽 철씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1411
+	mother = 1417
+	2411.5.13 = {
+		birth = yes
+	}
+}
+1414 = {
+	name = "Cheolsu"
+	dynasty = 4001402 # 포항쪽 배씨
+	culture = yeongnam
+	religion = steel_pagan
+	2352.9.25 = {
+		birth = yes
+	}
+	2424.2.4 = {
+	death = yes
+	}
+}
+1415 = {
+	name = "Sumyeong"
+	dynasty = 4001402 # 포항쪽 배씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1414
+	2379.4.15 = {
+		birth = yes
+	}
+	2439.11.30 = {
+	death = yes
+	}
+}
+1416 = {
+	name = "Jangwon"
+	dynasty = 4001402 # 포항쪽 배씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1415
+	2397.3.6 = {
+		birth = yes
+	}
+}
+1417 = {
+	name = "Suhee"
+	female = yes
+	dynasty = 4001402 # 포항쪽 배씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1414
+	2384.5.12 = {
+		birth = yes
+	}
+}
+1418 = {
+	name = "Sucheol"
+	dynasty = 4001402 # 포항쪽 배씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1414
+	2390.11.11 = {
+		birth = yes
+	}
+	2412.1.5 = {
+		add_spouse = 1428
+	}
+}
+1419 = {
+	name = "Gapsu"
+	dynasty = 4001403 # 포항쪽 정씨
+	culture = yeongnam
+	religion = steel_pagan
+	2351.4.15 = {
+		birth = yes
+	}
+	2404.2.28 = {
+	death = {
+			death_reason = death_battle
+		}
+	}
+}
+1420 = {
+	name = "Wonju"
+	female = yes
+	dynasty = 4001403 # 포항쪽 정씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1419
+	2384.7.7 = {
+		birth = yes
+	}
+}
+1421 = {
+	name = "Wonryong"
+	dynasty = 4001403 # 포항쪽 정씨
+	culture = yeongnam
+	religion = steel_pagan
+	2385.12.1 = {
+		birth = yes
+	}
+}
+1422 = {
+	name = "Juhee"
+	female = yes
+	dynasty = 4001403 # 포항쪽 정씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1423
+	2217.7.20 = {
+		birth = yes
+	}
+	2290.1.12 = {
+	death = yes
+	}
+}
+1423 = {
+	name = "Gangseung"
+	dynasty = 4001403 # 포항쪽 정씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1423
+	2191.1.2 = {
+		birth = yes
+	}
+	2215.6.13 = {
+		add_spouse = 1424
+	}
+	2242.7.19 = {
+	death = {
+		death_reason = death_battle
+		}
+	}
+}
+1424 = {
+	name = "Buseon"
+	female = yes
+	dynasty = 4001404 # 포항쪽 원씨
+	culture = yeongnam
+	religion = steel_pagan
+	2194.7.12 = {
+		birth = yes
+	}
+	2264.4.15 = {
+	death = yes
+	}
+}
+1425 = {
+	name = "Yeongun"
+	dynasty = 4001405 # 포항쪽 황보씨
+	culture = yeongnam
+	religion = steel_pagan
+	2348.7.15 = {
+		birth = yes
+	}
+	2420.1.2 = {
+	death = yes
+	}
+}
+1426 = {
+	name = "Seungcheol"
+	dynasty = 4001405 # 포항쪽 황보씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1425
+	2384.1.5 = {
+		birth = yes
+	}
+}
+1427 = {
+	name = "Seungri"
+	dynasty = 4001405 # 포항쪽 황보씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1425
+	2388.8.1 = {
+		birth = yes
+	}
+}
+1428 = {
+	name = "Seungju"
+	female = yes
+	dynasty = 4001405 # 포항쪽 황보씨
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1425
+	2392.4.13 = {
+		birth = yes
+	}
+}
