@@ -78,7 +78,7 @@ d_bailian = { #백련교
 	}
 }
 k_pohang = { #포항왕국
-	color={ 210 180 242 }
+	color={ 210 250 242 }
 	color2={ 25 32 65 }
 	
 	allow = {

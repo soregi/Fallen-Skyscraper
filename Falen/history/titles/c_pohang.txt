@@ -26,7 +26,7 @@
 	liege = k_pohang
 	holder = 1411
 }
-2440.6.25 = {
+2440.6.22 = {
 	liege = k_pohang
 	holder = 1412
 }
