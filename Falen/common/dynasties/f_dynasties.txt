@@ -66,4 +66,8 @@
 	culture = dog
 	religion = mu_pagan
 }
-
+4000720 = {
+	name = "Kim"
+	culture = south_korean
+	religion = koreanist
+}

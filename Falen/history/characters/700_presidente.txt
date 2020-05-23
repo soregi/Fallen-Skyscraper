@@ -5,6 +5,7 @@
 	culture = old_korean
 	religion = confucian
 	occluded = yes
+	disallow_random_traits = yes
 	1420.1.1 = { birth = yes }
 	1900.1.1 = { death = yes }
 }
@@ -15,6 +16,7 @@
 	culture = south_korean
 	religion = confucian
 	occluded = yes
+	disallow_random_traits = yes
 	1875.3.26 = { birth = yes }
 	1901.1.1 = { religion = protestant }
 	1965.7.19 = { death = yes }
@@ -25,6 +27,7 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	disallow_random_traits = yes
 	1897.8.26 = { birth = yes }
 	1990.7.18 = { death = yes }
 }
@@ -34,10 +37,12 @@
 	culture = south_korean
 	religion = mahayana
 	occluded = yes
+	disallow_random_traits = yes
 	1917.11.14 = { birth = yes }
 	1979.10.26 = {
 		death = {
 			death_reason = death_murder_arrow
+			killer = 720
 		}
 	}
 }
@@ -56,6 +61,7 @@
 	culture = south_korean
 	religion = catholic
 	occluded = yes
+	disallow_random_traits = yes
 	1931.1.18 = { birth = yes }
 	1988.1.1 = { religion = mahayana }
 	2020.3.14 = { death = yes }
@@ -66,6 +72,7 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	disallow_random_traits = yes
 	1932.12.4 = { birth = yes }
 	2020.3.14 = { death = yes }
 }
@@ -75,6 +82,7 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	disallow_random_traits = yes
 	1929.1.14 = { birth = yes }
 	2015.11.22 = { death = yes }
 }
@@ -84,6 +92,7 @@
 	culture = sinan
 	religion = protestant
 	occluded = yes
+	disallow_random_traits = yes
 	1924.1.6 = { birth = yes }
 	2009.8.18 = { death = yes }
 }
@@ -93,6 +102,7 @@
 	culture = yeongnam
 	religion = koreanist
 	occluded = yes
+	disallow_random_traits = yes
 	1946.9.1 = { birth = yes }
 	2009.5.23 = {
 		death = {
@@ -106,6 +116,7 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	disallow_random_traits = yes
 	1941.12.19 = { birth = yes }
 	2020.3.14 = { death = yes }
 }
@@ -116,6 +127,7 @@
 	culture = south_korean
 	religion = mu_pagan
 	occluded = yes
+	disallow_random_traits = yes
 	female = yes
 	1952.2.2 = { birth = yes }
 	2020.3.14 = { death = yes }
@@ -126,6 +138,7 @@
 	culture = south_korean
 	religion = catholic
 	occluded = yes
+	disallow_random_traits = yes
 	1953.1.24 = { birth = yes }
 	2020.3.14 = { death = yes }
 }

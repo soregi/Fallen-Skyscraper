@@ -1,12 +1,20 @@
-1 = {
-	name = "Muhammad"
-	dynasty = 644
+720 = {
+	name = "Jaegyu"
+	dynasty = 4000720
 	culture = south_korean
-	religion = protestant
-	2000.1.1 = {
+	religion = koreanist
+	occluded = yes
+	disallow_random_traits = yes
+	1926.3.6 = {
 		birth = yes
 	}
-	2600.1.1 = {
-		death = yes
+	1979.10.26 = {
+		religion = mahayana
+	}
+	1980.5.24 = {
+		death = {
+			death_reason = death_execution_hanging
+			killer = 705
+		}
 	}
 }
