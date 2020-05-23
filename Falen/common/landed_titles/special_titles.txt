@@ -85,3 +85,11 @@ k_pohang = { #포항왕국
 		always = yes
 	}
 }
+d_gaian_union = { #자연인 연맹
+	color={ 34 220 132 }
+	color2={ 25 32 60 }
+	
+	allow = {
+		always = yes
+	}
+}

@@ -293,6 +293,7 @@ k_gyeonggi = {
 		}
 		c_jangphung = {
 			color = { 150 10 50 }
+			b_jangphung = {}
 		}
 	}
 	

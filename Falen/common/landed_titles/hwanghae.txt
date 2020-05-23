@@ -7,18 +7,23 @@ k_hwanghae = {
 
 		c_haeju = {
 			color = { 0 0 50 }
+			b_haeju = {}
 		}
 		c_chongdan = {
 			color = { 10 10 75 }
+			b_chongdan = {}
 		}
 		c_yonan = {
 			color = { 0 0 125 }
+			b_yonan = {}
 		}
 		c_paechon = {
 			color = { 0 0 75 }
+			b_paechon = {}
 		}
 		c_sinwon = {
 			color = { 0 0 150 }
+			b_sinwon = {}
 		}
 	}
 	d_kumchon = {
@@ -27,18 +32,23 @@ k_hwanghae = {
 
 		c_kumchon = {
 			color = { 0 0 120 }
+			b_kumchon = {}
 		}
 		c_pongchon = {
 			color = { 0 0 200 }
+			b_pongchon = {}
 		}
 		c_phyongsan = {
 			color = { 0 0 70 }
+			b_phyongsan = {}
 		}
 		c_rinsan = {
 			color = { 0 0 165 }
+			b_rinsan = {}
 		}
 		c_sohung = {
 			color = { 0 69 155 }
+			b_sohung = {}
 		}
 	}
 	d_singye = {
@@ -47,18 +57,23 @@ k_hwanghae = {
 
 		c_singye = {
 			color = { 0 0 250 }
+			b_singye = {}
 		}
 		c_thosan = {
 			color = { 90 70 180 }
+			b_thosan = {}
 		}
 		c_koksan = {
 			color = { 0 0 215 }
+			b_koksan = {}
 		}
 		c_suan = {
 			color = { 0 5 30 }
+			b_suan = {}
 		}
 		c_sinphyeong = {
 			color = { 0 0 25 }
+			b_sinphyeong = {}
 		}
 	}
 	d_hwangju = {
@@ -67,18 +82,23 @@ k_hwanghae = {
 
 		c_hwangju = {
 			color = { 0 0 55 }
+			b_hwangju = {}
 		}
 		c_yeontan = {
 			color = { 0 0 195 }
+			b_yeontan = {}
 		}
 		c_pongsan = {
 			color = { 59 53 113 }
+			b_pongsan = {}
 		}
 		c_unpha = {
 			color = { 0 0 35 }
+			b_unpha = {}
 		}
 		c_sariwon = {
 			color = { 0 5 190 }
+			b_sariwon = {}
 		}
 	}
 	d_anak = {
@@ -87,18 +107,23 @@ k_hwanghae = {
 
 		c_unryul = {
 			color = { 0 0 170 }
+			b_unryul = {}
 		}
 		c_uncheon = {
 			color = { 10 50 170 }
+			b_uncheon = {}
 		}
 		c_anak = {
 			color = { 0 0 130 }
+			b_anak = {}
 		}
 		c_sinchon = {
 			color = { 0 0 160 }
+			b_sinchon = {}
 		}
 		c_jaeryong = {
 			color = { 0 0 225 }
+			b_jaeryong = {}
 		}
 	}
 	d_gwail = {
@@ -107,12 +132,16 @@ k_hwanghae = {
 
 		c_kwail = {
 			color = { 119 73 255 }
+			b_kwail = {}
 		}
 		c_jangyon = {
 			color = { 0 0 180 }
+			b_jangyon = {}
 		}
 		c_ryongyeon = {
 			color = { 10 10 90 }
+			b_ryongyeon = {}
+			
 		}
 		c_baeknyeongdo = {
 			color = { 135 100 22 }
@@ -126,6 +155,7 @@ k_hwanghae = {
 		}
 		c_songhwa = {
 			color = { 0 0 145 }
+			b_songhwa = {}
 		}
 	}
 	d_byeokseong = {
@@ -134,18 +164,23 @@ k_hwanghae = {
 
 		c_ongjin = {
 			color = { 0 0 175 }
+			b_ongjin = {}
 		}
 		c_thaethan = {
 			color = { 0 0 220 }
+			b_thaethan = {}
 		}
 		c_samchon = {
 			color = { 0 0 45 }
+			b_samchon = {}
 		}
 		c_pyoksong = {
 			color = { 0 0 110 }
+			b_pyoksong = {}
 		}
 		c_kangryong = {
 			color = { 0 0 65 }
+			b_kangryong = {}
 		}
 	}
 }

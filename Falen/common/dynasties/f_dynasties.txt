@@ -71,3 +71,38 @@
 	culture = south_korean
 	religion = koreanist
 }
+4000601 = {
+	name = "Ok"
+	culture = hwanghae
+	religion = gaian
+}
+4000602 = {
+	name = "Lee"
+	culture = hwanghae
+	religion = gaian
+}
+4000603 = {
+	name = "Choi"
+	culture = hwanghae
+	religion = gaian
+}
+4000604 = {
+	name = "San"
+	culture = hwanghae
+	religion = gaian
+}
+4000605 = {
+	name = "Cheon"
+	culture = hwanghae
+	religion = koreanist
+}
+4000606 = {
+	name = "In"
+	culture = hwanghae
+	religion = koreanist
+}
+4000607 = {
+	name = "Su"
+	culture = hwanghae
+	religion = koreanist
+}

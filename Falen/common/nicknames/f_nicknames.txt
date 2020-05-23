@@ -51,3 +51,5 @@ nick_king_of_pabul = {} #파불왕
 nick_the_revenger = {} #복수자
 nick_king_of_zealous = {} #독실왕
 nick_king_of_jangsu = {} #장수왕
+#개성 별명
+nick_yakanja = {} #야칸자
