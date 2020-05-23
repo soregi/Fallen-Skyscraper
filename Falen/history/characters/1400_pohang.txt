@@ -8,6 +8,12 @@
 	2214.10.31 = {
 		birth = yes
 	}
+	2268.7.17 = {
+		create_bloodline = {
+			type = steel_blood
+			has_dlc = "Holy Fury"
+		}
+	}
 	2232.8.16 = {
 		add_spouse = 1422
 	}
