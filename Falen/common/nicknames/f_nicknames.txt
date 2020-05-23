@@ -45,3 +45,9 @@ nick_hyeonjeong = {} #현정, 뭔가 의미가있는 별명인것같긴 한데, 
 nick_beopcheon = {} #법천
 nick_wonmyeong = {} #원명
 nick_jeongsim = {} #정심
+#이하 포항왕국 별명
+nick_king_of_steel = {} #강철왕
+nick_king_of_pabul = {} #파불왕
+nick_the_revenger = {} #복수자
+nick_king_of_zealous = {} #독실왕
+nick_king_of_jangsu = {} #장수왕

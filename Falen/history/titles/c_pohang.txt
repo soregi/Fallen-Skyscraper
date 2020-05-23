@@ -1,0 +1,32 @@
+2243.2.12 = {
+	liege = k_pohang
+	holder = 1401
+}
+2282.7.15 = {
+	liege = k_pohang
+	holder = 1402
+}
+2301.2.4 = {
+	liege = k_pohang
+	holder = 1403
+}
+2318.5.14 = {
+	liege = k_pohang
+	holder = 1404
+}
+2352.5.13 = {
+	liege = k_pohang
+	holder = 1405
+}
+2402.6.24 = {
+	liege = k_pohang
+	holder = 1407
+}
+2404.2.28 = {
+	liege = k_pohang
+	holder = 1411
+}
+2440.6.22 = {
+	liege = k_pohang
+	holder = 1412
+}

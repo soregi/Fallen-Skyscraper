@@ -25,7 +25,7 @@
 		birth = yes
 	}
 	2441.6.21 = {
-	death = {death_reason = stress}
+	death = {death_reason = trait}
 	}
 }
 652 = {

@@ -1,0 +1,25 @@
+4001401 = {
+	name = "Cheol"
+	culture =  yeongnam
+	religion = steel_pagan
+}
+4001402 = {
+	name = "Bae"
+	culture =  yeongnam
+	religion = steel_pagan
+}
+4001403 = {
+	name = "Jeong"
+	culture =  yeongnam
+	religion = steel_pagan
+}
+4001404 = {
+	name = "Won"
+	culture =  yeongnam
+	religion = steel_pagan
+}
+4001405 = {
+	name = "Hwangbo"
+	culture =  yeongnam
+	religion = steel_pagan
+}

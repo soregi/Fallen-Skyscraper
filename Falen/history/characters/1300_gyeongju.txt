@@ -156,7 +156,6 @@
 	dynasty = 4001306 # 경주쪽 임씨1
 	culture = yeongnam
 	religion = mahayana
-	father = 1309
 	2412.12.8 = {
 	birth = yes
 	}
