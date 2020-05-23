@@ -52,7 +52,7 @@
 653 = {
 	name = "Yasa"
 	dynasty = 4000652 # 계룡쪽 이누씨
-	culture = dog
+	culture = dog_culture
 	religion = mu_pagan
 	2424.12.12 = {
 		birth = yes

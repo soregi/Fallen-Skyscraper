@@ -5,6 +5,11 @@
 	culture = old_korean
 	religion = confucian
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1420.1.1 = { birth = yes }
 	1900.1.1 = { death = yes }
@@ -16,6 +21,11 @@
 	culture = south_korean
 	religion = confucian
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1875.3.26 = { birth = yes }
 	1901.1.1 = { religion = protestant }
@@ -27,6 +37,11 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1897.8.26 = { birth = yes }
 	1990.7.18 = { death = yes }
@@ -37,6 +52,11 @@
 	culture = south_korean
 	religion = mahayana
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1917.11.14 = { birth = yes }
 	1979.10.26 = {
@@ -52,6 +72,12 @@
 	culture = south_korean
 	religion = confucian
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	disallow_random_traits = yes
 	1919.7.16 = { birth = yes }
 	2006.10.22 = { death = yes }
 }
@@ -61,6 +87,11 @@
 	culture = south_korean
 	religion = catholic
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1931.1.18 = { birth = yes }
 	1988.1.1 = { religion = mahayana }
@@ -72,6 +103,11 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1932.12.4 = { birth = yes }
 	2020.3.14 = { death = yes }
@@ -82,6 +118,11 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1929.1.14 = { birth = yes }
 	2015.11.22 = { death = yes }
@@ -92,6 +133,11 @@
 	culture = sinan
 	religion = protestant
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1924.1.6 = { birth = yes }
 	2009.8.18 = { death = yes }
@@ -102,6 +148,11 @@
 	culture = yeongnam
 	religion = koreanist
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1946.9.1 = { birth = yes }
 	2009.5.23 = {
@@ -116,6 +167,11 @@
 	culture = south_korean
 	religion = protestant
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1941.12.19 = { birth = yes }
 	2020.3.14 = { death = yes }
@@ -127,6 +183,11 @@
 	culture = south_korean
 	religion = mu_pagan
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	female = yes
 	1952.2.2 = { birth = yes }
@@ -138,6 +199,11 @@
 	culture = south_korean
 	religion = catholic
 	occluded = yes
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
 	disallow_random_traits = yes
 	1953.1.24 = { birth = yes }
 	2020.3.14 = { death = yes }

@@ -34,7 +34,7 @@
 	culture = old_korean 
 	religion = koreanist
 }
-4000707 = {
+4000708 = {
 	name = "Kim"
 	culture = old_korean 
 	religion = koreanist
