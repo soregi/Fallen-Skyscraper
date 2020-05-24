@@ -51,58 +51,23 @@
 	culture = sudsee
 	religion = protestant
 }
-4000650 = {
-	name = "Yu" #
+4000720 = {
+	name = "Yu" #계룡
 	culture = hoseo
 	religion = mu_pagan
 }
-4000651 = {
-	name = "Yi" #
+4000721 = {
+	name = "Yi" #계룡
 	culture = hoseo
 	religion = mu_pagan
 }
-4000652 = {
-	name = "Yinu" #
+4000722 = {
+	name = "Yinu" #계룡
 	culture = dog
 	religion = mu_pagan
 }
-4000720 = {
+4000719 = {
 	name = "Kim"
 	culture = south_korean
-	religion = koreanist
-}
-4000601 = {
-	name = "Ok"
-	culture = hwanghae
-	religion = gaian
-}
-4000602 = {
-	name = "Lee"
-	culture = hwanghae
-	religion = gaian
-}
-4000603 = {
-	name = "Choi"
-	culture = hwanghae
-	religion = gaian
-}
-4000604 = {
-	name = "San"
-	culture = hwanghae
-	religion = gaian
-}
-4000605 = {
-	name = "Cheon"
-	culture = hwanghae
-	religion = koreanist
-}
-4000606 = {
-	name = "In"
-	culture = hwanghae
-	religion = koreanist
-}
-4000607 = {
-	name = "Su"
-	culture = hwanghae
 	religion = koreanist
 }

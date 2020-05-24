@@ -1,6 +1,6 @@
 720 = {
 	name = "Jaegyu"
-	dynasty = 4000720
+	dynasty = 4000719
 	culture = south_korean
 	religion = koreanist
 	occluded = yes
