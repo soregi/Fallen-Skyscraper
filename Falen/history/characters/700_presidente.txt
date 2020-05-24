@@ -62,7 +62,7 @@
 	1979.10.26 = {
 		death = {
 			death_reason = death_murder_arrow
-			killer = 720
+			killer = 719
 		}
 	}
 }

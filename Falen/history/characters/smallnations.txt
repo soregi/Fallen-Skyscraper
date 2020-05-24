@@ -1,6 +1,6 @@
-720 = {
+690 = {
 	name = "Sanseul"
-	dynasty = 4000720 # 계룡쪽 유씨
+	dynasty = 4000690 # 계룡쪽 유씨
 	culture = hoseo
 	religion = mu_pagan
 	trait = cancer
@@ -8,16 +8,16 @@
 		birth = yes
 	}
 	2419.6.12 = {
-	add_spouse = 721
+	add_spouse = 691
 	}
 	2440.5.20 = {
 	death = {death_reason = cancer}
 	}
 }
-721 = {
+691 = {
 	name = "Okseul"
 	female = yes
-	dynasty = 4000721 # 계룡쪽 이씨
+	dynasty = 4000691 # 계룡쪽 이씨
 	culture = hoseo
 	religion = mu_pagan
 	trait = stress
@@ -28,14 +28,14 @@
 	death = {death_reason = trait}
 	}
 }
-722 = {
+692 = {
 	name = "Kayeong"
 	female = yes
-	dynasty = 4000720 # 계룡쪽 유씨
+	dynasty = 4000690 # 계룡쪽 유씨
 	culture = hoseo
 	religion = mu_pagan
-	father = 720
-	mother = 721
+	father = 690
+	mother = 691
 	trait = mastermind_theologian
 	trait = zealous
 	trait = content
@@ -43,15 +43,15 @@
 		birth = yes
 	}
 	2437.8.16 = {
-	add_matrilineal_spouse = 723
+	add_matrilineal_spouse = 693
 	}
 	2437.3.17 = {
-	add_lover = 723
+	add_lover = 693
 	}
 }
-723 = {
+693 = {
 	name = "Yasa"
-	dynasty = 4000722 # 계룡쪽 이누씨
+	dynasty = 4000692 # 계룡쪽 이누씨
 	culture = dog_culture
 	religion = mu_pagan
 	2424.12.12 = {
@@ -61,17 +61,17 @@
 	add_lover = 722
 	}
 }
-724 = {
+694 = {
 	name = "Nayeong"
 	female = yes
-	dynasty = 4000720 # 계룡쪽 유씨
+	dynasty = 4000690 # 계룡쪽 유씨
 	culture = hoseo
 	religion = mu_pagan
 	trait = intricate_webweaver
 	trait = shrewd
 	trait = ambitious
-	father = 720
-	mother = 721
+	father = 690
+	mother = 691
 	2424.6.18 = {
 		birth = yes
 	}

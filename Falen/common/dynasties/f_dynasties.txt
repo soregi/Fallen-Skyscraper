@@ -51,17 +51,17 @@
 	culture = sudsee
 	religion = protestant
 }
-4000720 = {
+4000690 = {
 	name = "Yu" #계룡
 	culture = hoseo
 	religion = mu_pagan
 }
-4000721 = {
+4000691 = {
 	name = "Yi" #계룡
 	culture = hoseo
 	religion = mu_pagan
 }
-4000722 = {
+4000692 = {
 	name = "Yinu" #계룡
 	culture = dog
 	religion = mu_pagan
