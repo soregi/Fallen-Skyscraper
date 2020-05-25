@@ -6,6 +6,9 @@ title = c_jangphung
 # Settlements
 max_settlements = 4
 
+b_jangphung = tribal
+b_ryohyon = tribal
+
 # Misc
 culture = gyeonggi
 religion = gaian

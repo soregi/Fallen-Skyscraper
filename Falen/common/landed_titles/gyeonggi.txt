@@ -294,6 +294,12 @@ k_gyeonggi = {
 		c_jangphung = {
 			color = { 150 10 50 }
 			b_jangphung = {}
+			b_ryohyon = {}
+			b_toksu = {}
+			b_hwagok = {}
+			b_haepyong = {}
+			b_shingwang = {}
+			b_munksong = {}
 		}
 	}
 	

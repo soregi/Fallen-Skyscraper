@@ -181,6 +181,12 @@ k_hwanghae = {
 		c_kangryong = {
 			color = { 0 0 65 }
 			b_kangryong = {}
+			b_pumin = {}
+			b_kwangchon = {}
+			b_obong = {}
+			b_ryongyon = {}
+			b_ssanggyo = {}
+			b_tongpo = {}
 		}
 	}
 }

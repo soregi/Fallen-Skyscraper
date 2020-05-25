@@ -1,5 +1,87 @@
+#여기서부터 인공
+4000201 = {
+	name = "Han" #한만영의 가문
+	culture = pyongnam
+	religion = cheondo
+}
+4000202 = {
+	name = "Chong" #종두한 가문
+	culture = pyongnam
+	religion = cheondo
+}
+4000203 = {
+	name = "Dong" #인공 동씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000204 = {
+	name = "Li" #인공 리씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000205 = {
+	name = "Jeon" #인공 전씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000206 = {
+	name = "Go" #인공 고씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000207 = {
+	name = "Lee" #인공 리씨2
+	culture = pyongnam
+	religion = cheondo
+}
+4000208 = {
+	name = "Lee" #인공 리씨3
+	culture = pyongnam
+	religion = cheondo
+}
+4000209 = {
+	name = "Jang" #인공 장씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000210 = {
+	name = "Jo" #인공 조씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000211 = {
+	name = "Im" #인공 임씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000212 = {
+	name = "Do" #인공 두씨
+	culture = pyongnam
+	religion = marxist
+}
+4000213 = {
+	name = "Kim" #인공 김씨
+	culture = pyongnam
+	religion = marxist
+}
+4000214 = {
+	name = "Park" #인공 임씨
+	culture = pyongnam
+	religion = cheondo
+}
+4000215 = {
+	name = "Choi" #인공 최씨
+	culture = pyongnam
+	religion = cheondo
+}
+#여기서부터 개성+자연인
 4000601 = {
 	name = "Wang" #개성+마포
 	culture = seoul
 	religion = koreanist
 }
+
+
+
+
+#여기서부터 부산
