@@ -118,3 +118,8 @@
 	culture = seoul 
 	religion = koreanist
 }
+4001825 = {
+	name = "Lim"
+	culture = seoul 
+	religion = koreanist
+}

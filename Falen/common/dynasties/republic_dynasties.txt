@@ -1,0 +1,5 @@
+4000601 = {
+	name = "Wang" #개성+마포
+	culture = seoul
+	religion = koreanist
+}

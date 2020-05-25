@@ -1,3 +1,40 @@
-2419.9.17 = {
-	holder = 2019
+2124.5.12 = {
+	holder = 2049
+}
+2153.6.17 = { 
+	holder = 2050
+}
+2201.1.21 = {
+	holder = 2051
+}
+2230.2.3 = {
+	holder = 601 #개성 공화국 시조
+}
+2231.9.8 = {
+	liege = k_mil_seoul
+	holder = 2052 #찬탈자, 이때부터 양민욱의 봉신
+}
+2287.6.10 = {
+	liege = k_mil_seoul
+	holder = 2054
+}
+2321.9.3 = {
+	liege = k_mil_seoul
+	holder = 2055
+}
+2325.8.27 = {
+	liege = k_mil_seoul
+	holder = 2056
+}
+2380.5.4 = {
+	liege = k_mil_seoul
+	holder = 2057
+}
+2403.10.3 = {
+	liege = k_mil_seoul
+	holder = 2058
+}
+2430.6.15 = {
+	liege = k_mil_seoul
+	holder = 2059
 }

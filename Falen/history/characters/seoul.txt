@@ -399,3 +399,186 @@
 	mother = 2047
 	2439.10.5 = { birth = yes }
 }
+#여기서부터 마포 백작들
+2049 = {
+	name = "Sinjin"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	trait = mastermind_theologian
+	trait = ancient
+	trait = fair
+	trait = kind
+	2086.2.11 = {
+		birth = yes
+	}
+	2153.6.17 = {
+		death = yes
+	}
+}
+2050 = {
+	name = "Jitae"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2049
+	trait = thrifty_clerk
+	trait = content
+	2136.5.30 = {
+		birth = yes
+	}
+	2201.1.21 = {
+		death = yes
+	}
+}
+2051 = {
+	name = "Yujin"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2050
+	trait = underhanded_rogue
+	trait = stressed
+	2186.5.4 = {
+		birth = yes
+	}
+	2230.2.3 = {
+		death = yes
+	}
+}
+2052 = {
+	name = "Chajin"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2051
+	trait = intricate_webweaver
+	trait = ambitious
+	trait = proud
+	trait = shrewd
+	2213.11.8 = {
+		birth = yes
+	}
+	2231.9.8 = {
+	give_nickname = nick_the_usurper
+	}
+	2287.6.10 = {
+		death = yes
+	}
+}
+2053 = {
+	name = "Jihun"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2052
+	trait = skilled_tactician
+	trait = gluttonous
+	2241.8.23 = {
+		birth = yes
+	}
+	2283.4.6 = {
+		death = yes
+	}
+}
+2054 = {
+	name = "Hyeokjin"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2053
+	trait = underhanded_rogue
+	trait = cynical
+	2265.10.13 = {
+		birth = yes
+	}
+	2321.9.3 = {
+		death = yes
+	}
+}
+2055 = {
+	name = "Inhwan"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2054
+	trait = midas_touched
+	trait = feeble
+	2296.6.20 = {
+		birth = yes
+	}
+	2325.8.27 = {
+		death = {
+		death_reason = death_trait
+		}
+	}
+}
+2056 = {
+	name = "Minsu"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2055
+	trait = martial_cleric
+	2321.2.20 = {
+		birth = yes
+	}
+	2380.5.4 = {
+		death = yes
+	}
+}
+2057 = {
+	name = "Jimin"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2056
+	trait = naive_appeaser
+	2349.4.1 = {
+		birth = yes
+	}
+	2403.10.3 = {
+		death = yes
+	}
+}
+2058 = {
+	name = "Injae"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2057
+	trait = flamboyant_schemer
+	2381.8.24 = {
+		birth = yes
+	}
+	2430.6.15 = {
+		death = yes
+	}
+}
+2059 = {
+	name = "Hyeonsoo"
+	dynasty = 4000601 # 개성, 마포왕씨
+	culture = seoul
+	religion = koreanist
+	father = 2058
+	trait = fortune_builder
+	trait = charitable
+	2406.4.21 = {
+		birth = yes
+	}
+	2423.3.19 = {
+		add_spouse = 2060
+	}
+}
+2060 = {
+	name = "Seji"
+	female = yes
+	dynasty = 4002025 # 서울쪽 임씨
+	culture = seoul
+	religion = koreanist
+	trait = martial_cleric
+	trait = lustful
+	2411.3.14 = {
+		birth = yes
+	}
+}

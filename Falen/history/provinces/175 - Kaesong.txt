@@ -6,6 +6,13 @@ title = c_kaesong
 # Settlements
 max_settlements = 6
 
+b_kaesong = city
+b_goryeo = city
+b_unhak = city
+b_gwanhun = temple
+b_boseon = city
+
+
 # Misc
 culture = gyeonggi
-religion = gaian
+religion = koreanist

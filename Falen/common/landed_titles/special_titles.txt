@@ -93,3 +93,11 @@ d_gaian_union = { #자연인 연맹
 		always = yes
 	}
 }
+k_republic_of_kasong = {
+	color={ 800 140 240 }
+	color2={ 255 250 20 }
+	
+	allow = {
+		always = yes
+	}
+}

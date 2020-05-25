@@ -6,6 +6,8 @@ title = c_kangryong
 # Settlements
 max_settlements = 5
 
+b_kangryong = city
+
 # Misc
 culture = hwanghae
 religion = cheondo
