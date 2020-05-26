@@ -296,8 +296,8 @@ indian_group = {
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
 
-		icon = 10
-		heresy_icon = 11
+		icon = 34
+		heresy_icon = 33
 		
 		color = { 0.6 0.3 0.4 }
 		
@@ -322,8 +322,6 @@ indian_group = {
 		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
-		max_consorts = 3
-		castes = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
