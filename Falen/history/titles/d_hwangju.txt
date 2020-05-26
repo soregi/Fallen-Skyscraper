@@ -1,0 +1,4 @@
+2432.7.1 = {
+	liege = k_people's_republic_of_korea
+	holder = 212
+}

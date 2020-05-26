@@ -9,10 +9,10 @@ k_pyeongan = {
 			b_pyongyang = {}
 			b_rakrang = {}
 			b_moranbong = {}
+			b_tongdaewon = {} #동대원			
 			b_samsok = {} #삼석
 			b_unjong = {} #은정
 			b_phyongchon = {} #평천
-			b_tongdaewon = {} #동대원
 		}
 		c_ryokpho = {
 			color = { 217 78 28 }

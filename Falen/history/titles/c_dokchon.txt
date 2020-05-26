@@ -1,0 +1,4 @@
+2441.8.12 = {
+	liege = k_people's_republic_of_korea
+	holder = 215
+}
