@@ -1,0 +1,255 @@
+201 = {
+	name = "Manyong"
+	female = yes
+	dynasty = 4000201 # 한씨
+	culture = pyongnam
+	religion = cheondo
+	diplomacy = 13
+	martial = 8
+	intrigue = 9
+	stewardship = 12
+	learning = 10
+	trait = grey_eminence
+	trait = quick
+	trait = wounded
+	2382.4.15 = {
+		birth = yes
+	}
+	2405.5.2 = {
+		give_nickname = nick_the_mother_of_nation
+		create_bloodline = {
+			type = mother_of_nation_blood
+			has_dlc = "Holy Fury"
+		}
+	}
+	2433.8.15 = {
+		death = {
+		death_reason = death_trait 
+		}
+
+	}
+}
+202 = {
+	name = "Sanghong"
+	dynasty = 4000201 # 한씨
+	culture = pyongnam
+	religion = cheondo
+	mother = 201
+	diplomacy = 8
+	martial = 5
+	intrigue = 7
+	stewardship = 9
+	learning = 5
+	wealth = 104
+	prestige = 500
+	piety = 107
+	trait = charismatic_negotiator
+	2416.1.12 = {
+		birth = yes
+	}
+	2432.6.29 = {
+		add_spouse = 203
+	}
+}
+203 = {
+	name = "Jungin"
+	female = yes
+	dynasty = 4000215 # 인공 최씨
+	culture = pyongnam
+	religion = cheondo
+	2425.4.22 = {
+		birth = yes
+	}
+}
+204 = {
+	name = "Bekhwa"
+	female = yes
+	dynasty = 4000201 # 한씨
+	culture = pyongnam
+	religion = cheondo
+	father = 202
+	mother = 203
+	2432.11.21 = {
+		birth = yes
+	}
+}
+205 = {
+	name = "Doohan"
+	dynasty = 4000202 # 종씨
+	culture = pyongnam
+	religion = cheondo
+	trait = misguided_warrior
+	trait = proud
+	trait = greedy
+	diplomacy = 3
+	martial = 0
+	intrigue = 2
+	stewardship = 11
+	learning = 0
+	wealth = 29
+	prestige = -5000
+	piety = -500
+	2381.1.18 = {
+		birth = yes
+	}
+}
+206 = {
+	name = "Jeongryong"
+	dynasty = 4000203 # 인공 동씨
+	culture = pyongnam
+	religion = cheondo
+	2403.5.5 = {
+		birth = yes
+	}
+}
+207 = {
+	name = "Ryokgang"
+	dynasty = 4000204 # 인공 리씨
+	culture = pyongnam
+	religion = cheondo
+	2421.3.29 = {
+		birth = yes
+	}
+}
+208 = {
+	name = "Gongho"
+	dynasty = 4000205 # 인공 전씨
+	culture = pyongnam
+	religion = cheondo
+	2399.12.1 = {
+		birth = yes
+	}
+}
+209 = {
+	name = "Gonghyok"
+	dynasty = 4000206 # 인공 고씨
+	culture = pyongnam
+	religion = cheondo
+	2411.3.7 = {
+		birth = yes
+	}
+}
+210 = {
+	name = "Gichual"
+	dynasty = 4000207 # 인공 리씨
+	culture = pyongnam
+	religion = cheondo
+	2433.9.20 = {
+		birth = yes
+	}
+}
+211 = {
+	name = "Jungjae"
+	dynasty = 4000208 # 인공 리씨2
+	culture = pyongnam
+	religion = cheondo
+	2417.1.6 = {
+		birth = yes
+	}
+}
+212 = {
+	name = "Jakdoo"
+	dynasty = 4000209 # 인공 장씨
+	culture = pyongnam
+	religion = cheondo
+	2416.5.6 = {
+		birth = yes
+	}
+}
+213 = {
+	name = "Jo" 
+	dynasty = 4000210 # 인공 조씨
+	culture = pyongnam
+	religion = cheondo
+	trait = twin
+	father = 219
+	mother = 220
+	2405.7.21 = {
+		birth = yes
+	}
+}
+214 = {
+	name = "Hyen" 
+	dynasty = 4000210 # 인공 조씨
+	culture = pyongnam
+	religion = cheondo
+	trait = twin
+	father = 219
+	mother = 220
+	2405.7.21 = {
+		birth = yes
+	}
+}
+215 = {
+	name = "Jaeho" 
+	dynasty = 4000211 # 인공 임씨
+	culture = pyongnam
+	religion = cheondo
+	2426.10.4 = {
+		birth = yes
+	}
+}
+216 = {
+	name = "Jaadang" 
+	dynasty = 4000212 # 인공 두씨
+	culture = pyongnam
+	religion = marxist
+	2429.12.9 = {
+		birth = yes
+	}
+}
+217 = {
+	name = "Alexander" 
+	dynasty = 4000213 # 인공 김씨
+	culture = pyongnam
+	religion = marxist
+	2419.1.9 = {
+		birth = yes
+	}
+}
+218 = {
+	name = "Jaehi" 
+	dynasty = 4000214 # 인공 박씨
+	culture = pyongnam
+	religion = cheondo
+	trait = mastermind_theologian
+	diplomacy = 5
+	martial = 5
+	intrigue = 7
+	stewardship = 7
+	learning = 13
+	wealth = 58
+	prestige = 300
+	piety = 300
+	2388.4.16 = {
+		birth = yes
+	}
+}
+219 = {
+	name = "Nadan" 
+	dynasty = 4000210 # 인공 조씨
+	culture = pyongnam
+	religion = cheondo
+	trait = wounded
+	2379.8.7 = {
+		birth = yes
+	}
+	2431.5.18 = {
+		death = {
+		death_reason = death_trait 
+	}
+	}
+}
+220 = {
+	name = "Sang"
+	female = yes
+	dynasty = 4000210 # 인공 조씨
+	culture = pyongnam
+	religion = cheondo
+	2390.9.12 = {
+		birth = yes
+	}
+	2434.9.10 = {
+		death = yes
+	}
+}

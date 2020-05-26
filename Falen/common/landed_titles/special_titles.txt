@@ -21,7 +21,7 @@ k_mil_seoul = {
 	culture = seoul
 	religion = koreanist
 }
-#인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을, k_pohang, d_gaian_union, k_republic_of_kasong, 을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
+#인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을, k_pohang, d_gaian_union, k_republic_of_kasong,k_people's_republic_of_korea ,d_ingonggun ,d_kyoryung 을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
 #위와 같은 이유로 k_bulgukto, d_maitreya, d_bailian 추가, 뒤의 2개는 종교지도자인듯 한데, 일단 일반적인 명목공작으로 만듬
 k_gaya = {
 	color={ 211 126 65 }
@@ -93,7 +93,7 @@ d_gaian_union = { #자연인 연맹
 		always = yes
 	}
 }
-k_republic_of_kasong = {
+k_republic_of_kasong = { #
 	color={ 80 140 240 }
 	color2={ 255 250 20 }
 	
@@ -104,6 +104,22 @@ k_republic_of_kasong = {
 k_people's_republic_of_korea = {
 	color={ 230 40 190 }
 	color2={ 250 250 20 }
+	
+	allow = {
+		always = yes
+	}
+}
+d_ingonggun = {
+	color={ 120 42 190 }
+	color2={ 250 251 20 }
+	
+	allow = {
+		always = yes
+	}
+}
+d_kyoryung = {
+	color={ 30 80 190 }
+	color2={ 250 255 20 }
 	
 	allow = {
 		always = yes
