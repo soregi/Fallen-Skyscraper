@@ -6,11 +6,11 @@ title = c_kaesong
 # Settlements
 max_settlements = 6
 
-b_kaesong = city
-b_goryeo = city
-b_unhak = city
+b_kaesong = city #왕씨용
+b_goryeo = city #산씨용
+b_unhak = city #내씨용
 b_gwanhun = temple
-b_boseon = city
+b_boseon = city #이씨용
 
 
 # Misc
