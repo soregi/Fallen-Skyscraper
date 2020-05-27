@@ -6,6 +6,9 @@ title = c_thaethan
 # Settlements
 max_settlements = 3
 
+b_thaethan = castle
+b_songnam_thaethan = city
+
 # Misc
 culture = hwanghae
 religion = cheondo

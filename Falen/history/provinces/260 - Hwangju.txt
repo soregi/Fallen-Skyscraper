@@ -6,6 +6,12 @@ title = c_hwangju
 # Settlements
 max_settlements = 6
 
+b_hwangju = castle
+b_togwol_hwangju = castle
+b_hwanggang_hwangju = city
+b_jokpyok_hwangju = temple
+b_pyoksong_hwangju = city
+
 # Misc
 culture = hwanghae
 religion = juche

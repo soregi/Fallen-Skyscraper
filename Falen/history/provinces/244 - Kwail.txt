@@ -6,6 +6,10 @@ title = c_kwail
 # Settlements
 max_settlements = 5
 
+b_kwail = castle
+b_sinphyong_kwail = city
+b_suphung_kwail = city
+
 # Misc
 culture = hwanghae
 religion = cheondo

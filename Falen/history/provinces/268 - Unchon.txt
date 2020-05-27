@@ -6,6 +6,10 @@ title = c_uncheon
 # Settlements
 max_settlements = 5
 
+b_uncheon = castle
+b_chogyo_uncheon = city
+b_tokyang_uncheon = temple
+
 # Misc
 culture = hwanghae
 religion = juche

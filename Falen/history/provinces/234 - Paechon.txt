@@ -6,6 +6,8 @@ title = c_paechon
 # Settlements
 max_settlements = 5
 
+b_paechon = tribal
+
 # Misc
 culture = hwanghae
 religion = cheondo

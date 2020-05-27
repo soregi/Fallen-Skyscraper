@@ -6,6 +6,9 @@ title = c_pongsan
 # Settlements
 max_settlements = 4
 
+b_pongsan = castle
+b_kachon_pongsan = temple
+
 # Misc
 culture = hwanghae
-religion = orthodox
+religion = cheondo

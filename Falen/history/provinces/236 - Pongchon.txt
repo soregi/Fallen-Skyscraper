@@ -6,6 +6,8 @@ title = c_pongchon
 # Settlements
 max_settlements = 4
 
+b_pongchon = tribal
+
 # Misc
 culture = hwanghae
-religion = cheondo
+religion = gaian

@@ -6,6 +6,10 @@ title = c_sariwon
 # Settlements
 max_settlements = 5
 
+b_sariwon = castle
+b_kuchon_sariwon = temple 
+b_mangum_sariwon = city
+
 # Misc
 culture = hwanghae
 religion = juche

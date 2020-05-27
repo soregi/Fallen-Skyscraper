@@ -6,6 +6,8 @@ title = c_phyongsan
 # Settlements
 max_settlements = 3
 
+b_phyongsan = tribal
+
 # Misc
 culture = hwanghae
 religion = gaian

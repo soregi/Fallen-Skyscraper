@@ -6,6 +6,10 @@ title = c_anak
 # Settlements
 max_settlements = 5
 
+b_anak = castle
+b_phallyuk_anak = city
+b_namjong_anak = temple
+
 # Misc
 culture = hwanghae
 religion = juche

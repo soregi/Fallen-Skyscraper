@@ -6,7 +6,9 @@ title = c_kangryong
 # Settlements
 max_settlements = 5
 
-b_kangryong = tribal
+b_kangryong = city
+b_pumin = castle
+b_kwangchon = city
 
 # Misc
 culture = hwanghae

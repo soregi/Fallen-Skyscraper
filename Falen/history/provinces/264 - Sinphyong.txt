@@ -6,6 +6,9 @@ title = c_sinphyeong
 # Settlements
 max_settlements = 3
 
+b_sinphyeong = castle
+b_phyonghwa_sinphyeong = temple
+
 # Misc
 culture = hwanghae
 religion = juche

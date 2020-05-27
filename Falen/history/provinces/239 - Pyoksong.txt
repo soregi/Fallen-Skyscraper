@@ -6,6 +6,10 @@ title = c_pyoksong
 # Settlements
 max_settlements = 5
 
+b_pyoksong = castle
+b_naeho_pyoksong = temple
+b_tohyon_pyoksong = city
+
 # Misc
 culture = hwanghae
 religion = cheondo

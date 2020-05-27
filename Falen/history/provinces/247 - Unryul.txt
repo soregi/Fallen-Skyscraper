@@ -6,6 +6,10 @@ title = c_unryul
 # Settlements
 max_settlements = 5
 
+b_unryul = castle
+b_sansung_unryul = city
+b_rakchon_unryul = temple
+
 # Misc
 culture = hwanghae
 religion = juche

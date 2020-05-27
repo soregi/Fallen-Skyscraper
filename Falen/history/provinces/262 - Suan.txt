@@ -6,6 +6,9 @@ title = c_suan
 # Settlements
 max_settlements = 3
 
+b_suan = castle
+b_sophyong_suan = temple
+
 # Misc
 culture = hwanghae
 religion = juche

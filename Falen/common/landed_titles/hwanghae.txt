@@ -8,22 +8,52 @@ k_hwanghae = {
 		c_haeju = {
 			color = { 0 0 50 }
 			b_haeju = {}
+			b_kwangsok_haeju = {}
+			b_sami_haeju = {}
+			b_sonsan_haeju = {}
+			b_singwang_haeju = {}
+			b_yongyang_haeju = {}
+			b_jangbang_haeju = {}
 		}
 		c_chongdan = {
 			color = { 10 10 75 }
 			b_chongdan = {}
+			b_ryongpho_chongdan = {}
+			b_kuwol_chongdan = {}
+			b_yeongsan_chongdan = {}
+			b_namchon_chongdan = {}
+			b_sinsaeng_chongdan = {}
+			b_hungsan_chongdan = {}
 		}
 		c_yonan = {
 			color = { 0 0 125 }
 			b_yonan = {}
+			b_janggokh_yonan = {}
+			b_ryongho_yonan = {}
+			b_haewol_yonan = {}
+			b_tongsan_yonan = {}
+			b_ohyon_yonan = {}
+			b_jangdeok_yonan = {}
 		}
 		c_paechon = {
 			color = { 0 0 75 }
 			b_paechon = {}
+			b_mulgil_paechon = {}
+			b_ponghwa_paechon = {}
+			b_sinwol_paechon = {}
+			b_obong_paechon = {}
+			b_ilgok_paechon = {}
+			b_jongchon_paechon = {}
 		}
 		c_sinwon = {
 			color = { 0 0 150 }
 			b_sinwon = {}
+			b_komchon_sinwon = {}
+			b_muhak_sinwon = {}
+			b_hwasok_sinwon = {}
+			b_kyenam_sinwon = {}
+			b_karyo_sinwon = {}
+			b_paegu_sinwon = {}
 		}
 	}
 	d_kumchon = {
@@ -33,22 +63,52 @@ k_hwanghae = {
 		c_kumchon = {
 			color = { 0 0 120 }
 			b_kumchon = {}
+			b_paekhyang_kumchon = {} 
+			b_singang_kumchon = {}
+			b_paengma_kumchon = {}
+			b_namjong_kumchon = {}
+			b_ryongsong_kumchon = {}
+			b_hyonnae_kumchon = {}
 		}
 		c_pongchon = {
 			color = { 0 0 200 }
 			b_pongchon = {}
+			b_haengjong_pongchon = {}
+			b_sindap_pongchon = {}
+			b_hwangryong_pongchon = {}
+			b_taea_pongchon = {}
+			b_ryongchon_pongchon = {}
+			b_pongam_pongchon = {}
 		}
 		c_phyongsan = {
 			color = { 0 0 70 }
 			b_phyongsan = {}
+			b_thangyo_phyongsan = {}
+			b_riman_phyongsan = {}
+			b_sansu_phyongsan = {}
+			b_kithan_phyongsan = {}
+			b_ryesong_phyongsan = {}
+			b_pusu_phyongsan = {}
 		}
 		c_rinsan = {
 			color = { 0 0 165 }
 			b_rinsan = {}
+			b_jithaek_rinsan = {}
+			b_anchang_rinsan = {}
+			b_phyonghwa_rinsan = {}
+			b_sangha_rinsan = {}
+			b_tajon_rinsan = {}
+			b_sokkyo_rinsan = {}
 		}
 		c_sohung = {
 			color = { 0 69 155 }
 			b_sohung = {}
+			b_komun_sohung = {}
+			b_kachang_sohung = {}
+			b_rakchon_sohung = {}
+			b_yangsa_sohung = {}
+			b_chongpho_sohung = {}
+			b_hwabong_sohung = {}
 		}
 	}
 	d_singye = {
@@ -58,22 +118,52 @@ k_hwanghae = {
 		c_singye = {
 			color = { 0 0 250 }
 			b_singye = {}
+			b_rungsu_singye = {}
+			b_taeul_singye = {}
+			b_chongae_singye = {}
+			b_jongbong_singye = {}
+			b_wangdang_singye = {}
+			b_jungsan_singye = {}
 		}
 		c_thosan = {
 			color = { 90 70 180 }
 			b_thosan = {}
+			b_yangsa_thosan = {}
+			b_ryongam_thosan = {}
+			b_pukpho_thosan = {}
+			b_hwanggang_thosan = {}
+			b_pongbul_thosan = {}
+			b_sokpong_thosan = {}
 		}
 		c_koksan = {
 			color = { 0 0 215 }
 			b_koksan = {}
+			b_songrim_koksan = {}
+			b_hoam_koksan = {}
+			b_munyang_koksan = {}
+			b_chongsong_koksan = {}
+			b_kowon_koksan = {}
+			b_kyesu_koksan = {}
 		}
 		c_suan = {
 			color = { 0 5 30 }
 			b_suan = {}
+			b_sophyong_suan = {}
+			b_jwawi_suan = {}
+			b_sokkyo_suan = {}
+			b_sanbuk_suan = {}
+			b_tojon_suan = {}
+			b_okchi_suan = {}
 		}
 		c_sinphyeong = {
 			color = { 0 0 25 }
 			b_sinphyeong = {}
+			b_phyonghwa_sinphyeong = {}
+			b_koup_sinphyeong = {}
+			b_taeji_sinphyeong = {}
+			b_misong_sinphyeong = {}
+			b_churanjon_sinphyeong = {}
+			b_toum_sinphyeong = {}
 		}
 	}
 	d_hwangju = {
@@ -83,22 +173,52 @@ k_hwanghae = {
 		c_hwangju = {
 			color = { 0 0 55 }
 			b_hwangju = {}
+			b_togwol_hwangju = {}
+			b_hwanggang_hwangju = {}
+			b_jokpyok_hwangju = {}
+			b_pyoksong_hwangju = {}
+			b_jean_hwangju = {}
+			b_yedong_hwangju = {}
 		}
 		c_yeontan = {
 			color = { 0 0 195 }
 			b_yeontan = {}
+			b_misan_yeontan = {}
+			b_wollyong_yeontan = {}
+			b_kumbong_yeontan = {}
+			b_toch_yeontan = {}
+			b_subong_yeontan = {}
+			b_phungdap_yeontan = {}
 		}
 		c_pongsan = {
 			color = { 59 53 113 }
 			b_pongsan = {}
+			b_kachon_pongsan = {}
+			b_tosong_pongsan = {}
+			b_jithap_pongsan = {}
+			b_songsan_pongsan = {}
+			b_chondok_pongsan = {}
+			b_chongryong_pongsan = {}
 		}
 		c_unpha = {
 			color = { 0 0 35 }
 			b_unpha = {}
+			b_sojong_unpha = {}
+			b_chowa_unpha = {}
+			b_tokjae_unpha = {}
+			b_ssangsan_unpha = {}
+			b_kichon_unpha = {}
+			b_tokchon_unpha = {}
 		}
 		c_sariwon = {
 			color = { 0 5 190 }
 			b_sariwon = {}
+			b_kuchon_sariwon = {}
+			b_mangum_sariwon = {}
+			b_sangmae_sariwon = {}
+			b_sinhung_sariwon = {}
+			b_unha_sariwon = {}
+			b_cholsan_sariwon = {}
 		}
 	}
 	d_anak = {
@@ -108,22 +228,52 @@ k_hwanghae = {
 		c_unryul = {
 			color = { 0 0 170 }
 			b_unryul = {}
+			b_sansung_unryul = {}
+			b_rakchon_unryul = {}
+			b_kuwol_unryul = {}
+			b_wonphyong_unryul = {}
+			b_sandong_unryul = {}
+			b_taechu_unryul = {}
 		}
 		c_uncheon = {
 			color = { 10 50 170 }
 			b_uncheon = {}
+			b_chogyo_uncheon = {}
+			b_tokyang_uncheon = {}
+			b_sinchang_uncheon = {}
+			b_maehwa_uncheon = {}
+			b_tongchang_uncheon = {}
+			b_hakchon_uncheon = {}
 		}
 		c_anak = {
 			color = { 0 0 130 }
 			b_anak = {}
+			b_phallyuk_anak = {}
+			b_namjong_anak = {}
+			b_yondung_anak = {}
+			b_phyongjong_anak = {}
+			b_taechu_anak = {}
+			b_kuwa_anak = {}
 		}
 		c_sinchon = {
 			color = { 0 0 160 }
 			b_sinchon = {}
+			b_wonam_sinchon = {}
+			b_kulloja_sinchon = {}
+			b_songo_sinchon = {}
+			b_sachang_sinchon = {}
+			b_pogu_sinchon = {}
+			b_sowon_sinchon = {}
 		}
 		c_jaeryong = {
 			color = { 0 0 225 }
 			b_jaeryong = {}
+			b_pyoksan_jaeryong = {}
+			b_kosan_jaeryong = {}
+			b_kimjewon_jaeryong = {}
+			b_kulhae_jaeryong = {}
+			b_pukji_jaeryong = {}
+			b_namji_jaeryong = {}
 		}
 	}
 	d_gwail = {
@@ -133,14 +283,32 @@ k_hwanghae = {
 		c_kwail = {
 			color = { 119 73 255 }
 			b_kwail = {}
+			b_sinphyong_kwail = {}
+			b_suphung_kwail = {}
+			b_phogu_kwail = {}
+			b_wolsa_kwail = {}
+			b_ojong_kwail = {}
+			b_sagi_kwail = {}
 		}
 		c_jangyon = {
 			color = { 0 0 180 }
 			b_jangyon = {}
+			b_ragyolodongja_jangyon = {}
+			b_hwawon_jangyon = {}
+			b_chonggye_jangyon = {}
+			b_sonjong_jangyon = {}
+			b_sanchon_jangyon = {}
+			b_hakrim_jangyon = {}
 		}
 		c_ryongyeon = {
 			color = { 10 10 90 }
 			b_ryongyeon = {}
+			b_sawon_ryongyeon = {}
+			b_kumsu_ryongyeon = {}
+			b_sonpho_ryongyeon = {}
+			b_ryongho_ryongyeon = {}
+			b_kumnok_ryongyeon = {}
+			b_pongthae_ryongyeon = {}
 			
 		}
 		c_baeknyeongdo = {
@@ -156,6 +324,12 @@ k_hwanghae = {
 		c_songhwa = {
 			color = { 0 0 145 }
 			b_songhwa = {}
+			b_yaksan_songhwa = {}
+			b_sujung_songhwa = {}
+			b_myongrye_songhwa = {}
+			b_kutan_songhwa = {}
+			b_taam_songhwa = {}
+			b_kwanyang_songhwa = {}
 		}
 	}
 	d_byeokseong = {
@@ -165,18 +339,42 @@ k_hwanghae = {
 		c_ongjin = {
 			color = { 0 0 175 }
 			b_ongjin = {}
+			b_sudae_ongjin = {}
+			b_raengjong_ongjin = {}
+			b_roho_ongjin = {}
+			b_ripsok_ongjin = {}
+			b_jangsong_ongjin = {}
+			b_ponyong_ongjin = {}
 		}
 		c_thaethan = {
 			color = { 0 0 220 }
 			b_thaethan = {}
+			b_songnam_thaethan = {}
+			b_taejin_thaethan = {}
+			b_ogam_thaethan = {}
+			b_sudong_thaethan = {}
+			b_kwasan_thaethan = {}
+			b_ryujong_thaethan = {}
 		}
 		c_samchon = {
 			color = { 0 0 45 }
 			b_samchon = {}
+			b_sujang_samchon = {}
+			b_tokchon_samchon = {}
+			b_kohyon_samchon = {}
+			b_churung_samchon = {}
+			b_talchon_samchon = {}
+			b_kunghum_samchon = {}
 		}
 		c_pyoksong = {
 			color = { 0 0 110 }
 			b_pyoksong = {}
+			b_naeho_pyoksong = {}
+			b_tohyon_pyoksong = {}
+			b_ryongjong_pyoksong = {}
+			b_sangrim_pyoksong = {}
+			b_jukchon_pyoksong = {}
+			b_ssangam_pyoksong = {}
 		}
 		c_kangryong = {
 			color = { 0 0 65 }

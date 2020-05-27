@@ -6,6 +6,9 @@ title = c_rinsan
 # Settlements
 max_settlements = 3
 
+b_rinsan = castle
+b_jithaek_rinsan = temple
+
 # Misc
 culture = hwanghae
 religion = gaian

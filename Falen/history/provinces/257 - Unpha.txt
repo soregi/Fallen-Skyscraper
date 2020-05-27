@@ -6,6 +6,10 @@ title = c_unpha
 # Settlements
 max_settlements = 4
 
+b_unpha = castle
+b_sojong_unpha = city
+b_chowa_unpha = temple
+
 # Misc
 culture = hwanghae
 religion = juche

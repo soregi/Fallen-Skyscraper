@@ -6,6 +6,8 @@ title = c_kumchon
 # Settlements
 max_settlements = 4
 
+b_kumchon = tribal
+
 # Misc
 culture = hwanghae
-religion = juche
+religion = gaian

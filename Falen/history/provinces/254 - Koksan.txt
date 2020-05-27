@@ -6,6 +6,9 @@ title = c_koksan
 # Settlements
 max_settlements = 3
 
+b_koksan = castle
+b_songrim_koksan = city
+
 # Misc
 culture = hwanghae
 religion = juche

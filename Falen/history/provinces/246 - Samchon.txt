@@ -6,6 +6,10 @@ title = c_samchon
 # Settlements
 max_settlements = 3
 
+b_samchon = castle
+b_sujang_samchon = temple
+
+
 # Misc
 culture = hwanghae
 religion = juche

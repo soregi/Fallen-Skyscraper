@@ -6,6 +6,9 @@ title = c_singye
 # Settlements
 max_settlements = 4
 
+b_singye = castle
+b_rungsu_singye = temple
+
 # Misc
 culture = hwanghae
 religion = juche

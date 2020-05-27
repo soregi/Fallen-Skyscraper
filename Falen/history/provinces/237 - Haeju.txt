@@ -6,6 +6,11 @@ title = c_haeju
 # Settlements
 max_settlements = 6
 
+b_haeju = castle
+b_kwangsok_haeju = city
+b_sami_haeju = temple
+b_sonsan_haeju = castle
+
 # Misc
 culture = hwanghae
 religion = cheondo

@@ -6,6 +6,10 @@ title = c_sinchon
 # Settlements
 max_settlements = 5
 
+b_sinchon = castle
+b_wonam_sinchon = city
+b_kulloja_sinchon = temple
+
 # Misc
 culture = hwanghae
 religion = juche
