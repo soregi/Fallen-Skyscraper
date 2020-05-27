@@ -6,7 +6,8 @@ title = c_thosan
 # Settlements
 max_settlements = 3
 
-b_thosan = tribal
+b_thosan = castle
+b_yangsa_thosan = city
 
 # Misc
 culture = hwanghae

@@ -6,7 +6,7 @@ title = c_ryongyeon
 # Settlements
 max_settlements = 5
 
-b_ryongyeon = {}
+b_ryongyeon = castle
 b_sawon_ryongyeon = city
 b_kumsu_ryongyeon = temple
 
