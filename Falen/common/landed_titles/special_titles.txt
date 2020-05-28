@@ -86,7 +86,7 @@ k_pohang = { #포항왕국
 	}
 }
 d_gaian_union = { #자연인 연맹
-	color={ 34 220 132 }
+	color={ 34 220 82 }
 	color2={ 25 32 60 }
 	
 	allow = {
@@ -133,3 +133,20 @@ k_andong = {
 		always = yes
 	}
 }
+d_cheongsong = {
+	color={ 120 198 105 }
+	color2={ 132 148 120 }
+	
+	allow = {
+		always = yes
+	}
+}
+d_yeongju = {
+	color={ 190 198 105 }
+	color2={ 132 148 120 }
+	
+	allow = {
+		always = yes
+	}
+}
+

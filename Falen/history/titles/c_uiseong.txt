@@ -1,4 +1,4 @@
 2400.8.16 = {
-	liege = k_andong
+	liege = d_cheongsong
 	holder = 1949
 }

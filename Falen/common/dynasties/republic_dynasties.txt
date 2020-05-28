@@ -76,12 +76,53 @@
 }
 #여기서부터 개성+자연인
 4000601 = {
-	name = "Wang" #개성+마포
+	name = "Wang" #개성, 마포 왕씨
 	culture = seoul
 	religion = koreanist
 }
-
-
-
-
+4000602 = {
+	name = "San" #개성 산씨
+	culture = hwanghae
+	religion = gaian
+}
+4000603 = {
+	name = "Deul" #개성 들씨
+	culture = hwanghae
+	religion = gaian
+}
+4000604 = {
+	name = "Ok" #개성 옥씨
+	culture = hwanghae
+	religion = gaian
+}
+4000605 = {
+	name = "Man" #개성 만씨
+	culture = hwanghae
+	religion = gaian
+}
+4000606 = {
+	name = "Ha" #평남 하씨
+	culture = pyongnam
+	religion = juche
+}
+4000607 = {
+	name = "Nae" #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+}
+4000608 = {
+	name = "Lee" #개성 이씨
+	culture = hwanghae
+	religion = cheondo
+}
+4000609 = {
+	name = "In" # 백령 인씨
+	culture = hwanghae
+	religion = koreanist
+}
+4000610 = {
+	name = "Jeon" #개성 전씨
+	culture = hwanghae
+	religion = koreanist
+}
 #여기서부터 부산

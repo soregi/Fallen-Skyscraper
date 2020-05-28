@@ -1,4 +1,4 @@
 2394.7.21 = {
-	liege = k_andong
+	liege = d_yeongju
 	holder = 1941
 }
