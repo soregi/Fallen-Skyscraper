@@ -1,0 +1,72 @@
+1927 = {
+	name = "Eungdae"
+	dynasty = 4001901 # 안동김씨
+	culture = yeongnam
+	religion = confucian
+	2412.10.12 = {
+		birth = yes
+	}
+}
+1935 = {
+	name = "Giltaek"
+	dynasty = 4001902 # 안동장씨
+	culture = yeongnam
+	religion = confucian
+	2390.1.7 = {
+		birth = yes
+	}
+}
+1937 = {
+	name = "Taekwoo"
+	dynasty = 4001903 # 안동권씨
+	culture = yeongnam
+	religion = confucian
+	2375.2.4 = {
+		birth = yes
+	}
+}
+1941 = {
+	name = "Soogeun"
+	dynasty = 4001904 # 진성이씨
+	culture = yeongnam
+	religion = confucian
+	2378.1.30 = {
+		birth = yes
+	}
+}
+1945 = {
+	name = "Jehyun"
+	dynasty = 4001905 # 풍산류씨
+	culture = yeongnam
+	religion = confucian
+	2370.4.12 = {
+		birth = yes
+	}
+}
+1949 = {
+	name = "Chitaek"
+	dynasty = 4001906 # 의성김씨
+	culture = yeongnam
+	religion = confucian
+	2380.1.2 = {
+		birth = yes
+	}
+}
+1954 = {
+	name = "Woonjae"
+	dynasty = 4001907 # 여강이씨
+	culture = yeongnam
+	religion = confucian
+	2369.2.3 = {
+		birth = yes
+	}
+}
+1960 = {
+	name = "Youngil"
+	dynasty = 4001908 # 봉화금씨
+	culture = yeongnam
+	religion = confucian
+	2404.6.16 = {
+		birth = yes
+	}
+}

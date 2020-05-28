@@ -1,0 +1,40 @@
+4001901 = {
+	name = "Kim" #안동김씨
+	culture =  yeongnam
+	religion = confucian
+}
+4001902 = {
+	name = "Jang" #안동장씨
+	culture =  yeongnam
+	religion = confucian
+}
+4001903 = {
+	name = "Kwon" #안동권씨
+	culture =  yeongnam
+	religion = confucian
+}
+4001904 = {
+	name = "Lee" #진성이씨
+	culture =  yeongnam
+	religion = confucian
+}
+4001905 = {
+	name = "Ryu" #풍산류씨
+	culture =  yeongnam
+	religion = confucian
+}
+4001906 = {
+	name = "Kim" #의성김씨
+	culture =  yeongnam
+	religion = confucian
+}
+4001907 = {
+	name = "Lee" #여강이씨
+	culture =  yeongnam
+	religion = confucian
+}
+4001908 = {
+	name = "Geum" #봉화금씨
+	culture =  yeongnam
+	religion = confucian
+}

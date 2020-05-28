@@ -1,0 +1,4 @@
+2438.11.24 = {
+	liege = k_andong
+	holder = 1960
+}
