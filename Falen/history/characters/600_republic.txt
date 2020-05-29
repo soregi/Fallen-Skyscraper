@@ -1,0 +1,224 @@
+601 = {
+	name = "Seonwoo"
+	dynasty = 4000601 #왕가
+	culture = seoul
+	religion = koreanist
+	diplomacy = 12
+	martial = 5
+	stewardship = 15
+	intrigue = 2
+	learning = 10
+	trait = midas_touched
+	trait = sympathy_pagans
+	trait = honest
+	trait = kind
+	trait = just
+	trait = charitable
+	father = 2051
+	give_nickname = nick_opened_the_sky
+	2210.9.18 = {
+		birth = yes
+	}
+	2232.2.21 = {
+		add_spouse = 623
+	}
+	2273.1.20 = {
+	death = yes
+	}
+}
+602 = {
+	name = "Sieon"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = flamboyant_schemer
+	trait = sympathy_pagans
+	trait = fair
+	trait = content
+	trait = gluttonous 
+	father = 601
+	mother = 623
+	2234.3.19 = {
+		birth = yes
+	}
+	2291.7.6 = {
+	death = yes
+	}
+}
+603 = {
+	name = "Inpyeong"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = misguided_warrior
+	trait = fair
+	trait = chaste
+	trait = slothful
+	father = 602
+	2257.4.28 = {
+		birth = yes
+	}
+	2283.9.22 = {
+		add_spouse = 665
+	}
+	2304.11.9 = {
+	death = yes
+	}
+}
+604 = {
+	name = "Yugun"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = scholarly_theologian
+	trait = fair
+	trait = feeble
+	trait = envious
+	father = 603
+	mother = 665
+	2286.5.11 = {
+		birth = yes
+	}
+	2307.2.6 = {
+	death = {death_reason = death_trait}
+	}
+}
+605 = {
+	name = "Daeheung"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = underhanded_rogue
+	trait = gregarious
+	trait = ambitious 
+	father = 603
+	mother = 665
+	2289.1.13 = {
+		birth = yes
+	}
+	2334.10.5 = {
+	death = yes
+	}
+}
+606 = {
+	name = "Yeokgun"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = charismatic_negotiator
+	trait = arbitrary
+	trait = diligent
+	trait = honest
+	father = 605
+	2308.12.16 = {
+		birth = yes
+	}
+	2369.3.10 = {
+	death = yes
+	}
+}
+607 = {
+	name = "Kyungmyung"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = underhanded_rogue
+	trait = chaste
+	father = 605
+	2309.8.13 = {
+		birth = yes
+	}
+	2327.1.3 = {
+		add_spouse = 679
+	}
+	2360.8.14 = {
+	death = yes
+	}
+}
+608 = {
+	name = "Myungbok"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = indulgent_wastrel
+	trait = charitable
+	trait = proud
+	father = 606
+	2332.4.18 = {
+		birth = yes
+	}
+	2376.1.10 = {
+	death = yes
+	}
+}
+609 = {
+	name = "Gapsu"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = flamboyant_schemer
+	trait = gluttonous
+	trait = zealous
+	father = 608
+	2351.12.4 = {
+		birth = yes
+	}
+	2409.7.26 = {
+	death = yes
+	}
+}
+610 = {
+	name = "Cheontan"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = scholarly_theologian
+	trait = chaste
+	trait = scholar
+	father = 609
+	2385.6.2 = {
+		birth = yes
+	}
+	2438.1.17 = {
+	death = yes
+	}
+}
+611 = {
+	name = "Jimyung"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	trait = thrifty_clerk
+	trait = charitable
+	trait = temperate
+	trait = wroth
+	father = 610
+	2413.9.25 = {
+		birth = yes
+	}
+}
+612 = {
+	name = "Woonseon"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = koreanist
+	intrigue = 13
+	trait = intricate_webweaver
+	trait = shrewd
+	trait = temperate
+	trait = patient
+	trait = content
+	father = 610
+	2419.11.15 = {
+		birth = yes
+	}
+}
+
+
+
+
+
+
+
+
+

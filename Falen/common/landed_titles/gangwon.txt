@@ -139,6 +139,13 @@ k_gangwon = {
 
 		c_kangneng = {
 			color = { 45 90 0 }
+			b_kangneng = {}
+			b_ponam_kangneng = {}
+			b_seongdeok_kangneng = {}
+			b_noam_kangneng = {}
+			b_jumungin_kangneng = {}
+			b_seongsan_kangneng = {}
+			b_okgye_kangneng = {}
 		}
 		c_yangyang = {
 			color = { 0 170 0 }
@@ -208,6 +215,13 @@ k_gangwon = {
 		}
 		c_cheongpyeong = {
 			color = { 144 63 0 }
+			b_cheongpyeong = {}
+			b_goseong_cheongpyeong = {}
+			b_daeseong_cheongpyeong = {}
+			b_simhoe_cheongpyeong = {}
+			b_sangcheon_cheongpyeong = {}
+			b_hacheon_cheongpyeong = {}
+			b_homyeong_cheongpyeong = {}
 		}
 	}
 	d_chuncheon = {
@@ -217,18 +231,53 @@ k_gangwon = {
 
 		c_chuncheon = {
 			color = { 198 200 37 }
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
 		}
 		c_yanggu = {
 			color = { 0 255 0 }
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
 		}
 		c_gapyeong = {
 			color = { 70 0 0 }
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
 		}
 		c_hwacheon = {
 			color = { 0 150 0 }
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
 		}
 		c_cheorwon = {
 			color = { 0 100 0 }
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
+			#b_
 		}
 	}
 	d_pyeonggang = {
