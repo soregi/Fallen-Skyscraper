@@ -630,7 +630,6 @@
 	culture = hwanghae
 	religion = gaian
 	trait = thrifty_clerk
-	trait = wounded
 	trait = incapable
 	father = 648
 	mother = 653
@@ -644,8 +643,6 @@
 	culture = hwanghae
 	religion = gaian
 	trait = naive_appeaser
-	trait = wounded
-	trait = incapable
 	father = 648
 	mother = 655
 	2419.3.9 = {
@@ -690,5 +687,304 @@
 		birth = yes
 	}
 }
-
-
+#내씨
+661 = {
+	name = "Kigin"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = mechanist
+	trait = tough_soldier
+	trait = content
+	2206.2.23 = {
+		birth = yes
+	}
+	2268.12.8 = {
+	death = yes
+	}
+}
+662 = {
+	name = "Taemin"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 661
+	trait = indulgent_wastrel
+	2231.5.27 = {
+		birth = yes
+	}
+	2279.3.2 = {
+	death = yes
+	}
+}
+663 = {
+	name = "Jeonsu"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 662
+	trait = grey_eminence
+	trait = ambitious
+	trait = greedy
+	trait = brave
+	2248.7.12 = {
+		birth = yes
+	}
+	2341.9.30 = {
+	death = yes
+	}
+}
+664 = {
+	name = "Minjin"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 663
+	trait = amateurish_plotter
+	trait = proud
+	2274.2.25 = {
+		birth = yes
+	}
+	2342.3.8 = {
+	death = yes
+	}
+}
+665 = {
+	name = "Haeeun"
+	female = yes
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 663
+	trait = thrifty_clerk
+	2265.9.1 = {
+		birth = yes
+	}
+	2309.8.31 = {
+	death = yes
+	}
+}
+666 = {
+	name = "Jinwoo"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 664
+	trait = underhanded_rogue
+	2299.12.31 = {
+		birth = yes
+	}
+	2358.6.22 = {
+	death = yes
+	}
+}
+667 = {
+	name = "Doin"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 666
+	trait = indulgent_wastrel
+	2314.5.18 = {
+		birth = yes
+	}
+	2388.12.3 = {
+	death = yes
+	}
+}
+668 = {
+	name = "Seon"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 667
+	trait = martial_cleric
+	2342.8.10 = {
+		birth = yes
+	}
+	2401.7.14 = {
+	death = yes
+	}
+}
+669 = {
+	name = "Woocheon"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 668
+	trait = skilled_tactician
+	trait = content
+	2376.11.24 = {
+		birth = yes
+	}
+	2430.1.5 = {
+	death = yes
+	}
+}
+670 = {
+	name = "Jinbu"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 669
+	trait = fortune_builder
+	trait = kind
+	2407.4.16 = {
+		birth = yes
+	}
+}
+671 = {
+	name = "Jinsa"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 670
+	trait = fortune_builder
+	trait = kind
+	2431.6.30 = {
+		birth = yes
+	}
+}
+672 = {
+	name = "Si"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 668
+	trait = tough_soldier
+	trait = craven
+	trait = chaste
+	trait = shy
+	2371.4.5 = {
+		birth = yes
+	}
+	2418.3.14 = {
+	death = yes
+	}
+}
+673 = {
+	name = "Dongmin"
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 672
+	trait = skilled_tactician
+	trait = wroth
+	trait = heavy_infantry_leader 
+	2392.10.19 = {
+		birth = yes
+	}
+}
+674 = {
+	name = "Seyun"
+	female = yes
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 670
+	trait = fortune_builder
+	trait = chaste
+	trait = charitable
+	trait = brave
+	2426.3.17 = {
+		birth = yes
+	}
+}
+675 = {
+	name = "Jiyun"
+	female = yes
+	dynasty = 4000607 #개성 내씨
+	culture = hwanghae
+	religion = koreanist
+	father = 670
+	trait = charismatic_negotiator
+	trait = gregarious
+	trait = kind
+	trait = zealous
+	2427.9.12 = {
+		birth = yes
+	}
+}
+#이씨
+677 = {
+	name = "Sinhan"
+	dynasty = 4000608 #이씨
+	culture = hwanghae
+	religion = cheondo
+	trait = charismatic_negotiator
+	trait = zealous
+	2421.8.1 = {
+		birth = yes
+	}
+}
+#이+전씨
+679 = {
+	name = "Jueun"
+	female = yes
+	dynasty = 4000609 #백령 인씨
+	culture = hwanghae
+	religion = koreanist
+	father = 621
+	trait = skilled_tactician
+	trait = lustful
+	2304.5.3 = {
+		birth = yes
+	}
+	2368.4.30 = {
+	death = yes
+	}
+}
+681 = {
+	name = "Semin"
+	dynasty = 4000610 #연평 전씨
+	culture = hwanghae
+	religion = koreanist
+	father = 607
+	mother = 679
+	trait = thrifty_clerk
+	2329.3.26 = {
+		birth = yes
+	}
+	2376.8.7 = {
+	death = yes
+	}
+}
+682 = {
+	name = "Sinwoo"
+	dynasty = 4000610 #연평 전씨
+	culture = hwanghae
+	religion = koreanist
+	father = 681
+	trait = underhanded_rogue
+	2357.9.16 = {
+		birth = yes
+	}
+	2413.4.11 = {
+	death = yes
+	}
+}
+683 = {
+	name = "Junsik"
+	dynasty = 4000610 #연평 전씨
+	culture = hwanghae
+	religion = koreanist
+	father = 682
+	trait = detached_priest
+	trait = shrewd
+	trait = shy
+	2398.12.7 = {
+		birth = yes
+	}
+}
+684 = {
+	name = "Susoon"
+	dynasty = 4000610 #연평 전씨
+	culture = hwanghae
+	religion = koreanist
+	father = 682
+	trait = flamboyant_schemer
+	trait = content
+	trait = gluttonous
+	2400.1.1 = {
+		birth = yes
+	}
+}

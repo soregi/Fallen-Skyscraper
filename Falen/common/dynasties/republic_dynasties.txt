@@ -121,7 +121,7 @@
 	religion = koreanist
 }
 4000610 = {
-	name = "Jeon" #개성 전씨
+	name = "Jeon" #백령 전씨
 	culture = hwanghae
 	religion = koreanist
 }
