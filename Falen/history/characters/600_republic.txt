@@ -579,7 +579,7 @@
 	religion = gaian
 	give_nickname = nick_yakanja
 	diplomacy = 8
-	martial = 8
+	martial = 4
 	stewardship = 4
 	intrigue = 5
 	learning = 6
