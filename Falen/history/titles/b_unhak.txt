@@ -1,0 +1,36 @@
+2231.5.3 = {
+	liege = c_kaesong
+	holder = 661
+}
+2268.12.8 = {
+	liege = c_kaesong
+	holder = 662
+}
+2279.3.2 = {
+	liege = c_kaesong
+	holder = 663
+}
+2341.9.30 = {
+	liege = c_kaesong
+	holder = 664
+}
+2342.3.8 = {
+	liege = c_kaesong
+	holder = 666
+}
+2358.6.22 = {
+	liege = c_kaesong
+	holder = 667
+}
+2388.12.3 = {
+	liege = c_kaesong
+	holder = 668
+}
+2401.7.14 = {
+	liege = c_kaesong
+	holder = 669
+}
+2430.1.5 = {
+	liege = c_kaesong
+	holder = 670
+}

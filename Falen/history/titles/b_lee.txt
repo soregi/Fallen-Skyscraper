@@ -1,0 +1,4 @@
+2439.8.16 = {
+	holding_dynasty = 4000608
+	holder = 677
+}

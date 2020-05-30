@@ -1,0 +1,15 @@
+2309.10.23 = {
+	holder = 679
+}
+2368.4.30 = {
+	liege = k_republic_of_kasong
+	holder = 681
+}
+2376.8.7 = {
+	liege = k_republic_of_kasong
+	holder = 682
+}
+2413.4.11 = {
+	liege = k_republic_of_kasong
+	holder = 683
+}

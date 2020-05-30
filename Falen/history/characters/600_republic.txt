@@ -588,6 +588,7 @@
 	trait = brave
 	trait = rough_terrain_leader
 	trait = mountain_terrain_leader
+	trait = holy_warrior
 	trait = ambitious
 	trait = patient
 	trait = zealous
@@ -614,6 +615,9 @@
 	}
 	2428.12.19 = {
 	add_lover = 655
+	}
+	2230.2.21 = {
+	add_spouse = 655
 	}
 }
 651 = {

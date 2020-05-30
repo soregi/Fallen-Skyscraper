@@ -149,4 +149,28 @@ d_yeongju = {
 		always = yes
 	}
 }
-
+######################################
+# 상인공화국 가문들의 자리. 이 아래에 가문말고 넣지말것  #
+######################################
+#개성
+b_wang = {
+	culture = hwanghae
+	religion = koreanist
+}
+b_san = {
+	culture = hwanghae
+	religion = koreanist
+}
+b_nae = {
+	culture = hwanghae
+	religion = koreanist
+}
+b_lee = {
+	culture = hwanghae
+	religion = koreanist
+}
+b_jeon = {
+	culture = hwanghae
+	religion = koreanist
+}
+#부산

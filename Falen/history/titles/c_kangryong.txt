@@ -1,0 +1,28 @@
+2314.8.18 = {
+	liege = k_republic_of_kasong
+	holder = 663
+}
+2341.9.30 = {
+	liege = k_republic_of_kasong
+	holder = 664
+}
+2342.3.8 = {
+	liege = k_republic_of_kasong
+	holder = 666
+}
+2358.6.22 = {
+	liege = k_republic_of_kasong
+	holder = 667
+}
+2388.12.3 = {
+	liege = k_republic_of_kasong
+	holder = 668
+}
+2401.7.14 = {
+	liege = k_republic_of_kasong
+	holder = 672
+}
+2418.3.14 = {
+	liege = k_republic_of_kasong
+	holder = 673
+}
