@@ -226,6 +226,12 @@
 	2155.6.5 = {
 		birth = yes
 	}
+	2219.6.5 = {
+		create_bloodline = {
+			type = gaian_blood
+			has_dlc = "Holy Fury"
+		}
+	}
 	2239.5.12 = {
 	death = yes
 	}
@@ -579,7 +585,7 @@
 	religion = gaian
 	give_nickname = nick_yakanja
 	diplomacy = 8
-	martial = 4
+	martial = 2
 	stewardship = 4
 	intrigue = 5
 	learning = 6

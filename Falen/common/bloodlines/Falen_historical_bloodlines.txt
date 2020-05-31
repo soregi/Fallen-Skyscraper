@@ -61,6 +61,7 @@ sejong_the_great = {
 	just_opinion = 5
 	allow_bastards = yes
 	learning = 2
+	inheritance = patrilineal
 	picture = GFX_bloodlines_symbol_carolingian #이것도 뭔가로 바꾸고
 	flags = { historical_bloodline }
 }
@@ -77,6 +78,16 @@ mother_of_nation_blood = { # 인공 국모 혈통
 	monthly_character_prestige = 0.1
 	town_opinion = 5
 	#선거에 유리하게 하라는데 뭐 선거제도 안만들었는데 유리는 무슨
+	inheritance = patrilineal
+	allow_bastards = yes
+	picture = GFX_bloodlines_symbol_carolingian #뭔가로 바꾸기
+	flags = { historical_bloodline }
+}
+gaian_blood = { # 산천주 혈통
+	monthly_character_prestige = 0.2
+	gaian_opinion = 5
+	vassal_opinion = 5
+	light_infantry_morale = 0.05
 	inheritance = patrilineal
 	allow_bastards = yes
 	picture = GFX_bloodlines_symbol_carolingian #뭔가로 바꾸기
