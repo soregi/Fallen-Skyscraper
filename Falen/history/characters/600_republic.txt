@@ -925,7 +925,6 @@
 	dynasty = 4000609 #백령 인씨
 	culture = hwanghae
 	religion = koreanist
-	father = 621
 	trait = skilled_tactician
 	trait = lustful
 	2304.5.3 = {
