@@ -405,6 +405,7 @@
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
 	religion = koreanist
+	father = 888
 	trait = mastermind_theologian
 	trait = ancient
 	trait = fair

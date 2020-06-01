@@ -93,3 +93,13 @@ gaian_blood = { # 산천주 혈통
 	picture = GFX_bloodlines_symbol_carolingian #뭔가로 바꾸기
 	flags = { historical_bloodline }
 }
+dragon_of_dharma = { #왕건 혈통
+	vassal_opinion = 5
+	kind_opinion = 3
+	charitable_opinion = 2
+	monthly_character_prestige = 0.1
+	inheritance = patrilineal
+	allow_bastards = yes
+	picture = GFX_bloodlines_symbol_carolingian #용 gfx에 넣고 바꾸기
+	flags = { historical_bloodline }
+}
