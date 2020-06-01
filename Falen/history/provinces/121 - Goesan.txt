@@ -6,6 +6,10 @@ title = c_goesan
 # Settlements
 max_settlements = 4
 
+b_goesan = castle
+b_gammul_goesan = city
+b_jangyeon_goesan = temple
+
 # Misc
 culture = hoseo
 religion = mahayana

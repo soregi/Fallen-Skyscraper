@@ -6,6 +6,10 @@ title = c_gyuam
 # Settlements
 max_settlements = 5
 
+b_gyuam = castle
+b_bansan_gyuam = city
+b_hapsong_gyuam = temple
+
 # Misc
 culture = hoseo
 religion = protestant

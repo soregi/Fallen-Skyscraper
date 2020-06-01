@@ -6,6 +6,10 @@ title = c_danyang
 # Settlements
 max_settlements = 5
 
+b_danyang = castle
+b_maepo_danyang = city
+b_gagok_danyang = temple
+
 # Misc
 culture = hoseo
 religion = confucian

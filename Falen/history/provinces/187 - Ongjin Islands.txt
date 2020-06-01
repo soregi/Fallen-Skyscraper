@@ -6,6 +6,8 @@ title = c_ongjin_islands
 # Settlements
 max_settlements = 2
 
+b_jangbong = castle
+
 # Misc
 culture = gyeonggi
 religion = koreanist

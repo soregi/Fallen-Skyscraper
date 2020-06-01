@@ -6,6 +6,11 @@ title = c_cheongju
 # Settlements
 max_settlements = 7
 
+b_cheongju = castle
+b_seowon_cheongju = city
+b_sangdang_cheongju = temple
+b_cheongwon_cheongju = castle
+
 # Misc
 culture = hoseo
 religion = mechanist

@@ -6,6 +6,11 @@ title = c_okcheon
 # Settlements
 max_settlements = 4
 
+b_okcheon_okcheon = castle
+b_annam_okcheon = castle
+b_gunbuk_okcheon = temple
+b_annae_okcheon = city
+
 # Misc
 culture = hoseo
 religion = mu_pagan

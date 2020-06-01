@@ -6,6 +6,10 @@ title = c_jochiwon
 # Settlements
 max_settlements = 4
 
+b_jochiwon = castle
+b_beonam_jochiwon = city
+b_juklim_jochiwon = temple
+
 # Misc
 culture = hoseo
 religion = mechanist

@@ -6,6 +6,10 @@ title = c_dangjin
 # Settlements
 max_settlements = 5
 
+b_dangjin = castle
+b_songak_dangjin = city
+b_myeoncheon_dangjin = temple
+
 # Misc
 culture = hoseo
 religion = mechanist

@@ -6,6 +6,10 @@ title = c_cheonan
 # Settlements
 max_settlements = 5
 
+b_cheonan = castle
+b_seongjeong_cheonan = city
+b_ssangyong_cheonan = temple
+
 # Misc
 culture = hoseo
 religion = mechanist

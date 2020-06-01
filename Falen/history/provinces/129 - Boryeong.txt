@@ -6,6 +6,10 @@ title = c_boryeong
 # Settlements
 max_settlements = 5
 
+b_boryeong = castle
+b_daecheon_boryeong = city
+b_jugyo_boryeong = temple
+
 # Misc
 culture = hoseo
 religion = protestant

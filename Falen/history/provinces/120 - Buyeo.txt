@@ -6,6 +6,10 @@ title = c_buyeo
 # Settlements
 max_settlements = 4
 
+b_buyeo = castle
+b_gua_buyeo = city
+b_ssangbuk_buyeo = temple
+
 # Misc
 culture = hoseo
 religion = protestant

@@ -6,6 +6,10 @@ title = c_sejong
 # Settlements
 max_settlements = 3
 
+b_sejong = castle
+b_dodam_sejong = city
+b_areum_sejong = temple
+
 # Misc
 culture = hoseo
 religion = koreanist

@@ -6,6 +6,10 @@ title = c_yesan
 # Settlements
 max_settlements = 5
 
+b_yesan = castle
+b_samgyo_yesan = city
+b_imseong_yesan = temple
+
 # Misc
 culture = hoseo
 religion = protestant

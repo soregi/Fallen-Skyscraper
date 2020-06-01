@@ -6,6 +6,9 @@ title = c_jecheon
 # Settlements
 max_settlements = 4
 
+b_jecheon = castle
+b_namhyeon_jecheon = city
+
 # Misc
 culture = hoseo
 religion = confucian

@@ -6,6 +6,10 @@ title = c_gongju
 # Settlements
 max_settlements = 5
 
+b_gongju = castle
+b_junghak_gongju = city
+b_ungjin_gongju = temple
+
 # Misc
 culture = hoseo
 religion = protestant

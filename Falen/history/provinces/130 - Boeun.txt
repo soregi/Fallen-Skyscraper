@@ -6,6 +6,9 @@ title = c_boeun
 # Settlements
 max_settlements = 4
 
+b_boeun = castle
+b_maro_boeun = city
+
 # Misc
 culture = hoseo
 religion = mechanist

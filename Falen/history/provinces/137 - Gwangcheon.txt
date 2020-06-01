@@ -6,6 +6,10 @@ title = c_gwangcheon
 # Settlements
 max_settlements = 5
 
+b_gwangcheon = castle
+b_naejuk_gwangcheon = city
+b_damsan_gwangcheon = temple
+
 # Misc
 culture = hoseo
 religion = mechanist
