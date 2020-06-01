@@ -1,0 +1,45 @@
+4001801 = {
+	name = "Kim"
+	culture = yeongnam
+	religion = mahayana
+}
+4001802 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = mahayana
+}
+4001803 = {
+	name = "Park"
+	culture = yeongnam
+	religion = mahayana
+}
+4001804 = {
+	name = "Moon"
+	culture = honam
+	religion = mahayana
+}
+4001805 = {
+	name = "Lim"
+	culture = yeongnam
+	religion = mahayana
+}
+4001806 = {
+	name = "Ahn"
+	culture = yeongnam
+	religion = mahayana
+}
+4001807 = {
+	name = "Choi"
+	culture = yeongnam
+	religion = mahayana
+}
+4001808 = {
+	name = "Cho"
+	culture = yeongnam
+	religion = mahayana
+}
+4001809 = {
+	name = "Yeom"
+	culture = yeongnam
+	religion = mahayana
+}
