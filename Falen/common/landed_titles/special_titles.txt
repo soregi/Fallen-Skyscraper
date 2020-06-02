@@ -152,7 +152,10 @@ d_yeongju = {
 e_goryeo = {
 	color={ 191 138 105 }
 	color2={ 132 148 120 }
-	
+	title = "KING" #
+	title_female = "QUEEN"
+	foa = "KING_FOA"
+	title_prefix = KINGDOM_PREFIX
 	allow = {
 		always = yes
 	}
