@@ -23,7 +23,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 851
-	give_nickname = 
+	give_nickname = nick_hyejong
 	912.1.1.. = {
 		birth = yes
 	}
@@ -37,7 +37,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 851
-	give_nickname = 
+	give_nickname = nick_jeongjong
 	923.1.1 = {
 		birth = yes
 	}
@@ -51,7 +51,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 851
-	give_nickname = 
+	give_nickname = nick_gwangjong
 	925.1.1 = {
 		birth = yes
 	}
@@ -65,7 +65,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 854
-	give_nickname = 
+	give_nickname = nick_gyeongjong
 	955.11.9 = {
 		birth = yes
 	}
@@ -79,7 +79,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 885
-	give_nickname = 
+	give_nickname = nick_seongjong
 	961.1.15 = {
 		birth = yes
 	}
@@ -93,7 +93,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 855
-	give_nickname = 
+	give_nickname = nick_mokjong
 	980.7.5 = {
 		birth = yes
 	}
@@ -107,7 +107,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 886
-	give_nickname = 
+	give_nickname = nick_hyeonjong
 	992.8.1 = {
 		birth = yes
 	}
@@ -121,7 +121,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 858
-	give_nickname = 
+	give_nickname = nick_deokjong
 	1016.6.9 = {
 		birth = yes
 	}
@@ -135,7 +135,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 858
-	give_nickname = 
+	give_nickname = nick_jeongjong
 	1018.8.31 = {
 		birth = yes
 	}
@@ -149,7 +149,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 858
-	give_nickname = 
+	give_nickname = nick_munjong
 	1019.12.19 = {
 		birth = yes
 	}
@@ -163,7 +163,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 861
-	give_nickname = 
+	give_nickname = nick_sunjong
 	1047.12.28 = {
 		birth = yes
 	}
@@ -177,7 +177,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 861
-	give_nickname = 
+	give_nickname = nick_seonjong
 	1049.10.9 = {
 		birth = yes
 	}
@@ -191,7 +191,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 863
-	give_nickname = 
+	give_nickname = nick_heonjong
 	1084.8.1 = {
 		birth = yes
 	}
@@ -205,7 +205,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 861
-	give_nickname = 
+	give_nickname = nick_sukjong
 	1054.9.2 = {
 		birth = yes
 	}
@@ -219,7 +219,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 865
-	give_nickname = 
+	give_nickname = nick_yejong
 	1079.2.11 = {
 		birth = yes
 	}
@@ -233,7 +233,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 866
-	give_nickname = 
+	give_nickname = nick_injong
 	1109.10.29 = {
 		birth = yes
 	}
@@ -247,7 +247,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 867
-	give_nickname = 
+	give_nickname = nick_uijong
 	1127.5.23 = {
 		birth = yes
 	}
@@ -261,7 +261,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 867
-	give_nickname = 
+	give_nickname = nick_myeongjong
 	1131.11.8 = {
 		birth = yes
 	}
@@ -275,7 +275,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 867
-	give_nickname = 
+	give_nickname = nick_sinjong
 	1144.8.11 = {
 		birth = yes
 	}
@@ -289,7 +289,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 870
-	give_nickname = 
+	give_nickname = nick_huijong
 	1181.6.21 = {
 		birth = yes
 	}
@@ -303,7 +303,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 869
-	give_nickname = 
+	give_nickname = nick_gangjong
 	1152.5.10 = {
 		birth = yes
 	}
@@ -317,7 +317,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 872
-	give_nickname = 
+	give_nickname = nick_gojong
 	1192.2.3 = {
 		birth = yes
 	}
@@ -331,7 +331,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 873
-	give_nickname = 
+	give_nickname = nick_wonjong
 	1219.4.5 = {
 		birth = yes
 	}
@@ -345,7 +345,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 874
-	give_nickname = 
+	give_nickname = nick_chungyeol
 	1236.4.3 = {
 		birth = yes
 	}
@@ -359,7 +359,7 @@
 	culture = mongol
 	religion = mahayana
 	father = 875
-	give_nickname = 
+	give_nickname = nick_chungseon
 	1275.10.20 = {
 		birth = yes
 	}
@@ -373,7 +373,7 @@
 	culture = mongol
 	religion = mahayana
 	father = 876
-	give_nickname = 
+	give_nickname = nick_chungsuk
 	1294.7.30 = {
 		birth = yes
 	}
@@ -387,7 +387,7 @@
 	culture = mongol
 	religion = mahayana
 	father = 877
-	give_nickname = 
+	give_nickname = nick_chunghye
 	1315.2.22 = {
 		birth = yes
 	}
@@ -401,7 +401,7 @@
 	culture = mongol
 	religion = mahayana
 	father = 878
-	give_nickname = 
+	give_nickname = nick_chungmok
 	1337.5.15 = {
 		birth = yes
 	}
@@ -415,7 +415,7 @@
 	culture = mongol
 	religion = mahayana
 	father = 878
-	give_nickname = 
+	give_nickname = nick_chungjeong
 	1338.1.9 = {
 		birth = yes
 	}
@@ -429,7 +429,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 877
-	give_nickname = 
+	give_nickname = nick_gongmin
 	1330.5.23 = {
 		birth = yes
 	}
@@ -443,7 +443,6 @@
 	culture = old_korean
 	religion = mahayana
 	father = 881
-	give_nickname = 
 	1365.7.25 = {
 		birth = yes
 	}
@@ -457,7 +456,6 @@
 	culture = old_korean
 	religion = mahayana
 	father = 882
-	give_nickname = 
 	1380.9.6 = {
 		birth = yes
 	}
@@ -471,7 +469,7 @@
 	culture = old_korean
 	religion = mahayana
 	father = 887
-	give_nickname = 
+	give_nickname = nick_gongyang
 	1345.3.9 = {
 		birth = yes
 	}
@@ -485,7 +483,6 @@
 	culture = old_korean
 	religion = mahayana
 	father = 851
-	give_nickname = 
 	936.1.1 = {
 		birth = yes
 	}
@@ -499,7 +496,6 @@
 	culture = old_korean
 	religion = mahayana
 	father = 851
-	give_nickname = 
 	940.1.1 = {
 		birth = yes
 	}
@@ -526,7 +522,6 @@
 	culture = old_korean
 	religion = mahayana
 	father = 874
-	give_nickname = 
 	1270.1.1 = {
 		birth = yes
 	}
