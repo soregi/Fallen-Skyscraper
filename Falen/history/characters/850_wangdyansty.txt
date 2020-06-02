@@ -504,12 +504,12 @@
 	}
 }
 887 = {
-	name = "Seo,In,Yeong,bun,Yu,kyun"
+	name = "Seo,In,Yeong,bun,Yu,Kyun"
 	dynasty = 4000601 # 개성왕씨
 	culture = old_korean
 	religion = mahayana
 	father = 870
-	1090.1.1 = {
+	1190.1.1 = {
 		birth = yes
 	}
 	1400.1.1 = {
