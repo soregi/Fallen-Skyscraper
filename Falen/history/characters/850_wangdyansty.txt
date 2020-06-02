@@ -508,6 +508,7 @@
 	dynasty = 4000601 # 개성왕씨
 	culture = old_korean
 	religion = mahayana
+	occluded = yes
 	father = 870
 	1190.1.1 = {
 		birth = yes
@@ -521,6 +522,7 @@
 	dynasty = 4000601 # 개성왕씨
 	culture = old_korean
 	religion = mahayana
+	occluded = yes
 	father = 874
 	1270.1.1 = {
 		birth = yes
