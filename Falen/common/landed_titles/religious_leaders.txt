@@ -15,3 +15,58 @@ e_north_korea = { # North Korea, or Democratic People's Republic of Korea
 }
 
 # 본 모드팀은 국가보안법을 준수함
+d_maitreya = { #미륵종
+	color={ 110 178 65 }
+	color2={ 132 148 110 }
+	short_name = yes
+
+    # Always exists
+    #landless = yes
+
+    # Controls a religion
+    controls_religion = maitreya
+
+    religion = maitreya
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    dynasty_title_names = no
+}
+d_bailian = { #백련교
+	color={ 10 178 65 }
+	color2={ 132 148 100 }
+	short_name = yes
+
+    # Always exists
+    #landless = yes
+
+    # Controls a religion
+    controls_religion = bailian
+
+    religion = bailian
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    dynasty_title_names = no
+}
+d_cheondo = {
+	color = { 188 166 145 }
+	short_name = yes
+	title = "KYORYONG"
+	title_female = "KYORYONG"
+	foa = "KYORYONG_FOA"
+	
+    # Always exists
+    #landless = yes
+
+    # Controls a religion
+    controls_religion = cheondo
+
+    religion = cheondo
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    dynasty_title_names = no

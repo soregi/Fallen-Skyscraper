@@ -2,34 +2,27 @@
 k_civil_seoul = {
 	color={ 130 180 240 }
 	color2={ 255 255 20 }
-	
 	allow = {
 		always = no
 	}
-	
 	culture = seoul
 	religion = koreanist
 }
 k_mil_seoul = {
 	color = { 240 17 17 }
 	color2 = { 255 20 20 }
-	
 	allow = {
 		always = no
 	}
-	
 	culture = seoul
 	religion = koreanist
 }
 #인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을, k_pohang, d_gaian_union, k_republic_of_kasong, e_goryeo, k_people's_republic_of_korea ,d_ingonggun ,d_kyoryung, k_andong 을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
-#위와 같은 이유로 k_bulgukto, d_maitreya, d_bailian 추가, 뒤의 2개는 종교지도자인듯 한데, 일단 일반적인 명목공작으로 만듬
+#위와 같은 이유로 k_bulgukto, 뒤의 2개는 종교지도자인듯 한데, 일단 일반적인 명목공작으로 만듬
 k_gaya = {
 	color={ 211 126 65 }
 	color2={ 258 258 28 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 e_joseon = {
 	color={ 200 158 70 }
@@ -38,9 +31,7 @@ e_joseon = {
 	title_female = "QUEEN"
 	foa = "KING_FOA"
 	title_prefix = KINGDOM_PREFIX
-	allow = {
-		always = yes
-	}
+	
 }
 e_south_korea = {
 	color = { 50 25 223 }
@@ -56,98 +47,42 @@ e_south_korea = {
 k_bulgukto = {
 	color={ 210 178 65 }
 	color2={ 132 148 120 }
-	
-	allow = {
-		always = yes
-	}
-}
-d_maitreya = { #미륵종
-	color={ 110 178 65 }
-	color2={ 132 148 110 }
-	
-	allow = {
-		always = yes
-	}
-}
-d_bailian = { #백련교
-	color={ 10 178 65 }
-	color2={ 132 148 100 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 k_pohang = { #포항왕국
 	color={ 210 250 242 }
 	color2={ 25 32 65 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 d_gaian_union = { #자연인 연맹
 	color={ 34 220 82 }
 	color2={ 25 32 60 }
-	
-	allow = {
-		always = yes
-	}
-}
-k_republic_of_kasong = { #개성 공화국
-	color={ 80 140 240 }
-	color2={ 255 250 20 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 k_people's_republic_of_korea = { #조선인민공화국
 	color={ 230 40 190 }
 	color2={ 250 250 20 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 d_ingonggun = { #인공군
 	color={ 120 42 190 }
 	color2={ 250 251 20 }
-	
-	allow = {
-		always = yes
-	}
-}
-d_kyoryung = { #교령
-	color={ 30 80 190 }
-	color2={ 250 255 20 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 k_andong = {
 	color={ 200 198 105 }
 	color2={ 132 148 120 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 d_cheongsong = {
 	color={ 120 198 105 }
 	color2={ 132 148 120 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 d_yeongju = {
 	color={ 190 198 105 }
 	color2={ 132 148 120 }
-	
-	allow = {
-		always = yes
-	}
+
 }
 e_goryeo = {
 	color={ 191 138 105 }
@@ -156,9 +91,7 @@ e_goryeo = {
 	title_female = "QUEEN"
 	foa = "KING_FOA"
 	title_prefix = KINGDOM_PREFIX
-	allow = {
-		always = yes
-	}
+	
 }
 ######################################
 # 상인공화국 가문들의 자리. 이 아래에 가문말고 넣지말것  #

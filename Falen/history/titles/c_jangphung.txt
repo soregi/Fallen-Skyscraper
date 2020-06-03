@@ -5,38 +5,38 @@
 	holder = 622
 }
 2242.2.22 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 622
 }
 2257.12.3 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 624
 }
 2273.1.31 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 625
 }
 2290.11.12 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 626
 }
 2338.1.10 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 627
 }
 2382.2.19 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 628
 }
 2394.11.4 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 629
 }
 2429.1.4 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 630
 }
 2430.6.15 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 631
 }

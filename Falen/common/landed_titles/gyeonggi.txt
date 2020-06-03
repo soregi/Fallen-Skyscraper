@@ -265,44 +265,6 @@ k_gyeonggi = {
 			b_ichon = {}
 		}
 	}
-	
-	d_kaesong = {
-		color = { 0 153 2 }
-
-		capital = 175 #개성
-
-		c_kaesong = {
-			color = { 150 50 0 }
-			b_kaesong = {}
-			b_goryeo = {}
-			b_unhak = {}
-			b_gwanhun = {}
-			b_boseon = {}
-			b_seonjuk = {}
-			b_samgeo = {}
-		}
-		c_kaephung = {
-			color = { 200 200 200 }
-			b_kaephung = {}
-			b_sorak = {}
-			b_cheongpyeong = {}
-			b_jojong = {}
-			b_deokyeon = {}
-			b_dodae = {}
-			b_gyeongban = {}
-		}
-		c_jangphung = {
-			color = { 150 10 50 }
-			b_jangphung = {}
-			b_ryohyon = {}
-			b_toksu = {}
-			b_hwagok = {}
-			b_haepyong = {}
-			b_shingwang = {}
-			b_munksong = {}
-		}
-	}
-	
 	d_uijeongbu = {
 		color = { 68 226 113 }
 
@@ -641,6 +603,48 @@ k_gyeonggi = {
 			b_samjeong = {}
 			b_yongseong = {}
 			b_seonghae = {}
+		}
+	}
+}
+k_kaesong = { #개성 공화국
+	color={ 42 122 187 }
+	
+	capital = 175
+	
+	d_kaesong = {
+		color = { 0 153 2 }
+
+		capital = 175 #개성
+
+		c_kaesong = {
+			color = { 150 50 0 }
+			b_kaesong = {}
+			b_goryeo = {}
+			b_unhak = {}
+			b_gwanhun = {}
+			b_boseon = {}
+			b_seonjuk = {}
+			b_samgeo = {}
+		}
+		c_kaephung = {
+			color = { 200 200 200 }
+			b_kaephung = {}
+			b_sorak = {}
+			b_cheongpyeong = {}
+			b_jojong = {}
+			b_deokyeon = {}
+			b_dodae = {}
+			b_gyeongban = {}
+		}
+		c_jangphung = {
+			color = { 150 10 50 }
+			b_jangphung = {}
+			b_ryohyon = {}
+			b_toksu = {}
+			b_hwagok = {}
+			b_haepyong = {}
+			b_shingwang = {}
+			b_munksong = {}
 		}
 	}
 }

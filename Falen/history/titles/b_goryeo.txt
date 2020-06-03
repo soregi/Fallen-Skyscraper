@@ -1,21 +1,20 @@
 2340.7.28 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 627
 }
 2382.2.19 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 628
 }
 2394.11.4 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 632
 }
 2408.3.12 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 633
 }
 2441.5.4 = {
-	liege = k_republic_of_kasong
+	liege = k_kaesong
 	holder = 634
 }
-
