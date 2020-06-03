@@ -6,6 +6,10 @@ title = c_gimje
 # Settlements
 max_settlements = 5
 
+b_gimje = castle
+b_geumgu = city
+b_yochon = temple
+
 # Misc
 culture = honam
 religion = protestant

@@ -573,7 +573,7 @@ e_sinan = {
 			}
 			c_gogun = {
 				color = { 204 102 66 }
-				b_gogun = 
+				b_gogun = {}
 				b_goseong_gogun = {}
 				b_geumgye_gogun = {}
 				b_naesan = {}

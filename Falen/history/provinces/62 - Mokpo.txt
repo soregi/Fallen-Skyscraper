@@ -6,6 +6,10 @@ title = c_mokpo
 # Settlements
 max_settlements = 5
 b_mokpo = castle
+b_hadang = city
+b_chukkyo = temple
+b_iro = city
+b_yeonsan = castle
 
 # Misc
 culture = honam

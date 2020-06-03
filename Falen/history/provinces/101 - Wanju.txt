@@ -6,6 +6,10 @@ title = c_wanju
 # Settlements
 max_settlements = 5
 
+b_wanju = castle
+b_bongdong = city
+b_samnye = temple
+
 # Misc
 culture = honam
 religion = protestant

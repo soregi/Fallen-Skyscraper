@@ -6,6 +6,10 @@ title = c_gochang
 # Settlements
 max_settlements = 5
 
+b_gochang = castle
+b_gosu_gochang = temple
+b_asan_gochang = city
+
 # Misc
 culture = honam
 religion = protestant

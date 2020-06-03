@@ -6,6 +6,9 @@ title = c_jindo
 # Settlements
 max_settlements = 4
 
+b_jindo = castle
+b_gunnae = city
+
 # Misc
 culture = honam
 religion = protestant

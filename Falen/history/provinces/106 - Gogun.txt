@@ -6,6 +6,10 @@ title = c_gogun
 # Settlements
 max_settlements = 5
 
+b_gogun = castle
+b_goseong_gogun = city
+b_geumgye_gogun = temple
+
 # Misc
 culture = honam
 religion = protestant

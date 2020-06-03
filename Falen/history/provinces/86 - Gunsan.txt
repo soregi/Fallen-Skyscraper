@@ -6,6 +6,11 @@ title = c_gunsan
 # Settlements
 max_settlements = 5
 
+b_gunsan = castle
+b_heungnam_gunsan = temple
+b_jochon = castle
+b_susong = city
+
 # Misc
 culture = honam
 religion = protestant

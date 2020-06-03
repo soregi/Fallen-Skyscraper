@@ -6,6 +6,10 @@ title = c_impi
 # Settlements
 max_settlements = 4
 
+b_impi = castle
+b_eumnae = city
+b_chwisan = temple
+
 # Misc
 culture = honam
 religion = protestant

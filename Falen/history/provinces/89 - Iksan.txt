@@ -6,6 +6,10 @@ title = c_iksan
 # Settlements
 max_settlements = 5
 
+b_iksan = castle
+b_mohyeon = temple
+b_yeongdeung_iksan = city
+
 # Misc
 culture = honam
 religion = protestant

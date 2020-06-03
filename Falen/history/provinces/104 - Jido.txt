@@ -8,6 +8,7 @@ max_settlements = 3
 
 b_jido = castle
 b_saok = temple
+b_seon = city
 
 # Misc
 culture = sinan
