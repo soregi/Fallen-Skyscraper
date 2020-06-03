@@ -79,6 +79,14 @@
 	name = "Wang" #개성, 마포 왕씨
 	culture = seoul
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 2
+		}
+		religion = catholic
+	}
 }
 4000602 = {
 	name = "San" #개성 산씨
