@@ -98,7 +98,9 @@
 		birth = yes
 	}
 	1009.3.2 = {
-		death = yes
+		death = {
+		death_reason = death_murder
+		}
 	}
 }
 858 = {
@@ -121,12 +123,13 @@
 	culture = old_korean
 	religion = mahayana
 	father = 858
+	trait = feeble
 	give_nickname = nick_deokjong
 	1016.6.9 = {
 		birth = yes
 	}
 	1034.10.31 = {
-		death = yes
+		death = {death_reason = death_trait}
 	}
 }
 860 = {
@@ -163,12 +166,14 @@
 	culture = old_korean
 	religion = mahayana
 	father = 861
+	trait = feeble
 	give_nickname = nick_sunjong
 	1047.12.28 = {
 		birth = yes
 	}
 	1083.12.5 = {
-		death = yes
+		death = {death_reason = death_trait}
+
 	}
 }
 863 = {
@@ -252,7 +257,9 @@
 		birth = yes
 	}
 	1173.11.7 = {
-		death = yes
+		death = {
+		death_reason = death_execution
+		}
 	}
 }
 869 = {
@@ -378,7 +385,9 @@
 		birth = yes
 	}
 	1339.5.3 = {
-		death = yes
+		death = {
+			death_reason = death_murder
+		}
 	}
 }
 878 = {
@@ -392,7 +401,9 @@
 		birth = yes
 	}
 	1344.1.30 = {
-		death = yes
+		death = {
+		death_reason = death_murder
+		}
 	}
 }
 879 = {
@@ -420,7 +431,9 @@
 		birth = yes
 	}
 	1352.3.23 = {
-		death = yes
+		death = {
+		death_reason = death_murder
+		}
 	}
 }
 881 = {
@@ -434,7 +447,9 @@
 		birth = yes
 	}
 	1374.10.27 = {
-		death = yes
+		death = {
+		death_reason = death_murder
+		}
 	}
 }
 882 = {
@@ -447,7 +462,10 @@
 		birth = yes
 	}
 	1389.12.31 = {
-		death = yes
+		death = {
+			death_reason = death_execution
+			killer = 801
+		}
 	}
 }
 883 = {
@@ -460,7 +478,10 @@
 		birth = yes
 	}
 	1389.12.31 = {
-		death = yes
+		death = {
+			death_reason = death_execution
+			killer = 801
+		}
 	}
 }
 884 = {
@@ -474,7 +495,10 @@
 		birth = yes
 	}
 	1394.5.17 = {
-		death = yes
+		death = {
+			death_reason = death_execution
+			killer = 801
+		}
 	}
 }
 885 = {
