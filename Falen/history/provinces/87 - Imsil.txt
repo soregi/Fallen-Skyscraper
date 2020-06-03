@@ -6,6 +6,9 @@ title = c_imsil
 # Settlements
 max_settlements = 4
 
+b_imsil = castle
+b_gwanchon = temple
+
 # Misc
 culture = honam
 religion = protestant

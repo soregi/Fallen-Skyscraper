@@ -6,6 +6,10 @@ title = c_taein
 # Settlements
 max_settlements = 5
 
+b_taein = castle
+b_geosan = city
+b_gocheon_taein = temple
+
 # Misc
 culture = honam
 religion = protestant

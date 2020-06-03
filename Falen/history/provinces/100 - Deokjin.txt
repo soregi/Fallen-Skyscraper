@@ -6,6 +6,11 @@ title = c_deokjin
 # Settlements
 max_settlements = 6
 
+b_deokjin = castle
+b_palbok_deokjin = city
+b_hoseong_deokjin = temple
+b_jochon_deokjin = castle
+
 # Misc
 culture = honam
 religion = protestant
