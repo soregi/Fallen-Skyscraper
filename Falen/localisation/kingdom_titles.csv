@@ -27,6 +27,10 @@ k_civil_seoul_adj;Seoul;;;;;;;;;;;;;x
 k_bulgukto;Bulgukto;;;;;;;;;;;;;x
 k_bulgukto_adj;Bulgukto;;;;;;;;;;;;;x
 k_kaesong;Kaesong;;;;;;;;;;;;;x
-k_kaesong_adj;Bulgukto;;;;;;;;;;;;;x
-k_bulgukto;Bulgukto;;;;;;;;;;;;;x
-k_bulgukto_adj;Bulgukto;;;;;;;;;;;;;x
+k_kaesong_adj;Kaesong;;;;;;;;;;;;;x
+k_gaya;Gaya;;;;;;;;;;;;;x
+k_gaya_adj;Gaya;;;;;;;;;;;;;x
+k_andong;Ju;;;;;;;;;;;;;x
+k_andong_adj;Andong;;;;;;;;;;;;;x
+k_pohang;Pohang;;;;;;;;;;;;;x
+k_pohang_adj;Pohang;;;;;;;;;;;;;x
