@@ -322,7 +322,7 @@ k_gyeongsang = {
 		}
 		c_yeongdong = {
 			color = { 26 127 26 }
-			#b_
+			b_yeongdong = {}
 			#b_
 			#b_
 			#b_
