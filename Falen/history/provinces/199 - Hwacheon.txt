@@ -8,4 +8,4 @@ max_settlements = 3
 
 # Misc
 culture = yeongseo
-religion = hoguk
+religion = maitreya
