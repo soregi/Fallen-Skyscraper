@@ -6,6 +6,8 @@ title = c_muju
 # Settlements
 max_settlements = 3
 
+b_muju = tribal
+
 # Misc
 culture = honam
 religion = catholic

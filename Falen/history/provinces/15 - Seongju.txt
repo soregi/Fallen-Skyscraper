@@ -6,9 +6,8 @@ title = c_seongju
 # Settlements
 max_settlements = 5
 
-b_seongju = castle
-b_suryun = city
-b_yongam = temple
+b_seongju = tribal
+
 
 # Misc
 culture = yeongnam

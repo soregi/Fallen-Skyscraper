@@ -6,8 +6,7 @@ title = c_jangsu
 # Settlements
 max_settlements = 5
 
-b_jangsu = castle
-b_sanseo_jangsu = city 
+b_jangsu = tribal
 
 # Misc
 culture = honam

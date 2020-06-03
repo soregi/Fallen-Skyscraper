@@ -6,9 +6,7 @@ title = c_gimcheon
 # Settlements
 max_settlements = 4
 
-b_gimcheon = castle
-b_daegok = city
-b_yanggeum = temple
+b_gimcheon = tribal
 
 # Misc
 culture = yeongnam

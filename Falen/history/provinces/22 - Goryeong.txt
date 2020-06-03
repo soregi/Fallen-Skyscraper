@@ -6,9 +6,8 @@ title = c_goryeong
 # Settlements
 max_settlements = 5
 
-b_goryeong = castle
-b_daegaya = temple
-b_deokgok = city
+b_goryeong = tribal
+
 
 # Misc
 culture = yeongnam

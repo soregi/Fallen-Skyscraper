@@ -6,8 +6,7 @@ title = c_geumsan
 # Settlements
 max_settlements = 5
 
-b_geumsan = castle
-b_chubu_geumsan = city
+b_geumsan = tribal
 
 # Misc
 culture = hoseo

@@ -6,6 +6,8 @@ title = c_yeongdong
 # Settlements
 max_settlements = 4
 
+b_yeongdong = tribal
+
 # Misc
 culture = hoseo
 religion = mahayana
