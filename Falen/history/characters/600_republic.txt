@@ -598,7 +598,7 @@
 	trait = ambitious
 	trait = patient
 	trait = zealous
-	trait = kinslayer
+	trait = tribal_kinslayer
 	disallow_random_traits = yes
 	father = 648
 	mother = 654
