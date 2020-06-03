@@ -6,6 +6,10 @@ title = c_jangheung
 # Settlements
 max_settlements = 5
 
+b_jangheung = castle
+b_gwansan_jangheung = city
+b_daedeok_jangheung = temple
+
 # Misc
 culture = honam
 religion = protestant

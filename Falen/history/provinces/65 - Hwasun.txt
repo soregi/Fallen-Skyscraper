@@ -6,6 +6,10 @@ title = c_hwasun
 # Settlements
 max_settlements = 5
 
+b_hwasun = castle
+b_hancheon = city
+b_chunyang = temple
+
 # Misc
 culture = honam
 religion = mu_pagan

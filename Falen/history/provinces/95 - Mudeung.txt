@@ -6,6 +6,11 @@ title = c_mudeung
 # Settlements
 max_settlements = 5
 
+b_mudeung = castle
+b_saein = temple
+b_seoin = castle
+b_seoseokdae = city
+
 # Misc
 culture = honam
 religion = protestant

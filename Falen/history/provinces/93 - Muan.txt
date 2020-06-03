@@ -6,6 +6,11 @@ title = c_muan
 # Settlements
 max_settlements = 5
 
+b_muan = castle
+b_cheonggye_muan = temple
+b_sanghyang = castle
+b_ilro = city
+
 # Misc
 culture = honam
 religion = protestant

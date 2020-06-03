@@ -6,6 +6,10 @@ title = c_gokseong
 # Settlements
 max_settlements = 5
 
+b_gokseong = castle
+b_ogok = city
+b_samgi = temple
+
 # Misc
 culture = honam
 religion = mu_pagan

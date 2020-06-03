@@ -6,6 +6,11 @@ title = c_boseong
 # Settlements
 max_settlements = 5
 
+b_boseong = castle
+b_beolgyo = city
+b_nodong_boseong = temple
+b_bongnae = city
+
 # Misc
 culture = honam
 religion = mu_pagan

@@ -6,6 +6,12 @@ title = c_gwangju
 # Settlements
 max_settlements = 6
 
+b_gwangju = castle
+b_gwangsan_gwangju = city
+b_donggu_gwangju = temple
+b_seogu_gwangju = city
+b_namgu_gwangju = temple
+
 # Misc
 culture = honam
 religion = catholic

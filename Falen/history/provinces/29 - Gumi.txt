@@ -6,10 +6,7 @@ title = c_gumi
 # Settlements
 max_settlements = 5
 
-b_gumi = castle
-b_songjeong = city
-b_wonpyeong = temple
-b_doryang = castle
+b_gumi = tribal
 
 # Misc
 culture = yeongnam

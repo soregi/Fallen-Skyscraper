@@ -6,6 +6,9 @@ title = c_jiri
 # Settlements
 max_settlements = 2
 
+b_jiri = tribal
+b_cheonwang = temple
+
 # Misc
 culture = bear
 religion = mahayana

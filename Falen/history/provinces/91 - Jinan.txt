@@ -6,6 +6,9 @@ title = c_jinan
 # Settlements
 max_settlements = 5
 
+b_jinan = castle
+b_bugwi = temple
+
 # Misc
 culture = honam
 religion = protestant

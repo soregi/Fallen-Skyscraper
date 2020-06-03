@@ -6,6 +6,11 @@ title = c_naju
 # Settlements
 max_settlements = 5
 
+b_naju = castle
+b_seongbuk_naju = city
+b_geumnam_naju = city
+b_songwol_naju = temple
+
 # Misc
 culture = honam
 religion = protestant

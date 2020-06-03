@@ -6,6 +6,11 @@ title = c_yeosu
 # Settlements
 max_settlements = 5
 
+b_yeosu = castle
+b_yeocheon = city
+b_gwangnim = castle
+b_daegyo = temple
+
 # Misc
 culture = honam
 religion = protestant

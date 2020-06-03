@@ -6,6 +6,11 @@ title = c_suncheon
 # Settlements
 max_settlements = 6
 
+b_suncheon = castle
+b_jungang_suncheon = city
+b_jangcheon = temple
+b_jeojeon = castle
+
 # Misc
 culture = honam
 religion = protestant

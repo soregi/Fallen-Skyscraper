@@ -6,6 +6,11 @@ title = c_gwangsan
 # Settlements
 max_settlements = 5
 
+b_gwangsan = castle
+b_songjeong = city
+b_wolgok = castle
+b_cheomdam = temple
+
 # Misc
 culture = honam
 religion = catholic

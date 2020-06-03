@@ -6,6 +6,10 @@ title = c_hampyeong
 # Settlements
 max_settlements = 5
 
+b_hampyeong = castle
+b_sonbul = temple
+b_haebo = city
+
 # Misc
 culture = honam
 religion = protestant

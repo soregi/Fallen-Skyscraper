@@ -6,6 +6,10 @@ title = c_jeongeup
 # Settlements
 max_settlements = 4
 
+b_jeongup = castle
+b_jangsang = city
+b_suseong_jeongup = temple
+
 # Misc
 culture = honam
 religion = protestant

@@ -6,6 +6,10 @@ title = c_sunchang
 # Settlements
 max_settlements = 5
 
+b_sunchang = castle
+b_gurim = city
+b_donggye_sunchang = temple
+
 # Misc
 culture = honam
 religion = protestant

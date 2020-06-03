@@ -6,6 +6,10 @@ title = c_gangjin
 # Settlements
 max_settlements = 5
 
+b_gangjin = castle
+b_gundong = city
+b_chillyang = temple
+
 # Misc
 culture = honam
 religion = protestant

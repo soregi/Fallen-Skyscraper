@@ -6,6 +6,11 @@ title = c_haenam
 # Settlements
 max_settlements = 6
 
+b_haenam = castle
+b_godo = city
+b_okcheon_haenam = castle
+b_gyegok = city
+
 # Misc
 culture = honam
 religion = protestant

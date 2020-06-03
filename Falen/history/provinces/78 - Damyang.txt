@@ -6,6 +6,10 @@ title = c_damyang
 # Settlements
 max_settlements = 5
 
+b_damyang = castle
+b_jungnogwon = city
+b_geumseong_damyang = temple
+
 # Misc
 culture = honam
 religion = catholic

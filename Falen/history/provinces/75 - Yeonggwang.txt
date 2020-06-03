@@ -6,6 +6,11 @@ title = c_yeonggwang
 # Settlements
 max_settlements = 5
 
+b_yeonggwang = castle
+b_baeksu_yeonggwang = city 
+b_beopseong = temple
+b_daema_yeonggwang = castle
+
 # Misc
 culture = honam
 religion = protestant

@@ -6,6 +6,10 @@ title = c_goheung
 # Settlements
 max_settlements = 5
 
+b_goheung = castle
+b_nokdong = temple
+b_gwayeok = city
+
 # Misc
 culture = honam
 religion = protestant

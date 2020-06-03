@@ -6,6 +6,10 @@ title = c_gwangyang
 # Settlements
 max_settlements = 5
 
+b_gwangyang = castle
+b_gwangyeong = city
+b_geumho = temple
+
 # Misc
 culture = honam
 religion = mahayana
