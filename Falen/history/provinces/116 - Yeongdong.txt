@@ -11,3 +11,4 @@ b_yeongdong = tribal
 # Misc
 culture = hoseo
 religion = mahayana
+
