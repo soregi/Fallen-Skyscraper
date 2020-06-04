@@ -6,6 +6,10 @@ title = c_namchuncheon
 # Settlements
 max_settlements = 5
 
+b_namchuncheon = castle
+b_seoksa = city
+b_songam = temple
+
 # Misc
 culture = yeongseo
 religion = koreanist

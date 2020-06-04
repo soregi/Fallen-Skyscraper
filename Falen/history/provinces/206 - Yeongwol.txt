@@ -6,6 +6,8 @@ title = c_yeongwol
 # Settlements
 max_settlements = 3
 
+b_yeongwol = tribal
+
 # Misc
 culture = yeongseo
 religion = confucian

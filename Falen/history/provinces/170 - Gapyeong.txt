@@ -6,6 +6,10 @@ title = c_gapyeong
 # Settlements
 max_settlements = 3
 
+b_gapyeong = castle
+b_seorak_gapyeong = temple
+b_cheongpyeong_gapyeong = city
+
 # Misc
 culture = gyeonggi
 religion = koreanist

@@ -6,6 +6,9 @@ title = c_samcheok
 # Settlements
 max_settlements = 4
 
+b_samcheok = castle
+b_dogye = city
+
 # Misc
 culture = yeongdong
 religion = koreanist

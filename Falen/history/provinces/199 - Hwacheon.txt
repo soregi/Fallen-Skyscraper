@@ -6,6 +6,9 @@ title = c_hwacheon
 # Settlements
 max_settlements = 3
 
+b_hwacheon = castle
+b_gandong_hwacheon = temple
+
 # Misc
 culture = yeongseo
 religion = maitreya

@@ -6,6 +6,11 @@ title = c_chuncheon
 # Settlements
 max_settlements = 6
 
+b_chuncheon = castle
+b_hyoja_chuncheon = temple
+b_hupyeong_chuncheon = castle
+b_sinpo_chuncheon = city
+
 # Misc
 culture = yeongdong
 religion = maitreya

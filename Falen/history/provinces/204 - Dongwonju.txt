@@ -6,6 +6,8 @@ title = c_east_wonju
 # Settlements
 max_settlements = 5
 
+b_eastwonju = tribal
+
 # Misc
 culture = yeongseo
 religion = confucian

@@ -6,6 +6,8 @@ title = c_yangpyeong
 # Settlements
 max_settlements = 4
 
+b_yangpyeong = tribal
+
 # Misc
 culture = gyeonggi
 religion = koreanist

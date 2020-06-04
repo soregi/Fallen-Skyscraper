@@ -6,6 +6,8 @@ title = c_hongcheon
 # Settlements
 max_settlements = 3
 
+b_hongcheon = tribal
+
 # Misc
 culture = yeongseo
 religion = familiar

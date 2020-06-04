@@ -6,6 +6,8 @@ title = c_taebek
 # Settlements
 max_settlements = 4
 
+b_taebak = tribal
+
 # Misc
 culture = yeongseo
 religion = mu_pagan

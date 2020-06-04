@@ -6,6 +6,8 @@ title = c_sokcho
 # Settlements
 max_settlements = 4
 
+b_sokcho = tribal
+
 # Misc
 culture = yeongdong
 religion = mahayana

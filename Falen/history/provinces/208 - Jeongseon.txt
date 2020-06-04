@@ -6,6 +6,8 @@ title = c_jeongseon
 # Settlements
 max_settlements = 1
 
+b_jeongseon = tribal
+
 # Misc
 culture = yeongseo
 religion = mu_pagan

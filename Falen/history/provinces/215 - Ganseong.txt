@@ -6,6 +6,8 @@ title = c_ganseong
 # Settlements
 max_settlements = 4
 
+b_ganseong = tribal
+
 # Misc
 culture = yeongdong
 religion = mahayana
