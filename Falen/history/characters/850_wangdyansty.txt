@@ -24,7 +24,7 @@
 	religion = mahayana
 	father = 851
 	give_nickname = nick_hyejong
-	912.1.1.. = {
+	912.1.1 = {
 		birth = yes
 	}
 	945.10.23 = {

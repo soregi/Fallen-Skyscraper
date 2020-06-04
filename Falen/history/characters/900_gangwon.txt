@@ -1,0 +1,126 @@
+950 = {
+	name = "Kunhee"
+	dynasty = 4000950
+	culture = yeongseo
+	religion = mu_pagan
+	trait = skilled_tactician
+	trait = quick
+	trait = wroth
+	trait = drunkard
+	2388.2.16 = {
+		birth = yes
+	}
+	2404.8.21 = {
+		add_spouse = 951
+	}
+	2436.9.7 = {
+		death = yes
+	}
+}
+951 = {
+	name = "Seola"
+	female = yes
+	dynasty = 4000953
+	culture = gyeonggi
+	religion = mu_pagan
+	2386.5.8 = {
+		birth = yes
+	}
+}
+952 = {
+	name = "Sanghong"
+	dynasty = 4000950
+	culture = yeongseo
+	religion = mu_pagan
+	father = 950
+	mother = 951
+	trait = tough_soldier
+	trait = sturdy
+	trait = brave
+	trait = adventurer
+	2408.7.18 = {
+		birth = yes
+	}
+	2436.1.13 = {
+		add_spouse = 953
+	}
+}
+953 = {
+	name = "Youngseo"
+	female = yes
+	dynasty = 4000954
+	culture = yeongseo
+	religion = mu_pagan
+	2414.6.19 = {
+		birth = yes
+	}
+}
+954 = {
+	name = "Jeonghyun"
+	dynasty = 4000950
+	culture = yeongseo
+	religion = mu_pagan
+	father = 950
+	mother = 951
+	trait = intricate_webweaver
+	trait = ambitious
+	trait = greedy
+	trait = envious
+	trait = adventurer
+	2414.6.25 = {
+		birth = yes
+	}
+	2439.9.22 = {
+		add_spouse = 955
+	}
+}
+955 = {
+	name = "Jiwoo"
+	female = yes
+	dynasty = 4000950
+	culture = yeongseo
+	religion = mu_pagan
+	father = 950
+	mother = 951
+	trait = mastermind_theologian
+	trait = quick
+	trait = cynical
+	trait = erudite
+	2418.9.23 = {
+		birth = yes
+	}
+}
+956 = {
+	name = "Sindong"
+	dynasty = 4000950
+	culture = yeongseo
+	religion = mu_pagan
+	father = 950
+	mother = 951
+	trait = thrifty_clerk
+	trait = zealous
+	trait = content
+	trait = temperate
+	trait = charitable
+	2422.9.3 = {
+		birth = yes
+	}
+}
+957 = {
+	name = "Riwon"
+	dynasty = 4000951
+	culture = yeongseo
+	religion = mu_pagan
+	2422.4.3 = {
+		birth = yes
+	}
+}
+958 = {
+	name = "Woosung"
+	dynasty = 4000952
+	culture = yeongseo
+	religion = familiar
+	2431.7.19 = {
+		birth = yes
+	}
+}

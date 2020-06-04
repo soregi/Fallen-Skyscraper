@@ -1,0 +1,25 @@
+4000950 = {
+	name = "Kwon" #강원남부
+	culture = yeongseo
+	religion = mu_pagan
+}
+4000951 = {
+	name = "Sa" #강원남부
+	culture = yeongseo
+	religion = mu_pagan
+}
+4000952 = {
+	name = "Mae" #강원남부
+	culture = yeongseo
+	religion = familiar
+}
+4000953 = {
+	name = "Han" #강원남부
+	culture = gyeonggi
+	religion = mu_pagan
+}
+4000954 = {
+	name = "Choi" #강원남부
+	culture = yeongseo
+	religion = mu_pagan
+}
