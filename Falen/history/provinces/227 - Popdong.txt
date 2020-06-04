@@ -6,6 +6,9 @@ title = c_bubdong
 # Settlements
 max_settlements = 3
 
+b_bubdong = temple
+b_sangso_bubdong = city
+
 # Misc
 culture = yeongdong
 religion = orthodox

@@ -6,6 +6,9 @@ title = c_munchon
 # Settlements
 max_settlements = 3
 
+b_munchon = temple
+b_songmun_munchon = castle
+
 # Misc
 culture = yeongdong
 religion = orthodox

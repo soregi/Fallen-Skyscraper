@@ -6,6 +6,11 @@ title = c_wonsan
 # Settlements
 max_settlements = 6
 
+b_wonsan = temple
+b_kwanphung_wonsan = castle
+b_sinphung_wonsan = city
+b_wau_wonsan = temple
+
 # Misc
 culture = yeongdong
 religion = orthodox
