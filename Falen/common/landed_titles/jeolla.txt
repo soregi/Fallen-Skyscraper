@@ -372,7 +372,7 @@ k_jeolla = {
 		}
 		c_jangheung = {
 			color = { 140 0 0 }
-			b_jangheung = {}
+			b_jangheung_jang = {}
 			b_gwansan_jangheung = {}
 			b_daedeok_jangheung = {}
 			b_busan_jangheung = {}
