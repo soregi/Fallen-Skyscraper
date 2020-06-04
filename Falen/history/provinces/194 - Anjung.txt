@@ -6,6 +6,10 @@ title = c_anjung
 # Settlements
 max_settlements = 5
 
+b_anjung = castle
+b_hakyeon = city
+b_geumgok = temple
+
 # Misc
 culture = gyeonggi
 religion = protestant

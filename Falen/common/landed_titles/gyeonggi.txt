@@ -619,22 +619,22 @@ k_kaesong = { #개성 공화국
 		c_kaesong = {
 			color = { 150 50 0 }
 			b_kaesong = {}
-			b_goryeo = {}
+			b_koryo = {}
 			b_unhak = {}
-			b_gwanhun = {}
-			b_boseon = {}
-			b_seonjuk = {}
-			b_samgeo = {}
+			b_kwanhun = {}
+			b_poson = {}
+			b_sonjuk = {}
+			b_samgo = {}
 		}
 		c_kaephung = {
 			color = { 200 200 200 }
 			b_kaephung = {}
-			b_sorak = {}
-			b_cheongpyeong = {}
-			b_jojong = {}
-			b_deokyeon = {}
-			b_dodae = {}
-			b_gyeongban = {}
+			b_chaha = {}
+			b_kuhwa = {}
+			b_sokchon = {}
+			b_changjwa = {}
+			b_kagok = {}
+			b_shipthan = {}
 		}
 		c_jangphung = {
 			color = { 150 10 50 }
@@ -642,9 +642,9 @@ k_kaesong = { #개성 공화국
 			b_ryohyon = {}
 			b_toksu = {}
 			b_hwagok = {}
-			b_haepyong = {}
+			b_haephyong = {}
 			b_shingwang = {}
-			b_munksong = {}
+			b_muksong = {}
 		}
 	}
 }

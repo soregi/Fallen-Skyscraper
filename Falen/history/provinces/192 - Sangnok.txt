@@ -6,6 +6,10 @@ title = c_sangnok
 # Settlements
 max_settlements = 5
 
+b_sangnok = castle
+b_haeyang = city
+b_bono = temple
+
 # Misc
 culture = gyeonggi
 religion = koreanist

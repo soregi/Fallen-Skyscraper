@@ -6,6 +6,10 @@ title = c_uijeongbu
 # Settlements
 max_settlements = 4
 
+b_uijeongbu = castle
+b_howon = city
+b_singok = temple
+
 # Misc
 culture = gyeonggi
 religion = koreanist

@@ -6,6 +6,9 @@ title = c_yeoncheon
 # Settlements
 max_settlements = 4
 
+b_yeoncheon = castle
+b_sinseo = city
+
 # Misc
 culture = gyeonggi
 religion = catholic

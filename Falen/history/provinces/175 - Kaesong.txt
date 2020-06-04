@@ -7,10 +7,10 @@ title = c_kaesong
 max_settlements = 6
 
 b_kaesong = city #왕씨용
-b_goryeo = city #산씨용
+b_koryo = city #산씨용
 b_unhak = city #내씨용
-b_gwanhun = temple
-b_boseon = city #이씨용
+b_kwanhun = temple
+b_poson = city #이씨용
 
 
 # Misc

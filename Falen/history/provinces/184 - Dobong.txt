@@ -6,6 +6,11 @@ title = c_dobong
 # Settlements
 max_settlements = 5
 
+b_dobong = castle
+b_seongbuk = city
+b_nowon = castle
+b_ssangmun = temple
+
 # Misc
 culture = seoul
 religion = koreanist

@@ -6,6 +6,9 @@ title = c_dongducheon
 # Settlements
 max_settlements = 4
 
+b_dongducheon = castle
+b_saengyeon = city
+
 # Misc
 culture = gyeonggi
 religion = koreanist

@@ -6,6 +6,10 @@ title = c_yangju
 # Settlements
 max_settlements = 5
 
+b_yangju = castle
+b_hoecheon = city
+b_jangheung = temple 
+
 # Misc
 culture = gyeonggi
 religion = koreanist
