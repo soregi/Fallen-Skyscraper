@@ -6,6 +6,9 @@ title = c_ichon
 # Settlements
 max_settlements = 3
 
+b_ichon = castle
+b_kaechon_ichon = city
+
 # Misc
 culture = yeongdong
 religion = marxist

@@ -6,6 +6,9 @@ title = c_phangyo
 # Settlements
 max_settlements = 3
 
+b_phangyo = castle
+b_chonam_phangyo = temple
+
 # Misc
 culture = yeongdong
 religion = orthodox

@@ -6,6 +6,9 @@ title = c_kumgang
 # Settlements
 max_settlements = 3
 
+b_kumgang = castle
+b_kumchon_kumgang = temple
+
 # Misc
 culture = yeongdong
 religion = cheondo

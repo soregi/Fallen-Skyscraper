@@ -6,6 +6,10 @@ title = c_phyonggang
 # Settlements
 max_settlements = 4
 
+b_phyonggang = castle
+b_pokkye_phyonggang = temple
+b_kagok_phyonggang = city
+
 # Misc
 culture = yeongdong
 religion = gaian

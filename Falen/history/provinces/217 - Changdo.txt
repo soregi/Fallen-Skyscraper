@@ -6,6 +6,8 @@ title = c_changdo
 # Settlements
 max_settlements = 2
 
+b_changdo = castle
+
 # Misc
 culture = yeongdong
 religion = cheondo

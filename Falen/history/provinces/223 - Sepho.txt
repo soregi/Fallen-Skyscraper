@@ -6,6 +6,9 @@ title = c_sepho
 # Settlements
 max_settlements = 2
 
+b_sepho = castle
+b_kisan_sepho = city
+
 # Misc
 culture = yeongdong
 religion = cheondo
