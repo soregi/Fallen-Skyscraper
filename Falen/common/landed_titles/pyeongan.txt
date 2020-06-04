@@ -36,9 +36,23 @@ k_pyeongan = {
 		}
 		c_sungho = {
 			color = { 195 104 60 }
+			b_sungho = {}
+			b_apsae_sungho = {}
+			b_tokkol_sungho = {}
+			b_namgang_sungho = {}
+			b_mandal_sungho = {}
+			b_richon_sungho = {}
+			b_pongdo_sungho = {}
 		}
 		c_yeonsan = {
 			color = { 0 5 230 }
+			b_yeonsan = {}
+			b_sanggok_yeonsan = {}
+			b_taephyong_yeonsan = {}
+			b_kongpho_yeonsan = {}
+			b_pangjong_yeonsan = {}
+			b_songchon_yeonsan = {}
+			b_sanggum_yeonsan = {}
 		}
 	}
 	d_songcheon = {
