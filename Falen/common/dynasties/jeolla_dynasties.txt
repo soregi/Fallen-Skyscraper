@@ -1,0 +1,10 @@
+4002101 = {
+	name = "Nam"
+	culture = honam
+	religion = atomicist
+}
+4002102 = {
+	name = "Cho"
+	culture = honam
+	religion = atomicist
+}

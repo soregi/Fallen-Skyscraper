@@ -1,0 +1,43 @@
+2101 = {
+	name = "Kyungil"
+	dynasty = 4002101
+	culture = honam
+	religion = atomicist
+	2382.7.16 = {
+		birth = yes
+	}
+	2405.6.21 = {
+		add_spouse = 2102
+	}
+}
+2102 = {
+	name = "Hanna"
+	dynasty = 4002102
+	culture = honam
+	religion = atomicist
+	2387.1.22 = {
+		birth = yes
+	}
+}
+2103 = {
+	name = "Siwon"
+	dynasty = 4002101
+	culture = honam
+	religion = atomicist
+	father = 2101
+	mother = 2102
+	2411.2.3 = {
+		birth = yes
+	}
+}
+2104 = {
+	name = "Seokyoung"
+	dynasty = 4002101
+	culture = honam
+	religion = atomicist
+	father = 2101
+	mother = 2102
+	2415.6.19 = {
+		birth = yes
+	}
+}

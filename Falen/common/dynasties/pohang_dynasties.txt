@@ -23,3 +23,13 @@
 	culture =  yeongnam
 	religion = steel_pagan
 }
+4001460 = {
+	name = "Kyung"
+	culture =  yeongnam
+	religion = atomicist
+}
+4001461 = {
+	name = "Ahn"
+	culture =  yeongnam
+	religion = steel_pagan
+}

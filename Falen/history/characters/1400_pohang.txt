@@ -375,3 +375,75 @@
 		birth = yes
 	}
 }
+#한울국
+1460 = {
+	name = "Jimyung"
+	dynasty = 4001460
+	culture = yeongnam
+	religion = atomicist
+	2410.1.22 = {
+		birth = yes
+	}
+}
+1461 = {
+	name = "Youngho"
+	dynasty = 4001460
+	culture = yeongnam
+	religion = atomicist
+	father = 1460
+	2438.1.6 = {
+		birth = yes
+	}
+}
+1462 = {
+	name = "Baemin"
+	female = yes
+	dynasty = 4001460
+	culture = yeongnam
+	religion = atomicist
+	father = 1460
+	2441.6.13 = {
+		birth = yes
+	}
+}
+1463 = {
+	name = "Jehee"
+	female = yes
+	dynasty = 4001460
+	culture = yeongnam
+	religion = atomicist
+	2443.1.6 = {
+		birth = yes
+	}
+}
+1464 = {
+	name = "Cheolso"
+	dynasty = 4001461
+	culture = yeongnam
+	religion = steel_pagan
+	2404.6.10 = {
+		birth = yes
+	}
+}
+1465 = {
+	name = "Nangeum"
+	female = yes
+	dynasty = 4001461
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1464
+	2422.5.3 = {
+		birth = yes
+	}
+}
+1466 = {
+	name = "Hoyoung"
+	female = yes
+	dynasty = 4001461
+	culture = yeongnam
+	religion = steel_pagan
+	father = 1464
+	2425.3.12 = {
+		birth = yes
+	}
+}
