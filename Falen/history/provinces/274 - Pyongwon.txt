@@ -6,6 +6,10 @@ title = c_phyongwon
 # Settlements
 max_settlements = 5
 
+b_phyongwon = castle
+b_ryongsang_phyongwon = city
+b_wonap_phyongwon = temple
+
 # Misc
 culture = pyongnam
 religion = juche

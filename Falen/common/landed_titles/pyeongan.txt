@@ -7,32 +7,32 @@ k_pyeongan = {
 		c_pyongyang = {
 			color = { 75 0 0 }
 			b_pyongyang = {}
-			b_rakrang = {}
-			b_moranbong = {}
-			b_tongdaewon = {} #동대원			
-			b_samsok = {} #삼석
-			b_unjong = {} #은정
-			b_phyongchon = {} #평천
+			b_rakrang_pyongyang = {}
+			b_moranbong_pyongyang = {}
+			b_tongdaewon_pyongyang = {} #동대원			
+			b_samsok_pyongyang = {} #삼석
+			b_unjong_pyongyang = {} #은정
+			b_phyongchon_pyongyang = {} #평천
 		}
 		c_ryokpho = {
 			color = { 217 78 28 }
 			b_ryokpho = {} #력포
-			b_sosin = {} #소신
-			b_jangjin = {} #장진
-			b_taehyon = {} #태현
-			b_ryuhyon = {} #류현
-			b_sosamjong = {} #소삼정
-			b_yang-um = {} #양음
+			b_sosin_ryokpho = {} #소신
+			b_jangjin_ryokpho = {} #장진
+			b_taehyon_ryokpho = {} #태현
+			b_ryuhyon_ryokpho = {} #류현
+			b_sosamjong_ryokpho = {} #소삼정
+			b_yang-um_ryokpho = {} #양음
 		}
 		c_sangwon = {
 			color = { 157 129 0 }
 			b_sangwon = {}
-			b_ryongchon = {} #령천
-			b_rungsong = {} #릉성
-			b_hugu = {} #흑우
-			b_kwiil = {} # 귀일
-			b_ryonggok = {} #룡곡
-			b_pondong = {} #번동
+			b_ryongchon_sangwon = {} #령천
+			b_rungsong_sangwon = {} #릉성
+			b_hugu_sangwon = {} #흑우
+			b_kwiil_sangwon = {} # 귀일
+			b_ryonggok_sangwon = {} #룡곡
+			b_pondong_sangwon = {} #번동
 		}
 		c_sungho = {
 			color = { 195 104 60 }
@@ -61,18 +61,42 @@ k_pyeongan = {
 		c_songchon = {
 			color = { 65 0 0 }
 			b_songchon = {}
+			b_shinsongchon_songchon = {}
+			b_changnim_songchon = {}
+			b_ungok_songchon = {}
+			b_kunja_songchon = {}
+			b_ryonghung_songchon = {}
+			b_ampho_songchon = {}
 		}
 		c_hoechang = {
 			color = { 60 0 0 }
 			b_hoechang = {}
+			b_hwajon_hoechang = {}
+			b_shinjak_hoechang = {}
+			b_sokhwang_hoechang = {}
+			b_sinsong_hoechang = {}
+			b_tongnyon_hoechang = {}
+			b_hoeun_hoechang = {}
 		}
 		c_eunsan = {
 			color = { 135 0 0 }
 			b_eunsan = {}
+			b_kubong_eunsan = {}
+			b_songsan_eunsan = {}
+			b_chaedong_eunsan = {}
+			b_chonsong_eunsan = {}
+			b_haksang_eunsan = {}
+			b_namok_eunsan = {}
 		}
 		c_pukchang = {
 			color = { 85 0 0 }
 			b_pukchang = {}
+			b_inpho_pukchang = {}
+			b_phunggok_pukchang = {}
+			b_suok_pukchang = {}
+			b_songsa_pukchang = {}
+			b_maehyon_pukchang = {}
+			b_sinsok_pukchang = {}
 		}
 	}
 	d_maengsan = {
@@ -101,18 +125,42 @@ k_pyeongan = {
 		c_mundok = {
 			color = { 145 0 0 }
 			b_mundok = {}
+			b_sangbuktong_mundok = {}
+			b_kumgye_mundok = {}
+			b_namsanggye_mundok = {}
+			b_ryongnam_mundok = {}
+			b_oryong_mundok = {}
+			b_ryongdam_mundok = {}
 		}
 		c_anju = {
 			color = { 80 0 0 }
 			b_anju = {}
+			b_kubong_anju = {}
+			b_namchon_anju = {}
+			b_namphyong_anju = {}
+			b_namhung_anju = {}
+			b_toksong_anju = {}
+			b_tungbangsan_anju = {}
 		}
 		c_kaechon = {
 			color = { 120 0 0 }
 			b_kaechon = {}
+			b_sampho_kaechon = {}
+			b_ramjon_kaechon = {}
+			b_choyang_kaechon = {}
+			b_pugwon_kaechon = {}
+			b_inhung_kaechon = {}
+			b_kunu_kaechon = {}
 		}
 		c_dokchon = {
 			color = { 155 0 0 }
 			b_dokchon = {}
+			b_sungri_dokchon = {}
+			b_kangan_dokchon = {}
+			b_changmal_dokchon = {}
+			b_undok_dokchon = {}
+			b_songwon_dokchon = {}
+			b_hungdok_dokchon = {}
 		}
 	}
 	d_sunchon = {
@@ -121,18 +169,42 @@ k_pyeongan = {
 		c_sunchon = {
 			color = { 210 0 0 }
 			b_sunchon = {}
+			b_subok_sunchon = {}
+			b_kangan_sunchon = {}
+			b_kumsan_sunchon = {}
+			b_tongam_sunchon = {}
+			b_ryonpho_sunchon = {}
+			b_ryonbong_sunchon = {}
 		}
 		c_phyongsong = {
 			color = { 170 0 0 }
 			b_phyongsong = {}
+			b_yokchon_phyongsong = {}
+			b_kuwol_phyongsong = {}
+			b_podok_phyongsong = {}
+			b_samhwa_phyongsong = {}
+			b_songryong_phyongsong = {}
+			b_sangcha_phyongsong = {}
 		}
 		c_phyongwon = {
 			color = { 25 0 0 }
 			b_phyongwon = {}
+			b_ryongsang_phyongwon = {}
+			b_wonap_phyongwon = {}
+			b_songrim_phyongwon = {}
+			b_woril_phyongwon = {}
+			b_hanchon_phyongwon = {}
+			b_ryongi_phyongwon = {}
 		}
 		c_sukchon = {
 			color = { 255 22 100 }
 			b_sukchon = {}
+			b_namyang_sukchon = {}
+			b_hungo_sukchon = {}
+			b_changhung_sukchon = {}
+			b_ryongdok_sukchon = {}
+			b_komhung_sukchon = {}
+			b_komsan_sukchon = {}
 		}
 	}
 	d_nampo = {
@@ -141,18 +213,42 @@ k_pyeongan = {
 		c_nampo = {
 			color = { 50 0 0 }
 			b_nampo = {}
+			b_handu_nampo = {}
+			b_yokchon_nampo = {}
+			b_ryusa_nampo = {}
+			b_kangso_nampo = {}
+			b_taean_nampo = {}
+			b_ryonggang_nampo = {}
 		}
 		c_songrim = {
 			color = { 122 100 140 }
 			b_songrim = {}
+			b_sapho_songrim = {}
+			b_kkotphin_songrim = {}
+			b_saesallim_songrim = {}
+			b_oryu_songrim = {}
+			b_wolbong_songrim = {}
+			b_shillyang_songrim = {}
 		}
 		c_taedong = {
 			color = { 200 0 0 }
 			b_taedong = {}
+			b_soryong_taedong = {}
+			b_thapche_taedong = {}
+			b_munhung_taedong = {}
+			b_uiam_taedong = {}
+			b_ongnyu_taedong = {}
+			b_rungna_taedong = {}
 		}
 		c_jungsan = {
 			color = { 150 10 10 }
 			b_jungsan = {}
+			b_mubon_jungsan = {}
+			b_raksaeng_jungsan = {}
+			b_kwangje_jungsan = {}
+			b_ryongdok_jungsan = {}
+			b_rimsong_jungsan = {}
+			b_phungjong_jungsan = {}
 		}
 	}
 	d_yongbyon = {

@@ -6,6 +6,10 @@ title = c_phyongsong
 # Settlements
 max_settlements = 5
 
+b_phyongsong = castle
+b_yokchon_phyongsong = temple
+b_kuwol_phyongsong = city
+
 # Misc
 culture = pyongnam
 religion = cheondo

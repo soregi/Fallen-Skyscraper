@@ -3,6 +3,10 @@
 # County Title
 title = c_sangwon
 
+b_sangwon = castle
+b_ryongchon_sangwon = city
+b_rungsong_sangwon = temple
+
 # Settlements
 max_settlements = 4
 

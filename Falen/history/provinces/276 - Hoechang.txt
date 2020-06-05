@@ -6,6 +6,9 @@ title = c_hoechang
 # Settlements
 max_settlements = 3
 
+b_hoechang = castle
+b_hwajon_hoechang = temple
+
 # Misc
 culture = pyongnam
 religion = juche

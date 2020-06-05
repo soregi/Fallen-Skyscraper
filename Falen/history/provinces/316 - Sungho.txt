@@ -6,6 +6,10 @@ title = c_sungho
 # Settlements
 max_settlements = 4
 
+b_sungho = castle
+b_apsae_sungho = city
+b_tokkol_sungho = temple
+
 # Misc
 culture = pyongbuk
 religion = cheondo

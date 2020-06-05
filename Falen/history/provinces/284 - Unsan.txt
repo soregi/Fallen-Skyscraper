@@ -6,6 +6,10 @@ title = c_eunsan
 # Settlements
 max_settlements = 3
 
+b_eunsan = castle
+b_kubong_eunsan = city
+b_songsan_eunsan = temple
+
 # Misc
 culture = pyongnam
 religion = cheondo

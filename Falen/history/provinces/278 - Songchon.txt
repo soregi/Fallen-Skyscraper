@@ -6,6 +6,10 @@ title = c_songchon
 # Settlements
 max_settlements = 3
 
+b_songchon = castle
+b_shinsongchon_songchon = city
+b_changnim_songchon = temple
+
 # Misc
 culture = pyongnam
 religion = juche

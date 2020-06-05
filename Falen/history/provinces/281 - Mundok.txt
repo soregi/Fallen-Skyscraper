@@ -6,6 +6,10 @@ title = c_mundok
 # Settlements
 max_settlements = 5
 
+b_mundok = castle
+b_sangbuktong_mundok = city
+b_kumgye_mundok = temple
+
 # Misc
 culture = pyongnam
 religion = cheondo

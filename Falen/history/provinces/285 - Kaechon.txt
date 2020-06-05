@@ -6,6 +6,10 @@ title = c_kaechon
 # Settlements
 max_settlements = 5
 
+b_kaechon = castle
+b_sampho_kaechon = city
+b_ramjon_kaechon = temple
+
 # Misc
 culture = pyongnam
 religion = juche

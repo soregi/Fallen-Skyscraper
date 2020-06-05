@@ -6,6 +6,10 @@ title = c_pukchang
 # Settlements
 max_settlements = 3
 
+b_pukchang = castle
+b_inpho_pukchang = temple
+b_phunggok_pukchang = city
+
 # Misc
 culture = pyongnam
 religion = juche

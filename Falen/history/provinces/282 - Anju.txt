@@ -6,6 +6,11 @@ title = c_anju
 # Settlements
 max_settlements = 6
 
+b_anju = castle
+b_kubong_anju = city
+b_namchon_anju = temple
+b_namphyong_anju = castle
+
 # Misc
 culture = pyongnam
 religion = cheondo

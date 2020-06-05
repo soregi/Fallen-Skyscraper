@@ -6,6 +6,10 @@ title = c_sukchon
 # Settlements
 max_settlements = 5
 
+b_sukchon = castle
+b_namyang_sukchon = city
+b_hungo_sukchon = temple
+
 # Misc
 culture = pyongnam
 religion = cheondo

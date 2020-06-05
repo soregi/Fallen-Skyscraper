@@ -6,6 +6,10 @@ title = c_yeonsan
 # Settlements
 max_settlements = 3
 
+b_yeonsan = castle
+b_sanggok_yeonsan = city
+b_taephyong_yeonsan = temple
+
 # Misc
 culture = hwanghae
 religion = juche

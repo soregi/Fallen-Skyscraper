@@ -6,6 +6,10 @@ title = c_taedong
 # Settlements
 max_settlements = 5
 
+b_taedong = castle
+b_soryong_taedong = city
+b_thapche_taedong = temple
+
 # Misc
 culture = pyongnam
 religion = juche

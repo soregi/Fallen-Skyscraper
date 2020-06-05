@@ -6,6 +6,12 @@ title = c_nampo
 # Settlements
 max_settlements = 5
 
+b_nampo = castle
+b_handu_nampo = city
+b_yokchon_nampo = castle
+b_ryusa_nampo = temple
+b_kangso_nampo = city
+
 # Misc
 culture = pyongnam
 religion = cheondo

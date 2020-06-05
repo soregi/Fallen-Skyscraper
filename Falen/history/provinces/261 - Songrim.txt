@@ -6,6 +6,10 @@ title = c_songrim
 # Settlements
 max_settlements = 5
 
+b_songrim = castle
+b_sapho_songrim = city
+b_kkotphin_songrim = temple
+
 # Misc
 culture = hwanghae
 religion = cheondo
