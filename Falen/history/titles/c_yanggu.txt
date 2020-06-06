@@ -1,4 +1,4 @@
-2426.1.9 = {
-	liege = k_rok_armed_forces
-	holder = 927
+2406.1.19 = {
+	liege = d_baekgol
+	holder = 932
 }
