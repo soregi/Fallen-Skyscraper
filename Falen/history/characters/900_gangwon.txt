@@ -1,3 +1,104 @@
+901 = {
+	name = "Mushik"
+	dynasty = 4000901
+	culture = yeongseo
+	religion = cheondo
+	trait = detached_priest
+	trait = slow
+	trait = proud
+	trait = slothful
+	trait = craven
+	2423.4.29 = {
+		birth = yes
+	}
+}
+902 = {
+	name = "omgum"
+	dynasty = 4000902
+	culture = yeongseo
+	religion = cheondo
+	2415.7.18 = {
+		birth = yes
+	}
+	2442.4.16 = {
+		add_spouse = 903
+	}
+}
+903 = {
+	name = "Suyong"
+	female = yes
+	dynasty = 4000906
+	culture = yeongseo
+	religion = juche
+	2424.9.23 = {
+		birth = yes
+	}
+}
+904 = {
+	name = "Paegum"
+	dynasty = 4000902
+	culture = yeongseo
+	religion = cheondo
+	father = 902
+	mother = 903
+	2443.11.27 = {
+		birth = yes
+	}
+}
+905 = {
+	name = "Choguk"
+	dynasty = 4000903
+	culture = yeongdong
+	religion = marxist
+	2428.8.13 = {
+		birth = yes
+	}
+}
+906 = {
+	name = "Sangho"
+	dynasty = 4000904
+	culture = yeongdong
+	religion = cheondo
+	2416.3.14 = {
+		birth = yes
+	}
+	2432.1.6 = {
+		add_spouse = 907
+	}
+}
+907 = {
+	name = "Hyonso"
+	female = yes
+	dynasty = 4000907
+	culture = yeongdong
+	religion = cheondo
+	2414.4.1 = {
+		birth = yes
+	}
+}
+908 = {
+	name = "Piryong"
+	dynasty = 4000904
+	culture = yeongdong
+	religion = cheondo
+	father = 906
+	mother = 907
+	2438.2.3 = {
+		birth = yes
+	}
+}
+909 = {
+	name = "Hanna"
+	female = yes
+	dynasty = 4000905
+	culture = yeongdong
+	religion = juche
+	2425.1.22 = {
+		birth = yes
+	}
+}
+
+
 950 = {
 	name = "Kunhee"
 	dynasty = 4000950

@@ -1,3 +1,93 @@
+4000901 = {
+	name = "Kim" #인민군
+	culture = yeongseo
+	religion = cheondo
+}
+4000902 = {
+	name = "Yu" #인민군
+	culture = yeongseo
+	religion = cheondo
+}
+4000903 = {
+	name = "Choi" #인민군
+	culture = yeongdong
+	religion = marxist
+}
+4000904 = {
+	name = "Sim" #인민군
+	culture = yeongdong
+	religion = cheondo
+}
+4000905 = {
+	name = "Choi" #인민군
+	culture = yeongdong
+	religion = juche
+}
+4000906 = {
+	name = "Kang" #인민군
+	culture = yeongseo
+	religion = juche
+}
+4000907 = {
+	name = "Ji" #인민군
+	culture = yeongdong
+	religion = cheondo
+}
+4000920 = {
+	name = "Sim" #국군
+	culture = yeongseo
+	religion = koreanist
+}
+4000921 = {
+	name = "Baek" #국군
+	culture = yeongseo
+	religion = koreanist
+}
+4000922 = {
+	name = "Gu" #국군
+	culture = gyeonggi
+	religion = koreanist
+}
+4000923 = {
+	name = "Ji" #국군
+	culture = yeongseo
+	religion = maitreya
+}
+4000924 = {
+	name = "Chae" #국군
+	culture = yeongdong
+	religion = maitreya
+}
+4000925 = {
+	name = "Oh" #국군
+	culture = yeongdong
+	religion = maitreya
+}
+4000926 = {
+	name = "Heo" #국군
+	culture = yeongdong
+	religion = maitreya
+}
+4000927 = {
+	name = "Choi" #국군
+	culture = yeongseo
+	religion = koreanist
+}
+4000928 = {
+	name = "Jang" #국군
+	culture = yeongseo
+	religion = maitreya
+}
+4000929 = {
+	name = "Lee" #국군
+	culture = yeongdong
+	religion = maitreya
+}
+4000930 = {
+	name = "Yu" #국군
+	culture = yeongdong
+	religion = maitreya
+}
 4000950 = {
 	name = "Kwon" #강원남부
 	culture = yeongseo
