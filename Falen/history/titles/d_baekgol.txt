@@ -1,0 +1,4 @@
+2426.1.9 = {
+	liege = k_rok_armed_forces
+	holder = 927
+}

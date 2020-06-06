@@ -1,0 +1,4 @@
+2431.11.4 = {
+	liege = k_korean_people's_army
+	holder = 905
+}

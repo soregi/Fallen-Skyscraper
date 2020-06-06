@@ -97,8 +97,195 @@
 		birth = yes
 	}
 }
-
-
+920 = {
+	name = "Daehyung"
+	dynasty = 4000920
+	culture = yeongseo
+	religion = koreanist
+	trait = tough_soldier
+	trait = brave
+	trait = proud
+	trait = envious
+	2419.6.25 = {
+		birth = yes
+	}
+	2438.12.23 = {
+		add_spouse = 921
+	}
+}
+921 = {
+	name = "Miae"
+	female = yes
+	dynasty = 4000927
+	culture = yeongseo
+	religion = koreanist
+	trait = brilliant_strategist
+	trait = brawny
+	trait = duelist
+	2422.9.13 = {
+		birth = yes
+	}
+}
+922 = {
+	name = "Pilseung"
+	dynasty = 4000921
+	culture = yeongseo
+	religion = koreanist
+	2425.3.19 = {
+		birth = yes
+	}
+}
+923 = {
+	name = "Suho"
+	dynasty = 4000922
+	culture = gyeonggi
+	religion = koreanist
+	2423.7.18 = {
+		birth = yes
+	}
+}
+924 = {
+	name = "Gumin"
+	dynasty = 4000923
+	culture = yeongseo
+	religion = maitreya
+	2403.2.13 = {
+		birth = yes
+	}
+	2426.2.10 = {
+		add_spouse = 925
+	}
+}
+925 = {
+	name = "Miyoung"
+	female = yes
+	dynasty = 4000928
+	culture = yeongseo
+	religion = maitreya
+	2407.9.18 = {
+		birth = yes
+	}
+}
+926 = {
+	name = "Semo"
+	dynasty = 4000923
+	culture = yeongseo
+	religion = maitreya
+	father = 924
+	mother = 925
+	2432.10.12 = {
+		birth = yes
+	}
+}
+927 = {
+	name = "Suwon"
+	dynasty = 4000924
+	culture = yeongdong
+	religion = maitreya
+	2411.5.26 = {
+		birth = yes
+	}
+	2439.8.1 = {
+		add_spouse = 928
+	}
+}
+928 = {
+	name = "Sujin"
+	female = yes
+	dynasty = 4000929
+	culture = yeongdong
+	religion = maitreya
+	2409.4.12 = {
+		birth = yes
+	}
+}
+929 = {
+	name = "Jaemin"
+	dynasty = 4000924
+	culture = yeongdong
+	religion = maitreya
+	father = 927
+	mother = 928
+	2441.5.16 = {
+		birth = yes
+	}
+}
+930 = {
+	name = "Minjae"
+	dynasty = 4000924
+	culture = yeongdong
+	religion = maitreya
+	father = 927
+	mother = 928
+	2443.1.1 = {
+		birth = yes
+	}
+}
+931 = {
+	name = "Jiseung"
+	dynasty = 4000925
+	culture = yeongdong
+	religion = maitreya
+	2419.8.23 = {
+		birth = yes
+	}
+}
+932 = {
+	name = "Pilsa"
+	dynasty = 4000926
+	culture = yeongdong
+	religion = maitreya
+	2389.5.28 = {
+		birth = yes
+	}
+	2410.4.24 = {
+		add_spouse = 933
+	}
+}
+933 = {
+	name = "Chunja"
+	female = yes
+	dynasty = 4000930
+	culture = yeongdong
+	religion = maitreya
+	2387.5.18 = {
+		birth = yes
+	}
+}
+934 = {
+	name = "Kihun"
+	dynasty = 4000926
+	culture = yeongdong
+	religion = maitreya
+	father = 932
+	mother = 933
+	2419.8.22 = {
+		birth = yes
+	}
+}
+935 = {
+	name = "Sujin"
+	female = yes
+	dynasty = 4000926
+	culture = yeongdong
+	religion = maitreya
+	father = 932
+	mother = 933
+	2423.3.15 = {
+		birth = yes
+	}
+}
+936 = {
+	name = "Mirae"
+	dynasty = 4000926
+	culture = yeongdong
+	religion = maitreya
+	father = 932
+	mother = 933
+	2429.10.11 = {
+		birth = yes
+	}
+}
 950 = {
 	name = "Kunhee"
 	dynasty = 4000950

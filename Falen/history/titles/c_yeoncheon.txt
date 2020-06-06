@@ -1,0 +1,4 @@
+2442.6.14 = {
+	liege = k_rok_armed_forces
+	holder = 923
+}

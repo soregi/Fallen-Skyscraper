@@ -1,0 +1,4 @@
+2429.4.19 = {
+	liege = k_korean_people's_army
+	holder = 906
+}
