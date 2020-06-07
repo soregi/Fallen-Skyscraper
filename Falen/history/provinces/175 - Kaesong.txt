@@ -15,4 +15,4 @@ b_poson = city #이씨용
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

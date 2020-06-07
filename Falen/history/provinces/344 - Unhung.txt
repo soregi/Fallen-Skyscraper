@@ -8,4 +8,4 @@ max_settlements = 3
 
 # Misc
 culture = jagang
-religion = ¿ŒπŒ±≥»∏
+religion = holy_spirit

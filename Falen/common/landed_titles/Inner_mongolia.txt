@@ -68,6 +68,13 @@ k_inner_mongolia = {
 		}
 		c_hure = {
 			color = { 226 226 0 }
+			b_hure_b0 = {}
+			b_hure_b1 = {}
+			b_hure_b2 = {}
+			b_hure_b3 = {}
+			b_hure_b4 = {}
+			b_hure_b5 = {}
+			b_hure_b6 = {}
 		}
 	}
 	d_chifeng = {
@@ -75,7 +82,13 @@ k_inner_mongolia = {
 		capital = 488
 		c_ongnyud = {
 			color = { 104 85 0 }
-			b_ongnyud = {}
+			b_ongnyud_b0 = {}
+			b_ongnyud_b1 = {}
+			b_ongnyud_b2 = {}
+			b_ongnyud_b3 = {}
+			b_ongnyud_b4 = {}
+			b_ongnyud_b5 = {}
+			b_ongnyud_b6 = {}
 		}
 		c_aohan = { 
 			color = { 195 85 0 }
@@ -83,9 +96,19 @@ k_inner_mongolia = {
 			b_xinhui = {}
 			b_sijiazi = {}
 			b_beizifu = {}
+			b_aohan_b4 = {}
+			b_aohan_b5 = {}
+			b_aohan_b6 = {}
 		}
 		c_baarin = {
 			color = { 198 120 0 }
+			b_baarin_b0 = {}
+			b_baarin_b1 = {}
+			b_baarin_b2 = {}
+			b_baarin_b3 = {}
+			b_baarin_b4 = {}
+			b_baarin_b5 = {}
+			b_baarin_b6 = {}
 		}
 	}
 	d_chaoyang = {
@@ -93,21 +116,64 @@ k_inner_mongolia = {
 		capital = 442
 		c_chaoyang = {
 			color = { 101 161 0 }
+			b_chaoyang_b0 = {}
+			b_chaoyang_b1 = {}
+			b_chaoyang_b2 = {}
+			b_chaoyang_b3 = {}
+			b_chaoyang_b4 = {}
+			b_chaoyang_b5 = {}
+			b_chaoyang_b6 = {}
 		}
 		c_lingyuan = {
 			color = { 227 195 0 }
+			b_lingyuan_b0 = {}
+			b_lingyuan_b1 = {}
+			b_lingyuan_b2 = {}
+			b_lingyuan_b3 = {}
+			b_lingyuan_b4 = {}
+			b_lingyuan_b5 = {}
+			b_lingyuan_b6 = {}
 		}
 		c_fuxin = {
 			color = { 186 142 0 }
+			b_fuxin_b0 = {}
+			b_fuxin_b1 = {}
+			b_fuxin_b2 = {}
+			b_fuxin_b3 = {}
+			b_fuxin_b4 = {}
+			b_fuxin_b5 = {}
+			b_fuxin_b6 = {}
+			
 		}
 		c_beipiao = {
 			color = { 189 105 0 }
+			b_beipiao_b0 = {}
+			b_beipiao_b1 = {}
+			b_beipiao_b2 = {}
+			b_beipiao_b3 = {}
+			b_beipiao_b4 = {}
+			b_beipiao_b5 = {}
+			b_beipiao_b6 = {}
 		}
 		c_zhangwu = { 
 			color = { 66 173 0 }
+			b_zhangwu_b0 = {}
+			b_zhangwu_b1 = {}
+			b_zhangwu_b2 = {}
+			b_zhangwu_b3 = {}
+			b_zhangwu_b4 = {}
+			b_zhangwu_b5 = {}
+			b_zhangwu_b6 = {}
 		}
 		c_jianping = { 
 			color = { 227 195 0 }
+			b_jianping_b0 = {}
+			b_jianping_b1 = {}
+			b_jianping_b2 = {}
+			b_jianping_b3 = {}
+			b_jianping_b4 = {}
+			b_jianping_b5 = {}
+			b_jianping_b6 = {}
 		}
 	}
 	d_chifing = {
@@ -115,15 +181,43 @@ k_inner_mongolia = {
 		capital = 477
 		c_lishu = {
 			color = { 0 192 51 }
+			b_lishu_b0
+			b_lishu_b1
+			b_lishu_b2
+			b_lishu_b3
+			b_lishu_b4
+			b_lishu_b5
+			b_lishu_b6
 		}
 		c_gongzhuling = {
 			color = { 0 104 91 }
+			b_gongzhuling_b0
+			b_gongzhuling_b1
+			b_gongzhuling_b2
+			b_gongzhuling_b3
+			b_gongzhuling_b4
+			b_gongzhuling_b5
+			b_gongzhuling_b6
 		}
 		c_shuangliao = {
 			color = { 0 129 252 }
+			b_shuangliao_b0
+			b_shuangliao_b1
+			b_shuangliao_b2
+			b_shuangliao_b3
+			b_shuangliao_b4
+			b_shuangliao_b5
+			b_shuangliao_b6
 		}
 		c_changling = {
 			color = { 0 153 35 }
+			b_changling_b0
+			b_changling_b1
+			b_changling_b2
+			b_changling_b3
+			b_changling_b4
+			b_changling_b5
+			b_changling_b6
 		}
 	}
 }
