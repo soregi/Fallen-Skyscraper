@@ -6,6 +6,11 @@ title = c_fushan
 # Settlements
 max_settlements = 6
 
+b_fushan_b0 = castle
+b_fushan_b1 = city
+b_fushan_b2 = temple
+b_fushan_b3 = city
+
 # Misc
 culture = yantai
 religion = taoist

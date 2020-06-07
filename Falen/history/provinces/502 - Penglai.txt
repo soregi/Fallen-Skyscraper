@@ -6,6 +6,10 @@ title = c_penglai
 # Settlements
 max_settlements = 5
 
+b_penglai_b0 = castle
+b_penglai_b1 = city
+b_penglai_b2 = temple
+
 # Misc
 culture = yantai
 religion = taoist

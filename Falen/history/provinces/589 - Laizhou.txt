@@ -5,6 +5,9 @@ title = c_laizhou
 # Settlements
 max_settlements = 3
 
+b_laizhou_b0 = castle
+b_laizhou_b1 = city
+
 # Misc
 culture = yantai
 religion = taoist

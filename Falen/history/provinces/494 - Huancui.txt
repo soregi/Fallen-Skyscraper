@@ -6,6 +6,11 @@ title = c_huancui
 # Settlements
 max_settlements = 5
 
+b_huancui_b0 = castle
+b_huancui_b1 = city
+b_huancui_b2 = castle
+b_huancui_b3 = temple
+
 # Misc
 culture = weihai
 religion = nightglow

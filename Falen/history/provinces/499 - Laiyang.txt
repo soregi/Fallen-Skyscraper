@@ -6,6 +6,10 @@ title = c_laiyang
 # Settlements
 max_settlements = 5
 
+b_laiyang_b0 = castle
+b_laiyang_b1 = city
+b_laiyang_b2 = temple
+
 # Misc
 culture = yantai
 religion = confucian

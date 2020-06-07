@@ -6,6 +6,10 @@ title = c_zhaoyuan
 # Settlements
 max_settlements = 5
 
+b_zhaoyuan_b0 = castle
+b_zhaoyuan_b1 = city
+b_zhaoyuan_b2 = temple
+
 # Misc
 culture = yantai
 religion = taoist

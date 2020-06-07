@@ -5,6 +5,10 @@ title = c_huangdao
 # Settlements
 max_settlements = 3
 
+b_huangdao_b0 = castle
+b_huangdao_b1 = city
+b_huangdao_b2 = temple
+
 # Misc
 culture = tsingtao
 religion = protestant

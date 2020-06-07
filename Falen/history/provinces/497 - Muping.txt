@@ -6,6 +6,10 @@ title = c_muping
 # Settlements
 max_settlements = 5
 
+b_muping_b0 = castle
+b_muping_b1 = city
+b_muping_b2 = temple
+
 # Misc
 culture = yantai
 religion = confucian

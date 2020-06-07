@@ -2,8 +2,12 @@
 
 # County Title
 title = c_jiaozhou
+
 # Settlements
 max_settlements = 3
+
+b_jiaozhou_b0 = castle
+b_jiaozhou_b1 = city
 
 # Misc
 culture = tsingtao

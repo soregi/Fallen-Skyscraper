@@ -6,6 +6,10 @@ title = c_wendeng
 # Settlements
 max_settlements = 5
 
+b_wendeng_b0 = castle
+b_wendeng_b1 = city
+b_wendeng_b2 = temple
+
 # Misc
 culture = weihai
 religion = confucian

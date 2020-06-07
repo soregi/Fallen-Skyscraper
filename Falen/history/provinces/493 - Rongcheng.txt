@@ -6,6 +6,10 @@ title = c_rongcheng
 # Settlements
 max_settlements = 5
 
+b_rongcheng_b0 = castle
+b_rongcheng_b1 = temple
+b_rongcheng_b2 = city
+
 # Misc
 culture = weihai
 religion = confucian
