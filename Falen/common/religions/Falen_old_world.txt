@@ -126,11 +126,14 @@ old_world_group = {
 		god_names = {
 			GOD_SURYONG GOD_JANGGUN
 		}
-		
+		character_modifier = {
+			vassal_limit = 10
+			vassal_opinion = 10
+		}
 		evil_god_names = {
 			AMERICAN_IMPERIALIST
 		}
-		
+		short_reign_opinion_year_mult = 0 # No short reign penalty
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
@@ -154,6 +157,11 @@ old_world_group = {
 		
 		high_god_name = GOD_SURYONG
 		
+		character_modifier = {
+			levy_size = 0.20
+			demesne_size = 1
+		}
+		
 		god_names = {
 			GOD_SURYONG GOD_JANGGUN
 		}
@@ -162,6 +170,7 @@ old_world_group = {
 			AMERICAN_IMPERIALIST
 		}
 		
+		short_reign_opinion_year_mult = 0 # No short reign penalty
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion

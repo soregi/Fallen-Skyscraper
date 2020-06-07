@@ -301,10 +301,10 @@ indian_group = {
 		
 		color = { 0.6 0.3 0.4 }
 		
-		high_god_name = GOD_THE_SKY
+		high_god_name = GOD_HANUL
 		
 		god_names = {
-			GOD_THE_GREAT_ONE
+			GOD_HANUL
 		}
 		
 		evil_god_names = {
@@ -315,20 +315,19 @@ indian_group = {
 			martial = 1
 		}
 		
-		has_heir_designation = yes
 		can_grant_divorce = yes
 		can_excommunicate = yes
 		can_call_crusade = no
 		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
-
+		priests_can_marry = yes
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = THE_BUDDHACAVANA
+		scripture_name = NONHAKMUN #논학문
 		priest_title = BHIKKHU
 		piety_name = KARMA
 		
