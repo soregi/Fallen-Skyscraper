@@ -6,6 +6,10 @@ title = c_geumya
 # Settlements
 max_settlements = 4
 
+b_geumya = castle
+b_kwangmyongsong_geumya = city
+b_kaljon_geumya = temple
+
 # Misc
 culture = hamnam
 religion = orthodox

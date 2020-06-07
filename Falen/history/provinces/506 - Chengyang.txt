@@ -6,6 +6,10 @@ title = c_chengyang
 # Settlements
 max_settlements = 5
 
+b_chengyang_b0 = castle
+b_chengyang_b1 = city
+b_chengyang_b2 = temple
+
 # Misc
 culture = tsingtao
 religion = protestant

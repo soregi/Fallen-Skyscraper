@@ -1,0 +1,10 @@
+1601 = {
+	name = "Yoshihiro"
+	dynasty = 4001601 #So
+	culture = yeongnam #원래는 일본인데, 아직 없음
+	religion = mahayana #원래 신토
+	trait = skilled_tactician
+	2424.3.25 = {
+		birth = yes
+	}
+}

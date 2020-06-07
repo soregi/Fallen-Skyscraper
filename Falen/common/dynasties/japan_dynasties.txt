@@ -1,0 +1,5 @@
+4001601 = {
+	name = "So"
+	culture = yeongnam #원래 일본
+	religion = mahayana #원래 신토
+}

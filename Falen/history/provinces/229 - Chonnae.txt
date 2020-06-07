@@ -6,6 +6,9 @@ title = c_chonnae
 # Settlements
 max_settlements = 4
 
+b_chonnae = castle
+b_kupho_chonnae = temple
+
 # Misc
 culture = yeongdong
 religion = orthodox

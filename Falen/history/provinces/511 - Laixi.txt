@@ -6,6 +6,10 @@ title = c_laixi
 # Settlements
 max_settlements = 5
 
+b_laixi_b0 = castle
+b_laixi_b1 = city
+b_laixi_b2 = temple
+
 # Misc
 culture = qingdao
 religion = taoist

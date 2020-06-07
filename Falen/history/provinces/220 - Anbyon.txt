@@ -6,6 +6,8 @@ title = c_anbyon
 # Settlements
 max_settlements = 4
 
+b_anbyon = tribal
+
 # Misc
 culture = yeongdong
 religion = cheondo

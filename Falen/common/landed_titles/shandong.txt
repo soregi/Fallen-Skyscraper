@@ -6,30 +6,93 @@ k_shandong = {
 		capital = 507
 		c_qingdao = {
 			color = { 104 0 208 }
+			b_qingdao_b0 = {}
+			b_qingdao_b1 = {}
+			b_qingdao_b2 = {}
+			b_qingdao_b3 = {}
+			b_qingdao_b4 = {}
+			b_qingdao_b5 = {}
+			b_qingdao_b6 = {}
 		}
 		c_pingdu = {
 			color = { 47 0 73 }
+			b_pingdu_b0 = {}
+			b_pingdu_b1 = {}
+			b_pingdu_b2 = {}
+			b_pingdu_b3 = {}
+			b_pingdu_b4 = {}
+			b_pingdu_b5 = {}
+			b_pingdu_b6 = {}
 		}
 		c_laixi = {
 			color = { 98 0 70 }
+			b_laixi_b0 = {}
+			b_laixi_b1 = {}
+			b_laixi_b2 = {}
+			b_laixi_b3 = {}
+			b_laixi_b4 = {}
+			b_laixi_b5 = {}
+			b_laixi_b6 = {}
 		}
 		c_jimo = {
 			color = { 136 0 255 }
+			b_jimo_b0 = {}
+			b_jimo_b1 = {}
+			b_jimo_b2 = {}
+			b_jimo_b3 = {}
+			b_jimo_b4 = {}
+			b_jimo_b5 = {}
+			b_jimo_b6 = {}
 		}
 		c_laoshan = {
 			color = { 82 0 82 }
+			b_laoshan_b0 = {}
+			b_laoshan_b1 = {}
+			b_laoshan_b2 = {}
+			b_laoshan_b3 = {}
+			b_laoshan_b4 = {}
+			b_laoshan_b5 = {}
+			b_laoshan_b6 = {}
 		}
 		c_jiaozhou = {
 			color = { 136 0 13 }
+			b_jiaozhou_b0 = {}
+			b_jiaozhou_b1 = {}
+			b_jiaozhou_b2 = {}
+			b_jiaozhou_b3 = {}
+			b_jiaozhou_b4 = {}
+			b_jiaozhou_b5 = {}
+			b_jiaozhou_b6 = {}
 		}
 		c_chengyang = {
 			color = { 167 0 82 }
+			b_chengyang_b0 = {}
+			b_chengyang_b1 = {}
+			b_chengyang_b2 = {}
+			b_chengyang_b3 = {}
+			b_chengyang_b4 = {}
+			b_chengyang_b5 = {}
+			b_chengyang_b6 = {}
 		}
 		c_gaomi = {
 			color = { 20 0 20 }
+			b_gaomi_b0 = {}
+			b_gaomi_b1 = {}
+			b_gaomi_b2 = {}
+			b_gaomi_b3 = {}
+			b_gaomi_b4 = {}
+			b_gaomi_b5 = {}
+			b_gaomi_b6 = {}
 		}
 		c_huangdao = {
 			color = { 115 65 140 }
+			b_huangdao_b0 = {}
+			b_huangdao_b1 = {}
+			b_huangdao_b2 = {}
+			b_huangdao_b3 = {}
+			b_huangdao_b4 = {}
+			b_huangdao_b5 = {}
+			b_huangdao_b6 = {}
 		}
 	}
 	d_yantai = {
@@ -37,30 +100,93 @@ k_shandong = {
 		capital = 501
 		c_haiyang = {
 			color = { 148 0 183 }
+			b_haiyang_b0 = {}
+			b_haiyang_b1 = {}
+			b_haiyang_b2 = {}
+			b_haiyang_b3 = {}
+			b_haiyang_b4 = {}
+			b_haiyang_b5 = {}
+			b_haiyang_b6 = {}
 		}
 		c_laiyang = {
 			color = { 221 0 101 }
+			b_laiyang_b0 = {}
+			b_laiyang_b1 = {}
+			b_laiyang_b2 = {}
+			b_laiyang_b3 = {}
+			b_laiyang_b4 = {}
+			b_laiyang_b5 = {}
+			b_laiyang_b6 = {}
 		}
 		c_qixia = {
 			color = { 25 0 195 }
+			b_qixia_b0 = {}
+			b_qixia_b1 = {}
+			b_qixia_b2 = {}
+			b_qixia_b3 = {}
+			b_qixia_b4 = {}
+			b_qixia_b5 = {}
+			b_qixia_b6 = {}
 		}
 		c_muping = {
 			color = { 97 0 59 }
+			b_muping_b0 = {}
+			b_muping_b1 = {}
+			b_muping_b2 = {}
+			b_muping_b3 = {}
+			b_muping_b4 = {}
+			b_muping_b5 = {}
+			b_muping_b6 = {}
 		}
 		c_fushan = {
 			color = { 148 0 66 }
+			b_fushan_b0 = {}
+			b_fushan_b1 = {}
+			b_fushan_b2 = {}
+			b_fushan_b3 = {}
+			b_fushan_b4 = {}
+			b_fushan_b5 = {}
+			b_fushan_b6 = {}
 		}
 		c_penglai = {
 			color = { 236 0 113 }
+			b_penglai_b0 = {}
+			b_penglai_b1 = {}
+			b_penglai_b2 = {}
+			b_penglai_b3 = {}
+			b_penglai_b4 = {}
+			b_penglai_b5 = {}
+			b_penglai_b6 = {}
 		}
 		c_longkou = {
 			color = { 91 0 113 }
+			b_longkou_b0 = {}
+			b_longkou_b1 = {}
+			b_longkou_b2 = {}
+			b_longkou_b3 = {}
+			b_longkou_b4 = {}
+			b_longkou_b5 = {}
+			b_longkou_b6 = {}
 		}
 		c_zhaoyuan = {
 			color = { 179 0 34 }
+			b_zhaoyuan_b0 = {}
+			b_zhaoyuan_b1 = {}
+			b_zhaoyuan_b2 = {}
+			b_zhaoyuan_b3 = {}
+			b_zhaoyuan_b4 = {}
+			b_zhaoyuan_b5 = {}
+			b_zhaoyuan_b6 = {}
 		}
 		c_laizhou = {
 			color = { 60 10 75 }
+			b_laizhou_b0 = {}
+			b_laizhou_b1 = {}
+			b_laizhou_b2 = {}
+			b_laizhou_b3 = {}
+			b_laizhou_b4 = {}
+			b_laizhou_b5 = {}
+			b_laizhou_b6 = {}
 		}
 	}
 	d_weihai = {
@@ -68,15 +194,43 @@ k_shandong = {
 		capital = 495
 		c_wendeng = {
 			color = { 154 0 44 }
+			b_wendeng_b0 = {}
+			b_wendeng_b1 = {}
+			b_wendeng_b2 = {}
+			b_wendeng_b3 = {}
+			b_wendeng_b4 = {}
+			b_wendeng_b5 = {}
+			b_wendeng_b6 = {}
 		}
 		c_rushan = {
 			color = { 76 0 217 }
+			b_rushan_b0 = {}
+			b_rushan_b1 = {}
+			b_rushan_b2 = {}
+			b_rushan_b3 = {}
+			b_rushan_b4 = {}
+			b_rushan_b5 = {}
+			b_rushan_b6 = {}
 		}
 		c_huancui = {
 			color = { 63 0 126 }
+			b_huancui_b0 = {}
+			b_huancui_b1 = {}
+			b_huancui_b2 = {}
+			b_huancui_b3 = {}
+			b_huancui_b4 = {}
+			b_huancui_b5 = {}
+			b_huancui_b6 = {}
 		}
 		c_rongcheng = {
 			color = { 214 0 221 }
+			b_rongcheng_b0 = {}
+			b_rongcheng_b1 = {}
+			b_rongcheng_b2 = {}
+			b_rongcheng_b3 = {}
+			b_rongcheng_b4 = {}
+			b_rongcheng_b5 = {}
+			b_rongcheng_b6 = {}
 		}	
 	}
 }

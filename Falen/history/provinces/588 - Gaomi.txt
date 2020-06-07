@@ -4,6 +4,9 @@ title = c_gaomi
 # Settlements
 max_settlements = 3
 
+b_gaomi_b0 = castle
+b_gaomi_b1 = temple
+
 # Misc
 culture = qingdao
 religion = taoist

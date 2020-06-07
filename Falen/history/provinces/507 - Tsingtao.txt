@@ -6,6 +6,13 @@ title = c_qingdao
 # Settlements
 max_settlements = 6
 
+b_qingdao_b0 = castle
+b_qingdao_b1 = city
+b_qingdao_b2 = city
+b_qingdao_b3 = temple
+b_qingdao_b4 = castle
+b_qingdao_b5 = temple
+
 # Misc
 culture = tsingtao
 religion = protestant

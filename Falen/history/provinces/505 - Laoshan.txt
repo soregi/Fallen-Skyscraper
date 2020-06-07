@@ -6,6 +6,11 @@ title = c_laoshan
 # Settlements
 max_settlements = 5
 
+b_laoshan_b0 = castle
+b_laoshan_b1 = city
+b_laoshan_b2 = temple
+b_laoshan_b3 = castle
+
 # Misc
 culture = qingdao
 religion = confucian
