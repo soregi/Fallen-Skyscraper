@@ -70,6 +70,7 @@ k_gyeonggi = {
 			b_cheongdam = {}
 			b_seocho = {}
 			b_banpo = {}
+			b_gangnam_b6 = {}
 		}
 		c_songpa = {
 			color = { 255 79 75 }
@@ -554,8 +555,13 @@ k_gyeonggi = {
 		}
 		c_dongtan = {
 			color = { 255 47 0 }
-			b_dongtan_a = {}
-			b_dongtan_b = {}
+			b_dongtan_b0 = {}
+			b_dongtan_b1 = {}
+			b_dongtan_b2 = {}
+			b_dongtan_b3 = {}
+			b_dongtan_b4 = {}
+			b_dongtan_b5 = {}
+			b_dongtan_b6 = {}
 		}
 		c_hwaseong = {
 			color = { 87 0 0 }

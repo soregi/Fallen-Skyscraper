@@ -6,6 +6,9 @@ title = c_khorolsky
 # Settlements
 max_settlements = 3
 
+b_khorolsky_b0 = castle
+b_khorolsky_b1 = temple
+
 # Misc
 culture = russian
 religion = marxist

@@ -6,6 +6,10 @@ title = c_oktyabrsky
 # Settlements
 max_settlements = 3
 
+b_oktyabrsky_b0 = city
+b_oktyabrsky_b1 = castle
+b_oktyabrsky_b2 = temple
+
 # Misc
 culture = russian
 religion = marxist

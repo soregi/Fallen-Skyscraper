@@ -6,6 +6,10 @@ title = c_fokino
 # Settlements
 max_settlements = 4
 
+b_fokino_b0 = castle
+b_fokino_b1 = city
+b_fokino_b2 = temple
+
 # Misc
 culture = russian
 religion = orthodox

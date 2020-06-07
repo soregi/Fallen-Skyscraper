@@ -6,6 +6,13 @@ title = c_vladivostok
 # Settlements
 max_settlements = 6
 
+b_vladivostok_b0 = castle
+b_vladivostok_b1 = city
+b_vladivostok_b2 = temple
+b_vladivostok_b3 = temple
+b_vladivostok_b4 = castle
+b_vladivostok_b5 = city
+
 # Misc
 culture = russian
 religion = orthodox

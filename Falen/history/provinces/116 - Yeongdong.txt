@@ -6,7 +6,7 @@ title = c_yeongdong
 # Settlements
 max_settlements = 4
 
-b_yeongdong = tribal
+b_yeongdong_b0 = tribal
 
 # Misc
 culture = hoseo

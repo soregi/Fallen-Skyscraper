@@ -6,6 +6,11 @@ title = c_nadezhdinsky
 # Settlements
 max_settlements = 4
 
+b_nadezhdinsky_b0 = castle
+b_nadezhdinsky_b1 = city
+b_nadezhdinsky_b2 = temple
+b_nadezhdinsky_b3 = castle
+
 # Misc
 culture = russian
 religion = orthodox

@@ -6,6 +6,9 @@ title = c_ussuriysk
 # Settlements
 max_settlements = 4
 
+b_ussuriysk_b0 = castle
+b_ussuriysk_b1 = temple
+
 # Misc
 culture = russian
 religion = orthodox

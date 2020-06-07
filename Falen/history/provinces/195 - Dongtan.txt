@@ -6,8 +6,8 @@ title = c_dongtan
 # Settlements
 max_settlements = 5
 
-b_dongtan_a = castle
-b_dongtan_b = city
+b_dongtan_b0 = castle
+b_dongtan_b1 = city
 
 # Misc
 culture = gyeonggi

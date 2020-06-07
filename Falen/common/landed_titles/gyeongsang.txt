@@ -322,13 +322,13 @@ k_gyeongsang = {
 		}
 		c_yeongdong = {
 			color = { 26 127 26 }
-			b_yeongdong = {}
-			#b_
-			#b_
-			#b_
-			#b_
-			#b_
-			#b_
+			b_yeongdong_b0 = {}
+			b_yeongdong_b1 = {}
+			b_yeongdong_b2 = {}
+			b_yeongdong_b3 = {}
+			b_yeongdong_b4 = {}
+			b_yeongdong_b5 = {}
+			b_yeongdong_b6 = {}
 		}
 		c_mungyeong = {
 			color = { 0 5 255 }

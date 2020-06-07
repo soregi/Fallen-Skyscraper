@@ -6,6 +6,9 @@ title = c_pogranichny
 # Settlements
 max_settlements = 2
 
+b_pogranichny_b0 = castle
+b_pogranichny_b1 = city
+
 # Misc
 culture = russian
 religion = marxist

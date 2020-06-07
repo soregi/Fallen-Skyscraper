@@ -6,24 +6,73 @@ k_primorsky = {
 		capital = 387
 		c_vladivostok = {
 			color = { 0 252 0 }
+			b_vladivostok_b0 = {}
+			b_vladivostok_b1 = {}
+			b_vladivostok_b2 = {}
+			b_vladivostok_b3 = {}
+			b_vladivostok_b4 = {}
+			b_vladivostok_b5 = {}
+			b_vladivostok_b6 = {}
 		}
 		c_russky = {
 			color = { 0 88 0 }
+			b_russky_b0 = {}
+			b_russky_b1 = {}
+			b_russky_b2 = {}
+			b_russky_b3 = {}
+			b_russky_b4 = {}
+			b_russky_b5 = {}
+			b_russky_b6 = {}
 		}
 		c_khasansky = {
 			color = { 0 22 0 }
+			b_khasansky_b0 = {}
+			b_khasansky_b1 = {}
+			b_khasansky_b2 = {}
+			b_khasansky_b3 = {}
+			b_khasansky_b4 = {}
+			b_khasansky_b5 = {}
+			b_khasansky_b6 = {}
 		}
 		c_nadezhdinsky = {
 			color = { 0 57 0 }
+			b_nadezhdinsky_b0 = {}
+			b_nadezhdinsky_b1 = {}
+			b_nadezhdinsky_b2 = {}
+			b_nadezhdinsky_b3 = {}
+			b_nadezhdinsky_b4 = {}
+			b_nadezhdinsky_b5 = {}
+			b_nadezhdinsky_b6 = {}
 		}
 		c_ussuriysk = {
 			color = { 0 124 0 }
+			b_ussuriysk_b0 = {}
+			b_ussuriysk_b1 = {}
+			b_ussuriysk_b2 = {}
+			b_ussuriysk_b3 = {}
+			b_ussuriysk_b4 = {}
+			b_ussuriysk_b5 = {}
+			b_ussuriysk_b6 = {}
 		}
-		c_shkotovsky = {
+		c_shkotovsky = { #아마 이게 kem일것임
 			color = { 0 174 0 }
+			b_shkotovsky_b0 = {}
+			b_shkotovsky_b1 = {}
+			b_shkotovsky_b2 = {}
+			b_shkotovsky_b3 = {}
+			b_shkotovsky_b4 = {}
+			b_shkotovsky_b5 = {}
+			b_shkotovsky_b6 = {}
 		}
-		c_fokino = {
+		c_fokino = { 
 			color = { 0 62 0 }
+			b_fokino_b0 = {}
+			b_fokino_b1 = {}
+			b_fokino_b2 = {}
+			b_fokino_b3 = {}
+			b_fokino_b4 = {}
+			b_fokino_b5 = {}
+			b_fokino_b6 = {}
 		}
 	}
 	d_ussuriysk = {
@@ -31,18 +80,53 @@ k_primorsky = {
 		capital = 391
 		c_mikhailovsky = {
 			color = { 0 36 0 }
+			b_mikhailovsky_b0 = {}
+			b_mikhailovsky_b1 = {}
+			b_mikhailovsky_b2 = {}
+			b_mikhailovsky_b3 = {}
+			b_mikhailovsky_b4 = {}
+			b_mikhailovsky_b5 = {}
+			b_mikhailovsky_b6 = {}
 		}
 		c_oktyabrsky = {
 			color = { 0 137 0 }
+			b_oktyabrsky_b0 = {}
+			b_oktyabrsky_b1 = {}
+			b_oktyabrsky_b2 = {}
+			b_oktyabrsky_b3 = {}
+			b_oktyabrsky_b4 = {}
+			b_oktyabrsky_b5 = {}
+			b_oktyabrsky_b6 = {}
 		}
 		c_khorolsky = {
 			color = { 0 177 0 }
+			b_khorolsky_b0 = {}
+			b_khorolsky_b1 = {}
+			b_khorolsky_b2 = {}
+			b_khorolsky_b3 = {}
+			b_khorolsky_b4 = {}
+			b_khorolsky_b5 = {}
+			b_khorolsky_b6 = {}
 		}
 		c_chernigovsky = {
 			color = { 0 226 0 }
+			b_chernigovsky_b0 = {}
+			b_chernigovsky_b1 = {}
+			b_chernigovsky_b2 = {}
+			b_chernigovsky_b3 = {}
+			b_chernigovsky_b4 = {}
+			b_chernigovsky_b5 = {}
+			b_chernigovsky_b6 = {}
 		}
 		c_pogranichny = {
 			color = { 0 49 0 }
+			b_pogranichny_b0 = {}
+			b_pogranichny_b1 = {}
+			b_pogranichny_b2 = {}
+			b_pogranichny_b3 = {}
+			b_pogranichny_b4 = {}
+			b_pogranichny_b5 = {}
+			b_pogranichny_b6 = {}
 		}
 	}
 }

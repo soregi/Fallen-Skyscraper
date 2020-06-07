@@ -6,6 +6,9 @@ title = c_shkotovsky
 # Settlements
 max_settlements = 4
 
+b_shkotovsky_b0 = castle
+b_shkotovsky_b1 = city
+
 # Misc
 culture = russian
 religion = orthodox
