@@ -104,19 +104,43 @@ k_pyeongan = {
 		capital = 271
 		c_maengsan = {
 			color = { 100 30 10 }
-			b_maengsan = {}
+			b_maengsan_b0 = {}
+			b_maengsan_b1 = {}
+			b_maengsan_b2 = {}
+			b_maengsan_b3 = {}
+			b_maengsan_b4 = {}
+			b_maengsan_b5 = {}
+			b_maengsan_b6 = {}
 		}
 		c_nyeongwon = {
 			color = { 245 0 0 }
-			b_nyeongwon = {}
+			b_nyeongwon_b0 = {}
+			b_nyeongwon_b1 = {}
+			b_nyeongwon_b2 = {}
+			b_nyeongwon_b3 = {}
+			b_nyeongwon_b4 = {}
+			b_nyeongwon_b5 = {}
+			b_nyeongwon_b6 = {}
 		}
 		c_sinyang = {
 			color = { 155 25 25 }
-			b_sinyang = {}
+			b_sinyang_b0 = {}
+			b_sinyang_b1 = {}
+			b_sinyang_b2 = {}
+			b_sinyang_b3 = {}
+			b_sinyang_b4 = {}
+			b_sinyang_b5 = {}
+			b_sinyang_b6 = {}
 		}
 		c_yangdok = {
 			color = { 160 0 0 }
-			b_yangdok = {}
+			b_yangdok_b0 = {}
+			b_yangdok_b1 = {}
+			b_yangdok_b2 = {}
+			b_yangdok_b3 = {}
+			b_yangdok_b4 = {}
+			b_yangdok_b5 = {}
+			b_yangdok_b6 = {}
 		}
 	}
 	d_anju = {
@@ -256,19 +280,43 @@ k_pyeongan = {
 		capital = 304
 		c_nyongbyon = {
 			color = { 170 40 40 }
-			b_nyongbyon = {}
+			b_nyongbyon_b0 = {}
+			b_nyongbyon_b1 = {}
+			b_nyongbyon_b2 = {}
+			b_nyongbyon_b3 = {}
+			b_nyongbyon_b4 = {}
+			b_nyongbyon_b5 = {}
+			b_nyongbyon_b6 = {}
 		}
 		c_pakchon = {
 			color = { 20 0 0 }
-			b_pakchon = {}
+			b_pakchon_b0 = {}
+			b_pakchon_b1 = {}
+			b_pakchon_b2 = {}
+			b_pakchon_b3 = {}
+			b_pakchon_b4 = {}
+			b_pakchon_b5 = {}
+			b_pakchon_b6 = {}
 		}
 		c_gujang = {
 			color = { 135 20 20 }
-			b_gujang = {}
+			b_gujang_b0 = {}
+			b_gujang_b1 = {}
+			b_gujang_b2 = {}
+			b_gujang_b3 = {}
+			b_gujang_b4 = {}
+			b_gujang_b5 = {}
+			b_gujang_b6 = {}
 		}
 		c_thachon = {
 			color = { 230 0 0 }
-			b_thachon = {}
+			b_thachon_b0 = {}
+			b_thachon_b1 = {}
+			b_thachon_b2 = {}
+			b_thachon_b3 = {}
+			b_thachon_b4 = {}
+			b_thachon_b5 = {}
+			b_thachon_b6 = {}
 		}
 	}
 	d_jongju = {
@@ -276,19 +324,43 @@ k_pyeongan = {
 		capital = 293
 		c_unjeon = {
 			color = { 175 0 0 }
-			b_unjeon = {}
+			b_unjeon_b0 = {}
+			b_unjeon_b1 = {}
+			b_unjeon_b2 = {}
+			b_unjeon_b3 = {}
+			b_unjeon_b4 = {}
+			b_unjeon_b5 = {}
+			b_unjeon_b6 = {}
 		}
 		c_jongju = {
 			color = { 35 0 0 }
-			b_jongju = {}
+			b_jongju_b0 = {}
+			b_jongju_b1 = {}
+			b_jongju_b2 = {}
+			b_jongju_b3 = {}
+			b_jongju_b4 = {}
+			b_jongju_b5 = {}
+			b_jongju_b6 = {}
 		}
 		c_kwaksan = {
 			color = { 240 10 10 }
-			b_kwaksan = {}
+			b_kwaksan_b0 = {}
+			b_kwaksan_b1 = {}
+			b_kwaksan_b2 = {}
+			b_kwaksan_b3 = {}
+			b_kwaksan_b4 = {}
+			b_kwaksan_b5 = {}
+			b_kwaksan_b6 = {}
 		}
 		c_sonchon = {
 			color = { 40 0 0 }
-			b_sonchon = {}
+			b_sonchon_b0 = {}
+			b_sonchon_b1 = {}
+			b_sonchon_b2 = {}
+			b_sonchon_b3 = {}
+			b_sonchon_b4 = {}
+			b_sonchon_b5 = {}
+			b_sonchon_b6 = {}
 		}
 	}
 	d_dongrim = {
@@ -296,23 +368,53 @@ k_pyeongan = {
 		capital = 296
 		c_dongrim = {
 			color = { 255 10 10 }
-			b_dongrim = {}
+			b_dongrim_b0 = {}
+			b_dongrim_b1 = {}
+			b_dongrim_b2 = {}
+			b_dongrim_b3 = {}
+			b_dongrim_b4 = {}
+			b_dongrim_b5 = {}
+			b_dongrim_b6 = {}
 		}
 		c_cholsan = {
 			color = { 100 25 25 }
-			b_cholsan = {}
+			b_cholsan_b0 = {}
+			b_cholsan_b1 = {}
+			b_cholsan_b2 = {}
+			b_cholsan_b3 = {}
+			b_cholsan_b4 = {}
+			b_cholsan_b5 = {}
+			b_cholsan_b6 = {}
 		}
 		c_yomju = {
 			color = { 250 50 50 }
-			b_yomju = {}
+			b_yomju_b0 = {}
+			b_yomju_b1 = {}
+			b_yomju_b2 = {}
+			b_yomju_b3 = {}
+			b_yomju_b4 = {}
+			b_yomju_b5 = {}
+			b_yomju_b6 = {}
 		}
 		c_ryongchon = {
 			color = { 75 25 25 }
-			b_ryongchon = {}
+			b_ryongchon_b0 = {}
+			b_ryongchon_b1 = {}
+			b_ryongchon_b2 = {}
+			b_ryongchon_b3 = {}
+			b_ryongchon_b4 = {}
+			b_ryongchon_b5 = {}
+			b_ryongchon_b6 = {}
 		}
 		c_sindo = {
 			color = { 145 10 10 }
-			b_sindo = {}
+			b_sindo_b0 = {}
+			b_sindo_b1 = {}
+			b_sindo_b2 = {}
+			b_sindo_b3 = {}
+			b_sindo_b4 = {}
+			b_sindo_b5 = {}
+			b_sindo_b6 = {}
 		}
 	}
 	d_uiju = {
@@ -320,15 +422,33 @@ k_pyeongan = {
 		capital = 303
 		c_uiju = {
 			color = { 95 0 0 }
-			b_uiju = {}
+			b_uiju_b0 = {}
+			b_uiju_b1 = {}
+			b_uiju_b2 = {}
+			b_uiju_b3 = {}
+			b_uiju_b4 = {}
+			b_uiju_b5 = {}
+			b_uiju_b6 = {}
 		}
 		c_sinuiju = {
 			color = { 170 25 25 }
-			b_sinuiju = {}
+			b_sinuiju_b0 = {}
+			b_sinuiju_b1 = {}
+			b_sinuiju_b2 = {}
+			b_sinuiju_b3 = {}
+			b_sinuiju_b4 = {}
+			b_sinuiju_b5 = {}
+			b_sinuiju_b6 = {}
 		}
 		c_pihyon = {
 			color = { 125 40 40 }
-			b_pihyon = {}
+			b_pihyon_b0 = {}
+			b_pihyon_b1 = {}
+			b_pihyon_b2 = {}
+			b_pihyon_b3 = {}
+			b_pihyon_b4 = {}
+			b_pihyon_b5 = {}
+			b_pihyon_b6 = {}
 		}
 	}
 	d_gusong = {
@@ -336,19 +456,43 @@ k_pyeongan = {
 		capital = 315
 		c_sakju = {
 			color = { 220 40 40 }
-			b_sakju = {}
+			b_sakju_b0 = {}
+			b_sakju_b1 = {}
+			b_sakju_b2 = {}
+			b_sakju_b3 = {}
+			b_sakju_b4 = {}
+			b_sakju_b5 = {}
+			b_sakju_b6 = {}
 		}
 		c_chonma = {
 			color = { 175 100 0 }
-			b_chonma = {}
+			b_chonma_b0 = {}
+			b_chonma_b1 = {}
+			b_chonma_b2 = {}
+			b_chonma_b3 = {}
+			b_chonma_b4 = {}
+			b_chonma_b5 = {}
+			b_chonma_b6 = {}
 		}
 		c_taegwan = {
 			color = { 120 40 40 }
-			b_taegwan = {}
+			b_taegwan_b0 = {}
+			b_taegwan_b1 = {}
+			b_taegwan_b2 = {}
+			b_taegwan_b3 = {}
+			b_taegwan_b4 = {}
+			b_taegwan_b5 = {}
+			b_taegwan_b6 = {}
 		}
 		c_kusong = {
 			color = { 180 90 90 }
-			b_kusong = {}
+			b_kusong_b0 = {}
+			b_kusong_b1 = {}
+			b_kusong_b2 = {}
+			b_kusong_b3 = {}
+			b_kusong_b4 = {}
+			b_kusong_b5 = {}
+			b_kusong_b6 = {}
 		}
 	}
 	d_huichon = {
@@ -356,39 +500,93 @@ k_pyeongan = {
 		capital = 319
 		c_huichon = {
 			color = { 0 25 0 }
-			b_huichon = {}
+			b_huichon_b0 = {}
+			b_huichon_b1 = {}
+			b_huichon_b2 = {}
+			b_huichon_b3 = {}
+			b_huichon_b4 = {}
+			b_huichon_b5 = {}
+			b_huichon_b6 = {}
 		}
 		c_changsong = {
 			color = { 180 45 45 }
-			b_changsong = {}
+			b_changsong_b0 = {}
+			b_changsong_b1 = {}
+			b_changsong_b2 = {}
+			b_changsong_b3 = {}
+			b_changsong_b4 = {}
+			b_changsong_b5 = {}
+			b_changsong_b6 = {}
 		}
 		c_tongchang = {
 			color = { 180 80 0 }
-			b_tongchang = {}
+			b_tongchang_b0 = {}
+			b_tongchang_b1 = {}
+			b_tongchang_b2 = {}
+			b_tongchang_b3 = {}
+			b_tongchang_b4 = {}
+			b_tongchang_b5 = {}
+			b_tongchang_b6 = {}
 		}
 		c_usi = {
 			color = { 60 120 0 }
-			b_usi = {}
+			b_usi_b0 = {}
+			b_usi_b1 = {}
+			b_usi_b2 = {}
+			b_usi_b3 = {}
+			b_usi_b4 = {}
+			b_usi_b5 = {}
+			b_usi_b6 = {}
 		}
 		c_unsan = {
 			color = { 85 10 10 }
-			b_unsan = {}
+			b_unsan_b0 = {}
+			b_unsan_b1 = {}
+			b_unsan_b2 = {}
+			b_unsan_b3 = {}
+			b_unsan_b4 = {}
+			b_unsan_b5 = {}
+			b_unsan_b6 = {}
 		}
 		c_songwon = {
 			color = { 0 200 10 }
-			b_songwon = {}
+			b_songwon_b0 = {}
+			b_songwon_b1 = {}
+			b_songwon_b2 = {}
+			b_songwon_b3 = {}
+			b_songwon_b4 = {}
+			b_songwon_b5 = {}
+			b_songwon_b6 = {}
 		}
 		c_hyangsan = {
 			color = { 175 25 25 }
-			b_hyangsan = {}
+			b_hyangsan_b0 = {}
+			b_hyangsan_b1 = {}
+			b_hyangsan_b2 = {}
+			b_hyangsan_b3 = {}
+			b_hyangsan_b4 = {}
+			b_hyangsan_b5 = {}
+			b_hyangsan_b6 = {}
 		}
 		c_pyoktong = {
 			color = { 225 45 45 }
-			b_pyoktong = {}
+			b_pyoktong_b0 = {}
+			b_pyoktong_b1 = {}
+			b_pyoktong_b2 = {}
+			b_pyoktong_b3 = {}
+			b_pyoktong_b4 = {}
+			b_pyoktong_b5 = {}
+			b_pyoktong_b6 = {}
 		}
 		c_tongsin = {
 			color = { 0 250 0 }
-			b_tongsin = {}
+			b_tongsin_b0 = {}
+			b_tongsin_b1 = {}
+			b_tongsin_b2 = {}
+			b_tongsin_b3 = {}
+			b_tongsin_b4 = {}
+			b_tongsin_b5 = {}
+			b_tongsin_b6 = {}
 		}
 	}
 	d_ganggye = {
@@ -396,27 +594,63 @@ k_pyeongan = {
 		capital = 322
 		c_chosan = {
 			color = { 0 120 60 }
-			b_chosan = {}
+			b_chosan_b0 = {}
+			b_chosan_b1 = {}
+			b_chosan_b2 = {}
+			b_chosan_b3 = {}
+			b_chosan_b4 = {}
+			b_chosan_b5 = {}
+			b_chosan_b6 = {}
 		}
 		c_kopung = {
 			color = { 25 215 75 }
-			b_kopung = {}
+			b_kopung_b0 = {}
+			b_kopung_b1 = {}
+			b_kopung_b2 = {}
+			b_kopung_b3 = {}
+			b_kopung_b4 = {}
+			b_kopung_b5 = {}
+			b_kopung_b6 = {}
 		}
 		c_wiwon = {
 			color = { 145 255 0 }
-			b_wiwon = {}
+			b_wiwon_b0 = {}
+			b_wiwon_b1 = {}
+			b_wiwon_b2 = {}
+			b_wiwon_b3 = {}
+			b_wiwon_b4 = {}
+			b_wiwon_b5 = {}
+			b_wiwon_b6 = {}
 		}
 		c_jonchon = {
 			color = { 0 175 25 }
-			b_jonchon = {}
+			b_jonchon_b0 = {}
+			b_jonchon_b1 = {}
+			b_jonchon_b2 = {}
+			b_jonchon_b3 = {}
+			b_jonchon_b4 = {}
+			b_jonchon_b5 = {}
+			b_jonchon_b6 = {}
 		}
 		c_songgan = {
 			color = { 120 220 45 }
-			b_songgan = {}
+			b_songgan_b0 = {}
+			b_songgan_b1 = {}
+			b_songgan_b2 = {}
+			b_songgan_b3 = {}
+			b_songgan_b4 = {}
+			b_songgan_b5 = {}
+			b_songgan_b6 = {}
 		}
 		c_ryongrim = {
 			color = { 103 175 0 }
-			b_ryongrim = {}
+			b_ryongrim_b0 = {}
+			b_ryongrim_b1 = {}
+			b_ryongrim_b2 = {}
+			b_ryongrim_b3 = {}
+			b_ryongrim_b4 = {}
+			b_ryongrim_b5 = {}
+			b_ryongrim_b6 = {}
 		}
 	}
 	d_jasong = {
@@ -424,31 +658,73 @@ k_pyeongan = {
 		capital = 335
 		c_junggang = {
 			color = { 45 175 0 }
-			b_junggang = {}
+			b_junggang_b0 = {}
+			b_junggang_b1 = {}
+			b_junggang_b2 = {}
+			b_junggang_b3 = {}
+			b_junggang_b4 = {}
+			b_junggang_b5 = {}
+			b_junggang_b6 = {}
 		}
 		c_jasong = {
 			color = { 120 140 40 }
-			b_jasong = {}
+			b_jasong_b0 = {}
+			b_jasong_b1 = {}
+			b_jasong_b2 = {}
+			b_jasong_b3 = {}
+			b_jasong_b4 = {}
+			b_jasong_b5 = {}
+			b_jasong_b6 = {}
 		}
 		c_manpho = {
 			color = { 100 255 100 }
-			b_manpho = {}
+			b_manpho_b0 = {}
+			b_manpho_b1 = {}
+			b_manpho_b2 = {}
+			b_manpho_b3 = {}
+			b_manpho_b4 = {}
+			b_manpho_b5 = {}
+			b_manpho_b6 = {}
 		}
 		c_sijung = {
 			color = { 150 200 0 }
-			b_sijung = {}
+			b_sijung_b0 = {}
+			b_sijung_b1 = {}
+			b_sijung_b2 = {}
+			b_sijung_b3 = {}
+			b_sijung_b4 = {}
+			b_sijung_b5 = {}
+			b_sijung_b6 = {}
 		}
 		c_kanggye = {
 			color = { 50 255 145 }
-			b_kanggye = {}
+			b_kanggye_b0 = {}
+			b_kanggye_b1 = {}
+			b_kanggye_b2 = {}
+			b_kanggye_b3 = {}
+			b_kanggye_b4 = {}
+			b_kanggye_b5 = {}
+			b_kanggye_b6 = {}
 		}
 		c_janggang = {
 			color = { 50 190 120 }
-			b_janggang = {}
+			b_janggang_b0 = {}
+			b_janggang_b1 = {}
+			b_janggang_b2 = {}
+			b_janggang_b3 = {}
+			b_janggang_b4 = {}
+			b_janggang_b5 = {}
+			b_janggang_b6 = {}
 		}
 		c_hwapyeong = {
 			color = { 20 100 20 }
-			b_hwapyeong = {}
+			b_hwapyeong_b0 = {}
+			b_hwapyeong_b1 = {}
+			b_hwapyeong_b2 = {}
+			b_hwapyeong_b3 = {}
+			b_hwapyeong_b4 = {}
+			b_hwapyeong_b5 = {}
+			b_hwapyeong_b6 = {}
 		}
 	}
 }

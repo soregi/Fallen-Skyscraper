@@ -6,18 +6,23 @@ k_hamgyeong = {
 		capital = 356
 		c_hamheung = {
 			color = { 70 10 90 }
+			
 		}
 		c_yodeok = {
 			color = { 45 45 70 }
+			
 		}
 		c_jeongpyeong = {
 			color = { 50 100 120 }
+			
 		}
 		c_hamju = {
 			color = { 50 50 120 }
+			
 		}
 		c_daeheung = {
 			color = { 180 0 0 }
+			
 		}
 	}
 	d_sinpo = {
@@ -25,18 +30,23 @@ k_hamgyeong = {
 		capital = 362
 		c_lakwon = {
 			color = { 80 40 110 }
+			
 		}
 		c_hongwon = {
 			color = { 75 20 100 }
+			
 		}
 		c_sinpo = {
 			color = { 20 100 150 }
+			
 		}
 		c_bukcheong = {
 			color = { 100 90 150 }
+			
 		}
 		c_liwon = {
 			color = { 70 70 255 }
+			
 		}
 	}
 	d_gaema = {
@@ -44,9 +54,11 @@ k_hamgyeong = {
 		capital = 357
 		c_h_yeonggwang = {
 			color = { 60 60 140 }
+			
 		}
 		c_sinheung = {
 			color = { 140 140 250 }
+			
 		}
 		c_jangjin = {
 			color = { 80 40 100 }
@@ -105,33 +117,43 @@ k_hamgyeong = {
 		capital = 339
 		c_pungso = {
 			color = { 25 175 25 }
+			
 		}
 		c_samsu = {
 			color = { 7 255 31 }
+			
 		}
 		c_sinpha = {
 			color = { 63 115 10 }
+			
 		}
 		c_huchang = {
 			color = { 25 100 45 }
+			
 		}
 		c_hyesan = {
 			color = { 50 100 50 }
+			
 		}
 		c_kapsan = {
 			color = { 141 175 45 }
+			
 		}
 		c_unheung = {
 			color = { 145 190 145 }
+			
 		}
 		c_bocheon = {
 			color = { 100 120 0 }
+			
 		}
 		c_samjiyeon = {
 			color = { 90 140 45 }
+			
 		}
 		c_daehongdan = {
 			color = { 45 80 30 }
+			
 		}
 	}
 	d_kilju = {
@@ -139,18 +161,23 @@ k_hamgyeong = {
 		capital = 368
 		c_gimchaek = {
 			color = { 90 150 225 }
+			
 		}
 		c_dancheon = {
 			color = { 65 90 160 }
+			
 		}
 		c_heocheon = {
 			color = { 90 180 255 }
+			
 		}
 		c_hwadae = {
 			color = { 45 100 150 }
+			
 		}
 		c_myeongcheon = {
 			color = { 100 100 200 }
+			
 		}
 	}
 	d_kyongsong = {
@@ -158,18 +185,23 @@ k_hamgyeong = {
 		capital = 370
 		c_baekam = {
 			color = { 28 120 47 }
+			
 		}
 		c_yeonsa = {
 			color = { 90 70 160 }
+			
 		}
 		c_eorang = {
 			color = { 150 100 200 }
+			
 		}
 		c_gilju = {
 			color = { 25 25 70 }
+			
 		}
 		c_myeonggan = {
 			color = { 45 80 160 }
+			
 		}
 	}
 	d_chongjin = {
@@ -177,15 +209,19 @@ k_hamgyeong = {
 		capital = 377
 		c_cheongjin = {
 			color = { 0 150 160 }
+			
 		}
 		c_gyeongseong = {
 			color = { 50 100 160 }
+			
 		}
 		c_buryeong = {
 			color = { 100 90 130 }
+			
 		}
 		c_musan = {
 			color = { 60 70 160 }
+			
 		}
 	}
 	d_rajin = {
@@ -193,18 +229,23 @@ k_hamgyeong = {
 		capital = 378
 		c_rajin = {
 			color = { 150 90 160 }
+			
 		}
 		c_onseong = {
 			color = { 80 45 90 }
+			
 		}
 		c_gyongwon = {
 			color = { 15 40 80 }
+			
 		}
 		c_gyeongheung = {
 			color = { 20 20 45 }
+			
 		}
 		c_hoeryong = {
 			color = { 80 90 190 }
+			
 		}
 	}
 }
