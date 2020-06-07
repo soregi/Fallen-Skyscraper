@@ -1,0 +1,1700 @@
+125500 = {
+	name="Konchaka"
+	female=yes
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125513
+	1301.1.2={
+		birth=yes
+	}
+	1316.1.2={
+		religion="orthodox"
+	}
+	1318.1.2={
+		death=yes
+	}
+}
+125501 = {
+   name="Temüjin"
+   # AKA: Genghis Khan
+   dynasty=11100
+   dna="bfimkolbecc"
+   properties="ge0af0000000"
+   martial=10
+   diplomacy=8
+   intrigue=8
+   stewardship=9
+   religion="tengri_pagan"
+   culture="mongol"
+   add_trait="brave"
+   add_trait="ambitious"
+   add_trait="diligent"
+   add_trait="cruel"
+   add_trait="hunter"
+   add_trait="cavalry_leader"
+   add_trait="brilliant_strategist"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   father=93055
+   mother=172003
+   1162.1.1={
+		birth=yes
+		effect = {
+		set_character_flag = is_temujin
+		set_global_flag = temujin_born
+		}
+   }
+   1172.1.1={
+     effect = {add_friend = 166796 } #Becomes blood brothers with Jamukha
+     effect = {add_friend = 166890} #Wang Khan gives patronage to Tem?in
+     effect = {add_friend = 166894} #Jakha Khambu befriends Tem?in
+   }
+   1178.1.1={
+     add_spouse=172004
+   }
+   1180.1.1={
+     effect = {add_rival = 166906} #Chilger B?h abducts B?te
+     remove_spouse=172004
+   }
+   1181.1.1={
+     add_spouse=172004
+     effect={add_consort=166864}
+     effect={add_lover=166864}
+   }#recaptures B?te and marries Khulan Khatun
+   1201.1.1={
+     effect = {remove_friend = 166796 }
+     effect = {add_rival = 166796 } #Becomes rivals with Jamukha
+     effect = {add_rival = 166890 } #Becomes rivals with Wang Khan
+   }
+   1202.1.1={
+     effect={add_consort=166869}
+     effect={add_consort=166870}
+   }# Conquers the Tatars
+   1206.1.1 = {
+     effect_even_if_dead = {
+       set_special_character_title = GENGHIS_KHAN
+       set_global_flag = mongol_horde_united
+       add_character_modifier = { modifier = greatest_of_khans duration = -1 }
+     }
+	 create_bloodline = {
+	 	type = genghis_khan
+	 	has_dlc = "Holy Fury"
+	 }
+   }
+   1220.2.1 = {
+     effect = {
+       wealth = 200
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 34852
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 125502
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 93062
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 34850
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 172005
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 125520
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 125501
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 34851
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 172002
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 172000
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 93100
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+       spawn_unit = {
+         province = 904 #Balkh
+         owner = ROOT
+         #leader = 93103
+         troops =
+         {
+           horse_archers = { 2200 2300 }
+           light_cavalry = { 1366 1366 }
+           light_infantry = { 455 455 }
+           heavy_infantry = { 177 177 }
+           knights = { 40 40 }
+         }
+       }
+     }
+   }
+   1227.12.2={
+     death=yes
+   }
+}
+
+125502 = {
+   name="Jochi"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125501
+   mother=172004
+   add_trait="skilled_tactician"
+   add_trait="hunter"
+   add_trait="kind"
+   add_trait="patient"
+   1181.1.1={
+     birth=yes
+   }
+   1198.1.1={
+     effect = {add_rival = 93062 } #Becomes rivals with Chagatai
+   }
+   1201.1.1={
+     add_spouse = 166896
+   }
+   1227.2.1={
+     death=yes
+   }
+}
+
+125503 = {
+   name="Batu"
+   dynasty=11100
+   martial=10
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125502
+   mother=166896
+   1207.1.1={
+     birth=yes
+   }
+   1222.1.1={
+     add_spouse=166897
+   }
+   1241.1.1 = {
+     effect = {
+       wealth = 5000
+       create_character = {
+         random_traits = yes
+         dynasty = random
+         religion = tengri_pagan
+         culture = mongol
+         female = no
+         age = 30
+         attributes = {
+           martial = 12
+         }
+         trait = brilliant_strategist
+       }
+       
+       new_character = {
+         spawn_unit = {
+           province = 618 # Guryev
+           troops =
+           {
+             horse_archers = { 8000 8000 }
+             light_cavalry = { 5666 5666 }
+             light_infantry = { 1800 1800 }
+             heavy_infantry = { 800 800 }
+             knights = { 150 150 }
+           }
+         }
+       }
+       
+       create_character = {
+         random_traits = yes
+         dynasty = random
+         religion = tengri_pagan
+         culture = mongol
+         female = no
+         age = 40
+         attributes = {
+           martial = 12
+         }
+         trait = brilliant_strategist
+       }
+       new_character = {
+         spawn_unit = {
+           province = 618 # Guryev
+           troops =
+           {
+             horse_archers = { 8000 8000 }
+             light_cavalry = { 5666 5666 }
+             light_infantry = { 1800 1800 }
+             heavy_infantry = { 800 800 }
+             knights = { 150 150 }
+           }
+         }
+       }
+       create_character = {
+         random_traits = yes
+         dynasty = random
+         religion = tengri_pagan
+         culture = mongol
+         female = no
+         age = 40
+         attributes = {
+           martial = 12
+         }
+         trait = brilliant_strategist
+       }
+       new_character = {
+         spawn_unit = {
+           province = 618 # Guryev
+           troops =
+           {
+             horse_archers = { 8000 8000 }
+             light_cavalry = { 5666 5666 }
+             light_infantry = { 1800 1800 }
+             heavy_infantry = { 800 800 }
+             knights = { 150 150 }
+           }
+         }
+       }
+       create_character = {
+         random_traits = yes
+         dynasty = random
+         religion = tengri_pagan
+         culture = mongol
+         female = no
+         age = 36
+         attributes = {
+           martial = 11
+         }
+         trait = brilliant_strategist
+       }
+       new_character = {
+         spawn_unit = {
+           province = 620 # Itil
+           troops =
+           {
+             horse_archers = { 8000 8000 }
+             light_cavalry = { 5666 5666 }
+             light_infantry = { 1800 1800 }
+             heavy_infantry = { 800 800 }
+             knights = { 150 150 }
+           }
+         }
+       }
+       create_character = {
+         random_traits = yes
+         dynasty = random
+         religion = tengri_pagan
+         culture = mongol
+         female = no
+         age = 34
+         attributes = {
+           martial = 12
+         }
+         trait = brilliant_strategist
+       }
+       new_character = {
+         spawn_unit = {
+           province = 620 # Itil
+           troops =
+           {
+             horse_archers = { 8000 8000 }
+             light_cavalry = { 5666 5666 }
+             light_infantry = { 1800 1800 }
+             heavy_infantry = { 800 800 }
+             knights = { 150 150 }
+           }
+         }
+       }
+       create_character = {
+         random_traits = yes
+         dynasty = random
+         religion = tengri_pagan
+         culture = mongol
+         female = no
+         age = 26
+         attributes = {
+           martial = 12
+         }
+         trait = brilliant_strategist
+       }
+       new_character = {
+         spawn_unit = {
+           province = 620 # Itil
+           troops =
+           {
+             horse_archers = { 8000 8000 }
+             light_cavalry = { 5666 5666 }
+             light_infantry = { 1800 1800 }
+             heavy_infantry = { 800 800 }
+             knights = { 150 150 }
+           }
+         }
+       }
+     }
+   }
+   
+   1255.1.1={
+     death=yes
+   }
+}
+
+125504 = {
+   name="Berke"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125502
+   mother=166896
+   1209.1.1={
+     birth=yes
+   }
+   1240.1.1={
+     religion="sunni"
+   }
+   1266.1.1={
+     death=yes
+   }
+}
+
+125505 = {
+   name="Sartag"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125503
+   mother=166897
+   1223.1.1={
+     birth=yes
+   }
+   1254.1.1={
+     religion="nestorian"
+   }
+   1256.1.1={
+     death=yes
+   }
+}
+
+125506 = {
+	name="Ulagchi"
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125505
+	1246.1.2={
+		birth="1246.1.2"
+	}
+	1257.1.2={
+		death="1257.1.2"
+	}
+}
+
+125507 = {
+   name="Togha"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125503
+   mother=166897
+   1224.1.1={
+     birth=yes
+   }
+   1266.1.1={
+     death=yes
+   }
+}
+
+125508 = {
+	name="Mongke Temur"
+	# AKA: Mongke Temur
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125507
+	1246.1.2={
+		birth="1246.1.2"
+	}
+	1280.1.2={
+		death="1280.1.2"
+	}
+}
+
+125509 = {
+	name="Tode Mongke"
+	# AKA: Tode Mongke
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125507
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1287.1.2={
+		death="1287.1.2"
+	}
+}
+
+125510 = {
+	name="Tartu"
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125507
+	1240.1.2={
+		birth="1240.1.2"
+	}
+	1286.1.2={
+		death="1286.1.2"
+	}
+}
+
+125511 = {
+	name="Tulabuga"
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125510
+	1256.1.2={
+		birth="1256.1.2"
+	}
+	1291.1.2={
+		death="1291.1.2"
+	}
+}
+
+125512 = {
+   name="Tokhta"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125508
+   add_trait="sympathy_indian"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_zoroastrianism"
+   1265.1.1={
+     birth=yes
+   }
+   1290.1.1={
+     add_spouse=166946
+   }
+   1312.1.1={
+     death=yes
+   }
+}
+
+125513 = {
+	name="Toghrilcha"
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125508
+	1266.1.2={
+		birth="1266.1.2"
+	}
+	1302.1.2={
+		death="1302.1.2"
+	}
+}
+
+125514 = {
+	name="Tinibeg"
+	dynasty=11100
+	religion="sunni"
+	culture="mongol"
+	father=480000
+	1320.1.2={
+		birth="1320.1.2"
+	}
+	1342.1.2={
+		death="1342.1.2"
+	}
+}
+
+125515 = {
+	name="Janibeg"
+	dynasty=11100
+	religion="sunni"
+	culture="mongol"
+	father=480000
+	1322.1.2={
+		birth="1322.1.2"
+	}
+	1357.1.2={
+		death="1357.1.2"
+	}
+}
+
+125516 = {
+   name="Teval"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125502
+   mother=166896
+   1213.1.1={
+     birth=yes
+   }
+   1265.1.1={
+     death=yes
+   }
+}
+
+125517 = {
+	name="Tatar"
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125516
+	1229.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+
+125518 = {
+   name="Nogai"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125517
+   1245.1.1={
+     birth=yes
+   }
+   1255.1.2={
+     religion="sunni"
+   }
+   1259.1.1={
+     add_spouse=166945
+   }
+   1266.1.1={
+     effect={add_consort=166944}
+   }
+   1280.1.2={
+     add_claim = e_golden_horde
+   }
+   1299.1.1={
+     death=yes
+   }
+}
+
+125519 = {
+   name="Chaka"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125518
+   mother=166945
+   1260.1.2={
+     birth=yes
+   }
+   1298.1.1={
+     add_spouse=31194
+   }
+   1300.1.2={
+     death=yes
+   }
+}
+
+125520 = {
+   name="Tolui"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125501
+   mother=172004
+   1192.1.1={
+     birth=yes
+   }
+   1201.1.1={
+     effect = {add_friend = 172005} #close bond with ?edei
+   }
+   1208.1.1={
+     add_spouse=172010
+   }
+   1226.1.1={
+     effect={add_consort=166927}
+   }
+   1232.1.1={
+     death=yes
+   }
+}
+
+125521 = {
+   name="Taragai"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=478011
+   mother=166940
+   1240.1.1={
+     birth=yes
+   }
+   1285.1.1={
+     death=yes
+   }
+}
+
+125522 = {
+   name="Baidu"
+   dynasty=11100
+   religion="nestorian"
+   culture="mongol"
+   father=125521
+   add_trait="sympathy_pagans"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1255.1.1={
+     birth=yes
+   }
+   1267.1.1={
+     effect={add_friend=166943}
+   }
+   1295.5.1={
+     religion="shiite"
+     add_trait="sympathy_christendom"
+   }
+   1295.10.5={
+     death=yes
+   }
+}
+
+125523 = {
+   name="Teguder"
+   dynasty=11100
+   religion="nestorian"
+   culture="mongol"
+   father=478011
+   mother=166940
+   1239.1.1={
+     birth=yes
+   }
+   1282.1.1={
+     religion="sunni"
+     name="Ahmed Teguder"
+     add_trait="zealous"
+   }
+   1284.1.1={
+     death=yes
+   }
+}
+
+125524 = {
+   name="Ghazan"
+   dynasty=11100
+   diplomacy=8
+   intrigue=8
+   religion="nestorian"
+   culture="mongol"
+   father=478008
+   mother=166949
+   add_trait="sympathy_indian"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   1271.11.5={
+     birth=yes
+   }
+   1293.1.1={
+     add_spouse=166948
+   }
+   1295.6.16={
+     religion="sunni"
+     name="Mahmud Ghazan"
+     add_trait="sympathy_christendom"
+   }
+   1304.5.11={
+     death=yes
+   }
+}
+
+125525 = {
+   name="Gaykhatu"
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   father=478010
+   mother=166947
+   add_trait="drunkard"
+   add_trait="lustful"
+   add_trait="hedonist"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   add_trait="child_of_consort"
+   1257.1.1={
+     birth=yes
+   }
+   1295.5.1={
+     death=yes
+   }
+}
+125526 = {
+   name="Ariq Böke"
+   # AKA: Ariq B?e
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125520
+   mother=172010
+   add_trait="strong"
+   add_trait="ambitious"
+   add_trait="brave"
+   add_trait="wroth"
+   add_trait="zealous"
+   1219.1.2={
+     birth=yes
+   }
+   1259.1.1 = {
+     effect={add_rival=217266}
+   }#Toluid Civil War
+   1266.1.2={
+     death=yes
+   }
+}
+
+125527 = {
+	name="Narin"
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125526
+	1250.1.2={
+		birth="1250.1.2"
+	}
+	1300.1.2={
+		death="1300.1.2"
+	}
+}
+
+125528 = {
+	name="Arpa Ke'un"
+	# AKA: Arpa Ke'un
+	dynasty=11100
+	religion="sunni"
+	culture="mongol"
+	father=125527
+	1290.1.2={
+		birth="1290.1.2"
+	}
+	1336.4.10={
+		death="1336.4.10"
+	}
+}
+
+125529 = {
+	name="Ali"
+	dynasty=11100
+	religion="sunni"
+	culture="mongol"
+	father=125522
+	1285.1.2={
+		birth="1285.1.2"
+	}
+	1330.1.2={
+		death="1330.1.2"
+	}
+}
+125530 = {
+   name="Möngke Temür"
+   # AKA: Hyaxemet
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=478011
+   mother=166940
+   1236.1.1={
+     birth=yes
+   }
+   1253.1.1={
+     add_spouse=166942
+   }
+   1270.1.1={
+     death=yes
+   }
+}
+
+125531 = {
+	name="Ambarji"
+	dynasty=11100
+	religion="tengri_pagan"
+	culture="mongol"
+	father=125530
+	1260.1.2={
+		birth="1260.1.2"
+	}
+	1300.1.2={
+		death="1300.1.2"
+	}
+}
+
+125532 = {
+	name="Temur"
+	dynasty=11100
+	religion="shiite"
+	culture="mongol"
+	father=125531
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+125533 = {
+	name="Yul Qutlugh"
+	# AKA: Yul Qutlugh
+	dynasty=11100
+	religion="shiite"
+	culture="mongol"
+	father=125532
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1335.1.2={
+		death="1335.1.2"
+	}
+}
+
+172000 = {
+	name="Jelme"
+	dynasty=7315
+	religion="tengri_pagan"
+	culture="mongol"
+	father=172001
+	martial=10
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	trait="skilled_tactician"
+	trait="cavalry_leader"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+}
+
+172001 = {
+	name="Jarchiudai"
+	dynasty=7315
+	religion="tengri_pagan"
+	culture="mongol"
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+
+172002 = {
+	name="Chaurkhan"
+	dynasty=7315
+	religion="tengri_pagan"
+	culture="mongol"
+	father=172001
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+
+172003 = {
+   name="Hoelun" # Mother of Genghis Khan
+   dynasty=101946
+   female=yes
+   religion="tengri_pagan"
+   culture="mongol"
+   father=166859
+   1139.1.1={
+     birth=yes
+   }
+   1212.1.1={
+     death=yes
+   }
+}
+172004 = {
+   name="Börte" # Wife of Genghis Khan
+   dynasty=1041000
+   female=yes
+   religion="tengri_pagan"
+   culture="mongol"
+   add_trait="fair"
+   add_trait="brave"
+   add_trait="strong"
+   add_trait="genius"
+   father=166862
+   1161.1.1={
+     birth=yes
+   }
+   1230.1.1={
+     death=yes
+   }
+}
+172005 = {
+   name="Ögedei" # ?edei Khan
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125501
+   mother=172004
+   add_trait="skilled_tactician"
+   add_trait="gregarious"
+   add_trait="just"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1186.11.7={
+     birth=yes
+   }
+   1200.1.1={
+     add_spouse=166909
+   }
+   1201.1.1={
+         effect = {add_friend = 125520} #close bond with Tolui
+   }
+   1204.1.1={
+     remove_spouse = 166909
+     add_spouse=172006
+     effect={add_consort=166909}
+   }#T?egene made primary wife
+   1241.12.11={
+     death = { death_reason = death_offmap }
+   }
+}
+172007 = {
+   name="Güyük" # G?? Khan
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=172005
+   mother=172006
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1206.3.19={
+     birth=yes
+   }
+   1220.1.1={
+     add_spouse=166908
+   }
+   1248.4.20={
+     death = { death_reason = death_offmap }
+   }
+}
+
+172008 = {
+   name="Kadan"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=172005
+   mother=166909
+   add_trait="child_of_consort"
+   1210.1.1={
+     birth=yes
+   }
+   1252.1.1={
+     death=yes
+   }
+}
+
+172009 = {
+   name="Godan"
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=172005
+   mother=172006
+   1207.1.1={
+     birth=yes
+   }
+   1247.1.1={
+     religion="buddhist"
+   }#converted to Tibetan Buddhism by Sakya Pandita
+   1251.1.1={
+     death=yes
+   }
+}
+217265 = {
+   name = "Möngke" # M?gke Khan
+   dynasty = 11100
+   religion = "tengri_pagan"
+   culture = "mongol"
+   father = 125520
+   mother = 172010
+   add_trait="ambitious"
+   add_trait="diligent"
+   add_trait="just"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1209.1.10 = {
+     birth = yes
+   }
+   1259.8.11 = {
+     death = { death_reason = death_offmap }
+   }
+}
+
+217266 = {
+   name="Kublai" # Kublai Khan
+   dynasty=11100
+   religion="tengri_pagan"
+   culture="mongol"
+   father=125520
+   mother=172010
+   add_trait="ambitious"
+   add_trait="diligent"
+   add_trait="gluttonous"
+   add_trait="gregarious"
+   add_trait="charitable"
+   add_trait="inspiring_leader"
+   add_trait="siege_leader"
+   add_trait="midas_touched"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1215.9.23 = {
+     birth = yes
+   }
+   1235.1.1 = {
+     add_spouse=166957
+   }
+   1240.1.1 = {
+     add_spouse=217267
+     effect={add_lover=217267}
+   }
+   1253.1.1 = {
+     religion="buddhist"
+     add_trait="sympathy_pagans"
+   }#Initiated by Drog? Ch?yal Phagpa
+   1259.1.1 = {
+     effect={add_rival=125526}
+   }#Toluid Civil War
+   1266.1.1={
+     effect={add_friend=166627}
+   }#Marco Polo in Kublai's Court
+   1281.1.1 = {
+     add_spouse=166968
+   }
+   1294.2.18 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217267 = {
+   name="Chabi"
+   female=yes
+   dynasty=1051124 # Onggirat
+   religion="tengri_pagan"
+   culture="mongol"
+   father=166952
+   add_trait="fair"
+   add_trait="charitable"
+   add_trait="diligent"
+   add_trait="grey_eminence"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1227.5.5 = {
+     birth=yes
+   }
+   1253.1.1 = {
+     religion="buddhist"
+     add_trait="sympathy_pagans"
+   }#Initiated by Drog? Ch?yal Phagpa
+   1281.6.6 = {
+     death=yes
+   }
+}
+217268 = {
+   name="Jingim Zhenjin" # Zhenjin, Son of Kublai Khan
+   dynasty=11100
+   religion="buddhist" #supporter of Confucianism
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217266
+   mother=217267
+   1243.3.3 = {
+     birth=yes
+   }
+   1259.1.1 = {
+     add_spouse=166971
+   }
+   1286.1.5 = {
+     death=yes
+   }
+}
+172006 = {
+   name="Töregene"
+   dynasty=1041001 #Naiman
+   religion="nestorian"
+   culture="mongol"
+   female=yes
+   father = 217215 # fictional connection
+   add_trait="fair"
+   add_trait="diligent"
+   add_trait="sympathy_pagans"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1187.1.1={
+     birth=yes
+   }
+   1247.1.1={
+     death=yes
+   }
+}
+172010 = {
+   name="Sorkhaghatani"
+   dynasty=1041002
+   religion="nestorian"
+   culture="mongol"
+   female=yes
+   father=166894
+   add_trait="ambitious"
+   add_trait="grey_eminence"
+   add_trait="fair"
+   add_trait="sympathy_pagans"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_indian"
+   1188.1.1={
+     birth=yes
+   }
+   1252.3.1={
+     death=yes
+   }
+}
+217269 = {
+   name="Temür Öljeytü" # Tem? Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217268
+   mother=166971
+   1265.10.15 = {
+     birth=yes
+   }
+   1285.1.1 = {
+     add_spouse=166972
+   }
+   1307.2.10 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217270 = {
+   name="Darmabala" # Grandson of Kublai Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217268
+   mother=166971
+   1262.9.9 = {
+     birth=yes
+   }
+   1280.1.1 = {
+     add_spouse=166974
+   }
+   1292.1.1 = {
+     death=yes
+   }
+}
+217271 = {
+   name="Külüg" # K?? Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217270
+   mother=166974
+   1281.8.4 = {
+     birth=yes
+   }
+   1311.1.27 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217272 = {
+   name="Ayurbarwada" # Buyantu Khan
+   dynasty=11100
+   religion="buddhist" #favored Confucian systems
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217270
+   mother=166974
+   1285.3.9 = {
+     birth=yes
+   }
+   1303.2.2 = {
+     add_spouse=217273
+   }
+   1305.1.1 = {
+     name="Buyantu"
+   }
+   1320.3.1 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217273 = {
+   name="Radnashiri"
+   female=yes
+   dynasty=1051125 # Khunggirad
+   religion="buddhist"
+   culture="mongol"
+   father=217278
+   1284.5.5 = {
+     birth=yes
+   }
+   1322.11.11 = {
+     death=yes
+   }
+}
+217274 = {
+   name="Shidibala" # Gegeen Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217272
+   mother=217273
+   1303.2.22 = {
+     birth=yes
+   }
+   1312.1.1 = {
+     name="Gegeen"
+   }
+   1323.9.4 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217275 = {
+   name="Gammala" # Grandson of Kublai Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217268
+   mother=166971
+   1260.3.3 = {
+     birth=yes
+   }
+   1287.7.7 = {
+     add_spouse=217277
+   }
+   1298.5.5 = {
+     death=yes
+   }
+}
+217276 = {
+   name="Daritai" # fictional founder of dynasty
+   dynasty=1051125 # Khunggirad
+   religion="tengri_pagan"
+   culture="mongol"
+   1250.4.4 = {
+     birth=yes
+   }
+   1286.7.7 = {
+     death=yes
+   }
+}
+217277 = {
+   name="Buyan Kelmish"
+   dynasty=1051125 # Khunggirad
+   religion="buddhist"
+   culture="mongol"
+   female=yes
+   father=217276
+   1269.5.5 = {
+     birth=yes
+   }
+   1307.8.8 = {
+     death=yes
+   }
+}
+217278 = {
+   name="Guchu" # fictional
+   dynasty=1051125 # Khunggirad
+   religion="buddhist"
+   culture="mongol"
+   1267.5.5 = {
+     birth=yes
+   }
+   1301.3.3 = {
+     death=yes
+   }
+}
+217279 = {
+   name="Yesün Temür" # Yes? Tem? Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217275
+   mother=217277
+   1293.11.28 = {
+     birth=yes
+   }
+   1319.1.1 = {
+     add_spouse=166981
+   }
+   1328.8.15 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217280 = {
+   name="Ragibagh" # Ragibagh Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217279
+   mother=166981
+   1320.4.4 = {
+     birth=yes
+   }
+   1328.11.14 = {
+     death = {
+       death_reason = death_murder_unknown
+     }
+   }
+}
+217281 = {
+   name="Jayaatu" # Jayaatu Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217271
+   1304.2.16 = {
+     birth=yes
+   }
+   1321.1.1 = {
+     add_spouse=166982
+   }
+   1332.9.2 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217282 = {
+   name="Khutughtu" # Khutughtu Khan Kusala
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217271
+   1300.12.22 = {
+     birth=yes
+   }
+   1317.1.1 = {
+     effect={add_consort=166986}
+   }
+   1318.1.1 = {
+     add_spouse=166984
+   }
+   1329.8.30 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217283 = {
+   name="Rinchinbal" # Rinchinbal Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   father=217282
+   mother=166984
+   1326.5.1 = {
+     birth=yes
+   }
+   1332.12.14 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217284 = {
+   name="Toghon Temür" # Toghon Tem? Khan
+   dynasty=11100
+   religion="buddhist"
+   culture="mongol"
+   add_trait="sympathy_christendom"
+   add_trait="sympathy_islam"
+   add_trait="sympathy_zoroastrianism"
+   add_trait="sympathy_judaism"
+   add_trait="sympathy_pagans"
+   add_trait="child_of_consort"
+   father=217282
+   mother=166986
+   1320.5.25 = {
+     birth=yes
+   }
+   #married to Lady Gi Jao of Korea
+   1370.5.23 = {
+     death = { death_reason = death_offmap }
+   }
+}
+217304 = {
+   name = "Khashi" # Son of Ogedei
+   dynasty = 11100
+   religion = "tengri_pagan"
+   culture = "mongol"
+   father = 172005
+   mother=172006
+   1212.4.16 = {
+     birth = yes
+   }
+   1246.2.20 = {
+     death = yes
+   }
+}
+217305 = {
+	name = Kaidu # Son of Kaidu
+	dynasty = 11100
+	religion = tengri_pagan
+	culture = mongol
+	father = 217304
+	
+	1230.6.12 = {
+		birth = yes
+	}
+	1301.10.23 = {
+		death = yes
+	}
+}
+166985 = {
+	name="Aratnadara" # son of Tugh Temur Khan
+	dynasty=11100
+	religion="buddhist"
+	culture="mongol"
+	father=217281
+	mother=166982
+	1322.1.1 = {
+		birth=yes
+	}
+	1331.2.1 = {
+		death=yes
+	}
+}
+188994 = {
+	name="Budashiri" # Queen Noguk of Goryeo
+	female=yes
+	dynasty=11100
+	religion="buddhist"
+	culture="mongol"
+	father=217281
+	mother=166982
+	1331.1.1 = {
+		birth=yes
+	}
+	1351.3.23 = {
+		name="Noguk"
+	}# Queen of Goryeo
+	1365.1.1 = {
+		death=yes
+	}
+}
+247239 = {
+    name="Megadung" #Daughter of Prince Godan Khan
+    female=yes
+    dynasty=11100
+    religion="tengri_pagan"
+    culture="mongol"
+    father=172009
+    1242.1.1={
+        birth=yes
+    }
+    1247.1.1={
+        religion="buddhist"
+		trait = vajrayana_buddhist
+    }#converted to Tibetan Buddhism by Sakya Pandita
+    1289.1.1={
+        death=yes
+    }
+}

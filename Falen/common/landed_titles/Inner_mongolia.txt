@@ -1,26 +1,70 @@
 k_inner_mongolia = {
 	color = { 33 98 137 }
+	capital = 488
 	
 	d_tongliao = {
 		color = { 31 139 131 }
 		capital = 484
 		c_horchin = {
 			color = { 254 254 0 }
+			b_horchin = {}
+			b_dalin = {}
+			b_qianjiadian = {}
+			b_yuliangpu = {}
+			b_mulitu = {}
+			b_qinghe = {}
+			b_toyota = {}
 		}
 		c_n_horchin = { 
 			color = { 77 77 0 }
+			b_n_horchin = {}
+			b_baokang = {}
+			b_baolongshan = {}
+			b_shebotu = {}
+			b_bayantala = {}
+			b_menda = {}
+			b_gamatu = {}
 		}
 		c_s_horchin = {
 			color = { 143 143 0 }
+			b_s_horchin = {}
+			b_ganqika = {}
+			b_jinbaotun = {}
+			b_gilgalang = {}
+			b_changsheng = {}
+			b_charizu = {}
+			b_agoura = {}
 		}
 		c_kailu = { 
 			color = { 49 49 0 }
+			b_kailu = {}
+			b_dayushu = {}
+			b_heilongba = {}
+			b_maixin = {}
+			b_yihe_tala = {}
+			b_jianhua = {}
+			b_xiaojieji = {}
+			b_dongfeng = {}
 		}
 		c_naiman = {
 			color = { 36 36 0 }
+			b_naiman = {}
+			b_daqin_tara = {}
+			b_baxiantong = {}
+			b_dongming = {}
+			b_yilongyong = {}
+			b_xinzhen = {}
+			b_tuchengzi = {}
 		}
 		c_tongliao = {
 			color = { 112 226 0 }
+			b_tongliao = {}
+			b_lubei = {}
+			b_huanghuashan = {}
+			b_gahaitu = {}
+			b_jurihe = {}
+			b_bayartu_hushuo = {}
+			b_ari_kundu = {}
 		}
 		c_hure = {
 			color = { 226 226 0 }
@@ -31,9 +75,14 @@ k_inner_mongolia = {
 		capital = 488
 		c_ongnyud = {
 			color = { 104 85 0 }
+			b_ongnyud = {}
 		}
 		c_aohan = { 
 			color = { 195 85 0 }
+			b_aohan = {}
+			b_xinhui = {}
+			b_sijiazi = {}
+			b_beizifu = {}
 		}
 		c_baarin = {
 			color = { 198 120 0 }
