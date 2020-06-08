@@ -1,0 +1,124 @@
+4000101 = {
+	name = "Rozhestvensky" #동해황제 가문
+	culture = russian
+	religion = orthodox
+}
+4000102 = {
+	name = "Krupskaya"
+	culture = russian
+	religion = marxist
+}
+4000103 = {
+	name = "Lvov"
+	culture = russian
+	religion = marxist
+}
+4000104 = {
+	name = "Dugin"
+	culture = russian
+	religion = orthodox
+}
+4000105 = {
+	name = "Stepanov"
+	culture = russian
+	religion = orthodox
+}
+4000106 = {
+	name = "Ilyin"
+	culture = russian
+	religion = orthodox
+}
+4000107 = {
+	name = "Kollontai"
+	culture = russian
+	religion = orthodox
+}
+4000108 = {
+	name = "Pavlov"
+	culture = russian
+	religion = orthodox
+}
+4000109 = {
+	name = "Choi"
+	culture = hambuk
+	religion = marxist
+}
+4000110 = {
+	name = "Yazov"
+	culture = russian
+	religion = orthodox
+}
+4000111 = {
+	name = "Koldunov"
+	culture = russian
+	religion = orthodox
+}
+4000112 = {
+	name = "Grudinin"
+	culture = russian
+	religion = orthodox
+}
+4000113 = {
+	name = "Putin"
+	culture = russian
+	religion = orthodox
+}
+4000114 = {
+	name = "Vershinin"
+	culture = russian
+	religion = orthodox
+}
+4000115 = {
+	name = "Koshevoy"
+	culture = russian
+	religion = orthodox
+}
+4000116 = {
+	name = "Biryuzov"
+	culture = russian
+	religion = orthodox
+}
+4000116 = {
+	name = "Biryuzov"
+	culture = russian
+	religion = orthodox
+}
+4000117 = {
+	name = "Sokolovsky"
+	culture = russian
+	religion = orthodox
+}
+4000118 = {
+	name = "Zyuganov"
+	culture = russian
+	religion = marxist
+}
+4000119 = {
+	name = "Namgung"
+	culture = yeongdong
+	religion = orthodox
+}
+4000120 = {
+	name = "Zamyatin"
+	culture = russian
+	religion = orthodox
+}
+4000121 = {
+	name = "Govorov"
+	culture = russian
+	religion = orthodox
+}
+4000122 = {
+	name = "Blyukher"
+	culture = russian
+	religion = orthodox
+}
+4000123 = {
+	name = "Kurkotkin"
+	culture = russian
+	religion = orthodox
+}
+
+
+
+

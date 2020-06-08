@@ -52,7 +52,7 @@
 	}
 }
 203 = {
-	name = "Jungin"
+	name = "Chongin"
 	female = yes
 	dynasty = 4000215 # 인공 최씨
 	culture = pyongnam
@@ -62,7 +62,7 @@
 	}
 }
 204 = {
-	name = "Bekhwa"
+	name = "Paekhwa"
 	female = yes
 	dynasty = 4000201 # 한씨
 	culture = pyongnam
@@ -74,7 +74,7 @@
 	}
 }
 205 = {
-	name = "Doohan"
+	name = "Tuhan"
 	dynasty = 4000202 # 종씨
 	culture = pyongnam
 	religion = cheondo
@@ -94,7 +94,7 @@
 	}
 }
 206 = {
-	name = "Jeongryong"
+	name = "Chongnyong"
 	dynasty = 4000203 # 인공 동씨
 	culture = pyongnam
 	religion = cheondo
@@ -103,7 +103,7 @@
 	}
 }
 207 = {
-	name = "Ryokgang"
+	name = "Ryokkang"
 	dynasty = 4000204 # 인공 리씨
 	culture = pyongnam
 	religion = cheondo
@@ -112,7 +112,7 @@
 	}
 }
 208 = {
-	name = "Gongho"
+	name = "Kongho"
 	dynasty = 4000205 # 인공 전씨
 	culture = pyongnam
 	religion = cheondo
@@ -121,7 +121,7 @@
 	}
 }
 209 = {
-	name = "Gonghyok"
+	name = "Konghyok"
 	dynasty = 4000206 # 인공 고씨
 	culture = pyongnam
 	religion = cheondo
@@ -130,7 +130,7 @@
 	}
 }
 210 = {
-	name = "Gichual"
+	name = "Kichol"
 	dynasty = 4000207 # 인공 리씨
 	culture = pyongnam
 	religion = cheondo
@@ -139,7 +139,7 @@
 	}
 }
 211 = {
-	name = "Jungjae"
+	name = "Chongjae"
 	dynasty = 4000208 # 인공 리씨2
 	culture = pyongnam
 	religion = cheondo
@@ -148,7 +148,7 @@
 	}
 }
 212 = {
-	name = "Jakdoo"
+	name = "Chaktu"
 	dynasty = 4000209 # 인공 장씨
 	culture = pyongnam
 	religion = cheondo
@@ -157,7 +157,7 @@
 	}
 }
 213 = {
-	name = "Jo" 
+	name = "Cho" 
 	dynasty = 4000210 # 인공 조씨
 	culture = pyongnam
 	religion = cheondo
@@ -169,7 +169,7 @@
 	}
 }
 214 = {
-	name = "Hyen" 
+	name = "Hyon" 
 	dynasty = 4000210 # 인공 조씨
 	culture = pyongnam
 	religion = cheondo
@@ -181,7 +181,7 @@
 	}
 }
 215 = {
-	name = "Jaeho" 
+	name = "Chaeho" 
 	dynasty = 4000211 # 인공 임씨
 	culture = pyongnam
 	religion = cheondo
@@ -190,7 +190,7 @@
 	}
 }
 216 = {
-	name = "Jaadang" 
+	name = "Chadang" 
 	dynasty = 4000212 # 인공 두씨
 	culture = pyongnam
 	religion = marxist
@@ -208,7 +208,7 @@
 	}
 }
 218 = {
-	name = "Jaehi" 
+	name = "Chaehui" 
 	dynasty = 4000214 # 인공 박씨
 	culture = pyongnam
 	religion = cheondo
@@ -253,3 +253,41 @@
 		death = yes
 	}
 }
+221 = {
+	name = "Chaeim" 
+	dynasty = 4000216
+	culture = pyongnam
+	religion = cheondo
+	2410.12.3 = {
+		birth = yes
+	}
+}
+222 = {
+	name = "Chaemin" 
+	dynasty = 4000217
+	culture = pyongnam
+	religion = cheondo
+	2431.6.12 = {
+		birth = yes
+	}
+}
+223 = {
+	name = "Thaesang"
+	dynasty = 4000218
+	culture = pyongnam
+	religion = cheondo
+	2401.6.7 = {
+		birth = yes
+	}
+}
+224 = {
+	name = "Thaechun" 
+	dynasty = 4000219
+	culture = pyongnam
+	religion = cheondo
+	2382.8.23 = {
+		birth = yes
+	}
+}
+
+

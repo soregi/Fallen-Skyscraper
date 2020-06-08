@@ -6,6 +6,9 @@ title = c_yangdok
 # Settlements
 max_settlements = 3
 
+b_yangdok_b0 = castle
+b_yangdok_b1 = city
+
 # Misc
 culture = pyongnam
 religion = juche

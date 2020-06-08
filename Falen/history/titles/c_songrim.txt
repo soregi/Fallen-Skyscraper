@@ -1,0 +1,4 @@
+2433.9.21 = {
+	liege = d_nampo
+	holder = 222
+}

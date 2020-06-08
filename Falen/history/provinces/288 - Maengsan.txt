@@ -6,6 +6,9 @@ title = c_maengsan
 # Settlements
 max_settlements = 3
 
+b_maengsan_b0 = castle
+b_maengsan_b1 = city
+
 # Misc
 culture = pyongnam
 religion = juche

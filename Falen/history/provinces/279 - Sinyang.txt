@@ -6,6 +6,9 @@ title = c_sinyang
 # Settlements
 max_settlements = 3
 
+b_sinyang_b0 = castle
+b_sinyang_b1 = city
+
 # Misc
 culture = pyongnam
 religion = cheondo
