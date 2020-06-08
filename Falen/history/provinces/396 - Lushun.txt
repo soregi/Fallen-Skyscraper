@@ -6,6 +6,11 @@ title = c_lushun
 # Settlements
 max_settlements = 6
 
+b_lushun_b0 = castle
+b_lushun_b1 = city
+b_lushun_b2 = temple
+b_lushun_b3 = city
+
 # Misc
 culture = liaoning
 religion = taoist

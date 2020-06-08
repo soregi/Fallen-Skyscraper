@@ -6,6 +6,8 @@ title = c_liaoyang
 # Settlements
 max_settlements = 5
 
+b_liaoyang_b0 = tribal
+
 # Misc
 culture = liaoning
 religion = tengri_pagan

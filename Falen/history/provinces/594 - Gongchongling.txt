@@ -2,8 +2,11 @@
 
 # County Title
 title = c_gongchongling
+
 # Settlements
 max_settlements = 3
+
+b_gongchongling_b0 = tribal
 
 # Misc
 culture = yalu

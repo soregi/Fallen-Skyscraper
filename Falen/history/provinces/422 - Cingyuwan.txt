@@ -6,6 +6,8 @@ title = c_cingyuwan
 # Settlements
 max_settlements = 4
 
+b_cingyuwan_b0 = tribal
+
 # Misc
 culture = yalu
 religion = tengri_pagan

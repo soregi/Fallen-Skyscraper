@@ -6,6 +6,10 @@ title = c_jinzhou
 # Settlements
 max_settlements = 6
 
+b_jinzhou_b0 = castle
+b_jinzhou_b1 = city
+b_jinzhou_b2 = temple
+
 # Misc
 culture = liaoning
 religion = cheondo

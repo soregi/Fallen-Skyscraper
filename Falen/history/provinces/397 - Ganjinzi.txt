@@ -6,6 +6,10 @@ title = c_ganjingzi
 # Settlements
 max_settlements = 6
 
+b_ganjingzi_b0 = castle
+b_ganjingzi_b1 = city
+b_ganjingzi_b2 = temple
+
 # Misc
 culture = liaoning
 religion = cheondo

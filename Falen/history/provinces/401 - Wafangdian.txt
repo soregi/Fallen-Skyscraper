@@ -6,6 +6,9 @@ title = c_wafangdian
 # Settlements
 max_settlements = 6
 
+b_wafangdian_b0 = castle
+b_wafangdian_b1 = city
+
 # Misc
 culture = liaoning
 religion = nightglow
