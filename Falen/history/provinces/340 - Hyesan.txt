@@ -6,6 +6,8 @@ title = c_hyesan
 # Settlements
 max_settlements = 3
 
+b_hyesan_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche

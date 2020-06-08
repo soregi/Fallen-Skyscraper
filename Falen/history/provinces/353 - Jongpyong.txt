@@ -6,7 +6,8 @@ title = c_jeongpyeong
 # Settlements
 max_settlements = 4
 
-b_jeongpyeong_b0 = tribal
+b_jeongpyeong_b0 = castle
+b_jeongpyeong_b1 = city
 
 # Misc
 culture = hamnam

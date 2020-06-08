@@ -6,6 +6,8 @@ title = c_sinpha
 # Settlements
 max_settlements = 2
 
+b_sinpha_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche
