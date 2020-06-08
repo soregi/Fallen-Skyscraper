@@ -6,6 +6,8 @@ title = c_daeheung
 # Settlements
 max_settlements = 3
 
+b_daeheung_b0 = tribal
+
 # Misc
 culture = pyongnam
 religion = juche

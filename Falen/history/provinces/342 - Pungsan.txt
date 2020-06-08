@@ -6,6 +6,8 @@ title = c_pungsan
 # Settlements
 max_settlements = 2
 
+b_phungsan = tribal
+
 # Misc
 culture = jagang
 religion = juche

@@ -6,6 +6,8 @@ title = c_onseong
 # Settlements
 max_settlements = 4
 
+b_onseong_b0 = tribal
+
 # Misc
 culture = hambuk
 religion = holy_spirit

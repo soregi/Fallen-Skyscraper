@@ -6,6 +6,8 @@ title = c_deokseong
 # Settlements
 max_settlements = 3
 
+b_toksong = tribal
+
 # Misc
 culture = hambuk
 religion = juche
