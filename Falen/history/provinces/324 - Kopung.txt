@@ -6,6 +6,8 @@ title = c_kopung
 # Settlements
 max_settlements = 3
 
+b_kopung_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche

@@ -6,6 +6,8 @@ title = c_tongchang
 # Settlements
 max_settlements = 3
 
+b_tongchang_b0 = tribal
+
 # Misc
 culture = pyongbuk
 religion = juche

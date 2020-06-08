@@ -6,6 +6,9 @@ title = c_dongrim
 # Settlements
 max_settlements = 4
 
+b_dongrim_b0 = castle
+b_dongrim_b1 = city
+
 # Misc
 culture = pyongbuk
 religion = juche

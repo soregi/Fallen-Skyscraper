@@ -6,6 +6,10 @@ title = c_ryongchon
 # Settlements
 max_settlements = 4
 
+b_ryongchon_b0 = castle
+b_ryongchon_b1 = temple
+b_ryongchon_b2 = city
+
 # Misc
 culture = pyongbuk
 religion = cheondo

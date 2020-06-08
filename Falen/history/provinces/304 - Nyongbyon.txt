@@ -6,6 +6,9 @@ title = c_nyongbyon
 # Settlements
 max_settlements = 4
 
+b_nyongbyon_b0 = castle
+b_nyongbyon_b1 = city
+
 # Misc
 culture = pyongbuk
 religion = juche

@@ -6,6 +6,9 @@ title = c_sindo
 # Settlements
 max_settlements = 4
 
+b_sindo_b0 = castle
+b_sindo_b1 = temple
+
 # Misc
 culture = pyongbuk
 religion = cheondo

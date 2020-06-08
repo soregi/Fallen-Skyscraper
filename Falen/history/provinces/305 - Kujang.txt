@@ -6,6 +6,9 @@ title = c_gujang
 # Settlements
 max_settlements = 3
 
+b_gujang_b0 = castle
+b_gujang_b1 = city
+
 # Misc
 culture = pyongbuk
 religion = juche

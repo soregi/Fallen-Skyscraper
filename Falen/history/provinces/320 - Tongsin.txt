@@ -6,6 +6,8 @@ title = c_tongsin
 # Settlements
 max_settlements = 3
 
+b_tongsin_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche

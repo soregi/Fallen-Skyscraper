@@ -6,6 +6,8 @@ title = c_thachon
 # Settlements
 max_settlements = 4
 
+b_thachon_b0 = tribal
+
 # Misc
 culture = pyongbuk
 religion = juche

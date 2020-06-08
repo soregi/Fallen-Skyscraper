@@ -6,6 +6,8 @@ title = c_changsong
 # Settlements
 max_settlements = 3
 
+b_changsong_b0 = tribal
+
 # Misc
 culture = pyongbuk
 religion = cheondo

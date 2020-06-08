@@ -6,6 +6,8 @@ title = c_hyangsan
 # Settlements
 max_settlements = 3
 
+b_hyangsan_b0 = tribal
+
 # Misc
 culture = pyongbuk
 religion = juche

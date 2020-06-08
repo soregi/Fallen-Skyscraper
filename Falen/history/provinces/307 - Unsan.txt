@@ -6,6 +6,8 @@ title = c_unsan
 # Settlements
 max_settlements = 3
 
+b_unsan_b0 = tribal
+
 # Misc
 culture = pyongbuk
 religion = juche

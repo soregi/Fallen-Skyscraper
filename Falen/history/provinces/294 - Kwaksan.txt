@@ -6,6 +6,9 @@ title = c_kwaksan
 # Settlements
 max_settlements = 4
 
+b_kwaksan_b0 = castle
+b_kwaksan_b1 = city
+
 # Misc
 culture = pyongbuk
 religion = cheondo

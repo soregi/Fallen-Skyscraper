@@ -6,6 +6,9 @@ title = c_pakchon
 # Settlements
 max_settlements = 4
 
+b_pakchon_b0 = castle
+b_pakchon_b1 = temple
+
 # Misc
 culture = pyongbuk
 religion = cheondo

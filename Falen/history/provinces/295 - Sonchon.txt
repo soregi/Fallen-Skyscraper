@@ -6,6 +6,9 @@ title = c_sonchon
 # Settlements
 max_settlements = 4
 
+b_sonchon_b0 = castle
+b_sonchon_b1 = city
+
 # Misc
 culture = pyongbuk
 religion = juche

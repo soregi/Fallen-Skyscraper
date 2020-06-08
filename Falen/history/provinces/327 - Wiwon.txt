@@ -6,6 +6,8 @@ title = c_wiwon
 # Settlements
 max_settlements = 3
 
+b_wiwon_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche

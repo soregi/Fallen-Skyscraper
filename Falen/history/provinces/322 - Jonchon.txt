@@ -6,6 +6,8 @@ title = c_jonchon
 # Settlements
 max_settlements = 3
 
+b_jonchon_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche

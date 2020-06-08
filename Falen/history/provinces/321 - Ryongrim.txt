@@ -6,6 +6,8 @@ title = c_ryongrim
 # Settlements
 max_settlements = 2
 
+b_ryongrim_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche

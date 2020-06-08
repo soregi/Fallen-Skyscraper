@@ -6,6 +6,8 @@ title = c_pyoktong
 # Settlements
 max_settlements = 3
 
+b_pyoktong_b0 = tribal
+
 # Misc
 culture = pyongbuk
 religion = cheondo

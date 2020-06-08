@@ -6,6 +6,8 @@ title = c_usi
 # Settlements
 max_settlements = 3
 
+b_usi_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche
