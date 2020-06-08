@@ -6,6 +6,10 @@ title = c_lakwon
 # Settlements
 max_settlements = 4
 
+b_lakwon_b0 = castle
+b_lakwon_b1 = city
+b_lakwon_b2 = temple
+
 # Misc
 culture = hamnam
 religion = orthodox

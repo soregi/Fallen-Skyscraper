@@ -6,6 +6,9 @@ title = c_hwadae
 # Settlements
 max_settlements = 4
 
+b_hwadae_b0 = castle
+b_hwadae_b1 = city
+
 # Misc
 culture = hambuk
 religion = orthodox

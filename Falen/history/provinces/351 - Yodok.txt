@@ -6,6 +6,8 @@ title = c_yodeok
 # Settlements
 max_settlements = 3
 
+b_yodeok_b0 = tribal
+
 # Misc
 culture = hamnam
 religion = juche

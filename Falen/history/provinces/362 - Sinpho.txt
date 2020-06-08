@@ -6,6 +6,9 @@ title = c_sinpo
 # Settlements
 max_settlements = 4
 
+b_sinpo_b0 = castle
+b_sinpo_b1 = temple
+
 # Misc
 culture = hamnam
 religion = orthodox

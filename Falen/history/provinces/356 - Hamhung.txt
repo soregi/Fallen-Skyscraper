@@ -4,7 +4,12 @@
 title = c_hamheung
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
+
+b_hamheung_b0 = castle
+b_hamheung_b1 = city
+b_hamheung_b2 = castle
+b_hamheung_b3 = temple
 
 # Misc
 culture = hamnam

@@ -6,6 +6,9 @@ title = c_myeongcheon
 # Settlements
 max_settlements = 4
 
+b_myeongcheon_b0 = castle
+b_myeongcheon_b1 = temple
+
 # Misc
 culture = hambuk
 religion = orthodox

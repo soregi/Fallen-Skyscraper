@@ -6,6 +6,8 @@ title = c_hongwon
 # Settlements
 max_settlements = 3
 
+b_hongwon_b0 = tribal
+
 # Misc
 culture = hamnam
 religion = juche

@@ -6,6 +6,10 @@ title = c_gimchaek
 # Settlements
 max_settlements = 4
 
+b_gimchaek_b0 = castle
+b_gimchaek_b1 = city
+b_gimchaek_b2 = temple
+
 # Misc
 culture = hambuk
 religion = orthodox

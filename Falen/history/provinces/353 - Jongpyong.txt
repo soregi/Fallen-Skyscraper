@@ -6,6 +6,8 @@ title = c_jeongpyeong
 # Settlements
 max_settlements = 4
 
+b_jeongpyeong_b0 = tribal
+
 # Misc
 culture = hamnam
 religion = orthodox
