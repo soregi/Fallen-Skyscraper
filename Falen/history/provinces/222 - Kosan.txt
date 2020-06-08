@@ -11,4 +11,4 @@ b_kuup_kosan = castle
 
 # Misc
 culture = yeongdong
-religion = marxist
+religion = orthodox

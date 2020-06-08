@@ -8,4 +8,4 @@ max_settlements = 4
 
 # Misc
 culture = hamnam
-religion = orthodox
+religion = juche

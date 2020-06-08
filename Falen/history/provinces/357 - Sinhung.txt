@@ -6,6 +6,8 @@ title = c_sinheung
 # Settlements
 max_settlements = 3
 
+b_sinheung_b0 = tribal
+
 # Misc
 culture = hamnam
 religion = juche

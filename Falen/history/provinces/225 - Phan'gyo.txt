@@ -11,4 +11,4 @@ b_chonam_phangyo = temple
 
 # Misc
 culture = yeongdong
-religion = orthodox
+religion = marxist

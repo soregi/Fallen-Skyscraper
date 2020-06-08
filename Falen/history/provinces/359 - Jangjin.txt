@@ -6,6 +6,9 @@ title = c_jangjin
 # Settlements
 max_settlements = 2
 
+b_jangjin = tribal
+b_hwangcho = temple
+
 # Misc
 culture = hamnam
 religion = juche

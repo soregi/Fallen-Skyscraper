@@ -6,6 +6,9 @@ title = c_bujeon
 # Settlements
 max_settlements = 2
 
+b_pujon = tribal
+b_chail = temple
+
 # Misc
 culture = hamnam
 religion = juche
