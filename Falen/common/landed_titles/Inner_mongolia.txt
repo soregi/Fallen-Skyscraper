@@ -181,43 +181,43 @@ k_inner_mongolia = {
 		capital = 477
 		c_lishu = {
 			color = { 0 192 51 }
-			b_lishu_b0
-			b_lishu_b1
-			b_lishu_b2
-			b_lishu_b3
-			b_lishu_b4
-			b_lishu_b5
-			b_lishu_b6
+			b_lishu_b0 = {}
+			b_lishu_b1 = {}
+			b_lishu_b2 = {}
+			b_lishu_b3 = {}
+			b_lishu_b4 = {}
+			b_lishu_b5 = {}
+			b_lishu_b6 = {}
 		}
 		c_gongzhuling = {
 			color = { 0 104 91 }
-			b_gongzhuling_b0
-			b_gongzhuling_b1
-			b_gongzhuling_b2
-			b_gongzhuling_b3
-			b_gongzhuling_b4
-			b_gongzhuling_b5
-			b_gongzhuling_b6
+			b_gongzhuling_b0 = {}
+			b_gongzhuling_b1 = {}
+			b_gongzhuling_b2 = {}
+			b_gongzhuling_b3 = {}
+			b_gongzhuling_b4 = {}
+			b_gongzhuling_b5 = {}
+			b_gongzhuling_b6 = {}
 		}
 		c_shuangliao = {
 			color = { 0 129 252 }
-			b_shuangliao_b0
-			b_shuangliao_b1
-			b_shuangliao_b2
-			b_shuangliao_b3
-			b_shuangliao_b4
-			b_shuangliao_b5
-			b_shuangliao_b6
+			b_shuangliao_b0 = {}
+			b_shuangliao_b1 = {}
+			b_shuangliao_b2 = {}
+			b_shuangliao_b3 = {}
+			b_shuangliao_b4 = {}
+			b_shuangliao_b5 = {}
+			b_shuangliao_b6 = {}
 		}
 		c_changling = {
 			color = { 0 153 35 }
-			b_changling_b0
-			b_changling_b1
-			b_changling_b2
-			b_changling_b3
-			b_changling_b4
-			b_changling_b5
-			b_changling_b6
+			b_changling_b0 = {}
+			b_changling_b1 = {}
+			b_changling_b2 = {}
+			b_changling_b3 = {}
+			b_changling_b4 = {}
+			b_changling_b5 = {}
+			b_changling_b6 = {}
 		}
 	}
 }

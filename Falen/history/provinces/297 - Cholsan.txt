@@ -6,8 +6,8 @@ title = c_cholsan
 # Settlements
 max_settlements = 4
 
-b_cholsan_b0 = castle
-b_cholsan_b1 = city
+b_cholsan_b0 = city
+b_cholsan_b1 = castle
 
 # Misc
 culture = pyongbuk
