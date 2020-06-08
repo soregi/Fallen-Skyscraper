@@ -114,27 +114,63 @@ k_liaoning = {
 		capital = 403
 		c_dandong = {
 			color = { 230 255 0 }
-			
+			b_dandong_b0 = {}
+			b_dandong_b1 = {}
+			b_dandong_b2 = {}
+			b_dandong_b3 = {}
+			b_dandong_b4 = {}
+			b_dandong_b5 = {}
+			b_dandong_b6 = {}
 		}
 		c_donggang = {
 			color = { 250 250 0 }
-			
+			b_donggang_b0 = {}
+			b_donggang_b1 = {}
+			b_donggang_b2 = {}
+			b_donggang_b3 = {}
+			b_donggang_b4 = {}
+			b_donggang_b5 = {}
+			b_donggang_b6 = {}
 		}
 		c_fengcheng = {
 			color = { 175 175 0 }
-			
+			b_fengcheng_b0 = {}
+			b_fengcheng_b1 = {}
+			b_fengcheng_b2 = {}
+			b_fengcheng_b3 = {}
+			b_fengcheng_b4 = {}
+			b_fengcheng_b5 = {}
+			b_fengcheng_b6 = {}
 		}
 		c_kuandian = {
 			color = { 225 225 0 }
-			
+			b_kuandian_b0 = {}
+			b_kuandian_b1 = {}
+			b_kuandian_b2 = {}
+			b_kuandian_b3 = {}
+			b_kuandian_b4 = {}
+			b_kuandian_b5 = {}
+			b_kuandian_b6 = {}
 		}
 		c_benxi = {
 			color = { 132 66 0 }
-			
+			b_benxi_b0 = {}
+			b_benxi_b1 = {}
+			b_benxi_b2 = {}
+			b_benxi_b3 = {}
+			b_benxi_b4 = {}
+			b_benxi_b5 = {}
+			b_benxi_b6 = {}
 		}
 		c_huanren = {
 			color = { 148 100 0 }
-			
+			b_huanren_b0 = {}
+			b_huanren_b1 = {}
+			b_huanren_b2 = {}
+			b_huanren_b3 = {}
+			b_huanren_b4 = {}
+			b_huanren_b5 = {}
+			b_huanren_b6 = {}
 		}
 	}
 	d_liaoyang = {
@@ -142,23 +178,53 @@ k_liaoning = {
 		capital = 415
 		c_haicheng = {
 			color = { 130 130 0 }
-			
+			b_haicheng_b0 = {}
+			b_haicheng_b1 = {}
+			b_haicheng_b2 = {}
+			b_haicheng_b3 = {}
+			b_haicheng_b4 = {}
+			b_haicheng_b5 = {}
+			b_haicheng_b6 = {}
 		}
 		c_qianshan = {
 			color = { 177 177 0 }
-			
+			b_qianshan_b0 = {}
+			b_qianshan_b1 = {}
+			b_qianshan_b2 = {}
+			b_qianshan_b3 = {}
+			b_qianshan_b4 = {}
+			b_qianshan_b5 = {}
+			b_qianshan_b6 = {}
 		}
 		c_liaoyang = {
 			color = { 79 95 0 }
-			
+			b_liaoyang_b0 = {}
+			b_liaoyang_b1 = {}
+			b_liaoyang_b2 = {}
+			b_liaoyang_b3 = {}
+			b_liaoyang_b4 = {}
+			b_liaoyang_b5 = {}
+			b_liaoyang_b6 = {}
 		}
 		c_pingshan = {
 			color = { 55 47 0 }
-			
+			b_pingshan_b0 = {}
+			b_pingshan_b1 = {}
+			b_pingshan_b2 = {}
+			b_pingshan_b3 = {}
+			b_pingshan_b4 = {}
+			b_pingshan_b5 = {}
+			b_pingshan_b6 = {}
 		}
 		c_gongchongling = {
 			color = { 150 145 0 }
-			
+			b_gongchongling_b0 = {}
+			b_gongchongling_b1 = {}
+			b_gongchongling_b2 = {}
+			b_gongchongling_b3 = {}
+			b_gongchongling_b4 = {}
+			b_gongchongling_b5 = {}
+			b_gongchongling_b6 = {}
 		}
 	}
 	d_dalian = {

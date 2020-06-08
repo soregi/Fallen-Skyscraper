@@ -404,7 +404,7 @@
 	name = "Sinjin"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = koreanist #앤 그냥 한국교. 굳이 따지면 대중에 가깝긴 하니 시스템상 못넣게되면 대중으로
 	father = 888
 	trait = mastermind_theologian
 	trait = ancient
@@ -421,7 +421,7 @@
 	name = "Jitae"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = populist
 	father = 2049
 	trait = thrifty_clerk
 	trait = content
@@ -436,7 +436,7 @@
 	name = "Yujin"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = populist
 	father = 2050
 	trait = underhanded_rogue
 	trait = stressed
@@ -451,7 +451,7 @@
 	name = "Chajin"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2051
 	trait = intricate_webweaver
 	trait = ambitious
@@ -471,7 +471,7 @@
 	name = "Jihun"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2052
 	trait = skilled_tactician
 	trait = gluttonous
@@ -486,7 +486,7 @@
 	name = "Hyeokjin"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2053
 	trait = underhanded_rogue
 	trait = cynical
@@ -501,7 +501,7 @@
 	name = "Inhwan"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2054
 	trait = midas_touched
 	trait = feeble
@@ -518,7 +518,7 @@
 	name = "Minsu"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2055
 	trait = martial_cleric
 	2321.2.20 = {
@@ -532,7 +532,7 @@
 	name = "Jimin"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2056
 	trait = naive_appeaser
 	2349.4.1 = {
@@ -546,7 +546,7 @@
 	name = "Injae"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2057
 	trait = flamboyant_schemer
 	2381.8.24 = {
@@ -560,7 +560,7 @@
 	name = "Hyeonsoo"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	father = 2058
 	trait = fortune_builder
 	trait = charitable
@@ -576,7 +576,7 @@
 	female = yes
 	dynasty = 4002025 # 서울쪽 임씨
 	culture = seoul
-	religion = koreanist
+	religion = authoritarian
 	trait = martial_cleric
 	trait = lustful
 	2411.3.14 = {

@@ -10,4 +10,4 @@ b_baeknyeong = castle
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist
