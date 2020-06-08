@@ -6,6 +6,9 @@ title = c_cheongjin
 # Settlements
 max_settlements = 4
 
+b_cheongjin_b0 = castle
+b_cheongjin_b1 = city
+
 # Misc
 culture = hambuk
 religion = orthodox

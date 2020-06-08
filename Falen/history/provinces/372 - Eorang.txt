@@ -8,4 +8,4 @@ max_settlements = 4
 
 # Misc
 culture = hambuk
-religion = orthodox
+religion = holy_spirit

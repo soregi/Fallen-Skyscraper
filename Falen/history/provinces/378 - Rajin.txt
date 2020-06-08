@@ -6,6 +6,11 @@ title = c_rajin
 # Settlements
 max_settlements = 6
 
+b_rajin_b0 = castle
+b_rajin_b1 = city
+b_rajin_b2 = castle
+b_rajin_b3 = temple
+
 # Misc
 culture = hambuk
 religion = orthodox
