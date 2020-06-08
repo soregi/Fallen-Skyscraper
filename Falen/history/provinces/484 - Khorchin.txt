@@ -6,6 +6,8 @@ title = c_horchin
 # Settlements
 max_settlements = 4
 
+b_horchin = tribal
+
 # Misc
 culture = mongol
 religion = vajrayana

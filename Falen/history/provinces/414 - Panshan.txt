@@ -6,6 +6,10 @@ title = c_panshan
 # Settlements
 max_settlements = 6
 
+b_panshan_b0 = city
+b_panshan_b1 = castle
+b_panshan_b2 = temple
+
 # Misc
 culture = liaoning
 religion = cheondo

@@ -6,6 +6,8 @@ title = c_naiman
 # Settlements
 max_settlements = 4
 
+b_naiman = tribal
+
 # Misc
 culture = mongol
 religion = vajrayana

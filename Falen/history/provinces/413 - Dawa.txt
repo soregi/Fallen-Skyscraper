@@ -6,6 +6,11 @@ title = c_dawa
 # Settlements
 max_settlements = 6
 
+b_dawa_b0 = city
+b_dawa_b1 = castle
+b_dawa_b2 = city
+b_dawa_b3 = temple
+
 # Misc
 culture = liaoning
 religion = cheondo

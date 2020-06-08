@@ -6,6 +6,8 @@ title = c_changling
 # Settlements
 max_settlements = 3
 
+b_changling_b0 = tribal
+
 # Misc
 culture = mongol
 religion = vajrayana

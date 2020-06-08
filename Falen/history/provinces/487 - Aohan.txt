@@ -6,6 +6,8 @@ title = c_aohan
 # Settlements
 max_settlements = 3
 
+b_aohan = tribal
+
 # Misc
 culture = mongol
 religion = vajrayana

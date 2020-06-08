@@ -6,6 +6,8 @@ title = c_baarin
 # Settlements
 max_settlements = 3
 
+b_baarin_b0 = tribal
+
 # Misc
 culture = mongol
 religion = vajrayana

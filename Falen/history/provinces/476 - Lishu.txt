@@ -6,6 +6,8 @@ title = c_lishu
 # Settlements
 max_settlements = 4
 
+b_lishu_b0 = tribal
+
 # Misc
 culture = mongol
 religion = vajrayana
