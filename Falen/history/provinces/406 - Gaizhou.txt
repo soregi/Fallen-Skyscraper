@@ -6,6 +6,9 @@ title = c_gaizhou
 # Settlements
 max_settlements = 6
 
+b_gaizhou_b0 = castle
+b_gaizhou_b1 = temple
+
 # Misc
 culture = liaoning
 religion = cheondo

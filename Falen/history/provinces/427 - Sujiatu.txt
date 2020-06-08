@@ -6,6 +6,8 @@ title = c_sujiatu
 # Settlements
 max_settlements = 5
 
+b_sujiatu_b0 = tribal
+
 # Misc
 culture = yalu
 religion = tengri_pagan

@@ -6,6 +6,10 @@ title = c_dashiqiao
 # Settlements
 max_settlements = 6
 
+b_dashiqiao_b0 = castle
+b_dashiqiao_b1 = city
+b_dashiqiao_b2 = temple
+
 # Misc
 culture = liaoning
 religion = tengri_pagan
