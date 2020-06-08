@@ -232,73 +232,73 @@ k_liaoning = {
 		capital = 396
 		c_lushun = {
 			color = { 255 255 0 }
-			b_lushun_b0
-			b_lushun_b1
-			b_lushun_b2
-			b_lushun_b3
-			b_lushun_b4
-			b_lushun_b5
-			b_lushun_b6
+			b_lushun_b0 = {}
+			b_lushun_b1 = {}
+			b_lushun_b2 = {}
+			b_lushun_b3 = {}
+			b_lushun_b4 = {}
+			b_lushun_b5 = {}
+			b_lushun_b6 = {}
 		}
 		c_ganjingzi = {
 			color = { 100 100 0 }
-			b_ganjingzi_b0
-			b_ganjingzi_b1
-			b_ganjingzi_b2
-			b_ganjingzi_b3
-			b_ganjingzi_b4
-			b_ganjingzi_b5
-			b_ganjingzi_b6
+			b_ganjingzi_b0 = {}
+			b_ganjingzi_b1 = {}
+			b_ganjingzi_b2 = {}
+			b_ganjingzi_b3 = {}
+			b_ganjingzi_b4 = {}
+			b_ganjingzi_b5 = {}
+			b_ganjingzi_b6 = {}
 		}
 		c_shahekou = {
 			color = { 200 100 0 }
-			b_shahekou_b0
-			b_shahekou_b1
-			b_shahekou_b2
-			b_shahekou_b3
-			b_shahekou_b4
-			b_shahekou_b5
-			b_shahekou_b6
+			b_shahekou_b0 = {}
+			b_shahekou_b1 = {}
+			b_shahekou_b2 = {}
+			b_shahekou_b3 = {}
+			b_shahekou_b4 = {}
+			b_shahekou_b5 = {}
+			b_shahekou_b6 = {}
 		}
 		c_jinzhou = {
 			color = { 150 0 125 }
-			b_jinzhou_b0
-			b_jinzhou_b1
-			b_jinzhou_b2
-			b_jinzhou_b3
-			b_jinzhou_b4
-			b_jinzhou_b5
-			b_jinzhou_b6
+			b_jinzhou_b0 = {}
+			b_jinzhou_b1 = {}
+			b_jinzhou_b2 = {}
+			b_jinzhou_b3 = {}
+			b_jinzhou_b4 = {}
+			b_jinzhou_b5 = {}
+			b_jinzhou_b6 = {}
 		}
 		c_pulandian = {
 			color = { 200 200 0 }
-			b_pulandian_b0
-			b_pulandian_b1
-			b_pulandian_b2
-			b_pulandian_b3
-			b_pulandian_b4
-			b_pulandian_b5
-			b_pulandian_b6
+			b_pulandian_b0 = {}
+			b_pulandian_b1 = {}
+			b_pulandian_b2 = {}
+			b_pulandian_b3 = {}
+			b_pulandian_b4 = {}
+			b_pulandian_b5 = {}
+			b_pulandian_b6 = {}
 		}
 		c_wafangdian = {
 			color = { 50 50 0 }
-			b_wafangdian_b0
-			b_wafangdian_b1
-			b_wafangdian_b2
-			b_wafangdian_b3
-			b_wafangdian_b4
-			b_wafangdian_b5
-			b_wafangdian_b6
+			b_wafangdian_b0 = {}
+			b_wafangdian_b1 = {}
+			b_wafangdian_b2 = {}
+			b_wafangdian_b3 = {}
+			b_wafangdian_b4 = {}
+			b_wafangdian_b5 = {}
+			b_wafangdian_b6 = {}
 		}
 		c_zhuanghe = {
 			color = { 145 145 0 }
-			b_zhuanghe_b0
-			b_zhuanghe_b1
-			b_zhuanghe_b2
-			b_zhuanghe_b3
-			b_zhuanghe_b4
-			b_zhuanghe_b5
-			b_zhuanghe_b6
+			b_zhuanghe_b0 = {}
+			b_zhuanghe_b1 = {}
+			b_zhuanghe_b2 = {}
+			b_zhuanghe_b3 = {}
+			b_zhuanghe_b4 = {}
+			b_zhuanghe_b5 = {}
+			b_zhuanghe_b6 = {}
 		}
 	}
 	d_jinzhou = {
@@ -306,53 +306,53 @@ k_liaoning = {
 		capital = 435
 		c_heishan = {
 			color = { 170 189 0 }
-			b_heishan_b0
-			b_heishan_b1
-			b_heishan_b2
-			b_heishan_b3
-			b_heishan_b4
-			b_heishan_b5
-			b_heishan_b6
+			b_heishan_b0 = {}
+			b_heishan_b1 = {}
+			b_heishan_b2 = {}
+			b_heishan_b3 = {}
+			b_heishan_b4 = {}
+			b_heishan_b5 = {}
+			b_heishan_b6 = {}
 		}
 		c_beizhen = {
 			color = { 186 155 0 }
-			b_beizhen_b0
-			b_beizhen_b1
-			b_beizhen_b2
-			b_beizhen_b3
-			b_beizhen_b4
-			b_beizhen_b5
-			b_beizhen_b6
+			b_beizhen_b0 = {}
+			b_beizhen_b1 = {}
+			b_beizhen_b2 = {}
+			b_beizhen_b3 = {}
+			b_beizhen_b4 = {}
+			b_beizhen_b5 = {}
+			b_beizhen_b6 = {}
 		}
 		c_yi = {
 			color = { 240 217 0 }
-			b_yi_b0
-			b_yi_b1
-			b_yi_b2
-			b_yi_b3
-			b_yi_b4
-			b_yi_b5
-			b_yi_b6
+			b_yi_b0 = {}
+			b_yi_b1 = {}
+			b_yi_b2 = {}
+			b_yi_b3 = {}
+			b_yi_b4 = {}
+			b_yi_b5 = {}
+			b_yi_b6 = {}
 		}
 		c_taihe = {
 			color = { 107 154 0 }
-			b_taihe_b0
-			b_taihe_b1
-			b_taihe_b2
-			b_taihe_b3
-			b_taihe_b4
-			b_taihe_b5
-			b_taihe_b6
+			b_taihe_b0 = {}
+			b_taihe_b1 = {}
+			b_taihe_b2 = {}
+			b_taihe_b3 = {}
+			b_taihe_b4 = {}
+			b_taihe_b5 = {}
+			b_taihe_b6 = {}
 		}
 		c_linghai = {
 			color = { 55 91 0 }
-			b_linghai_b0
-			b_linghai_b1
-			b_linghai_b2
-			b_linghai_b3
-			b_linghai_b4
-			b_linghai_b5
-			b_linghai_b6
+			b_linghai_b0 = {}
+			b_linghai_b1 = {}
+			b_linghai_b2 = {}
+			b_linghai_b3 = {}
+			b_linghai_b4 = {}
+			b_linghai_b5 = {}
+			b_linghai_b6 = {}
 		}
 	}
 	d_tieling = {
@@ -360,73 +360,73 @@ k_liaoning = {
 		capital = 444
 		c_fushun = {
 			color = { 70 75 0 }
-			b_fushun_b0
-			b_fushun_b1
-			b_fushun_b2
-			b_fushun_b3
-			b_fushun_b4
-			b_fushun_b5
-			b_fushun_b6
+			b_fushun_b0 = {}
+			b_fushun_b1 = {}
+			b_fushun_b2 = {}
+			b_fushun_b3 = {}
+			b_fushun_b4 = {}
+			b_fushun_b5 = {}
+			b_fushun_b6 = {}
 		}
 		c_xinbin = {
 			color = { 157 176 0 }
-			b_xinbin_b0
-			b_xinbin_b1
-			b_xinbin_b2
-			b_xinbin_b3
-			b_xinbin_b4
-			b_xinbin_b5
-			b_xinbin_b6
+			b_xinbin_b0 = {}
+			b_xinbin_b1 = {}
+			b_xinbin_b2 = {}
+			b_xinbin_b3 = {}
+			b_xinbin_b4 = {}
+			b_xinbin_b5 = {}
+			b_xinbin_b6 = {}
 		}
 		c_cingyuwan = {
 			color = { 192 227 51 }
-			b_cingyuwan_b0
-			b_cingyuwan_b1
-			b_cingyuwan_b2
-			b_cingyuwan_b3
-			b_cingyuwan_b4
-			b_cingyuwan_b5
-			b_cingyuwan_b6
+			b_cingyuwan_b0 = {}
+			b_cingyuwan_b1 = {}
+			b_cingyuwan_b2 = {}
+			b_cingyuwan_b3 = {}
+			b_cingyuwan_b4 = {}
+			b_cingyuwan_b5 = {}
+			b_cingyuwan_b6 = {}
 		}
 		c_changtu = {
 			color = { 100 119 0 }
-			b_changtu_b0
-			b_changtu_b1
-			b_changtu_b2
-			b_changtu_b3
-			b_changtu_b4
-			b_changtu_b5
-			b_changtu_b6
+			b_changtu_b0 = {}
+			b_changtu_b1 = {}
+			b_changtu_b2 = {}
+			b_changtu_b3 = {}
+			b_changtu_b4 = {}
+			b_changtu_b5 = {}
+			b_changtu_b6 = {}
 		}
 		c_xifeng = {
 			color = { 60 54 0 }
-			b_xifeng_b0
-			b_xifeng_b1
-			b_xifeng_b2
-			b_xifeng_b3
-			b_xifeng_b4
-			b_xifeng_b5
-			b_xifeng_b6
+			b_xifeng_b0 = {}
+			b_xifeng_b1 = {}
+			b_xifeng_b2 = {}
+			b_xifeng_b3 = {}
+			b_xifeng_b4 = {}
+			b_xifeng_b5 = {}
+			b_xifeng_b6 = {}
 		}
 		c_kaiyuan = {
 			color = { 214 195 0 }
-			b_kaiyuan_b0
-			b_kaiyuan_b1
-			b_kaiyuan_b2
-			b_kaiyuan_b3
-			b_kaiyuan_b4
-			b_kaiyuan_b5
-			b_kaiyuan_b6
+			b_kaiyuan_b0 = {}
+			b_kaiyuan_b1 = {}
+			b_kaiyuan_b2 = {}
+			b_kaiyuan_b3 = {}
+			b_kaiyuan_b4 = {}
+			b_kaiyuan_b5 = {}
+			b_kaiyuan_b6 = {}
 		}
 		c_tieling = {
 			color = { 230 151 0 }
-			b_tieling_b0
-			b_tieling_b1
-			b_tieling_b2
-			b_tieling_b3
-			b_tieling_b4
-			b_tieling_b5
-			b_tieling_b6
+			b_tieling_b0 = {}
+			b_tieling_b1 = {}
+			b_tieling_b2 = {}
+			b_tieling_b3 = {}
+			b_tieling_b4 = {}
+			b_tieling_b5 = {}
+			b_tieling_b6 = {}
 		}
 	}
 	d_huludao = {
@@ -434,53 +434,53 @@ k_liaoning = {
 		capital = 513
 		c_xingcheng = {
 			color = { 113 101 0 }
-			b_xingcheng_b0
-			b_xingcheng_b1
-			b_xingcheng_b2
-			b_xingcheng_b3
-			b_xingcheng_b4
-			b_xingcheng_b5
-			b_xingcheng_b6
+			b_xingcheng_b0 = {}
+			b_xingcheng_b1 = {}
+			b_xingcheng_b2 = {}
+			b_xingcheng_b3 = {}
+			b_xingcheng_b4 = {}
+			b_xingcheng_b5 = {}
+			b_xingcheng_b6 = {}
 		}
 		c_lianshan = {
 			color = { 189 173 0 }
-			b_lianshan_b0
-			b_lianshan_b1
-			b_lianshan_b2
-			b_lianshan_b3
-			b_lianshan_b4
-			b_lianshan_b5
-			b_lianshan_b6
+			b_lianshan_b0 = {}
+			b_lianshan_b1 = {}
+			b_lianshan_b2 = {}
+			b_lianshan_b3 = {}
+			b_lianshan_b4 = {}
+			b_lianshan_b5 = {}
+			b_lianshan_b6 = {}
 		}
 		c_suizhong = {
 			color = { 189 92 0 }
-			b_suizhong_b0
-			b_suizhong_b1
-			b_suizhong_b2
-			b_suizhong_b3
-			b_suizhong_b4
-			b_suizhong_b5
-			b_suizhong_b6
+			b_suizhong_b0 = {}
+			b_suizhong_b1 = {}
+			b_suizhong_b2 = {}
+			b_suizhong_b3 = {}
+			b_suizhong_b4 = {}
+			b_suizhong_b5 = {}
+			b_suizhong_b6 = {}
 		}
 		c_jianchang = {
 			color = { 189 243 0 }
-			b_jianchang_b0
-			b_jianchang_b1
-			b_jianchang_b2
-			b_jianchang_b3
-			b_jianchang_b4
-			b_jianchang_b5
-			b_jianchang_b6
+			b_jianchang_b0 = {}
+			b_jianchang_b1 = {}
+			b_jianchang_b2 = {}
+			b_jianchang_b3 = {}
+			b_jianchang_b4 = {}
+			b_jianchang_b5 = {}
+			b_jianchang_b6 = {}
 		}
 		c_nanpiao = {
 			color = { 200 180 0 }
-			b_nanpiao_b0
-			b_nanpiao_b1
-			b_nanpiao_b2
-			b_nanpiao_b3
-			b_nanpiao_b4
-			b_nanpiao_b5
-			b_nanpiao_b6
+			b_nanpiao_b0 = {}
+			b_nanpiao_b1 = {}
+			b_nanpiao_b2 = {}
+			b_nanpiao_b3 = {}
+			b_nanpiao_b4 = {}
+			b_nanpiao_b5 = {}
+			b_nanpiao_b6 = {}
 		}
 	}
 	d_panjin = {
@@ -488,32 +488,32 @@ k_liaoning = {
 		capital = 413
 		c_taian = {
 			color = { 99 99 0 }
-			b_taian_b0
-			b_taian_b1
-			b_taian_b2
-			b_taian_b3
-			b_taian_b4
-			b_taian_b5
-			b_taian_b6
+			b_taian_b0 = {}
+			b_taian_b1 = {}
+			b_taian_b2 = {}
+			b_taian_b3 = {}
+			b_taian_b4 = {}
+			b_taian_b5 = {}
+			b_taian_b6 = {}
 		}
 		c_dawa = {
 			color = { 176 208 0 }
-			b_dawa_b0
-			b_dawa_b1
-			b_dawa_b2
-			b_dawa_b3
-			b_dawa_b4
-			b_dawa_b5
-			b_dawa_b6
+			b_dawa_b0 = {}
+			b_dawa_b1 = {}
+			b_dawa_b2 = {}
+			b_dawa_b3 = {}
+			b_dawa_b4 = {}
+			b_dawa_b5 = {}
+			b_dawa_b6 = {}
 		}
 		c_panshan = {
 			color = { 50 60 0 }
-			b_panshan_b0
-			b_panshan_b1
-			b_panshan_b2
-			b_panshan_b3
-			b_panshan_b4
-			b_panshan_b5
-			b_panshan_b6
+			b_panshan_b0 = {}
+			b_panshan_b1 = {}
+			b_panshan_b2 = {}
+			b_panshan_b3 = {}
+			b_panshan_b4 = {}
+			b_panshan_b5 = {}
+			b_panshan_b6 = {}
 		}
 	}
