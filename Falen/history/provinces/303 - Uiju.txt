@@ -6,6 +6,11 @@ title = c_uiju
 # Settlements
 max_settlements = 5
 
+b_uiju_b0 = castle
+b_uiju_b1 = city
+b_uiju_b2 = temple
+b_uiju_b3 = castle
+
 # Misc
 culture = pyongbuk
 religion = cheondo

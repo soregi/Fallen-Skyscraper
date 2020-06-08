@@ -6,6 +6,10 @@ title = c_pihyon
 # Settlements
 max_settlements = 4
 
+b_pihyon_b0 = castle
+b_pihyon_b1 = city
+b_pihyon_b2 = temple
+
 # Misc
 culture = pyongbuk
 religion = juche

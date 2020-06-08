@@ -6,6 +6,8 @@ title = c_sijung
 # Settlements
 max_settlements = 3
 
+b_sijung_b0 = tribal
+
 # Misc
 culture = jagang
 religion = juche

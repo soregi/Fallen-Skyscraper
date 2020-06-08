@@ -6,6 +6,8 @@ title = c_kusong
 # Settlements
 max_settlements = 4
 
+b_kusong_b0 = tribal
+
 # Misc
 culture = pyongbuk
 religion = juche

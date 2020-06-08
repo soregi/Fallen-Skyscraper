@@ -6,6 +6,9 @@ title = c_chonma
 # Settlements
 max_settlements = 4
 
+b_chonma_b0 = castle
+b_chonma_b1 = temple
+
 # Misc
 culture = pyongbuk
 religion = cheondo

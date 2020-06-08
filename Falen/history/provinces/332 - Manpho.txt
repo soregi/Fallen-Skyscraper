@@ -6,6 +6,8 @@ title = c_manpho
 # Settlements
 max_settlements = 3
 
+b_manpho_b0 = tribal
+
 # Misc
 culture = jagang
 religion = cheondo

@@ -6,6 +6,8 @@ title = c_jasong
 # Settlements
 max_settlements = 3
 
+b_jasong_b0 = tribal
+
 # Misc
 culture = jagang
 religion = cheondo
