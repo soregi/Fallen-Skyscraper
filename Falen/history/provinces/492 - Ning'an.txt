@@ -6,6 +6,8 @@ title = c_ningan
 # Settlements
 max_settlements = 2
 
+b_ningan_b0 = tribal
+
 # Misc
 culture = russian
 religion = marxist

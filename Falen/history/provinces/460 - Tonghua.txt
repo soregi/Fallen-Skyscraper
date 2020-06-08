@@ -6,6 +6,8 @@ title = c_tonghua
 # Settlements
 max_settlements = 4
 
+b_tonghua_b0 = tribal
+
 # Misc
 culture = jilin
 religion = tengri_pagan

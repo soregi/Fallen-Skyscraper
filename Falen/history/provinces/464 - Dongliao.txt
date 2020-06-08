@@ -6,6 +6,8 @@ title = c_dongliao
 # Settlements
 max_settlements = 5
 
+b_dongliao_b0 = tribal
+
 # Misc
 culture = mongol
 religion = vajrayana

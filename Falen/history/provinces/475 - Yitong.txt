@@ -6,6 +6,8 @@ title = c_yitong
 # Settlements
 max_settlements = 4
 
+b_yitong_b0 = tribal
+
 # Misc
 culture = jilin
 religion = holy_spirit

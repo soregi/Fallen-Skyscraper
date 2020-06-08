@@ -6,6 +6,8 @@ title = c_changchun
 # Settlements
 max_settlements = 7
 
+b_changchun_b0 = tribal
+
 # Misc
 culture = jilin
 religion = holy_spirit

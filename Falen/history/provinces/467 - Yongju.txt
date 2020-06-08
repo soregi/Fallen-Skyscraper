@@ -6,6 +6,8 @@ title = c_yongji
 # Settlements
 max_settlements = 5
 
+b_yongji_b0 = tribal
+
 # Misc
 culture = jilin
 religion = holy_spirit

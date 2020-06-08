@@ -6,6 +6,8 @@ title = c_shuangyang
 # Settlements
 max_settlements = 3
 
+b_shuangyang_b0 = tribal
+
 # Misc
 culture = jilin
 religion = holy_spirit

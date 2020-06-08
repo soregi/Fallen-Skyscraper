@@ -6,6 +6,8 @@ title = c_hunjiang
 # Settlements
 max_settlements = 5
 
+b_hunjiang_b0 = tribal
+
 # Misc
 culture = jilin
 religion = red_solar

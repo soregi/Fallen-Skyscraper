@@ -6,6 +6,8 @@ title = c_meihekou
 # Settlements
 max_settlements = 3
 
+b_meihekou_b0 = tribal
+
 # Misc
 culture = jilin
 religion = tengri_pagan

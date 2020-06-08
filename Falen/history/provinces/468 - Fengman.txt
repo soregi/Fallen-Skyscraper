@@ -6,6 +6,8 @@ title = c_fengman
 # Settlements
 max_settlements = 3
 
+b_fengman_b0 = tribal
+
 # Misc
 culture = jilin
 religion = holy_spirit

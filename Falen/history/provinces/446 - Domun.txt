@@ -6,6 +6,8 @@ title = c_tumen
 # Settlements
 max_settlements = 7
 
+b_tumen_b0 = tribal
+
 # Misc
 culture = chaoxian
 religion = holy_spirit

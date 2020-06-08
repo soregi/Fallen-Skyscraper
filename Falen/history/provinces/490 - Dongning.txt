@@ -6,6 +6,8 @@ title = c_dongning
 # Settlements
 max_settlements = 3
 
+b_dongning_b0 = tribal
+
 # Misc
 culture = russian
 religion = marxist

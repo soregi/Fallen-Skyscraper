@@ -6,6 +6,8 @@ title = c_linjiang
 # Settlements
 max_settlements = 3
 
+b_linjiang_b0 = tribal
+
 # Misc
 culture = jilin
 religion = tengri_pagan

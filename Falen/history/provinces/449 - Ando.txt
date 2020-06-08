@@ -6,6 +6,8 @@ title = c_antu
 # Settlements
 max_settlements = 4
 
+b_antu_b0 = tribal
+
 # Misc
 culture = chaoxian
 religion = red_solar

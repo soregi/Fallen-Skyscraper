@@ -6,6 +6,8 @@ title = c_jiutai
 # Settlements
 max_settlements = 5
 
+b_jiutai_b0 = tribal
+
 # Misc
 culture = jilin
 religion = holy_spirit

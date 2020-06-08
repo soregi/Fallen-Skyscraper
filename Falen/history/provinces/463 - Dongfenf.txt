@@ -6,6 +6,8 @@ title = c_dongfeng
 # Settlements
 max_settlements = 4
 
+b_dongfeng_b0 = tribal
+
 # Misc
 culture = jilin
 religion = tengri_pagan
