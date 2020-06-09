@@ -6,6 +6,8 @@ title = c_chaoyang
 # Settlements
 max_settlements = 5
 
+b_chaoyang_b0 = tribal
+
 # Misc
 culture = liaoning
 religion = maoist

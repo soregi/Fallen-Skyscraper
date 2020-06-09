@@ -4,6 +4,9 @@ title = c_nanpiao
 # Settlements
 max_settlements = 3
 
+b_nanpiao_b0 = castle
+b_nanpiao_b1 = city
+			
 # Misc
 culture = liaoning
 religion = maoist

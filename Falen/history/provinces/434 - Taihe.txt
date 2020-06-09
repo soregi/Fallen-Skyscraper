@@ -6,6 +6,10 @@ title = c_taihe
 # Settlements
 max_settlements = 7
 
+b_taihe_b0 = castle
+b_taihe_b1 = temple
+b_taihe_b2 = city
+
 # Misc
 culture = liaoning
 religion = maoist

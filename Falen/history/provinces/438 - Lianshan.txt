@@ -6,6 +6,10 @@ title = c_lianshan
 # Settlements
 max_settlements = 6
 
+b_lianshan_b0 = castle
+b_lianshan_b1 = city
+b_lianshan_b2 = temple
+
 # Misc
 culture = liaoning
 religion = maoist

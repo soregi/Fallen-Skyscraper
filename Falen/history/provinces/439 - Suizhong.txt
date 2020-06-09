@@ -6,6 +6,11 @@ title = c_suizhong
 # Settlements
 max_settlements = 6
 
+b_suizhong_b0 = castle
+b_suizhong_b1 = city
+b_suizhong_b2 = temple
+b_suizhong_b3 = castle
+
 # Misc
 culture = liaoning
 religion = maoist
