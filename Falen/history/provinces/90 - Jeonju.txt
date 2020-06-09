@@ -10,6 +10,7 @@ b_jeonju = castle
 b_pyeonghwa = city
 b_samcheon = temple
 b_hyoja = city
+b_inhu = castle
 
 # Misc
 culture = honam

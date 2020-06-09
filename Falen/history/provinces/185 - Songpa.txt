@@ -8,6 +8,8 @@ max_settlements = 6
 
 b_songpa = castle
 b_jamsil = city
+b_garak_seoul = temple
+b_seokchon = castle
 
 # Misc
 culture = seoul
