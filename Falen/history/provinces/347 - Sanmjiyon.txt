@@ -6,7 +6,8 @@ title = c_samjiyeon
 # Settlements
 max_settlements = 4
 
-
+b_samjiyeon_b0 = temple
+b_samjiyeon_b1 = castle
 
 # Misc
 culture = jagang

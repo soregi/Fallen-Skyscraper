@@ -6,6 +6,8 @@ title = c_heocheon
 # Settlements
 max_settlements = 3
 
+b_heocheon_b0 = temple
+
 # Misc
 culture = hambuk
 religion = holy_spirit

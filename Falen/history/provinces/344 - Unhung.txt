@@ -6,6 +6,9 @@ title = c_unheung
 # Settlements
 max_settlements = 3
 
+b_unheung_b0 = temple
+b_unheung_b1 = castle
+
 # Misc
 culture = jagang
 religion = holy_spirit

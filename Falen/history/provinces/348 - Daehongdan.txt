@@ -6,6 +6,9 @@ title = c_daehongdan
 # Settlements
 max_settlements = 3
 
+b_daehongdan_b0 = temple
+b_daehongdan_b1 = castle
+
 # Misc
 culture = jagang
 religion = holy_spirit

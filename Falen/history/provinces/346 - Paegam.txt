@@ -6,6 +6,8 @@ title = c_baekam
 # Settlements
 max_settlements = 3
 
+b_baekam_b0 = temple
+
 # Misc
 culture = jagang
 religion = holy_spirit

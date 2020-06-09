@@ -6,6 +6,8 @@ title = c_yeonsa
 # Settlements
 max_settlements = 3
 
+b_yeonsa_b0 = temple
+
 # Misc
 culture = hambuk
 religion = holy_spirit

@@ -6,6 +6,8 @@ title = c_kapsan
 # Settlements
 max_settlements = 2
 
+b_kapsan_b0 = temple
+
 # Misc
 culture = jagang
 religion = holy_spirit
