@@ -7,6 +7,8 @@ title = c_gimpo
 max_settlements = 5
 
 b_gimpo = castle
+b_masan_gimpo = city
+b_tongjin = temple
 
 # Misc
 culture = gyeonggi

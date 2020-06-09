@@ -7,6 +7,10 @@ title = c_dongdaemun
 max_settlements = 6
 
 b_dongdaemun = castle
+b_gwangjin = city
+b_jungrang = temple
+b_majang = temple
+b_jayang = city
 
 # Misc
 culture = seoul

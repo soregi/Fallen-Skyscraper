@@ -8,6 +8,7 @@ max_settlements = 4
 
 b_imsil = castle
 b_gwanchon = temple
+b_osu = city
 
 # Misc
 culture = honam

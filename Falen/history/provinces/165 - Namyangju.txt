@@ -7,6 +7,8 @@ title = c_namyangju
 max_settlements = 5
 
 b_namyangju = castle
+b_dasan = city
+b_jinjeop = temple
 
 # Misc
 culture = gyeonggi

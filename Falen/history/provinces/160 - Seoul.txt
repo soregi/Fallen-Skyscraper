@@ -7,7 +7,10 @@ title = c_seoul
 max_settlements = 7
 b_jongno = castle
 b_eulji = city
-b_jangchung = temple
+b_jangchung = castle
+b_myeongdong = temple
+b_bukchon = city 
+b_hyehwa = temple
 
 # Misc
 culture = seoul

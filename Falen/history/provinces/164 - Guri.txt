@@ -7,6 +7,9 @@ title = c_guri
 max_settlements = 4
 
 b_guri = castle
+b_inchang = city
+b_dong-gu = temple
+b_sutaek = castle
 
 # Misc
 culture = gyeonggi

@@ -11,10 +11,6 @@ b_angang = city
 b_bodeok = temple
 b_bulguksa = temple
 b_geoncheon = castle
-b_gangdonggyeongju = city
-
-
-
 
 # Misc
 culture = yeongnam

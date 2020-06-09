@@ -9,6 +9,7 @@ max_settlements = 6
 b_yeongdeungpo = castle
 b_yeouido = city
 b_gukhoe = temple
+b_daerim = castle
 
 # Misc
 culture = seoul

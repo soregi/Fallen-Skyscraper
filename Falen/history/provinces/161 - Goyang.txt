@@ -7,6 +7,8 @@ title = c_goyang
 max_settlements = 5
 
 b_goyang = castle
+b_deogyang = city
+b_jugyo = temple
 
 # Misc
 culture = gyeonggi

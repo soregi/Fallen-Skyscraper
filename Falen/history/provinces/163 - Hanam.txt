@@ -7,6 +7,9 @@ title = c_hanam
 max_settlements = 5
 
 b_hanam = castle
+b_sinjang_hanam = city
+b_deokpung = temple
+b_misa_hanam = castle
 
 # Misc
 culture = gyeonggi

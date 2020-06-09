@@ -7,6 +7,9 @@ title = c_seongnam
 max_settlements = 5
 
 b_seongnam = castle
+b_pangyo = city
+b_sujeong = temple
+b_jungwon_seongnam = castle
 
 # Misc
 culture = gyeonggi
