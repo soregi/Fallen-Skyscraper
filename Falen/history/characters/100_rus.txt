@@ -350,9 +350,44 @@
 		add_spouse = 149
 	}
 }
-
-
-
+127 = {
+	name = "Nikolayev"
+	dynasty = 4000122
+	culture = russian
+	religion = orthodox
+	2388.11.18 = {
+		birth = yes
+	}
+	2397.10.4 = {
+		add_spouse = 150
+	}
+}
+128 = {
+	name = "Vladimir"
+	dynasty = 4000123
+	culture = russian
+	religion = orthodox
+	2419.9.2 = {
+		birth = yes
+	}
+	2443.5.14 = {
+		add_spouse = 151
+	}
+}
+129 = {
+	name = "Vasily" #여기부터
+	dynasty = 4000116
+	culture = russian
+	religion = orthodox
+	father = 130
+	mother = 153
+	2419.9.2 = {
+		birth = yes
+	}
+	2443.5.14 = {
+		add_spouse = 152
+	}
+}
 
 
 
