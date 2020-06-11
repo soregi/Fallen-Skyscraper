@@ -1,0 +1,115 @@
+1042 = {
+	name = "Vladimir"
+	dynasty = 4001008
+	culture = old_russian
+	religion = marxist
+	1870.3.22 = {
+		birth = yes
+	}
+	1824.1.21 = {
+		death = yes
+	}
+}
+1043 = {
+	name = "Iosef"
+	dynasty = 4001009
+	culture = old_russian
+	religion = stalinist
+	1878.12.18 = {
+		birth = yes
+	}
+	1953.3.5 = {
+		death = yes
+	}
+}
+1044 = {
+	name = "Georgy"
+	dynasty = 4001010
+	culture = old_russian
+	religion = marxist
+	1902.1.8 = {
+		birth = yes
+	}
+	1988.1.14 = {
+		death = yes
+	}
+}
+1045 = {
+	name = "Nikita"
+	dynasty = 4001011
+	culture = old_russian
+	religion = marxist
+	1894.4.15 = {
+		birth = yes
+	}
+	1971.9.11 = {
+		death = yes
+	}
+}
+1046 = {
+	name = "Leonid"
+	dynasty = 4001012
+	culture = old_russian
+	religion = marxist
+	1906.12.9 = {
+		birth = yes
+	}
+	1982.11.10 = {
+		death = yes
+	}
+}
+1047 = {
+	name = "Yuri"
+	dynasty = 4001013
+	culture = old_russian
+	religion = marxist
+	1914.5.18 = {
+		birth = yes
+	}
+	1984.5.26 = {
+		death = yes
+	}
+}
+1048 = {
+	name = "Konstantin"
+	dynasty = 4001014
+	culture = old_russian
+	religion = marxist
+	1911.9.24 = {
+		birth = yes
+	}
+	1985.3.10 = {
+		death = yes
+	}
+}
+1049 = {
+	name = "Mikhail"
+	dynasty = 4001015
+	culture = old_russian
+	religion = marxist
+	1931.3.2 = {
+		birth = yes
+	}
+	2020.3.14 = {
+		death = yes
+	}
+}
+1050 = {
+	name = "Gennady"
+	dynasty = 4001016
+	culture = old_russian
+	religion = marxist
+	1937.6.26 = {
+		birth = yes
+	}
+	2010.9.24 = {
+		death = yes
+	}
+}
+
+
+
+
+
+
+

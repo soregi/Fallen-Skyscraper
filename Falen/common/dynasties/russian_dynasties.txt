@@ -95,7 +95,7 @@
 }
 4000119 = {
 	name = "Namgung"
-	culture = yeongdong
+	culture = hamnam
 	religion = orthodox
 }
 4000120 = {

@@ -74,3 +74,6 @@ nick_yakanja = {} #야칸자
 nick_opened_the_sky = {} #개천
 #인공 별명
 nick_the_mother_of_nation #국모
+#동해용
+nick_the_berserker = {}
+nick_the_steel_for_rus = {}

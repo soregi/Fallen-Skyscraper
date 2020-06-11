@@ -1,0 +1,46 @@
+4001008 = {
+	name = "Lenin"
+	culture = old_russian
+	religion = marxist
+}
+4001009 = {
+	name = "Stalin"
+	culture = old_russian
+	religion = stalinist
+}
+4001010 = {
+	name = "Malenkov"
+	culture = old_russian
+	religion = marxist
+}
+4001011 = {
+	name = "Khrushchev"
+	culture = old_russian
+	religion = marxist
+}
+4001012 = {
+	name = "Brezhnev"
+	culture = old_russian
+	religion = marxist
+}
+4001013 = {
+	name = "Andropov"
+	culture = old_russian
+	religion = marxist
+}
+4001014 = {
+	name = "Chernenko"
+	culture = old_russian
+	religion = marxist
+}
+4001015 = {
+	name = "Gorbachev"
+	culture = old_russian
+	religion = marxist
+}
+4001016 = {
+	name = "Yanayev"
+	culture = old_russian
+	religion = marxist
+}
+

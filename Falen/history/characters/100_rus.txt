@@ -1,0 +1,359 @@
+101 = {
+	name = "Vladimir"
+	dynasty = 4000101
+	culture = russian
+	religion = orthodox
+	trait = brilliant_strategist
+	trait = strong
+	trait = brawny
+	trait = brave
+	trait = wroth
+	disallow_random_traits = yes
+	father = 161
+	2373.4.27 = {
+		birth = yes
+	}
+	2396.12.25 = {
+		give_nickname = nick_the_berserker
+		create_bloodline = {
+			type = donghae_blood
+			has_dlc = "Holy Fury"
+		}
+	}
+	2398.3.16 = {
+		add_spouse = 155
+	}
+	2424.8.30 = {
+		death = yes
+	}
+}
+102 = {
+	name = "Sergey"
+	dynasty = 4000101
+	culture = russian
+	religion = orthodox
+	trait = tough_soldier
+	trait = temperate
+	trait = kind
+	trait = kind
+	disallow_random_traits = yes
+	father = 101
+	mother = 155
+	2408.5.3 = {
+		birth = yes
+	}
+}
+103 = {
+	name = "Nikita"
+	dynasty = 4000101
+	culture = russian
+	religion = orthodox
+	father = 101
+	mother = 155
+	2415.9.22 = {
+		birth = yes
+	}
+	2439.4.28 = {
+		add_spouse = 133
+	}
+}
+104 = {
+	name = "Inessa"
+	female = yes
+	dynasty = 4000102
+	culture = russian
+	religion = marxist
+	trait = intricate_webweaver
+	trait = ambitious
+	trait = cruel
+	trait = zealous
+	trait = deceitful
+	trait = paranoid
+	disallow_random_traits = yes
+	give_nickname = nick_the_steel_for_rus
+	father = 101
+	mother = 155
+	2416.10.1 = {
+		birth = yes
+	}
+	2431.12.7 = {
+		add_spouse = 105
+	}
+}
+105 = {
+	name = "Evgeny"
+	dynasty = 4000103
+	culture = russian
+	religion = marxist
+	2418.1.18 = {
+		birth = yes
+	}
+	2440.7.19 = {
+		death = yes
+	}
+}
+106 = {
+	name = "Sergey"
+	dynasty = 4000103
+	culture = russian
+	religion = marxist
+	father = 105
+	mother = 104
+	2439.6.11 = {
+		birth = yes
+	}
+	2441.3.23 = {
+		death = yes
+	}
+}
+107 = {
+	name = "Boris"
+	dynasty = 4000104
+	culture = russian
+	religion = orthodox
+	trait = grey_eminence
+	trait = groomed
+	trait = slow
+	trait = gregarious
+	trait = kind
+	trait = proud
+	disallow_random_traits = yes
+	2416.12.1 = {
+		birth = yes
+	}
+}
+108 = {
+	name = "Georgy"
+	dynasty = 4000105
+	culture = russian
+	religion = orthodox
+	trait = tough_soldier
+	trait = lunatic
+	2398.2.8 = {
+		birth = yes
+	}
+	2424.1.19 = {
+		add_spouse = 134
+	}
+}
+109 = {
+	name = "Viktor"
+	dynasty = 4000106
+	culture = russian
+	religion = orthodox
+	2419.8.16 = {
+		birth = yes
+	}
+	2438.9.9 = {
+		add_spouse = 135
+	}
+}
+110 = {
+	name = "Konstantinov"
+	dynasty = 4000107
+	culture = russian
+	religion = orthodox
+	2384.1.2 = {
+		birth = yes
+	}
+	2404.12.3 = {
+		add_spouse = 136
+	}
+}
+111 = {
+	name = "Mila"
+	female = yes
+	dynasty = 4000107
+	culture = russian
+	religion = orthodox
+	father = 110
+	mother = 136
+	2410.3.5 = {
+		birth = yes
+	}
+}
+112 = {
+	name = "Maxim"
+	dynasty = 4000105
+	culture = russian
+	religion = orthodox
+	father = 108
+	mother = 134
+	2424.9.17 = {
+		birth = yes
+	}
+	2442.12.27 = {
+		add_spouse = 137
+	}
+}
+113 = {
+	name = "Viktor"
+	dynasty = 4000108
+	culture = russian
+	religion = orthodox
+	2395.2.28 = {
+		birth = yes
+	}
+	2415.4.2 = {
+		add_spouse = 138
+	}
+}
+114 = {
+	name = "Yena"
+	female = yes
+	dynasty = 4000109
+	culture = hambuk
+	religion = marxist
+	2433.9.24 = {
+		birth = yes
+	}
+}
+115 = {
+	name = "Semyon"
+	dynasty = 4000110
+	culture = russian
+	religion = orthodox
+	2402.10.11 = {
+		birth = yes
+	}
+	2419.8.8 = {
+		add_spouse = 139
+	}
+}
+116 = {
+	name = "Ivan"
+	dynasty = 4000111
+	culture = russian
+	religion = orthodox
+	2423.2.3 = {
+		birth = yes
+	}
+	2439.10.13 = {
+		add_spouse = 140
+	}
+}
+117 = {
+	name = "Sergey"
+	dynasty = 4000112
+	culture = russian
+	religion = orthodox
+	2400.1.6 = {
+		birth = yes
+	}
+	2421.6.5 = {
+		add_spouse = 141
+	}
+}
+118 = {
+	name = "Nicholas"
+	dynasty = 4000113
+	culture = russian
+	religion = orthodox
+	2422.2.2 = {
+		birth = yes
+	}
+	2441.3.18 = {
+		add_spouse = 142
+	}
+}
+119 = {
+	name = "Leonid"
+	dynasty = 4000114
+	culture = russian
+	religion = orthodox
+	2403.1.2 = {
+		birth = yes
+	}
+	2427.11.4 = {
+		add_spouse = 143
+	}
+}
+120 = {
+	name = "Viktor"
+	dynasty = 4000115
+	culture = russian
+	religion = orthodox
+	2417.8.5 = {
+		birth = yes
+	}
+	2442.1.30 = {
+		add_spouse = 144
+	}
+}
+121 = {
+	name = "Evgeny"
+	dynasty = 4000116
+	culture = russian
+	religion = orthodox
+	2393.3.25 = {
+		birth = yes
+	}
+	2418.7.22 = {
+		add_spouse = 145
+	}
+}
+122 = {
+	name = "Roza"
+	female = yes
+	dynasty = 4000117
+	culture = russian
+	religion = orthodox
+	2423.7.18 = {
+		birth = yes
+	}
+}
+123 = {
+	name = "Nikolayev"
+	dynasty = 4000118
+	culture = russian
+	religion = marxist
+	2428.9.3 = {
+		birth = yes
+	}
+	2443.12.29 = {
+		add_spouse = 147
+	}
+}
+124 = {
+	name = "Mu Hyon"
+	dynasty = 4000119
+	culture = hamnam
+	religion = orthodox
+	2425.4.18 = {
+		birth = yes
+	}
+	2443.12.30 = {
+		add_spouse = 146
+	}
+}
+125 = {
+	name = "Lavrentiy"
+	dynasty = 4000120
+	culture = russian
+	religion = orthodox
+	2420.12.25 = {
+		birth = yes
+	}
+	2434.9.20 = {
+		add_spouse = 148
+	}
+}
+126 = {
+	name = "Pyotr"
+	dynasty = 4000121
+	culture = russian
+	religion = orthodox
+	2422.5.26 = {
+		birth = yes
+	}
+	2441.1.15 = {
+		add_spouse = 149
+	}
+}
+
+
+
+
+
+
+

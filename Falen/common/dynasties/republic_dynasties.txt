@@ -5,7 +5,7 @@
 	religion = cheondo
 }
 4000202 = {
-	name = "Chong" #종두한 가문
+	name = "Jong" #종두한 가문
 	culture = pyongnam
 	religion = cheondo
 }
@@ -20,7 +20,7 @@
 	religion = cheondo
 }
 4000205 = {
-	name = "Chon" #인공 전씨
+	name = "Jon" #인공 전씨
 	culture = pyongnam
 	religion = cheondo
 }
@@ -40,12 +40,12 @@
 	religion = cheondo
 }
 4000209 = {
-	name = "Chang" #인공 장씨
+	name = "Jang" #인공 장씨
 	culture = pyongnam
 	religion = cheondo
 }
 4000210 = {
-	name = "Cho" #인공 조씨
+	name = "Jo" #인공 조씨
 	culture = pyongnam
 	religion = cheondo
 }
