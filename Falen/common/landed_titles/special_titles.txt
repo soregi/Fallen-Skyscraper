@@ -149,6 +149,41 @@ d_mapia = { #마피아
 	color2={ 190 230 152 }
 
 }
+e_yalu = { #얄루
+	color={ 50 180 135 }
+	color2={ 190 30 82 }
+
+}
+k_mansang = { #만상
+	color={ 120 110 115 }
+	color2={ 111 231 12 }
+
+}
+k_khanate_won = {
+	color={ 150 180 135 }
+	color2={ 190 30 82 }
+
+}
+k_khanate_ha = {
+	color={ 50 190 135 }
+	color2={ 190 30 82 }
+
+}
+k_khanate_ji = {
+	color={ 150 88 185 }
+	color2={ 190 30 82 }
+
+}
+k_khanate_pa = {
+	color={ 150 189 105 }
+	color2={ 190 30 82 }
+
+}
+k_khanate_sam = {
+	color={ 10 18 35 }
+	color2={ 190 30 82 }
+
+}
 ######################################
 # 상인공화국 가문들의 자리. 이 아래에 가문말고 넣지말것  #
 ######################################
@@ -174,3 +209,25 @@ b_jeon = {
 	religion = koreanist
 }
 #부산
+
+#얄루내 상공봉신
+b_kim = {
+	culture = pyongbuk
+	religion = cheondo
+}
+b_u = {
+	culture = pyongbuk
+	religion = juche
+}
+b_kye = {
+	culture = pyongnam
+	religion = cheondo
+}
+b_sang = {
+	culture = yalu
+	religion = tengri_pagan
+}
+b_ji = {
+	culture = pyongbuk
+	religion = cheondo
+}

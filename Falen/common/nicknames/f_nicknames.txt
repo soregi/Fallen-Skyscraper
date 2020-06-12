@@ -77,3 +77,5 @@ nick_the_mother_of_nation #국모
 #동해용
 nick_the_berserker = {}
 nick_the_steel_for_rus = {}
+#얄루
+nick_ilnam's_nick = {} #푸 만추 아이신기오르 무함마드 깐수 쩡

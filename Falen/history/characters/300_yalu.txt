@@ -8,10 +8,12 @@
 	trait = robust
 	trait = brave
 	trait = ambitious
+	disallow_random_traits = yes
 	2382.3.14 = {
 		birth = yes
 	}
-	2430.1.1 = {
+	2432.6.14 = {
+	give_nickname = nick_ilnam's_nick
 		create_bloodline = {
 			type = ilnam
 			has_dlc = "Holy Fury"
@@ -61,7 +63,7 @@
 	}
 }
 306 = {
-	name = "Bochang"
+	name = "Po Chang"
 	dynasty = 4000303
 	culture = pyongnam
 	religion = cheondo
@@ -101,7 +103,7 @@
 	}
 }
 310 = {
-	name = "Hanbyeol"
+	name = "Han Pyol"
 	dynasty = 4000307
 	culture = pyongbuk
 	religion = cheondo
@@ -110,7 +112,7 @@
 	}
 }
 311 = {
-	name = "Seongteak"
+	name = "Song Thaek"
 	dynasty = 4000308
 	culture = pyongbuk
 	religion = juche
@@ -119,7 +121,7 @@
 	}
 }
 312 = {
-	name = "Jiryeong
+	name = "Ji Ryong"
 	dynasty = 4000309
 	culture = pyongnam
 	religion = cheondo
@@ -137,7 +139,7 @@
 	}
 }
 314 = {
-	name = "Seonggi
+	name = "Song Ki
 	dynasty = 4000311
 	culture = pyongbuk
 	religion = cheondo 
@@ -183,6 +185,7 @@
 }
 319 = {
 	name = "Hyeonseo"
+	dynasty = 4000317
 	female = yes
 	culture = yalu
 	religion = tengri_pagan
@@ -204,6 +207,7 @@
 }
 321 = {
 	name = "Choseon"
+	dynasty = 4000318
 	female = yes
 	culture = yalu
 	religion = tengri_pagan
@@ -225,6 +229,7 @@
 }
 323 = {
 	name = "Minji"
+	dynasty = 4000319
 	female = yes
 	culture = yalu
 	religion = tengri_pagan
@@ -247,6 +252,7 @@
 325 = {
 	name = "Minyeong"
 	female = yes
+	dynasty = 4000320
 	culture = yalu
 	religion = tengri_pagan
 	2412.3.15 = {
@@ -256,6 +262,7 @@
 }
 326 = {
 	name = "Cheaeun"
+	dynasty = 4000321
 	female = yes
 	culture = liaoning
 	religion = holy_spirit
@@ -278,6 +285,7 @@
 328 = {
 	name = "Jieun"
 	female = yes
+	dynasty = 4000322
 	culture = liaoning
 	religion = atomicist
 	2412.3.15 = {
@@ -288,6 +296,7 @@
 329 = {
 	name = "Chunja"
 	female = yes
+	dynasty = 4000323
 	culture = liaoning
 	religion = taoist 
 	2412.3.15 = {
@@ -298,6 +307,7 @@
 330 = {
 	name = "Okja"
 	female = yes
+	dynasty = 4000324
 	culture = yalu
 	religion = tengri_pagan
 	2412.3.15 = {
@@ -306,8 +316,9 @@
 	2432.3.15 = { add_spouse=309 }
 }
 331 = {
-	name = "Sunja"
+	name = "Sun Ja"
 	female = yes
+	dynasty = 4000325
 	culture = pyongbuk
 	religion = cheondo 
 	2412.3.15 = {
@@ -316,7 +327,7 @@
 	2432.3.15 = { add_spouse=310 }
 }
 332 = {
-	name = "Cheonja"
+	name = "Chon Ja"
 	dynasty = 4000307
 	culture = pyongbuk
 	religion = cheondo 
@@ -327,8 +338,9 @@
 	}
 }
 333 = {
-	name = "Minju"
+	name = "Min Ju"
 	female = yes
+	dynasty = 4000326
 	culture = pyongbuk
 	religion = juche
 	2412.3.15 = {
@@ -337,8 +349,9 @@
 	2432.3.15 = { add_spouse=311 }
 }
 334 = {
-	name = "Heayeong"
+	name = "Hae Yong"
 	female = yes
+	dynasty = 4000327
 	culture = pyongbuk
 	religion = cheondo 
 	2412.3.15 = {
@@ -349,6 +362,7 @@
 335 = {
 	name = "Miseon"
 	female = yes
+	dynasty = 4000328
 	culture = yalu
 	religion = tengri_pagan
 	2412.3.15 = {
@@ -357,8 +371,9 @@
 	2432.3.15 = { add_spouse=313 }
 }
 336 = {
-	name = "Eunju"
+	name = "UnJu"
 	female = yes
+	dynasty = 4000329
 	culture = pyongbuk
 	religion = cheondo 
 	2412.3.15 = {
@@ -367,7 +382,7 @@
 	2432.3.15 = { add_spouse=314 }
 }
 337 = {
-	name = "Rongteak"
+	name = "Ryong Thaek"
 	dynasty = 4000311
 	culture = pyongbuk
 	religion = cheondo 
@@ -380,6 +395,7 @@
 338 = {
 	name = "Eunji"
 	female = yes
+	dynasty = 4000330
 	culture = yalu
 	religion = tengri_pagan
 	2412.3.15 = {
@@ -390,6 +406,7 @@
 339 = {
 	name = "Seeun"
 	female = yes
+	dynasty = 4000331
 	culture = yalu
 	religion = tengri_pagan
 	2412.3.15 = {
@@ -400,6 +417,7 @@
 340 = {
 	name = "Seryeong"
 	female = yes
+	dynasty = 4000332
 	culture = yalu
 	religion = cheondo 
 	2412.3.15 = {
@@ -421,6 +439,7 @@
 342 = {
 	name = "Heayeong"
 	female = yes
+	dynasty = 4000333
 	culture = yalu
 	religion = cheondo 
 	2412.3.15 = {

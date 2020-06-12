@@ -78,3 +78,92 @@
 	culture = liaoning
 	religion = holy_spirit
 }
+4000317 = {
+	name = "Choi"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000318 = {
+	name = "Lee"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000319 = {
+	name = "Park"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000320 = {
+	name = "Tae"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000321 = {
+	name = "Jong"
+	culture = liaoning
+	religion = holy_spirit
+}
+4000322 = {
+	name = "Chae"
+	culture = liaoning
+	religion = atomicist
+}
+4000323 = {
+	name = "Lim"
+	culture = yalu
+	religion = taoist
+}
+4000324 = {
+	name = "Jang"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000325 = {
+	name = "Tong"
+	culture = pyongbuk
+	religion = cheondo
+}
+4000326 = {
+	name = "O"
+	culture = pyongbuk
+	religion = juche
+}
+4000327 = {
+	name = "Lee"
+	culture = pyongbuk
+	religion = cheondo
+}
+4000328 = {
+	name = "Wang"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000329 = {
+	name = "Kim"
+	culture = pyongbuk
+	religion = cheondo
+}
+4000330 = {
+	name = "Nam"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000331 = {
+	name = "Ku"
+	culture = yalu
+	religion = tengri_pagan
+}
+4000332 = {
+	name = "Man"
+	culture = yalu
+	religion = cheondo
+}
+4000333 = {
+	name = "Son"
+	culture = yalu
+	religion = cheondo
+}
+
+
+
+
