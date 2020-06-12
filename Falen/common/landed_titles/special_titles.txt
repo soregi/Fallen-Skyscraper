@@ -131,7 +131,8 @@ e_ussr = { #소련
 e_donghae = { #동해제국
 	color={ 146 0 108 }
 	color2={ 10 176 152 }
-
+	capital = 387 # 울라지보스또끄
+	russian = "Vostochnaya Imperiya"
 }
 d_co_party = { #전연방공산당
 	color={ 210 20 90 }
