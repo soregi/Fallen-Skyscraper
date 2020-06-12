@@ -1,3 +1,7 @@
 2398.11.7 = {
 	holder = 301
 }
+2432.6.14 = {
+	liege = e_yalu
+	holder = 317
+}
