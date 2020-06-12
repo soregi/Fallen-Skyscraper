@@ -1,0 +1,4 @@
+2431.6.19 = {
+	liege = d_kilju
+	holder = 118
+}

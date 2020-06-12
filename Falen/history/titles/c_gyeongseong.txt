@@ -1,0 +1,4 @@
+2428.10.24 = {
+	liege = e_donghae
+	holder = 115
+}

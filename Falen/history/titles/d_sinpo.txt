@@ -1,0 +1,4 @@
+2421.8.17 = {
+	liege = e_donghae
+	holder = 120
+}

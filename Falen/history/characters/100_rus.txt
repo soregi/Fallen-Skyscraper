@@ -375,17 +375,338 @@
 	}
 }
 129 = {
-	name = "Vasily" #여기부터
+	name = "Vasily" 
 	dynasty = 4000116
 	culture = russian
 	religion = orthodox
 	father = 130
 	mother = 153
-	2419.9.2 = {
+	2395.7.18 = {
 		birth = yes
 	}
-	2443.5.14 = {
+	2420.6.15 = {
 		add_spouse = 152
+	}
+}
+130 = {
+	name = "Konstantinov" 
+	dynasty = 4000116
+	culture = yeongdong
+	religion = orthodox
+	2345.8.9 = {
+		birth = yes
+	}
+	2361.11.6 = {
+		add_spouse = 153
+	}
+}
+131 = {
+	name = "Leonid"
+	dynasty = 4000117
+	culture = russian
+	religion = orthodox
+	2392.2.3 = {
+		birth = yes
+	}
+	2409.12.4 = {
+		add_spouse = 154
+	}
+}
+132 = {
+	name = "Zinovy"
+	dynasty = 4000101
+	culture = russian
+	religion = orthodox
+	trait = ancient
+	trait = wroth
+	1848.11.11 = {
+		birth = yes
+	}
+	1909.1.14 = {
+		death = yes
+	}
+}
+133 = {
+	name = "Sofia"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2412.9.21 = {
+		birth = yes
+	}
+}
+134 = {
+	name = "Dominika"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2401.3.31 = {
+		birth = yes
+	}
+}
+135 = {
+	name = "Roza"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2420.4.15 = {
+		birth = yes
+	}
+}
+136 = {
+	name = "Klara"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2391.10.8 = {
+		birth = yes
+	}
+}
+137 = {
+	name = "Inessa"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2419.3.11 = {
+		birth = yes
+	}
+}
+138 = {
+	name = "Yena"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2402.4.26 = {
+		birth = yes
+	}
+}
+139 = {
+	name = "Mila"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2399.8.5 = {
+		birth = yes
+	}
+}
+140 = {
+	name = "Eva"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2421.1.30 = {
+		birth = yes
+	}
+}
+141 = {
+	name = "Olesia"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2404.12.7 = {
+		birth = yes
+	}
+}
+142 = {
+	name = "Eva"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2419.8.17 = {
+		birth = yes
+	}
+}
+143 = {
+	name = "Klara"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2407.12.10 = {
+		birth = yes
+	}
+}
+144 = {
+	name = "Elizaveta"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2420.1.12 = {
+		birth = yes
+	}
+}
+145 = {
+	name = "Daria"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2401.8.5 = {
+		birth = yes
+	}
+}
+146 = {
+	name = "Masha"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2420.9.15 = {
+		birth = yes
+	}
+}
+147 = {
+	name = "Viktoriya"
+	female = yes
+	culture = russian
+	religion = marxist
+	2421.6.20 = {
+		birth = yes
+	}
+}
+148 = {
+	name = "Anna"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2416.5.13 = {
+		birth = yes
+	}
+}
+149 = {
+	name = "Lydia"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2425.4.16 = {
+		birth = yes
+	}
+}
+150 = {
+	name = "Anastasia"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2376.1.17 = {
+		birth = yes
+	}
+}
+151 = {
+	name = "Veronika"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2422.11.4 = {
+		birth = yes
+	}
+}
+152 = {
+	name = "Natasha"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2398.2.1 = {
+		birth = yes
+	}
+}
+153 = {
+	name = "Olga"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2342.6.5 = {
+		birth = yes
+	}
+	2395.7.19 = {
+		death = yes
+	}
+}
+154 = {
+	name = "Claudia"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2392.12.31 = {
+		birth = yes
+	}
+}
+155 = {
+	name = "Sasha"
+	female = yes
+	culture = russian
+	religion = orthodox
+	2389.11.26 = {
+		birth = yes
+	}
+	2436.12.9 = {
+		death = yes
+	}
+}
+156 = {
+	name = "Vasily" 
+	dynasty = 4000105
+	culture = russian
+	religion = orthodox
+	father = 108
+	mother = 134
+	2436.4.1 = {
+		birth = yes
+	}
+}
+157 = {
+	name = "Viktor" 
+	dynasty = 4000108
+	culture = russian
+	religion = orthodox
+	father = 113
+	mother = 138
+	2419.8.21 = {
+		birth = yes
+	}
+}
+158 = {
+	name = "Maxim" 
+	dynasty = 4000110
+	culture = russian
+	religion = orthodox
+	father = 115
+	mother = 139
+	2421.1.19 = {
+		birth = yes
+	}
+}
+159 = {
+	name = "Natalya"
+	female = yes
+	dynasty = 4000112
+	culture = russian
+	religion = orthodox
+	father = 117
+	mother = 141
+	2441.3.20 = {
+		birth = yes
+	}
+}
+160 = {
+	name = "Veronika"
+	female = yes
+	dynasty = 4000122
+	culture = russian
+	religion = orthodox
+	father = 127
+	mother = 150
+	2426.7.18 = {
+		birth = yes
+	}
+}
+161 = {
+	name = "Descendants of Zinovy" 
+	dynasty = 4000101
+	culture = russian
+	religion = orthodox
+	father = 132
+	1900.1.1 = {
+		birth = yes
+	}
+	2400.1.1 = {
+		death = yes
 	}
 }
 

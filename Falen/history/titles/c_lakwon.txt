@@ -1,0 +1,4 @@
+2440.10.11 = {
+	liege = d_sinpo
+	holder = 123
+}

@@ -1,0 +1,4 @@
+2432.12.30 = {
+	liege = e_donghae
+	holder = 107
+}

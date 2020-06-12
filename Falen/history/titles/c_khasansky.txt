@@ -1,0 +1,4 @@
+2434.2.10 = {
+	liege = d_rus_police
+	holder = 109
+}
