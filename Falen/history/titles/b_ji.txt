@@ -1,0 +1,5 @@
+2432.6.15 = {
+	liege = k_mansang
+	holding_dynasty = 4000311
+	holder = 314
+}
