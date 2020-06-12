@@ -1,4 +1,5 @@
 2411.2.27 = {
+	liege = k_kaesong
 	holding_dynasty = 4000610
 	holder = 684
 }
