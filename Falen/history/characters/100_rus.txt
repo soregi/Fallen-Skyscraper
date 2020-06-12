@@ -71,7 +71,6 @@
 	trait = paranoid
 	disallow_random_traits = yes
 	give_nickname = nick_the_steel_for_rus
-	father = 101
 	mother = 155
 	2416.10.1 = {
 		birth = yes
