@@ -139,7 +139,7 @@
 	}
 }
 314 = {
-	name = "Song Ki
+	name = "Song Ki"
 	dynasty = 4000311
 	culture = pyongbuk
 	religion = cheondo 
