@@ -1,3 +1,4 @@
 2398.11.7 = {
 	holder = 301
+	historical_nomad = yes
 }
