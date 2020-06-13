@@ -1,4 +1,5 @@
 2441.11.3 = {
 	liege = e_yalu
 	holder = 316
+	historical_nomad = yes
 }
