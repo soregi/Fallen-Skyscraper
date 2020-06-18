@@ -6,7 +6,7 @@ title = c_sinwon
 # Settlements
 max_settlements = 3
 
-b_sinwon = castle
+b_sinwon_b0 = castle
 b_komchon_sinwon = city
 
 # Misc

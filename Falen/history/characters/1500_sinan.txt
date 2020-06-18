@@ -1,7 +1,7 @@
 # Old Sinan leaders
 1501 = {
 	name = "Munjik"
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2087.3.14 = { birth = yes }
@@ -9,7 +9,7 @@
 }
 1502 = {
 	name = "Yeong'il"
-	dynasty = 4000004 # Choi
+	dynasty = 4001502 # Choi
 	culture = sinan
 	religion = protestant
 	2096.6.16 = { birth = yes }
@@ -17,7 +17,7 @@
 }
 1503 = {
 	name = "Hyeonggi"
-	dynasty = 4000005 # No
+	dynasty = 4001503 # No
 	culture = sinan
 	religion = protestant
 	2101.12.23 = { birth = yes }
@@ -26,7 +26,7 @@
 # Sinan Kim dynasty
 1504 = {
 	name = "Hyeonseong"
-	dynasty = 4000002 # Kim(Sinan)
+	dynasty = 4001504 # Kim(Sinan)
 	culture = sinan
 	religion = protestant
 	2103.3.24 = { birth = yes }
@@ -35,7 +35,7 @@
 1505 = {
 	name = "Jungdae" # 중대. 정대X
 	father = 1504
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2137.3.25 = { birth = yes }
@@ -44,7 +44,7 @@
 1506 = {
 	name = "Seongho"
 	father = 1505
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2164.1.16 = { birth = yes }
@@ -53,7 +53,7 @@
 1507 = {
 	name = "Seong"
 	father = 1506
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2188.9.6 = { birth = yes }
@@ -66,7 +66,7 @@
 1508 = {
 	name = "Myeongsu"
 	father = 1507
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2211.12.7 = { birth = yes }
@@ -79,7 +79,7 @@
 1509 = {
 	name = "Pungjeon" # The Architect 건축왕
 	father = 1508
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	trait = architect
@@ -89,7 +89,7 @@
 1510 = {
 	name = "Daeju" # The Salt Emperor 염제
 	father = 1509
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	trait = brilliant_strategist
@@ -116,7 +116,7 @@
 1511 = {
 	name = "Ung"
 	father = 1510
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2292.4.16 = { birth = yes }
@@ -125,7 +125,7 @@
 1512 = {
 	name = "Sin"
 	father = 1510
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2296.5.17 = { birth = yes }
@@ -134,7 +134,7 @@
 1513 = {
 	name = "Cheol"
 	father = 1510
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2299.8.4 = { birth = yes }
@@ -148,7 +148,7 @@
 1514 = {
 	name = "Heon"
 	father = 1511
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2322.4.1 = { birth = yes }
@@ -161,7 +161,7 @@
 1515 = {
 	name = "Hwan"
 	father = 1511
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2324.6.7 = { birth = yes }
@@ -175,7 +175,7 @@
 1516 = {
 	name = "Taewu"
 	father = 1512
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	trait = kinslayer
@@ -185,7 +185,7 @@
 1517 = {
 	name = "Taemin"
 	father = 1512
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2320.4.16 = { birth = yes }
@@ -194,7 +194,7 @@
 1518 = {
 	name = "Daecheol"
 	father = 1513
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2317.8.23 = { birth = yes }
@@ -208,7 +208,7 @@
 1519 = {
 	name = "Mincheol"
 	father = 1513
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	trait = kinslayer
@@ -223,7 +223,7 @@
 1520 = {
 	name = "Suncheol"
 	father = 1513
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2320.5.17 = { birth = yes }
@@ -232,7 +232,7 @@
 1521 = {
 	name = "Hyeoncheol"
 	father = 1513
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2322.1.12 = { birth = yes }
@@ -247,7 +247,7 @@
 	name = "Mihee"
 	father = 1511
 	female = yes
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2310.3.14 = { birth = yes }
@@ -256,7 +256,7 @@
 1523 = {
 	name = "Hun"
 	father = 1516
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2350.5.2 = { birth = yes }
@@ -270,7 +270,7 @@
 	name = "Hyerim"
 	female = yes
 	father = 1516
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2354.3.16 = { birth = yes }
@@ -279,7 +279,7 @@
 1525 = {
 	name = "Guri"
 	father = 1523
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2374.4.5 = { birth = yes }
@@ -292,7 +292,7 @@
 1526 = {
 	name = "Suho"
 	father = 1517
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2358.3.4 = { birth = yes }
@@ -304,7 +304,7 @@
 1527 = {
 	name = "Junseong"
 	father = 1526
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2379.6.9 = { birth = yes }
@@ -316,7 +316,7 @@
 1528 = {
 	name = "Yohan"
 	father = 1520
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2344.5.6 = { birth = yes }
@@ -325,7 +325,7 @@
 1529 = {
 	name = "Myeonghyeol"
 	father = 1528
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2370.2.12 = { birth = yes }
@@ -338,7 +338,7 @@
 1530 = {
 	name = "Geonho"
 	father = 1529
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2398.5.6 = { birth = yes }
@@ -347,7 +347,7 @@
 1531 = {
 	name = "Hong"
 	father = 1530
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2420.3.1 = { birth = yes }
@@ -356,7 +356,7 @@
 1532 = {
 	name = "Yoseb"
 	father = 1527
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	trait = stressed
@@ -370,7 +370,7 @@
 1533 = {
 	name = "Muneo"
 	father = 1525
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	trait = dull
@@ -387,7 +387,7 @@
 	name = "Seonho"
 	father = 1533
 	mother = 1537
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2421.5.3 = { birth = yes }
@@ -397,7 +397,7 @@
 	female = yes
 	father = 1533
 	mother = 1537
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2423.4.5 = { birth = yes }
@@ -406,7 +406,7 @@
 	name = "Seonyeop"
 	father = 1533
 	mother = 1537
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	culture = sinan
 	religion = protestant
 	2428.5.2 = { birth = yes }
@@ -421,7 +421,7 @@
 1538 = {
 	name = "Dahee"
 	female = yes
-	dynasty = 4000002 # Kim
+	dynasty = 4001504 # Kim
 	father = 1526
 	culture = sinan
 	religion = protestant
@@ -432,7 +432,7 @@
 1541 = {
 	name = "Seokmun"
 	father = 1501
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2131.3.14 = { birth = yes }
@@ -441,7 +441,7 @@
 1542 = {
 	name = "Sanho"
 	father = 1541
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2169.5.5 = { birth = yes }
@@ -450,7 +450,7 @@
 1543 = {
 	name = "Hoseong"
 	father = 1542
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2191.6.13 = { birth = yes }
@@ -459,7 +459,7 @@
 1544 = {
 	name = "Miyeok"
 	father = 1543
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2230.5.11 = { birth = yes }
@@ -473,7 +473,7 @@
 1545 = {
 	name = "Hong'eo"
 	father = 1544
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2270.4.6 = { birth = yes }
@@ -482,7 +482,7 @@
 1546 = {
 	name = "Cheolsu"
 	father = 1545
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2298.3.14 = { birth = yes }
@@ -496,7 +496,7 @@
 1547 = {
 	name = "Seungho"
 	father = 1546
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2328.12.25 = { birth = yes }
@@ -505,7 +505,7 @@
 1548 = {
 	name = "Suhan"
 	father = 1547
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2357.8.25 = { birth = yes }
@@ -514,7 +514,7 @@
 1549 = {
 	name = "Byeongsu"
 	father = 1548
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2375.5.11 = { birth = yes }
@@ -523,7 +523,7 @@
 1550 = {
 	name = "Cheonghae"
 	father = 1549
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	trait = depressed
@@ -535,7 +535,7 @@
 	name = "Jeongman"
 	father = 1550
 	mother = 1538
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2419.5.13 = { birth = yes }
@@ -546,7 +546,7 @@
 	female = yes
 	father = 1550
 	mother = 1538
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2423.5.1 = { birth = yes }
@@ -556,7 +556,7 @@
 	name = "Mansu"
 	father = 1550
 	mother = 1538
-	dynasty = 4000003 # Seo
+	dynasty = 4001501 # Seo
 	culture = sinan
 	religion = protestant
 	2426.9.1 = { birth = yes }

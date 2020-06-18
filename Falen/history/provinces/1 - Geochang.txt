@@ -6,7 +6,7 @@ title = c_geochang
 # Settlements
 max_settlements = 4
 
-b_geochang = tribal
+b_geochang = castle
 
 # Misc
 culture = yeongnam

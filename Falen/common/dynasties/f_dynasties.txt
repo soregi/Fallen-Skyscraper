@@ -1,32 +1,19 @@
-4000401 = {
-	name = "Kim" # North Korea
-	culture = north_korean
-	religion = protestant # 김일성 전엔 원래 개신교가문 맞다
-	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 11
-			texture_internal = 0
-		}
-		religion = catholic
-	}
-}
-4000002 = {
+4001504 = {
 	name = "Kim" #Sinan
 	culture = sinan
 	religion = protestant
 }
-4000003 = {
+4001501 = {
 	name = "Seo" #Sinan
 	culture = sinan
 	religion = protestant
 }
-4000004 = {
+4001502 = {
 	name = "Choi" #Sinan
 	culture = sinan
 	religion = protestant
 }
-4000005 = {
+4001503 = {
 	name = "No" #Sinan
 	culture = sinan
 	religion = protestant

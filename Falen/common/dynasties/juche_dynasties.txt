@@ -1,0 +1,13 @@
+4000401 = {
+	name = "Kim" # North Korea
+	culture = north_korean
+	religion = protestant # 김일성 전엔 원래 개신교가문 맞다
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 0
+		}
+		religion = catholic
+	}
+}

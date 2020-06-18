@@ -47,7 +47,7 @@ k_hwanghae = {
 		}
 		c_sinwon = {
 			color = { 0 0 150 }
-			b_sinwon = {}
+			b_sinwon_b0 = {}
 			b_komchon_sinwon = {}
 			b_muhak_sinwon = {}
 			b_hwasok_sinwon = {}
