@@ -61,3 +61,8 @@ world_korea = {
 # Custom Regions
 ###########################################################################
 
+custom_seoul = {
+	duchies = {
+		d_seoul d_dongdaemun d_gangnam d_yeongdeungpo d_mapo
+	}
+}

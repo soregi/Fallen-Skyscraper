@@ -1,8 +1,21 @@
-k_gyeonggi = {
-	color = { 0 121 67 }
+k_seoul = {
+	color = { 10 11 167 }
 
 	capital = 160
-
+	
+	allow = {
+		has_global_flag = seoul_united
+		conditional_tooltip = {
+			trigger = {
+				k_seoul = {
+					is_titular = yes
+				}
+			}
+			k_seoul = {
+				is_titular = no
+			}
+		}
+	}
 	d_seoul = {
 		color = { 0 121 67 }
 		
@@ -137,7 +150,12 @@ k_gyeonggi = {
 			b_yeoneun = {}
 		}
 	}
-	
+}
+k_gyeonggi = {
+	color = { 0 121 67 }
+
+	capital = 160
+
 	d_bucheon = {
 		color = { 31 67 27 }
 

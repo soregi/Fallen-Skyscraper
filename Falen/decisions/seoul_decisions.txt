@@ -1,0 +1,50 @@
+decisions = {
+	unite_seoul_region = {
+		is_high_prio = yes
+		only_independent = yes
+		potential = {
+			is_playable = yes
+			NOT = { has_landed_title = k_seoul }
+			OR = {
+				has_landed_title = k_civil_seoul
+				has_landed_title = k_mil_seoul
+				culture = seoul
+			}
+			is_adult = yes
+			prisoner = no
+			NOT = { trait = incapable }
+			NOT = { has_global_flag = seoul_united }
+		}
+		allow = {
+			if = {
+				limit = {
+					OR = {
+						religion = authoritarian
+						religion = populist
+					}
+				}
+				prestige = 750
+				wealth = 500
+			}
+			if = {
+				limit = {
+					NOR = {
+						religion = authoritarian
+						religion = populist
+					}
+				}
+				prestige = 1500
+				wealth = 1000
+			}
+			completely_controls = custom_seoul
+			has_landed_title = c_seoul
+		}
+		effect = {
+			set_global_flag = seoul_united
+			narrative_event = { id = seoul.1 }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
