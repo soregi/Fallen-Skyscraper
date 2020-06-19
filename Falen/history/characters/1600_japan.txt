@@ -8,3 +8,16 @@
 		birth = yes
 	}
 }
+1602 = {
+	name = "Hitoshi"
+	dynasty = 4001601 #So
+	culture = yeongnam #원래는 일본인데, 아직 없음
+	religion = mahayana #원래 신토
+	trait = tough_soldier
+	2376.1.16 = {
+		birth = yes
+	}
+	2441.11.9 = {
+		death = yes
+	}
+}
