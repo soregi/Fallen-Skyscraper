@@ -77,10 +77,322 @@
 	2412.4.4 = {
 		birth = yes
 	}
+	2432.12.26 = {
+		add_spouse = 416
+	}
 	2444.1.1 = {
 		effect = {
 			set_character_flag = kunyuk
 		}
 	}
 	2500.1.1 = { death = yes }
+}
+406 = {
+	name = "Dang Hwa"
+	dynasty = 4000402
+	culture = jagang
+	religion = juche
+	2422.1.15 = {
+		birth = yes
+	}
+	2443.5.12 = {
+		add_spouse = 417
+	}
+}
+407 = {
+	name = "I Du"
+	dynasty = 4000403
+	culture = jagang
+	religion = juche
+	2397.6.26 = {
+		birth = yes
+	}
+	2421.3.15 = {
+		add_spouse = 418
+	}
+}
+408 = {
+	name = "In"
+	dynasty = 4000404
+	culture = jagang
+	religion = juche
+	2419.7.4 = {
+		birth = yes
+	}
+	2436.8.19 = {
+		add_spouse = 419
+	}
+}
+409 = {
+	name = "Bak Sa"
+	dynasty = 4000405
+	culture = jagang
+	religion = juche
+	2402.10.12 = {
+		birth = yes
+	}
+	2428.11.28 = {
+		add_spouse = 420
+	}
+}
+410 = {
+	name = "Ra Hye"
+	dynasty = 4000406
+	culture = jagang
+	religion = juche
+	2421.9.12 = {
+		birth = yes
+	}
+	2438.6.5 = {
+		add_spouse = 421
+	}
+}
+411 = {
+	name = "In Je"
+	dynasty = 4000407
+	culture = jagang
+	religion = juche
+	2401.3.23 = {
+		birth = yes
+	}
+	2421.11.9 = {
+		add_spouse = 422
+	}
+}
+412 = {
+	name = "Hong Ryol"
+	dynasty = 4000408
+	culture = jagang
+	religion = juche
+	2374.3.14 = {
+		birth = yes
+	}
+	2396.12.8 = {
+		add_spouse = 423
+	}
+}
+413 = {
+	name = "Song Taek"
+	dynasty = 4000408
+	culture = jagang
+	religion = juche
+	father = 412
+	mother = 423
+	2405.4.29 = {
+		birth = yes
+	}
+	2436.11.8 = {
+		add_spouse = 424
+	}
+}
+414 = {
+	name = "Ji Ryong"
+	dynasty = 4000409
+	culture = jagang
+	religion = juche
+	2406.6.13 = {
+		birth = yes
+	}
+	2427.10.2 = {
+		add_spouse = 425
+	}
+}
+415 = {
+	name = "U Hung"
+	dynasty = 4000410
+	culture = jagang
+	religion = juche
+	2399.9.9 = {
+		birth = yes
+	}
+	2419.9.9 = {
+		add_spouse = 426
+	}
+}
+416 = {
+	name = "O Ryong"
+	female = yes
+	dynasty = 4000411
+	culture = jagang
+	religion = juche
+	2416.12.4 = {
+		birth = yes
+	}
+}
+417 = {
+	name = "Yo Jong"
+	female = yes
+	dynasty = 4000412
+	culture = jagang
+	religion = juche
+	2408.1.13 = {
+		birth = yes
+	}
+}
+418 = {
+	name = "Hae Ryong"
+	female = yes
+	dynasty = 4000413
+	culture = jagang
+	religion = juche
+	2409.3.12 = {
+		birth = yes
+	}
+}
+419 = {
+	name = "Yu Ryun"
+	female = yes
+	dynasty = 4000414
+	culture = jagang
+	religion = juche
+	2420.11.8 = {
+		birth = yes
+	}
+}
+420 = {
+	name = "Mi Ae"
+	female = yes
+	dynasty = 4000415
+	culture = jagang
+	religion = juche
+	2406.1.23 = {
+		birth = yes
+	}
+}
+421 = {
+	name = "Mi Jong"
+	female = yes
+	dynasty = 4000416
+	culture = jagang
+	religion = juche
+	2423.8.18 = {
+		birth = yes
+	}
+}
+422 = {
+	name = "Sang Jong"
+	female = yes
+	dynasty = 4000417
+	culture = jagang
+	religion = juche
+	2403.7.1 = {
+		birth = yes
+	}
+}
+423 = {
+	name = "Kyong Won"
+	female = yes
+	dynasty = 4000418
+	culture = jagang
+	religion = juche
+	2373.6.25 = {
+		birth = yes
+	}
+}
+424 = {
+	name = "Kyong Ja"
+	female = yes
+	dynasty = 4000419
+	culture = jagang
+	religion = juche
+	2416.2.22 = {
+		birth = yes
+	}
+}
+425 = {
+	name = "Kyong Ae"
+	female = yes
+	dynasty = 4000420
+	culture = jagang
+	religion = juche
+	2409.9.17 = {
+		birth = yes
+	}
+}
+426 = {
+	name = "Mi Kyong"
+	female = yes
+	dynasty = 4000421
+	culture = jagang
+	religion = juche
+	2401.4.14 = {
+		birth = yes
+	}
+}
+427 = {
+	name = "Kap Sik"
+	dynasty = 4000401
+	culture = jagang
+	religion = juche
+	father = 405
+	mother = 416
+	2439.8.14 = {
+		birth = yes
+	}
+}
+428 = {
+	name = "Gu Ra"
+	dynasty = 4000401
+	culture = jagang
+	religion = juche
+	father = 405
+	mother = 416
+	2437.2.14 = {
+		birth = yes
+	}
+}
+429 = {
+	name = "Burun"
+	dynasty = 4000403
+	culture = jagang
+	religion = juche
+	father = 407
+	mother = 418
+	2443.12.31 = {
+		birth = yes
+	}
+}
+430 = {
+	name = "Sok Sa"
+	dynasty = 4000405
+	culture = jagang
+	religion = juche
+	father = 409
+	mother = 420
+	2436.6.5 = {
+		birth = yes
+	}
+}
+431 = {
+	name = "Moohyun"
+	dynasty = 4000407
+	culture = jagang
+	religion = juche
+	father = 411
+	mother = 422
+	2437.1.1 = {
+		birth = yes
+	}
+}
+432 = {
+	name = "Min Sok"
+	dynasty = 4000408
+	culture = jagang
+	religion = juche
+	father = 413
+	mother = 424
+	2440.2.22 = {
+		birth = yes
+	}
+}
+433 = {
+	name = "Hyon"
+	dynasty = 4000410
+	culture = jagang
+	religion = juche
+	father = 415
+	mother = 426
+	2439.9.13 = {
+		birth = yes
+	}
 }

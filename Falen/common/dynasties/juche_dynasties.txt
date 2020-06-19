@@ -11,3 +11,99 @@
 		religion = catholic
 	}
 }
+4000402 = {
+	name = "Jong"
+	culture = jagang
+	religion = juche
+}
+4000403 = {
+	name = "Hwa"
+	culture = jagang
+	religion = juche
+}
+4000404 = {
+	name = "Ki"
+	culture = jagang
+	religion = juche
+}
+4000405 = {
+	name = "Lee"
+	culture = jagang
+	religion = juche
+}
+4000406 = {
+	name = "Park"
+	culture = jagang
+	religion = juche
+}
+4000407 = {
+	name = "Mun"
+	culture = jagang
+	religion = juche
+}
+4000408 = {
+	name = "Ku"
+	culture = jagang
+	religion = juche
+}
+4000409 = {
+	name = "Ji"
+	culture = jagang
+	religion = juche
+}
+4000410 = {
+	name = "Namkung"
+	culture = jagang
+	religion = juche
+}
+4000411 = {
+	name = "Ri"
+	culture = jagang
+	religion = juche
+}
+4000412 = {
+	name = "Kang"
+	culture = jagang
+	religion = juche
+}
+4000413 = {
+	name = "Kyong"
+	culture = jagang
+	religion = juche
+}
+4000414 = {
+	name = "Ok"
+	culture = jagang
+	religion = juche
+}
+4000415 = {
+	name = "Ryu"
+	culture = jagang
+	religion = juche
+}
+4000416 = {
+	name = "Yang"
+	culture = jagang
+	religion = juche
+}
+4000417 = {
+	name = "Choe"
+	culture = jagang
+	religion = juche
+}
+4000418 = {
+	name = "Mun"
+	culture = jagang
+	religion = juche
+}
+4000419 = {
+	name = "Ri"
+	culture = jagang
+	religion = juche
+}
+4000420 = {
+	name = "Park"
+	culture = jagang
+	religion = juche
+}
+
