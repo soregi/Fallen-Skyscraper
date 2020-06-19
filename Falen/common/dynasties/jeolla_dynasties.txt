@@ -8,3 +8,51 @@
 	culture = honam
 	religion = atomicist
 }
+4002103 = {
+	name = "Park"
+	culture = honam
+	religion = marxist
+}
+4002104 = {
+	name = "Kim"
+	culture = honam
+	religion = marxist
+}
+4002105 = {
+	name = "Mong"
+	culture = honam
+	religion = marxist
+}
+4002106 = {
+	name = "Bam"
+	culture = honam
+	religion = protestant
+}
+4002107 = {
+	name = "Ho"
+	culture = honam
+	religion = protestant
+}
+4002108 = {
+	name = "Lee"
+	culture = honam
+	religion = protestant
+}
+400210 = {
+	name = "Ku"
+	culture = honam
+	religion = protestant
+}
+4002111 = {
+	name = "Ban"
+	culture = honam
+	religion = protestant
+}
+4002112 = {
+	name = "Park"
+	culture = honam
+	religion = protestant
+}
+
+
+
