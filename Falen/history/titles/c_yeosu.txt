@@ -1,0 +1,8 @@
+2398.11.3 = {
+	liege = d_yeosu
+	holder = 2133
+}
+2437.5.1 = {
+	liege = d_yeosu
+	holder = 2132
+}

@@ -39,7 +39,7 @@
 	religion = protestant
 }
 400210 = {
-	name = "Ku"
+	name = "Non"
 	culture = honam
 	religion = protestant
 }

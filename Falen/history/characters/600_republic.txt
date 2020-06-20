@@ -598,13 +598,15 @@
 	trait = ambitious
 	trait = patient
 	trait = zealous
-	trait = tribal_kinslayer
 	disallow_random_traits = yes
 	father = 648
 	mother = 654
 	wealth = 350
 	2413.6.5 = {
 		birth = yes
+	}
+	1431.3.5 = {
+		trait="tribal_kinslayer"
 	}
 }
 650 = {
