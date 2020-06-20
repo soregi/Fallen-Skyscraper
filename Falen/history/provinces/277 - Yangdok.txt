@@ -11,4 +11,4 @@ b_yangdok_b1 = city
 
 # Misc
 culture = pyongnam
-religion = juche
+religion = cheondo

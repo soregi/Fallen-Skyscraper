@@ -12,4 +12,4 @@ b_kumsu_ryongyeon = temple
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo

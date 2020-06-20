@@ -11,4 +11,4 @@ b_ragyolodongja_jangyon = city
 
 # Misc
 culture = hwanghae
-religion = cheondo
+religion = juche

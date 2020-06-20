@@ -12,4 +12,4 @@ b_chowa_unpha = temple
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
