@@ -1,0 +1,141 @@
+1150 = {
+	name = "Gangcheol"
+	dynasty = 4001150
+	culture = hoseo
+	religion = authoritarian
+	2389.5.19 = {
+		birth = yes
+	}
+}
+1151 = {
+	name = "Gongryeong"
+	dynasty = 4001150
+	culture = hoseo
+	religion = authoritarian
+	father = 1150
+	2408.6.12 = {
+		birth = yes
+	}
+}
+1152 = {
+	name = "Youngsu"
+	female = yes
+	dynasty = 4001150
+	culture = hoseo
+	religion = authoritarian
+	father = 1150
+	2411.6.19 = {
+		birth = yes
+	}
+}
+1153 = {
+	name = "Kwonmoo"
+	dynasty = 4001150
+	culture = hoseo
+	religion = authoritarian
+	father = 1150
+	2414.3.1 = {
+		birth = yes
+	}
+}
+1154 = {
+	name = "Hoguk"
+	dynasty = 4001151
+	culture = hoseo
+	religion = authoritarian
+	2391.4.6 = {
+		birth = yes
+	}
+}
+1155 = {
+	name = "Myeolgong"
+	female = yes
+	dynasty = 4001151
+	culture = hoseo
+	religion = authoritarian
+	father = 1154
+	2410.6.8 = {
+		birth = yes
+	}
+}
+1156 = {
+	name = "Pilgun"
+	dynasty = 4001150
+	culture = hoseo
+	religion = authoritarian
+	father = 1154
+	2413.9.1 = {
+		birth = yes
+	}
+}
+1157 = {
+	name = "Wongong"
+	dynasty = 4001152
+	culture = hoseo
+	religion = authoritarian5
+	2390.9.12 = {
+		birth = yes
+	}
+}
+1158 = {
+	name = "Seguk"
+	female = yes
+	dynasty = 4001152
+	culture = hoseo
+	religion = authoritarian
+	father = 1157
+	2409.7.1 = {
+		birth = yes
+	}
+}
+1159 = {
+	name = "Gangmyung"
+	dynasty = 4001152
+	culture = hoseo
+	religion = authoritarian
+	father = 1157
+	2412.11.3 = {
+		birth = yes
+	}
+}
+1160 = {
+	name = "Euikyum"
+	dynasty = 4001153
+	culture = hoseo
+	religion = authoritarian
+	2395.3.3 = {
+		birth = yes
+	}
+}
+1161 = {
+	name = "Byungtae"
+	dynasty = 4001153
+	culture = hoseo
+	religion = authoritarian
+	father = 1160
+	2414.6.23 = {
+		birth = yes
+	}
+}
+1162 = {
+	name = "Gyeokseung"
+	female = yes
+	dynasty = 4001153
+	culture = hoseo
+	religion = authoritarian
+	father = 1160
+	2417.9.25 = {
+		birth = yes
+	}
+}
+1163 = {
+	name = "Mulyoung"
+	female = yes
+	dynasty = 4001153
+	culture = hoseo
+	religion = authoritarian
+	father = 1160
+	2420.7.3 = {
+		birth = yes
+	}
+}

@@ -1,0 +1,20 @@
+4001150 = {
+	name = "Lee"
+	culture = hoseo
+	religion = authoritarian
+}
+4001151 = {
+	name = "Jeong"
+	culture = hoseo
+	religion = authoritarian
+}
+4001152 = {
+	name = "Soo"
+	culture = hoseo
+	religion = authoritarian
+}
+4001153 = {
+	name = "Won"
+	culture = hoseo
+	religion = authoritarian
+}
