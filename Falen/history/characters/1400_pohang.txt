@@ -3,7 +3,7 @@
 	name = "Gwakyong"
 	dynasty = 4001401 # 포항쪽 철씨
 	culture = yeongnam
-	#religion = steel_pagan #종교가 -로 되어있으니 이렇게 해놓음.
+	religion = mu_pagan
 	give_nickname = nick_king_of_steel
 	2214.10.31 = {
 		birth = yes
@@ -25,7 +25,7 @@
 	name = "Myeongyong"
 	dynasty = 4001401 # 포항쪽 철씨
 	culture = yeongnam
-	#religion = steel_pagan #종교가 -로 되어있으니 이렇게 해놓음.
+	#religion = mu_pagan
 	give_nickname = nick_king_of_pabul
 	father = 1401
 	2243.3.16 = {
@@ -39,7 +39,7 @@
 	name = "Jein"
 	dynasty = 4001401 # 포항쪽 철씨
 	culture = yeongnam
-	#religion = steel_pagan #종교가 -로 되어있으니 이렇게 해놓음.
+	#religion = mu_pagan
 	father = 1402
 	give_nickname = nick_the_revenger
 	2274.5.13 = {

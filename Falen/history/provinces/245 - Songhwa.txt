@@ -11,4 +11,4 @@ b_yaksan_songhwa = city
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
