@@ -12,4 +12,4 @@ b_ryongchon_b2 = city
 
 # Misc
 culture = pyongbuk
-religion = cheondo
+religion = marxist

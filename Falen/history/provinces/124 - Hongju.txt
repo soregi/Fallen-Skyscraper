@@ -12,4 +12,4 @@ b_hongseong_hongju = temple
 
 # Misc
 culture = hoseo
-religion = protestant
+religion = imperial

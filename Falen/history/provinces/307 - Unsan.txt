@@ -10,4 +10,4 @@ b_unsan_b0 = tribal
 
 # Misc
 culture = pyongbuk
-religion = juche
+religion = marxist

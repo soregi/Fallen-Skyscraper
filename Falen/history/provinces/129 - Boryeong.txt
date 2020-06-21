@@ -12,4 +12,4 @@ b_jugyo_boryeong = temple
 
 # Misc
 culture = hoseo
-religion = protestant
+religion = imperial

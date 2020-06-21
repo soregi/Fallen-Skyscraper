@@ -10,4 +10,4 @@ b_jinan = tribal
 
 # Misc
 culture = honam
-religion = protestant
+religion = imperial

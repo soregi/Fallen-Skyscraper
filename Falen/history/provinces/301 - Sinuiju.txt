@@ -14,4 +14,4 @@ b_sinuiju_b4 = castle
 
 # Misc
 culture = pyongbuk
-religion = juche
+religion = marxist

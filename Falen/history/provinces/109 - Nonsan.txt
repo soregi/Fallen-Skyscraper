@@ -13,4 +13,4 @@ b_chwiam_nonsan = temple
 
 # Misc
 culture = hoseo
-religion = protestant
+religion = imperial

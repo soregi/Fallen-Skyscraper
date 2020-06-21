@@ -12,4 +12,4 @@ b_ungjin_gongju = temple
 
 # Misc
 culture = hoseo
-religion = protestant
+religion = imperial

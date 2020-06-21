@@ -110,8 +110,11 @@
 	trait = diligent
 	trait = honest
 	father = 605
-	2308.12.16 = {
+	2304.12.16 = {
 		birth = yes
+	}
+	2321.3.2 = {
+		add_spouse = 2209
 	}
 	2369.3.10 = {
 	death = yes
@@ -125,6 +128,7 @@
 	trait = underhanded_rogue
 	trait = chaste
 	father = 605
+	mother = 2209
 	2309.8.13 = {
 		birth = yes
 	}

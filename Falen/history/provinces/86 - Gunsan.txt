@@ -13,4 +13,4 @@ b_susong = city
 
 # Misc
 culture = honam
-religion = protestant
+religion = imperial

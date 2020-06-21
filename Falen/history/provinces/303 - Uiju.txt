@@ -13,4 +13,4 @@ b_uiju_b3 = castle
 
 # Misc
 culture = pyongbuk
-religion = cheondo
+religion = marxist

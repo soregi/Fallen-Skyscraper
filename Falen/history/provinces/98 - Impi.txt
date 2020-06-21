@@ -12,4 +12,4 @@ b_chwisan = temple
 
 # Misc
 culture = honam
-religion = protestant
+religion = imperial

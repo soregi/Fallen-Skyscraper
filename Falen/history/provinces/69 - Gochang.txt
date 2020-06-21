@@ -12,4 +12,4 @@ b_asan_gochang = city
 
 # Misc
 culture = honam
-religion = protestant
+religion = imperial

@@ -13,4 +13,4 @@ b_eoyang = castle
 
 # Misc
 culture = honam
-religion = protestant
+religion = imperial

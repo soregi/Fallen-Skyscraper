@@ -12,4 +12,4 @@ b_pihyon_b2 = temple
 
 # Misc
 culture = pyongbuk
-religion = juche
+religion = marxist

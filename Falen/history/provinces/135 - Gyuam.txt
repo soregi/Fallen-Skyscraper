@@ -12,4 +12,4 @@ b_hapsong_gyuam = temple
 
 # Misc
 culture = hoseo
-religion = protestant
+religion = imperial

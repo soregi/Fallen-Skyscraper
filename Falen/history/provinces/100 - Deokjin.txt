@@ -13,4 +13,4 @@ b_jochon_deokjin = castle
 
 # Misc
 culture = honam
-religion = protestant
+religion = imperial

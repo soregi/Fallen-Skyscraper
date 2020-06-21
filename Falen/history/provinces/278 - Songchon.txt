@@ -12,4 +12,4 @@ b_changnim_songchon = temple
 
 # Misc
 culture = pyongnam
-religion = juche
+religion = marxist

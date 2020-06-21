@@ -12,4 +12,4 @@ b_donggye_sunchang = temple
 
 # Misc
 culture = honam
-religion = protestant
+religion = imperial
