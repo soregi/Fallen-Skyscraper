@@ -17,7 +17,7 @@ k_mil_seoul = {
 	culture = seoul
 	religion = koreanist
 }
-#인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을, k_pohang, d_gaian_union, k_republic_of_kasong, e_goryeo, k_people's_republic_of_korea ,d_ingonggun ,d_kyoryung, k_andong 을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
+#인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을, k_pohang, d_gaian_union, k_republic_of_kasong, e_goryeo, k_prk ,d_ingonggun ,d_kyoryung, k_andong 을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
 #위와 같은 이유로 k_bulgukto, k_mountain_league,d_hanwul 만듬
 k_gaya = {
 	color={ 211 126 65 }
@@ -59,7 +59,7 @@ d_gaian_union = { #자연인 연맹
 	color2={ 25 32 60 }
 
 }
-k_people's_republic_of_korea = { #조선인민공화국
+k_prk = { #조선인민공화국
 	color={ 230 40 190 }
 	color2={ 250 250 20 }
 

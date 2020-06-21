@@ -1,4 +1,4 @@
-start_date = 2100.1.1
+start_date = 1945.8.15
 #기존 start_date = 2444.1.1 확인하고 나서 다시 이걸로 적용하기
 last_start_date = 2444.1.1
 end_date = 3053.1.1

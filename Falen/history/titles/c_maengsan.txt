@@ -1,4 +1,16 @@
+1948.9.9 = {
+	holder = 401 # Kim Il-sung
+}
+1994.7.8 = {
+	holder = 402
+}
+2011.12.17 = {
+	holder = 403
+}
+2020.3.14 = {
+	holder = 0
+}
 2440.6.17 = {
-	liege = k_people's_republic_of_korea
+	liege = k_prk
 	holder = 223
 }

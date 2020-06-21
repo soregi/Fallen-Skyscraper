@@ -1,4 +1,4 @@
 2407.1.4 = {
-	liege = k_people's_republic_of_korea
+	liege = k_prk
 	holder = 206
 }

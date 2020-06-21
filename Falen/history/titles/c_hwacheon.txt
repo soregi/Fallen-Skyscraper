@@ -1,3 +1,9 @@
+1948.9.9 = {
+	holder = 401 # Kim Il-sung
+}
+1953.7.27 = {
+	holder = 701
+}
 2426.1.9 = {
 	liege = k_rok_armed_forces
 	holder = 927

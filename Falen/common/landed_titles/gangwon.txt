@@ -280,7 +280,7 @@ k_gangwon = {
 			b_jungse_cheorwon = {}
 		}
 	}
-	d_pyeonggang = { #여기부터 재개하기
+	d_pyeonggang = {
 		color = { 145 61 37 }
 
 		capital = 230
