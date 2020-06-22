@@ -224,9 +224,9 @@ k_gyeongsang = {
 			b_dongdong_uiryeong = {}
 			b_jungdong_uiryeong = {}
 			b_seodong_uiryeong = {}
-			b_burim = {}
-			b_bongsu = {}
-			b_yugok = {}
+			b_burim_uiryeong = {}
+			b_bongsu_uiryeong = {}
+			b_yugok_uiryeong = {}
 		}
 		c_haman = {
 			color = { 0 0 204 }
