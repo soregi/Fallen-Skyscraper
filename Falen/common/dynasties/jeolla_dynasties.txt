@@ -38,7 +38,12 @@
 	culture = honam
 	religion = protestant
 }
-400210 = {
+4002109 = {
+	name = "Ahn"
+	culture = honam
+	religion = protestant
+}
+4002110 = {
 	name = "Non"
 	culture = honam
 	religion = protestant

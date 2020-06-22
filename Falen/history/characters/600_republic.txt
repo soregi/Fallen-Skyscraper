@@ -219,7 +219,7 @@
 }
 #여기부터 산씨
 621 = {
-	name = "Cheonju"
+	name = "Chon Ju"
 	dynasty = 4000602 #황해 산씨
 	culture = hwanghae
 	religion = gaian
@@ -241,7 +241,7 @@
 	}
 }
 622 = {
-	name = "Injae"
+	name = "In Jae"
 	dynasty = 4000602 #황해 산씨
 	culture = hwanghae
 	religion = gaian
@@ -433,7 +433,7 @@
 }
 #자연인 들씨
 641 = {
-	name = "Jiju"
+	name = "Ji Ju"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -458,7 +458,7 @@
 	}
 }
 642 = {
-	name = "Mansu"
+	name = "Man Su"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -473,7 +473,7 @@
 	}
 }
 643 = {
-	name = "Silnae"
+	name = "Sil Nae"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -489,7 +489,7 @@
 	}
 }
 644 = {
-	name = "Myungkang"
+	name = "Myong Kang"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -503,7 +503,7 @@
 	}
 }
 645 = {
-	name = "Cheonrim"
+	name = "Chon Rim"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -518,7 +518,7 @@
 	}
 }
 646 = {
-	name = "Jimin"
+	name = "Ji Min"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -532,7 +532,7 @@
 	}
 }
 647 = {
-	name = "Sansu"
+	name = "San Su"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -546,7 +546,7 @@
 	}
 }
 648 = {
-	name = "Yibak"
+	name = "Yi Pak"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -567,13 +567,19 @@
 		birth = yes
 	}
 	2409.12.1 = {
+	effect = {
 	add_lover = 653
 	}
+	}
 	2411.3.26 = {
+	effect = {
 	add_lover = 654
 	}
+	}
 	2416.9.11 = {
+	effect = {
 	add_lover = 655
+	}
 	}
 	2431.3.5 = {
 	death = {
@@ -583,7 +589,7 @@
 	}
 }
 649 = {
-	name = "Jongmyung"
+	name = "Jong Myong"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -614,7 +620,7 @@
 	}
 }
 650 = {
-	name = "Dongmin"
+	name = "Tong Min"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = juche
@@ -634,7 +640,7 @@
 	}
 }
 651 = {
-	name = "Sangju"
+	name = "Sang Ju"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -647,7 +653,7 @@
 	}
 }
 652 = {
-	name = "Munja"
+	name = "Mun Ja"
 	dynasty = 4000603 #황해 들씨
 	culture = hwanghae
 	religion = gaian
@@ -659,7 +665,7 @@
 	}
 }
 653 = {
-	name = "Minjin"
+	name = "Min Jin"
 	female = yes
 	dynasty = 4000604 #황해 옥씨
 	culture = hwanghae
@@ -673,7 +679,7 @@
 	}
 }
 654 = {
-	name = "Eunmyung"
+	name = "Un Myong"
 	female = yes
 	dynasty = 4000605 #황해 만씨
 	culture = hwanghae
@@ -684,7 +690,7 @@
 	}
 }
 655 = {
-	name = "Jiyoung"
+	name = "Ji Yong"
 	female = yes
 	dynasty = 4000606 #평남 하씨
 	culture = pyongnam
@@ -919,6 +925,7 @@
 	dynasty = 4000608 #이씨
 	culture = hwanghae
 	religion = cheondo
+	father = 2238
 	trait = charismatic_negotiator
 	trait = zealous
 	2421.8.1 = {

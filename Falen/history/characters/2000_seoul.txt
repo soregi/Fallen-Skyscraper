@@ -314,7 +314,7 @@
 	dynasty = 4002017
 	religion="koreanist"
 	culture="seoul"
-	2421.4.14	 = { birth = yes }
+	2421.4.14 = { birth = yes }
 }
 2039 = {
 	name = "Munye"
@@ -328,7 +328,7 @@
 	dynasty = 4002019
 	religion="koreanist"
 	culture="seoul"
-	2396.4.15	 = { birth = yes }
+	2396.4.15 = { birth = yes }
 }
 2041 = {
 	name = "Minju"

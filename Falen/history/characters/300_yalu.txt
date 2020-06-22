@@ -423,7 +423,7 @@
 	2412.3.15 = {
 		birth = yes
 	}
-	2432.3.15 = { add_spouse=317 }
+	2432.1.15 = { add_spouse=317 }
 }
 341 = {
 	name = "Ran"

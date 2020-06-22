@@ -35,7 +35,6 @@
 	trait = tough_soldier
 	trait = temperate
 	trait = kind
-	trait = kind
 	disallow_random_traits = yes
 	father = 101
 	mother = 155
