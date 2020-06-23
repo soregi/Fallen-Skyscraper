@@ -1,9 +1,3 @@
-1948.9.9 = {
-	holder = 401 # Kim Il-sung
-}
-1953.7.27 = {
-	holder = 701
-}
 2419.2.30 = {
 	liege = d_tamra
 	holder = 924
