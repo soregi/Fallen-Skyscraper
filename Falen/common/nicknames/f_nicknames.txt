@@ -79,3 +79,7 @@ nick_the_berserker = {}
 nick_the_steel_for_rus = {}
 #얄루
 nick_ilnam's_nick = {} #푸 만추 아이신기오르 무함마드 깐수 쩡
+#황해도
+nick_noko_lord = {}
+nick_kaesong_guy = {}
+nick_iron_lady = {}

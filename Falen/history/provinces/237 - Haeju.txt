@@ -13,4 +13,4 @@ b_sonsan_haeju = castle
 
 # Misc
 culture = hwanghae
-religion = cheondo
+religion = juche

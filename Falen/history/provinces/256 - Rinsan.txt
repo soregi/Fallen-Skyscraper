@@ -6,8 +6,8 @@ title = c_rinsan
 # Settlements
 max_settlements = 3
 
-b_rinsan = castle
-b_jithaek_rinsan = temple
+b_rinsan = temple
+b_jithaek_rinsan = castle
 
 # Misc
 culture = hwanghae

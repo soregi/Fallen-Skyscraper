@@ -1,0 +1,86 @@
+4002201 = {
+	name = "Hwangbo"
+	culture = hwanghae
+	religion = cheondo
+}
+4002202 = {
+	name = "Hwangpo"
+	culture = hwanghae
+}
+4002203 = {
+	name = "Jon"
+	culture = hwanghae
+}
+4002241 = {
+	name = "Thae"
+	culture = hwanghae
+	religion = cheondo
+}
+4002251 = {
+	name = "Kangsong"
+	culture = pyongnam
+	religion = juche
+}
+4002252 = {
+	name = "Chon"
+	culture = pyongnam
+	religion = juche
+}
+4002253 = {
+	name = "Song"
+	culture = pyongnam
+	religion = juche
+}
+4002261 = {
+	name = "Jon"
+	culture = pyongnam
+	religion = juche
+}
+4002262 = {
+	name = "Kong"
+	culture = pyongnam
+	religion = juche
+}
+4002263 = {
+	name = "Man"
+	culture = hamnam
+	religion = juche
+}
+4002264 = {
+	name = "Lee"
+	culture = pyongnam
+	religion = juche
+}
+4002271 = {
+	name = "Paek"
+	culture = pyongnam
+	religion = juche
+}
+4002276 = {
+	name = "Yu"
+	culture = hwanghae
+}
+4002277 = {
+	name = "Nong"
+	culture = hwanghae
+}
+4002278 = {
+	name = "Chong"
+	culture = hwanghae
+}
+4002279 = {
+	name = "Yong"
+	culture = hwanghae
+}
+4002280 = {
+	name = "Song"
+	culture = hwanghae
+}
+4002281 = {
+	name = "Kim"
+	culture = hwanghae
+}
+4002282 = {
+	name = "Sang"
+	culture = hwanghae
+}

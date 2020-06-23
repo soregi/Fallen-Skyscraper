@@ -14,4 +14,4 @@ b_pyoksong_hwangju = city
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo

@@ -6,14 +6,6 @@ bm_afjapsghosd = {
 	picture = GFX_pick_era_image_1
 	custom_start = yes				##궁금해서 만듬
 }
-bm_check = {
-	name = "BM2444"
-	desc = "BM_2444_INFO"
-	date = 2444.1.1
-	era = yes
-	picture = GFX_pick_era_image_3
-	custom_start = yes				##2444
-}
 bm_open_revolt = {
 	name = "BM_REVOLT"
 	desc = "BM_REVOLT_INFO"

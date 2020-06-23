@@ -128,7 +128,6 @@
 	trait = underhanded_rogue
 	trait = chaste
 	father = 605
-	mother = 2209
 	2309.8.13 = {
 		birth = yes
 	}
@@ -145,9 +144,11 @@
 	culture = hwanghae
 	religion = populist
 	trait = indulgent_wastrel
+	trait = quick
 	trait = charitable
 	trait = proud
 	father = 606
+	mother = 2209
 	2332.4.18 = {
 		birth = yes
 	}
@@ -161,6 +162,7 @@
 	culture = hwanghae
 	religion = populist
 	trait = flamboyant_schemer
+	trait = quick
 	trait = gluttonous
 	trait = zealous
 	father = 608
@@ -562,6 +564,7 @@
 	trait = craven
 	trait = slothful
 	trait = arbitrary
+	trait = poet
 	father = 647
 	2392.3.16 = {
 		birth = yes

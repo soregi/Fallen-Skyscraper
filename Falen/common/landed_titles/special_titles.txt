@@ -195,7 +195,7 @@ d_free_honam = {
 
 }
 k_airforce = {
-	color={ 10 198 35 }
+	color={ 10 148 235 }
 	color2={ 161 33 154 }
 
 }
@@ -207,6 +207,26 @@ d_17fw = { #청주
 d_19fw = { #충주
 	color={ 31 198 10 }
 	color2={ 161 33 154 }
+
+}
+k_hwanghae_party = { #황해 인민 노동당
+	color={ 210 90 70 }
+	color2={ 16 170 122 }
+
+}
+k_taedong = { #대동강 전선
+	color={ 152 90 110 }
+	color2={ 16 170 122 }
+
+}
+k_paektu_guard = { #백두 친위대
+	color={ 240 30 20 }
+	color2={ 16 170 122 }
+
+}
+k_haeju_farm = { #해주 농민 연합
+	color={ 90 130 50 }
+	color2={ 16 170 122 }
 
 }
 ######################################
