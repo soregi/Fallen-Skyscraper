@@ -282,7 +282,7 @@ k_hwanghae = {
 
 		c_kwail = {
 			color = { 119 73 255 }
-			b_kwail = {}
+			b_kwail_b0 = {}
 			b_sinphyong_kwail = {}
 			b_suphung_kwail = {}
 			b_phogu_kwail = {}
