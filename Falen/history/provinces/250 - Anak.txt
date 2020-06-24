@@ -6,10 +6,18 @@ title = c_anak
 # Settlements
 max_settlements = 5
 
-b_anak = castle
-b_phallyuk_anak = city
-b_namjong_anak = temple
+b_anak = tribal
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
+
+# History
+2342.7.24 = {
+	b_anak = castle
+}
+2356.4.30 = {
+	b_phallyuk_anak = city
+	b_namjong_anak = temple
+}
+2426.11.7 = { religion = juche } 

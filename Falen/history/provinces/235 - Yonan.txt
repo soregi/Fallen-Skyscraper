@@ -10,4 +10,13 @@ b_yonan = tribal
 
 # Misc
 culture = hwanghae
-religion = cheondo
+religion = gaian
+
+# History
+2354.3.8 = {
+	b_yonan = castle
+}
+2441.8.9 = {
+	b_yonan = tribal
+}
+2389.12.7 = { religion = cheondo } 

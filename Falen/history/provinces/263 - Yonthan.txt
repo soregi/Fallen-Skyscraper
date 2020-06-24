@@ -6,10 +6,17 @@ title = c_yeontan
 # Settlements
 max_settlements = 3
 
-b_yeontan = castle
-b_misan_yeontan = city
-b_wollyong_yeontan = temple
+b_yeontan = tribal
 
 # Misc
 culture = hwanghae
 religion = juche
+
+# History
+2408.1.8 = {
+	b_yeontan = castle
+	b_misan_yeontan = city
+}
+2416.6.30 = {
+	b_wollyong_yeontan = temple
+}

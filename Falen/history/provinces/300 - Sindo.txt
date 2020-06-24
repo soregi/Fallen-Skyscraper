@@ -11,4 +11,4 @@ b_sindo_b1 = temple
 
 # Misc
 culture = pyongbuk
-religion = cheondo
+religion = marxist

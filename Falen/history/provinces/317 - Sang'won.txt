@@ -11,5 +11,5 @@ b_rungsong_sangwon = temple
 max_settlements = 4
 
 # Misc
-culture = pyongbuk
+culture = pyongnam
 religion = juche

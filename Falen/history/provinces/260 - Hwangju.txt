@@ -6,12 +6,21 @@ title = c_hwangju
 # Settlements
 max_settlements = 6
 
-b_hwangju = castle
-b_togwol_hwangju = castle
-b_hwanggang_hwangju = city
-b_jokpyok_hwangju = temple
-b_pyoksong_hwangju = city
+b_hwangju = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2405.12.28 = {
+	b_hwangju = castle
+	b_hwanggang_hwangju = city
+}
+2418.6.13 = {
+	b_togwol_hwangju = castle
+	b_jokpyok_hwangju = temple
+}
+2421.3.5 = {
+	b_pyoksong_hwangju = city
+}

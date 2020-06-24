@@ -11,4 +11,4 @@ b_cheonwang = temple
 
 # Misc
 culture = bear
-religion = mahayana
+religion = mu_pagan

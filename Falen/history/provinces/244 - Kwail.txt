@@ -6,10 +6,20 @@ title = c_kwail
 # Settlements
 max_settlements = 5
 
-b_kwail = castle
-b_sinphyong_kwail = city
-b_suphung_kwail = city
+b_kwail = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2330.9.22 = {
+	b_kwail = castle
+}
+2332.4.19 = {
+	b_sinphyong_kwail = city
+	b_suphung_kwail = temple
+}
+2334.7.13 = {
+	b_chonggye_jangyon = castle
+}

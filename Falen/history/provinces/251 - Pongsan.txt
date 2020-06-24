@@ -6,9 +6,14 @@ title = c_pongsan
 # Settlements
 max_settlements = 4
 
-b_pongsan = castle
-b_kachon_pongsan = temple
+b_pongsan = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2432.5.14 = {
+	b_pongsan = castle
+	b_kachon_pongsan = temple
+}

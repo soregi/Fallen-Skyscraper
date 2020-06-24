@@ -6,10 +6,17 @@ title = c_ongjin
 # Settlements
 max_settlements = 5
 
-b_ongjin = castle
-b_sudae_ongjin = city
-b_raengjong_ongjin = temple
+b_ongjin = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2328.11.17 = {
+	b_ongjin = castle
+	b_sudae_ongjin = city
+}
+2392.6.20 = {
+	b_ragyolodongja_jangyon = temple
+}

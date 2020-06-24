@@ -10,4 +10,13 @@ b_paechon = tribal
 
 # Misc
 culture = hwanghae
-religion = cheondo
+religion = gaian
+
+# History
+2397.1.26 = {
+	b_paechon = castle
+}
+2441.8.9 = {
+	b_paechon = tribal
+}
+2412.4.13 = { religion = cheondo } 

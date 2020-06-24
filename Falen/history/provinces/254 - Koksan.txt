@@ -6,9 +6,14 @@ title = c_koksan
 # Settlements
 max_settlements = 3
 
-b_koksan = castle
-b_songrim_koksan = city
+b_koksan = tribal
 
 # Misc
 culture = hwanghae
 religion = juche
+
+# History
+2429.6.2 = {
+	b_koksan = castle
+	b_songrim_koksan = city
+}

@@ -6,10 +6,15 @@ title = c_unpha
 # Settlements
 max_settlements = 4
 
-b_unpha = castle
-b_sojong_unpha = city
-b_chowa_unpha = temple
+b_unpha = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2432.1.4 = {
+	b_unpha = castle
+	b_sojong_unpha = city
+	b_chowa_unpha = temple
+}

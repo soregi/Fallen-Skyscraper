@@ -6,9 +6,15 @@ title = c_jaeryong
 # Settlements
 max_settlements = 5
 
-b_jaeryong = castle
-b_pyoksan_jaeryong = city
+b_jaeryong = tribal
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
+
+# History
+2347.4.2 = {
+	b_jaeryong = castle
+	b_pyoksan_jaeryong = city
+}
+2412.5.11 = { religion = juche } 

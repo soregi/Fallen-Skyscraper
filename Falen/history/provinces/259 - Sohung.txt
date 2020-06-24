@@ -6,9 +6,14 @@ title = c_sohung
 # Settlements
 max_settlements = 3
 
-b_sohung = castle
-b_komun_sohung = city
+b_sohung = tribal
 
 # Misc
 culture = hwanghae
 religion = juche
+
+# History
+2434.7.22 = {
+	b_sohung = castle
+	b_komun_sohung = city
+}

@@ -6,11 +6,19 @@ title = c_haeju
 # Settlements
 max_settlements = 6
 
-b_haeju = castle
-b_kwangsok_haeju = city
-b_sami_haeju = temple
-b_sonsan_haeju = castle
+b_haeju = tribal
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
+
+# History
+2352.8.24 = {
+	b_haeju = castle
+	b_kwangsok_haeju = city
+	b_sami_haeju = temple
+}
+2372.8.6 = {
+	b_sonsan_haeju = castle
+}
+2434.11.11 = { religion = juche }

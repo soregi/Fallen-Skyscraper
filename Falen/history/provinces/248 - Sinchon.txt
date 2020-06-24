@@ -6,10 +6,18 @@ title = c_sinchon
 # Settlements
 max_settlements = 5
 
-b_sinchon = castle
-b_wonam_sinchon = city
-b_kulloja_sinchon = temple
+b_sinchon = tribal
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
+
+# History
+2361.3.8 = {
+	b_sinchon = castle
+	b_kulloja_sinchon = temple
+}
+2432.9.13 = {
+	b_wonam_sinchon = city
+}
+2403.5.11 = { religion = juche } 

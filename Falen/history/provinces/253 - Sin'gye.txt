@@ -6,9 +6,15 @@ title = c_singye
 # Settlements
 max_settlements = 4
 
-b_singye = castle
-b_rungsu_singye = temple
+b_singye = tribal
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
+
+# History
+2432.11.29 = {
+	b_singye = castle
+	b_rungsu_singye = temple
+}
+2412.5.9 = { religion = juche }

@@ -11,4 +11,4 @@ b_sonchon_b1 = city
 
 # Misc
 culture = pyongbuk
-religion = juche
+religion = marxist

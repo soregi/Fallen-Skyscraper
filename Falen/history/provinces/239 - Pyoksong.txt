@@ -7,9 +7,16 @@ title = c_pyoksong
 max_settlements = 5
 
 b_pyoksong = castle
-b_naeho_pyoksong = temple
-b_tohyon_pyoksong = city
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2351.2.26 = {
+	b_pyoksong = castle
+	b_naeho_pyoksong = temple
+}
+2386.3.2 = {
+	b_tohyon_pyoksong = city
+}

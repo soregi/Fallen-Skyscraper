@@ -6,9 +6,18 @@ title = c_jangyon
 # Settlements
 max_settlements = 3
 
-b_jangyon = castle
-b_ragyolodongja_jangyon = city
+b_jangyon = tribal
+b_hwawon_jangyon = temple
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
+
+# History
+2327.12.8 = {
+	b_jangyon = castle
+}
+2332.3.9 = {
+	b_ragyolodongja_jangyon = city
+}
+2431.12.7 = { religion = juche } 

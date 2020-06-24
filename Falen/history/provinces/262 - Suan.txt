@@ -6,9 +6,14 @@ title = c_suan
 # Settlements
 max_settlements = 3
 
-b_suan = castle
-b_sophyong_suan = temple
+b_suan = tribal
 
 # Misc
 culture = hwanghae
 religion = juche
+
+# History
+2435.10.8 = {
+	b_suan = castle
+	b_sophyong_suan = temple
+}

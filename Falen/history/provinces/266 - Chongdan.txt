@@ -6,9 +6,14 @@ title = c_chongdan
 # Settlements
 max_settlements = 5
 
-b_chongdan = castle
-b_ryongpho_chongdan = city 
+b_chongdan = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2374.12.6 = {
+	b_chongdan = castle
+	b_ryongpho_chongdan = city
+}

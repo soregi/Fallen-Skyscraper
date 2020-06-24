@@ -6,9 +6,14 @@ title = c_songhwa
 # Settlements
 max_settlements = 3
 
-b_songhwa = castle
-b_yaksan_songhwa = city
+b_songhwa = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2330.11.14 = {
+	b_kwail = castle
+	b_yaksan_songhwa = city
+}

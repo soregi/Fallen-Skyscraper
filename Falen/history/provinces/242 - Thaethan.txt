@@ -6,9 +6,16 @@ title = c_thaethan
 # Settlements
 max_settlements = 3
 
-b_thaethan = castle
-b_songnam_thaethan = city
+b_thaethan = tribal
 
 # Misc
 culture = hwanghae
 religion = cheondo
+
+# History
+2328.1.12 = {
+	b_thaethan = castle
+}
+2332.4.9 = {
+	b_songnam_thaethan = city
+}

@@ -6,10 +6,15 @@ title = c_samchon
 # Settlements
 max_settlements = 3
 
-b_samchon = castle
-b_sujang_samchon = temple
-
+b_samchon = tribal
 
 # Misc
 culture = hwanghae
-religion = juche
+religion = cheondo
+
+# History
+2330.11.14 = {
+	b_samchon = castle
+	b_sujang_samchon = temple
+}
+2430.1.26 = { religion = juche } 
