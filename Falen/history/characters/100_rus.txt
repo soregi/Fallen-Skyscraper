@@ -706,7 +706,185 @@
 		death = yes
 	}
 }
-
-
-
-
+#덕원
+181 = {
+	name = "Song Hwa" 
+	dynasty = 4000181
+	culture = yeongdong
+	religion = catholic
+	give_nickname = nick_the_shepherd
+	trait = mastermind_theologian
+	trait = theologian
+	trait = zealous
+	trait = just
+	trait = charitable
+	trait = kind
+	trait = diligent
+	trait = chaste
+	trait = proud
+	trait = wroth
+	disallow_random_traits = yes
+	piety = 657
+	2243.1.2 = {
+		birth = yes
+	}
+	2348.1.2 = {
+		death = yes
+	}
+}
+182 = {
+	name = "Ju Myong" 
+	dynasty = 4000182
+	culture = hamnam
+	religion = catholic
+	give_nickname = nick_the_largest_sheep
+	trait = charismatic_negotiator
+	trait = content
+	trait = stressed
+	2331.9.2 = {
+		birth = yes
+	}
+	2409.7.10 = {
+		death = yes
+	}
+}
+183 = {
+	name = "Paek Ju" 
+	dynasty = 4000183
+	culture = yeongdong
+	religion = orthodox
+	give_nickname = nick_the_blind_leading_the_blind
+	trait = misguided_warrior
+	trait = lustful
+	trait = greedy
+	trait = syphilitic
+	2356.8.23 = {
+		birth = yes
+	}
+	2419.2.28 = {
+		death = { death_reason = death_execution killer = 101 }
+	}
+}
+184 = {
+	name = "Ku Won" 
+	dynasty = 4000184
+	culture = yeongdong
+	religion = orthodox
+	trait = mastermind_theologian
+	trait = bastard
+	trait = zealous
+	trait = kind
+	trait = trusting
+	trait = honest
+	disallow_random_traits = yes
+	father = 183
+	2418.1.2 = {
+		birth = yes
+	}
+}
+185 = {
+	name = "Semyon" 
+	dynasty = 4000185
+	culture = russian
+	religion = orthodox
+	trait = scholarly_theologian
+	trait = zealous
+	trait = kind
+	2375.4.13 = {
+		birth = yes
+	}
+	2443.4.13 = {
+		death = yes
+	}
+}
+186 = {
+	name = "Sergey" 
+	dynasty = 4000186
+	culture = russian
+	religion = orthodox
+	trait = martial_cleric
+	trait = proud
+	2373.1.19 = {
+		birth = yes
+	}
+	2424.9.21 = {
+		death = { death_reason=death_murder }
+	}
+}
+187 = {
+	name = "Vasily" 
+	dynasty = 4000187
+	culture = russian
+	religion = orthodox
+	trait = underhanded_rogue
+	trait = humble
+	trait = kind
+	2377.4.11 = {
+		birth = yes
+	}
+}
+188 = {
+	name = "Chong" 
+	dynasty = 4000188
+	culture = yeongdong
+	religion = orthodox
+	trait = misguided_warrior
+	trait = homosexual
+	trait = lustful
+	2354.2.3 = {
+		birth = yes
+	}
+	2419.2.28 = {
+		death = { death_reason = death_execution killer = 101 }
+	}
+}
+189 = {
+	name = "Nicholas" 
+	dynasty = 4000189
+	culture = russian
+	religion = orthodox
+	trait = martial_cleric
+	trait = greedy
+	2362.4.2 = {
+		birth = yes
+	}
+	2424.8.12 = {
+		death = { death_reason=death_murder }
+	}
+}
+190 = {
+	name = "Ji Min" 
+	dynasty = 4000190
+	culture = yeongdong
+	religion = orthodox
+	trait = intricate_webweaver
+	trait = cynical
+	2392.3.18 = {
+		birth = yes
+	}
+}
+191 = {
+	name = "Man Hyong" 
+	dynasty = 4000191
+	culture = yeongdong
+	religion = catholic
+	trait = detached_priest
+	trait = charitable
+	2359.8.6 = {
+		birth = yes
+	}
+	2419.2.6 = {
+		death = {death_reason=death_suicide} 
+	}
+}
+192 = {
+	name = "Yu Jin" 
+	dynasty = 4000192
+	culture = yeongdong
+	religion = orthodox
+	trait = martial_cleric
+	trait = just
+	2394.5.20 = {
+		birth = yes
+	}
+}

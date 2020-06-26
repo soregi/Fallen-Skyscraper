@@ -1,3 +1,12 @@
-2020.3.14 = {
-	holder = 0
+2392.1.5 = {
+	liege = d_tokwon
+	holder = 188
+}
+2419.2.1 = {
+	liege = d_tokwon
+	holder = 189
+}
+2424.8.12 = {
+	liege = d_tokwon
+	holder = 190
 }

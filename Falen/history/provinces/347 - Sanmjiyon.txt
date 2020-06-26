@@ -11,4 +11,4 @@ b_samjiyeon_b1 = castle
 
 # Misc
 culture = jagang
-religion = juche
+religion = holy_spirit

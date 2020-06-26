@@ -17,3 +17,4 @@ religion = cheondo
 	b_pongsan = castle
 	b_kachon_pongsan = temple
 }
+2429.2.27 = { religion = juche } 
