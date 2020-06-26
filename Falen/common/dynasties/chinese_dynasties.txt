@@ -1,0 +1,25 @@
+4001401 = {
+	name = "Wang"
+	culture = liaoning
+	religion = maoist
+}
+4001402 = {
+	name = "Xi"
+	culture = liaoning
+	religion = maoist
+}
+4001403 = {
+	name = "Jang"
+	culture = liaoning
+	religion = maoist
+}
+4001404 = {
+	name = "Yi"
+	culture = liaoning
+	religion = maoist
+}
+4001405 = {
+	name = "Mao"
+	culture = liaoning
+	religion = maoist
+}
