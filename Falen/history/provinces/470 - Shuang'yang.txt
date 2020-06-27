@@ -4,10 +4,10 @@
 title = c_shuangyang
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
 b_shuangyang_b0 = tribal
 
 # Misc
-culture = jilin
-religion = holy_spirit
+culture = haixi
+religion = wanyan

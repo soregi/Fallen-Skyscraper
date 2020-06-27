@@ -4,10 +4,10 @@
 title = c_gongzhuling
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
 b_gongzhuling_b0 = tribal
 
 # Misc
-culture = jilin
-religion = holy_spirit
+culture = haixi
+religion = wanyan
