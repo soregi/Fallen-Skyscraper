@@ -1,4 +1,4 @@
-# 10 - shenyang
+# 514 - shenyang
 
 # County Title
 title = c_shenyang
@@ -6,6 +6,13 @@ title = c_shenyang
 # Settlements
 max_settlements = 7
 
+b_shenyang = castle
+b_shenhe = city
+b_zhaoling = temple
+b_yuhong = city
+b_tiexi = city
+b_hunnan = castle
+b_shenbei = city
 # Misc
-culture = ylau
+culture = yalu
 religion = tengri_pagan

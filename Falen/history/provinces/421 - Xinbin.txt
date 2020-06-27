@@ -4,10 +4,14 @@
 title = c_xinbin
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
-b_xinbin_b0 = tribal
-
+b_xingjing = castle
+b_xinbin = city
+b_hetu_ala = temple
+b_xiyangzi = castle
+b_muqi = temple
+b_wangcheongmun = city
 # Misc
-culture = yalu
-religion = tengri_pagan
+culture = jianzhou
+religion = wanyan

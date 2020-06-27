@@ -1,18 +1,32 @@
 k_liaoning = {
 	color = { 60 112 20 }
-	capital = 470
-	d_shenyang = {
+	capital = 514
+	d_fengtian = {
 		color = { 128 182 16 }
-		capital = 470
-		c_dengta = {
-			color = { 151 135 0 }
-			b_dengta_b0 = {}
-			b_dengta_b1 = {}
-			b_dengta_b2 = {}
-			b_dengta_b3 = {}
-			b_dengta_b4 = {}
-			b_dengta_b5 = {}
-			b_dengta_b6 = {}
+		capital = 514
+		c_shenyang = {
+			color = { 166 166 14 }
+			jianzhou = "Mukden"
+			haixi = "Mukden"
+			chaoxian = "Simyang"
+			yalu = "Simyang"
+			holy_site = aisin_gioro
+			holy_site = wanyan
+			holy_site = maoist
+			holy_site = tengri_pagan
+			holy_site = tengri_pagan_reformed
+			b_shenyang = {
+				jianzhou = "Mukden"
+				haixi = "Mukden"
+				chaoxian = "Simyang"
+				yalu = "Simyang"
+			}
+			b_shenhe = {}
+			b_zhaoling = {} # Tomb of Hong Taiji
+			b_yuhong = {}
+			b_tiexi = {}
+			b_hunnan = {}
+			b_shenbei = {}
 		}
 		c_liaozhong = {
 			color = { 44 57 0 }
@@ -226,6 +240,16 @@ k_liaoning = {
 			b_gongchongling_b5 = {}
 			b_gongchongling_b6 = {}
 		}
+		c_dengta = {
+			color = { 151 135 0 }
+			b_dengta_b0 = {}
+			b_dengta_b1 = {}
+			b_dengta_b2 = {}
+			b_dengta_b3 = {}
+			b_dengta_b4 = {}
+			b_dengta_b5 = {}
+			b_dengta_b6 = {}
+		}
 	}
 	d_dalian = {
 		color = { 15 77 33 }
@@ -370,13 +394,22 @@ k_liaoning = {
 		}
 		c_xinbin = {
 			color = { 157 176 0 }
-			b_xinbin_b0 = {}
-			b_xinbin_b1 = {}
-			b_xinbin_b2 = {}
-			b_xinbin_b3 = {}
-			b_xinbin_b4 = {}
-			b_xinbin_b5 = {}
-			b_xinbin_b6 = {}
+			jianzhou = "Hetu Ala"
+			haixi = "Hetu Ala"
+			
+			holy_site = aisin_gioro
+			holy_site = wanyan
+			
+			b_xingjing = {
+				jianzhou = "Yenden"
+				haixi = "Yenden"
+			} # 흥경
+			b_xinbin = {}
+			b_hetu_ala = {}
+			b_xiayingzi = {}
+			b_dasiping = {}
+			b_muqi = {}
+			b_wangcheongmun = {} # Wangqingmen Korean Town
 		}
 		c_cingyuwan = {
 			color = { 192 227 51 }

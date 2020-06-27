@@ -9,5 +9,5 @@ max_settlements = 3
 b_jingyu_b0 = tribal
 
 # Misc
-culture = jilin
-religion = red_solar
+culture = jianzhou
+religion = aisin_gioro
