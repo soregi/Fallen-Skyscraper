@@ -6,8 +6,8 @@ title = c_jiaohe
 # Settlements
 max_settlements = 3
 
-b_jiaohe_b0 = tribal
+b_henan = tribal
 
 # Misc
-culture = jilin
-religion = holy_spirit
+culture = haixi
+religion = wanyan

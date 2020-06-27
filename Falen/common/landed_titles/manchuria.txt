@@ -312,13 +312,13 @@ k_manchuria = {
 		}
 		c_jiaohe = {
 			color = { 0 31 84 }
-			b_jiaohe_b0 = {}
-			b_jiaohe_b1 = {}
-			b_jiaohe_b2 = {}
-			b_jiaohe_b3 = {}
-			b_jiaohe_b4 = {}
-			b_jiaohe_b5 = {}
-			b_jiaohe_b6 = {}
+			b_henan = {}
+			b_naizishan = {}
+			b_zhonggang = {}
+			b_minzhu = {}
+			b_changan = {}
+			b_xinzhan = {}
+			b_baishishan = {}
 		}
 		c_fengman = {
 			color = { 0 136 95 }
