@@ -83,3 +83,7 @@ nick_ilnam's_nick = {} #푸 만추 아이신기오르 무함마드 깐수 쩡
 nick_noko_lord = {}
 nick_kaesong_guy = {}
 nick_iron_lady = {}
+#덕원
+nick_the_shepherd = {}
+nick_the_largest_sheep = {}
+nick_the_blind_leading_the_blind = {}

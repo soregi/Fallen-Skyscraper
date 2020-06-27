@@ -6,6 +6,11 @@
 	religion = jeju_pagan
 	mother = 1702
 	female = yes
+	diplomacy = 7
+	martial = 12
+	intrigue = 3
+	stewardship = 6
+	learning = 8
 	trait = brilliant_strategist
 	trait = fair
 	trait = robust

@@ -118,7 +118,64 @@
 	culture = russian
 	religion = orthodox
 }
-
-
-
-
+#덕원
+4000181 = {
+	name = "Yu"
+	culture = yeongdong
+	religion = catholic
+}
+4000182 = {
+	name = "Song"
+	culture = hamnam
+	religion = catholic
+}
+4000183 = {
+	name = "Paek"
+	culture = yeongdong
+	religion = orthodox
+}
+4000184 = {
+	name = "Paekov"
+	culture = yeongdong
+	religion = orthodox
+}
+4000185 = {
+	name = "Ivanov"
+	culture = russian
+	religion = orthodox
+}
+4000186 = {
+	name = "Yeltsinov"
+	culture = russian
+	religion = orthodox
+}
+4000187 = {
+	name = "Jong"
+	culture = russian
+	religion = orthodox
+}
+4000188 = {
+	name = "Kim"
+	culture = yeongdong
+	religion = orthodox
+}
+4000189 = {
+	name = "Stepanovov"
+	culture = russian
+	religion = orthodox
+}
+4000190 = {
+	name = "Yu"
+	culture = yeongdong
+	religion = orthodox
+}
+4000191 = {
+	name = "Yon"
+	culture = yeongdong
+	religion = orthodox
+}
+4000191 = {
+	name = "Lee"
+	culture = yeongdong
+	religion = orthodox
+}

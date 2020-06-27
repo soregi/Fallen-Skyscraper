@@ -1,4 +1,4 @@
 2428.7.2 = {
-	liege = k_bulgukto
+	liege = d_bailian
 	holder = 1327
 }

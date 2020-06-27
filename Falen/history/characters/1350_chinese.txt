@@ -1,0 +1,159 @@
+1351 = {
+	name = "Xupeng"
+	dynasty = 4001401
+	culture = liaoning
+	religion = maoist
+	trait = brilliant_strategist
+	trait = brave
+	trait = zealous
+	trait = possessed
+	2302.7.16 = {
+		birth = yes
+	}
+	2347.8.19 = {
+		death = yes
+	}
+}
+1352 = {
+	name = "Zhuang"
+	dynasty = 4001401
+	culture = liaoning
+	religion = maoist
+	father = 1351
+	trait = charismatic_negotiator
+	trait = cynical
+	trait = gregarious
+	trait = groomed
+	trait = gamer
+	2323.2.3 = {
+		birth = yes
+	}
+	2369.4.6 = {
+		death = yes
+	}
+}
+1353 = {
+	name = "Liwei"
+	dynasty = 4001401
+	culture = liaoning
+	religion = maoist
+	father = 1352
+	trait = flamboyant_schemer
+	trait = cynical
+	trait = content
+	trait = lustful
+	trait = envious
+	2350.11.16 = {
+		birth = yes
+	}
+	2392.3.16 = {
+		death = yes
+	}
+}
+1354 = {
+	name = "Manchu"
+	dynasty = 4001401
+	culture = liaoning
+	religion = maoist
+	father = 1353
+	trait = skilled_tactician
+	trait = zealous
+	trait = envious
+	trait = diligent
+	trait = patient
+	2368.1.2 = {
+		birth = yes
+	}
+	2401.5.5 = {
+		death = {death_reason = death_murder}
+	}
+}
+1355 = {
+	name = "Jian"
+	dynasty = 4001401
+	culture = liaoning
+	religion = maoist
+	father = 1354
+	trait = detached_priest
+	trait = dull
+	trait = gluttonous
+	trait = lustful
+	trait = slothful
+	trait = drunkard
+	trait = content
+	trait = cynical
+	2394.7.17 = {
+		birth = yes
+	}
+	2441.12.22 = {
+		death = yes
+	}
+}
+1356 = {
+	name = "Juguo"
+	dynasty = 4001401
+	culture = liaoning
+	religion = maoist
+	father = 1355
+	trait = thrifty_clerk
+	trait = strong
+	trait = cynical
+	trait = ambitious
+	trait = gluttonous
+	trait = diligent
+	trait = charitable
+	2425.8.19 = {
+		birth = yes
+	}
+}
+1357 = {
+	name = "Pingjin"
+	dynasty = 4001402
+	culture = liaoning
+	religion = maoist
+	2419.7.16 = {
+		birth = yes
+	}
+}
+1358 = {
+	name = "Kaishek"
+	dynasty = 4001403
+	culture = liaoning
+	religion = maoist
+	2408.5.13 = {
+		birth = yes
+	}
+}
+1359 = {
+	name = "Kang"
+	dynasty = 4001404
+	culture = liaoning
+	religion = maoist
+	2423.6.8 = {
+		birth = yes
+	}
+}
+1360 = {
+	name = "Zedong"
+	dynasty = 4001405
+	culture = liaoning
+	religion = maoist
+	trait = skilled_tactician
+	trait = patient
+	trait = zealous
+	trait = lunatic
+	trait = proud
+	2399.9.9 = {
+		birth = yes
+	}
+	2327.6.3 = { add_spouse=1361 }
+}
+1361 = {
+	name = "Ji"
+	culture = liaoning
+	religion = maoist
+	2401.10.8 = {
+		birth = yes
+	}
+}
+
