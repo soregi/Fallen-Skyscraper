@@ -280,6 +280,24 @@ k_manchuria = {
 	d_jilin = {
 		color = { 188 139 10 }
 		capital = 468
+		haixi = "Girin Ula"
+		jianzhou = "Girin Ula"
+		chaoxian = "Gillim"
+		c_jilin = {
+			color = { 0 136 95 }
+			haixi = "Girin"
+			jianzhou = "Girin"
+			chaoxian = "Gillim"
+			holy_site = aisin_gioro
+			holy_site = wanyan
+			b_jilin = {}
+			b_fengman = {}
+			b_ulakai = {}
+			b_longtan = {}
+			b_changyi = {}
+			b_chuanying = {}
+			b_songhua = {}
+		}
 		c_panshi = {
 			color = { 0 40 110 }
 			b_panshi_b0 = {}
@@ -319,16 +337,6 @@ k_manchuria = {
 			b_changan = {}
 			b_xinzhan = {}
 			b_baishishan = {}
-		}
-		c_fengman = {
-			color = { 0 136 95 }
-			b_fengman_b0 = {}
-			b_fengman_b1 = {}
-			b_fengman_b2 = {}
-			b_fengman_b3 = {}
-			b_fengman_b4 = {}
-			b_fengman_b5 = {}
-			b_fengman_b6 = {}
 		}
 	}
 	d_heilongjiang = {

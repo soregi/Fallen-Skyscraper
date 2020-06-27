@@ -1,0 +1,19 @@
+# 468 - Jilin
+
+# County Title
+title = c_jilin
+
+# Settlements
+max_settlements = 7
+
+b_jilin = castle
+b_fengman = temple
+b_ulakai = castle
+b_longtan = city
+b_changyi = city
+b_chuanying = city
+b_songhua = temple
+
+# Misc
+culture = haixi
+religion = wanyan

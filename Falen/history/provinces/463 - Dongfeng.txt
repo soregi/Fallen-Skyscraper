@@ -1,12 +1,10 @@
-# 461 - Meihekou
+# 463 - Dongfeng
 
 # County Title
-title = c_meihekou
+title = c_dongfeng
 
 # Settlements
-max_settlements = 3
-
-b_meihekou_b0 = tribal
+max_settlements = 4
 
 # Misc
 culture = jianzhou

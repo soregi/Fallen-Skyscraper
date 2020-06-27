@@ -1,0 +1,11 @@
+# 467 - Yongji
+
+# County Title
+title = c_yongji
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = haixi
+religion = wanyan
