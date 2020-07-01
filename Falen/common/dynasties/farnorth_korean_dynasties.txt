@@ -1,3 +1,42 @@
+4002301 = {
+	name = "Kim"
+	religion = holy_spirit
+}
+4002302 = {
+	name = "Gu"
+	culture = chaoxian
+	religion = holy_spirit
+}
+4002303 = {
+	name = "Maeng"
+	culture = chaoxian
+}
+4002304 = {
+	name = "Hong"
+	culture = chaoxian
+	religion = holy_spirit
+}
+4002305 = {
+	name = "Choi"
+	culture = chaoxian
+	religion = holy_spirit
+}
+4002306 = {
+	name = "Ma"
+	culture = chaoxian
+	religion = holy_spirit
+}
+4002307 = {
+	name = "Mae"
+	culture = chaoxian
+	religion = holy_spirit
+}
+4002308 = {
+	name = "Seo"
+	culture = chaoxian
+	religion = holy_spirit
+}
+#헤이룽장
 4002431 = {
 	name = "Jo"
 	culture = jagang

@@ -10,4 +10,4 @@ b_buryeong_b0 = tribal
 
 # Misc
 culture = hambuk
-religion = holy_spirit
+religion = orthodox

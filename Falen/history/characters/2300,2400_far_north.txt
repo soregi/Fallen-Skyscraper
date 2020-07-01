@@ -1,3 +1,287 @@
+2301 = {
+	name = "Jesusmariajoseph"
+	dynasty = 4002301
+	culture = honam
+	religion = holy_spirit
+	trait = grey_eminence
+	trait = lustful
+	trait = proud
+	trait = stubborn
+	trait = arbitrary
+	trait = heresiarch
+	2317.1.1 = {
+		birth = yes
+	}
+	2364.1.12 = {
+		add_spouse = 2306
+	}
+	2371.4.11 = {
+		remove_spouse = 2306
+	}
+	2371.9.2 = {
+		add_spouse = 2302
+	}
+	2401.12.25 = {
+		death = yes
+	}
+}
+2302 = {
+	name = "Hyon So"
+	female = yes
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2303
+	trait = detached_priest
+	trait = fair
+	trait = zealous
+	trait = trusting
+	2342.4.6 = {
+		birth = yes
+	}
+	2401.12.25 = {
+		death = { death_reason = death_suicide }
+	}
+}
+2303 = {
+	name = "Ji Hun"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = marxist
+	2319.11.22 = {
+		birth = yes
+	}
+	2382.4.10 = {
+		death = { death_reason = death_suicide }
+	}
+}
+2304 = {
+	name = "Petro"
+	dynasty = 4002301
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2301
+	mother = 2302
+	trait = martial_cleric
+	trait = kinslayer
+	trait = cruel
+	trait = ambitious
+	2362.9.17 = {
+		birth = yes
+	}
+	2391.10.1 = {
+		add_spouse = 2310
+	}
+	2435.10.16 = {
+		death = yes
+	}
+}
+2305 = {
+	name = "Joseph"
+	dynasty = 4002301
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2301
+	mother = 2302
+	trait = 
+	trait = 
+	trait = 
+	trait = 
+	2366.8.22 = {
+		birth = yes
+	}
+	2403.7.12 = {
+		death = {
+		death_reason = death_execution
+		killer = 2304
+		}
+	}
+}
+2306 = {
+	name = "Hyona"
+	female = yes
+	dynasty = 4002303
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2307
+	trait = amateurish_plotter
+	trait = fair
+	trait = lustful
+	trait = seducer
+	2343.2.22 = {
+		birth = yes
+	}
+	2371.9.1 = {
+		death = {
+		death_reason = death_execution
+		killer = 2301
+		}
+	}
+}
+2307 = {
+	name = "Ku Po"
+	dynasty = 4002303
+	culture = chaoxian
+	religion = mu_pagan
+	father = 2308
+	2319.8.6 = {
+		birth = yes
+	}
+	2371.9.16 = {
+		death = {
+		death_reason = death_execution
+		killer = 2301
+		}
+	}
+}
+2308 = {
+	name = "Kun Jong"
+	dynasty = 4002303
+	culture = chaoxian
+	religion = mu_pagan
+	2300.1.3 = {
+		birth = yes
+	}
+	2344.9.16 = {
+		death = yes
+	}
+}
+2308 = {
+	name = "Kun Jong"
+	dynasty = 4002303
+	culture = chaoxian
+	religion = mu_pagan
+	2300.1.3 = {
+		birth = yes
+	}
+	2344.9.16 = {
+		death = yes
+	}
+}
+2309 = {
+	name = "Ka Pun"
+	dynasty = 4002304
+	culture = chaoxian
+	religion = holy_spirit
+	trait = fair
+	trait = lustful
+	2345.9.16 = {
+		birth = yes
+	}
+	2371.8.29 = {
+		death = {
+		death_reason = death_execution
+		killer = 2301
+		}
+	}
+}
+2310 = {
+	name = "Maria"
+	female = yes
+	dynasty = 4002305
+	culture = chaoxian
+	religion = holy_spirit
+	trait = naive_appeaser
+	trait = zealous
+	trait = arbitrary
+	2366.2.19 = {
+		birth = yes
+	}
+}
+2311 = {
+	name = "Mose"
+	dynasty = 4002301
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2304
+	mother = 2310
+	2421.9.16 = {
+		birth = yes
+	}
+}
+2312 = {
+	name = "Jae Hyok"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2303
+	2344.5.17 = {
+		birth = yes
+	}
+	2395.1.5 = {
+		death = yes
+	}
+}
+2313 = {
+	name = "Mu Hak"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2312
+	2367.10.15 = {
+		birth = yes
+	}
+	2400.1.1 = {
+		death = yes
+	}
+}
+2314 = {
+	name = "Mu Hyun"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2312
+	2369.11.30 = {
+		birth = yes
+	}
+	2398.1.27 = {
+		add_spouse = 2316
+	}
+	2441.7.6 = {
+		death = yes
+	}
+}
+2315 = {
+	name = "Mu Sik"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2314
+	mother = 2316
+	2400.1.6 = {
+		birth = yes
+	}
+}
+2316 = {
+	name = "Yo Jong"
+	female = yes
+	dynasty = 4002306
+	culture = chaoxian
+	religion = holy_spirit
+	2375.8.19 = {
+		birth = yes
+	}
+}
+2317 = {
+	name = "U Jin"
+	dynasty = 4002307
+	culture = chaoxian
+	religion = holy_spirit
+	2418.5.5 = {
+		birth = yes
+	}
+}
+2318 = {
+	name = "Philip"
+	dynasty = 4002308
+	culture = chaoxian
+	religion = holy_spirit
+	2410.9.22 = {
+		birth = yes
+	}
+}
+
+#헤이룽장
 2431 = {
 	name = "Thae Hyok"
 	dynasty = 4002431
