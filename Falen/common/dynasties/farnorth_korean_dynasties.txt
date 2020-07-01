@@ -1,0 +1,10 @@
+4002431 = {
+	name = "Jo"
+	culture = jagang
+	religion = red_solar
+}
+4002432 = {
+	name = "Ivanov"
+	culture = russian
+	religion = red_solar
+}

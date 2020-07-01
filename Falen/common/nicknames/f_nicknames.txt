@@ -87,3 +87,5 @@ nick_iron_lady = {}
 nick_the_shepherd = {}
 nick_the_largest_sheep = {}
 nick_the_blind_leading_the_blind = {}
+#조선족
+nick_ryongdoja_of_the_gentiles = {}

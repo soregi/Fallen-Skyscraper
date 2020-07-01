@@ -1,0 +1,116 @@
+2431 = {
+	name = "Thae Hyok"
+	dynasty = 4002431
+	culture = jagang
+	religion = juche
+	trait = skilled_tactician
+	trait = adventurer
+	trait = stressed
+	trait = proud
+	trait = scarred_type_2
+	2344.4.6 = {
+		birth = yes
+	}
+	2403.6.29 = {
+		death = { death_reason = death_trait }
+	}
+}
+2432 = {
+	name = "Hyok Su"
+	dynasty = 4002431
+	culture = jagang
+	religion = juche
+	father = 2431
+	2372.5.2 = {
+		birth = yes
+	}
+	2387.2.10 = {
+		death = { death_reason = death_murder		
+		killer = 2433
+		}
+	}
+}
+2433 = {
+	name = "Ivan"
+	culture = russian
+	religion = orthodox
+	trait = wroth
+	trait = drunkard
+	trait = kind
+	trait = possessed
+	2346.4.14 = {
+		birth = yes
+	}
+	2387.2.21 = {
+		death = { death_reason = death_execution
+		killer = 2431
+		}
+	}
+}
+2434 = {
+	name = "Je Song"
+	dynasty = 4002431
+	culture = jagang
+	religion = juche
+	give_nickname = nick_ryongdoja_of_the_gentiles
+	father = 2431
+	diplomacy = 12
+	martial = 8
+	stewardship = 10
+	intrigue = 6
+	learning = 10
+	trait = mastermind_theologian
+	trait = genius
+	trait = zodiac_gemini
+	trait = theologian
+	trait = erudite
+	trait = zealous
+	trait = mystic
+	trait = scholar
+	trait = ambitious
+	trait = sympathy_christendom
+	trait = sympathy_pagans
+	trait = adventurer
+	trait = pilgrim
+	disallow_random_traits = yes
+	2375.6.5 = {
+		birth = yes
+	}
+	2401.9.8 = {
+		religion = red_solar
+		remove_trait = sympathy_christendom
+		remove_trait = sympathy_pagans 
+	}
+	2403.6.20 = {
+		remove_trait = adventurer
+		remove_trait = pilgrim
+	}
+	2403.6.20 = {
+     effect = { add_friend = 2435 }
+   }
+	2441.6.2 = {
+		remove_trait = ambitious
+		remove_trait = scholar
+		add_trait = infirm
+		add_trait = in_hiding
+	}
+}
+2435 = {
+	name = "Maxim"
+	dynasty = 4002432
+	culture = russian
+	religion = orthodox
+	father = 2433
+	trait = zodiac_aquarius
+	trait = zealous
+	trait = content
+	trait = charitable
+	trait = brave
+	trait = diligent
+	2378.2.8 = {
+		birth = yes
+	}
+	2403.6.20 = {
+		religion = red_solar
+	}
+}
