@@ -723,6 +723,7 @@
 }
 2418 = {
 	name = "Ji Un"
+	female = yes
 	dynasty = 4002303
 	culture = chaoxian
 	religion = marxist
