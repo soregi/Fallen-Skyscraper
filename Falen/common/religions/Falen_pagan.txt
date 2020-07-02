@@ -710,7 +710,7 @@ pagan_group = {
 		intermarry = mu_pagan_reformed
 	}
 	
-holy_spirit = {
+    holy_spirit_pagan = {
 		graphical_culture = westerngfx
 		
 		icon = 19
@@ -744,10 +744,10 @@ holy_spirit = {
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
-		intermarry = holy_spirit_reformed
+		intermarry = holy_spirit_pagan_reformed
 	}
 	
-	holy_spirit_reformed = {
+	holy_spirit_pagan_reformed = {
 		graphical_culture = westerngfx
 		
 		icon = 19
@@ -778,6 +778,6 @@ holy_spirit = {
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
-		intermarry = holy_spirit
+		intermarry = holy_spirit_pagan
 	}
 }
