@@ -83,10 +83,6 @@
 	religion = holy_spirit
 	father = 2301
 	mother = 2302
-	trait = 
-	trait = 
-	trait = 
-	trait = 
 	2366.8.22 = {
 		birth = yes
 	}
