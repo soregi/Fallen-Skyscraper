@@ -3,7 +3,7 @@ islam_mahdi = { #구세주 혈통
 	monthly_character_piety = 0.5
 	inheritance = patrilineal
 	allow_bastards = yes
-	picture = GFX_bloodlines_symbol_norse
+	picture = GFX_bloodlines_symbol_sunni
 	flags = { historical_bloodline bloodline_historical_muslim }
 }
 moonie = { # 통일교
@@ -111,5 +111,30 @@ donghae_blood = { #동해황제 혈통
 	inheritance = patrilineal
 	allow_bastards = yes
 	picture = GFX_bloodlines_symbol_carolingian #뭔가 집어넣기
+	flags = { historical_bloodline }
+}
+aisin_gioro_blood = { #아이신기오로 혈통
+	martial=5
+	jianzhou_opinion = 5
+	haixi_opinion = 5
+	inheritance = patrilineal
+	allow_bastards = yes
+	command_modifier = {
+		light_cavalry_defensive = 0.1
+		light_cavalry_offensive = 0.1
+	}
+	picture = GFX_bloodlines_symbol_horse
+	flags = { historical_bloodline }
+}
+wanyan_blood = { #완안 혈통
+	martial=5
+	jianzhou_opinion = 5
+	haixi_opinion = 5
+	inheritance = patrilineal
+	allow_bastards = yes
+	command_modifier = {
+	    morale = 0.5
+	}
+	picture = GFX_bloodlines_symbol_horse
 	flags = { historical_bloodline }
 }
