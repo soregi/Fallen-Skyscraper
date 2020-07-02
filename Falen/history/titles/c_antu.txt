@@ -1,0 +1,4 @@
+2439.12.7 = {
+	liege = k_yanbian
+	holder = 2317
+}

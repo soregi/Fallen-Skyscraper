@@ -1,0 +1,4 @@
+2440.2.19 = {
+	liege = k_yanbian
+	holder = 2318
+}
