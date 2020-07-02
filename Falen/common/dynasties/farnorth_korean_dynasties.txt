@@ -36,6 +36,61 @@
 	culture = chaoxian
 	religion = holy_spirit
 }
+#백두
+4002351 = {
+	name = "Bae"
+	culture = hambuk
+}
+4002352 = {
+	name = "Han"
+	culture = hambuk
+	religion = holy_spirit
+}
+4002353 = {
+	name = "Chol"
+	culture = hambuk
+	religion = holy_spirit
+}
+4002354 = {
+	name = "Min"
+	culture = hambuk
+	religion = holy_spirit
+}
+4002355 = {
+	name = "So"
+	culture = hambuk
+	religion = holy_spirit
+}
+#육진
+4002401 = {
+	name = "Ryu"
+	culture = hambuk
+	religion = orthodox
+}
+4002402 = {
+	name = "Chao"
+	culture = hambuk
+	religion = holy_spirit
+}
+4002403 = {
+	name = "Zhangminov"
+	culture = hambuk
+	religion = holy_spirit
+}
+4002404 = {
+	name = "Ri"
+	culture = hambuk
+	religion = holy_spirit
+}
+4002405 = {
+	name = "Ju"
+	culture = chaoxian
+}
+4002406 = {
+	name = "Yang"
+	culture = hambuk
+	religion = holy_spirit
+}
 #헤이룽장
 4002431 = {
 	name = "Jo"

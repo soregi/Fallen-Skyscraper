@@ -1,3 +1,8 @@
-2020.3.14 = {
-	holder = 0
+2391.5.4 = {
+	liege = d_baekdu
+	holder = 2355
+}
+2432.4.30 = {
+	liege = d_baekdu
+	holder = 2357
 }

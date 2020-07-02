@@ -280,7 +280,519 @@
 		birth = yes
 	}
 }
-
+#백두수도회
+2351 = {
+	name = "Han Sol"
+	dynasty = 4002351
+	culture = hambuk
+	religion = marxist
+	2359.12.31 = {
+		birth = yes
+	}
+	2409.5.4 = {
+		death = {
+		death_reason = death_duel
+		killer = 2314
+		}
+	}
+}
+2352 = {
+	name = "Han Ul"
+	dynasty = 4002351
+	culture = hambuk
+	religion = marxist
+	father = 2351
+	trait = stressed
+	2384.7.6 = {
+		birth = yes
+	}
+	2414.7.16 = {
+		death = {
+		death_reason = death_trait
+		}
+	}
+}
+2353 = {
+	name = "Chol Ku"
+	dynasty = 4002351
+	culture = hambuk
+	religion = holy_spirit
+	father = 2351
+	2388.5.12 = {
+		birth = yes
+	}
+	2433.11.5 = {
+		death = yes
+	}
+}
+2354 = {
+	name = "Chol Ung"
+	dynasty = 4002351
+	culture = hambuk
+	religion = holy_spirit
+	secret_religion = marxist
+	father = 2351
+	trait = flamboyant_schemer
+	trait = ambitious
+	trait = humble
+	trait = envious
+	2408.9.22 = {
+		birth = yes
+	}
+}
+2355 = {
+	name = "Min U"
+	dynasty = 4002352
+	culture = hambuk
+	religion = mu_pagan
+	2366.7.18 = {
+		birth = yes
+	}
+	2432.4.30 = {
+		death = yes
+	}
+}
+2356 = {
+	name = "Chol Min"
+	dynasty = 4002352
+	culture = hambuk
+	religion = holy_spirit
+	father = 2355
+	trait = celibate
+	2392.4.19 = {
+		birth = yes
+	}
+}
+2357 = {
+	name = "Cha Sim"
+	dynasty = 4002352
+	culture = hambuk
+	religion = holy_spirit
+	father = 2356
+	trait = legit_bastard
+	trait = genius
+	2431.1.5 = {
+		birth = yes
+	}
+}
+2358 = {
+	name = "Mu Han"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2314
+	mother = 2316
+	2408.7.19 = {
+		birth = yes
+	}
+	2428.11.25 = {
+		add_spouse = 2359
+	}
+}
+2359 = {
+	name = "Kwak Sun"
+	female = yes
+	dynasty = 4002353
+	culture = hambuk
+	religion = holy_spirit
+	father = 2314
+	mother = 1316
+	2411.5.9 = {
+		birth = yes
+	}
+}
+2360 = {
+	name = "Yu Sik"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2358
+	mother = 2359
+	trait = twin
+	2443.8.1 = {
+		birth = yes
+	}
+}
+2361 = {
+	name = "Man Sik"
+	dynasty = 4002302
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2358
+	mother = 2359
+	trait = twin
+	2443.8.1 = {
+		birth = yes
+	}
+}
+2362 = {
+	name = "Wuhyo"
+	female = yes
+	dynasty = 4002354
+	culture = hambuk
+	religion = holy_spirit
+	secret_religion = mu_pagan
+	2421.5.31 = {
+		birth = yes
+	}
+}
+2363 = {
+	name = "Min Hyok"
+	dynasty = 4002355
+	culture = hambuk
+	religion = holy_spirit
+	2387.4.26 = {
+		birth = yes
+	}
+	2441.11.17 = {
+		death = yes
+	}
+}
+2364 = {
+	name = "Kang Jun"
+	dynasty = 4002355
+	culture = chaoxian
+	religion = holy_spirit
+	father = 2363
+	trait = monk
+	2421.5.28 = {
+		birth = yes
+	}
+}
+2365 = {
+	name = "Kwang Hui"
+	dynasty = 4002355
+	culture = hambuk
+	religion = holy_spirit
+	father = 2363
+	2427.5.1 = {
+		birth = yes
+	}
+}
+#육진
+2401 = {
+	name = "Jin An"
+	dynasty = 4002401
+	culture = hambuk
+	religion = orthodox
+	trait = underhanded_rogue
+	trait = slothful
+	2351.6.7 = {
+		birth = yes
+	}
+	2402.11.20 = {
+		death = {
+		death_reason = death_duel
+		killer = 2402
+		}
+	}
+}
+2402 = {
+	name = "Min Ju"
+	female = yes
+	dynasty = 4002303
+	culture = chaoxian
+	religion = marxist
+	trait = intricate_webweaver
+	trait = ambitious
+	trait = bastard
+	father = 2309
+	mother = 2306
+	2371.5.19 = {
+		birth = yes
+	}
+	2402.12.23 = {
+		add_matrilineal_spouse = 2407
+	}
+}
+2403 = {
+	name = "Jin Yong"
+	dynasty = 4002303
+	culture = hambuk
+	religion = holy_spirit
+	father = 2308
+	2321.8.25 = {
+		birth = yes
+	}
+	2398.4.12 = {
+		death = yes
+	}
+}
+2404 = {
+	name = "Xinrin"
+	dynasty = 4002402
+	culture = hambuk
+	religion = holy_spirit
+	trait = scarred_type_10
+	trait = charitable
+	trait = just
+	trait = duelist
+	father = 2308
+	2342.6.8 = {
+		birth = yes
+	}
+	2400.5.2 = {
+		death = yes
+	}
+}
+2405 = {
+	name = "Mikhail"
+	dynasty = 4002403
+	culture = hambuk
+	religion = holy_spirit
+	father = 2308
+	2392.5.3 = {
+		birth = yes
+	}
+}
+2406 = {
+	name = "Jong Thae"
+	dynasty = 4002404
+	culture = hambuk
+	religion = holy_spirit
+	father = 2308
+	2376.11.2 = {
+		birth = yes
+	}
+	2398.12.6 = {
+		add_spouse = 2412
+	}
+}
+2407 = {
+	name = "Song"
+	dynasty = 4002405
+	culture = chaoxian
+	religion = marxist
+	trait = kind
+	trait = chaste
+	trait = feeble
+	father = 2308
+	2376.5.24 = {
+		birth = yes
+	}
+}
+2408 = {
+	name = "Sin Ju"
+	dynasty = 4002303
+	culture = chaoxian
+	religion = marxist
+	trait = stressed
+	father = 2307
+	mother = 2402
+	2404.2.8 = {
+		birth = yes
+	}
+	2421.3.26 = {
+		add_spouse = 2410
+	}
+}
+2409 = {
+	name = "Sin Uk"
+	dynasty = 4002303
+	culture = hambuk
+	religion = marxist
+	father = 2307
+	mother = 2402
+	2407.12.20 = {
+		birth = yes
+	}
+}
+2410 = {
+	name = "Hye Un"
+	female = yes
+	dynasty = 4002404
+	culture = hambuk
+	religion = marxist
+	father = 2306
+	mother = 2412
+	2405.3.16 = {
+		birth = yes
+	}
+}
+2411 = {
+	name = "Chae Un"
+	female = yes
+	dynasty = 4002403
+	culture = hambuk
+	religion = holy_spirit
+	trait = bastard
+	father = 2305
+	2438.3.28 = {
+		birth = yes
+	}
+}
+2412 = {
+	name = "Sasha"
+	female = yes
+	dynasty = 4002406
+	culture = russian
+	religion = holy_spirit
+	2386.1.20 = {
+		birth = yes
+	}
+}
+2413 = {
+	name = "Wong"
+	dynasty = 4002402
+	culture = hambuk
+	religion = holy_spirit
+	trait = twin
+	trait = homosexual
+	trait = chaste
+	trait = temperate
+	trait = slothful
+	trait = cynical
+	trait = giant
+	father = 2304
+	2376.2.3 = {
+		birth = yes
+	}
+}
+2414 = {
+	name = "Hyon Jong"
+	female = yes
+	dynasty = 4002404
+	culture = hambuk
+	religion = holy_spirit
+	trait = twin
+	trait = homosexual
+	trait = chaste
+	trait = temperate
+	trait = charitable
+	trait = slothful
+	trait = feeble
+	father = 2306
+	mother = 2412
+	2421.5.15 = {
+		birth = yes
+	}
+}
+2415 = {
+	name = "Son Jong"
+	female = yes
+	dynasty = 4002404
+	culture = hambuk
+	religion = holy_spirit
+	trait = twin
+	trait = homosexual
+	trait = chaste
+	trait = gluttonous
+	trait = diligent
+	trait = zealous
+	father = 2306
+	mother = 2412
+	2421.5.15 = {
+		birth = yes
+	}
+}
+2416 = {
+	name = "Kap Su"
+	dynasty = 4002303
+	culture = chaoxian
+	religion = marxist
+	trait = twin
+	trait = homosexual
+	trait = chaste
+	trait = gluttonous
+	trait = diligent
+	trait = zealous
+	father = 2308
+	mother = 2410
+	2422.3.20 = {
+		birth = yes
+	}
+	2443.12.6 = {
+		add_spouse = 2414
+	}
+}
+2417 = {
+	name = "Son Su"
+	dynasty = 4002303
+	culture = chaoxian
+	religion = marxist
+	trait = twin
+	trait = homosexual
+	trait = chaste
+	trait = greedy
+	trait = diligent
+	trait = zealous
+	father = 2308
+	mother = 2410
+	2422.3.20 = {
+		birth = yes
+	}
+	2443.12.6 = {
+		add_spouse = 2415
+	}
+}
+2418 = {
+	name = "Ji Un"
+	dynasty = 4002303
+	culture = chaoxian
+	religion = marxist
+	trait = charismatic_negotiator
+	trait = kind
+	trait = proud
+	father = 2307
+	mother = 2402
+	2405.9.8 = {
+		birth = yes
+	}
+	2443.5.12 = {
+		death = yes
+	}
+}
+2419 = {
+	name = "So Jun"
+	dynasty = 4002431
+	culture = pyongnam
+	religion = marxist
+	trait = legit_bastard
+	trait = quick
+	trait = celibate
+	trait = depressed
+	trait = humble
+	trait = wroth
+	trait = cynical
+	father = 2434
+	2398.2.16 = {
+		birth = yes
+	}
+	2414.8.17 = {
+		add_spouse = 2418
+	}
+}
+2420 = {
+	name = "Min Su"
+	dynasty = 4002431
+	culture = chaoxian
+	religion = red_solar
+	trait = quick
+	trait = zodiac_aquarius
+	trait = brooding
+	trait = idolizer
+	father = 2419
+	mother = 2418
+	2436.2.8 = {
+		birth = yes
+	}
+}
+2421 = {
+	name = "Min A"
+	female = yes
+	dynasty = 4002431
+	culture = chaoxian
+	religion = red_solar
+	trait = playful
+	trait = zodiac_pisces
+	trait = willful
+	trait = curious
+	father = 2419
+	mother = 2418
+	2439.2.21 = {
+		birth = yes
+	}
+}
 #헤이룽장
 2431 = {
 	name = "Thae Hyok"
