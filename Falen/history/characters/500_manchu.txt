@@ -174,6 +174,11 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=naive_appeaser
+	trait=slothful
+	trait=greedy
+	trait=wroth
+	trait=ambitious
 	2415.4.5 = {
 		birth = yes
 	}
@@ -187,6 +192,12 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=tough_soldier
+	trait=kind
+	trait=lustful
+	trait=shy
+	trait=proud
+	trait=bastard
 	2417.7.12 = {
 		birth = yes
 	}
@@ -199,6 +210,11 @@
 	dynasty = 4000508	# 원린
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=tough_soldier
+	trait=shrewd
+	trait=lefthanded
+	trait=gluttonous
+	trait=wroth
 	2415.9.10 = {
 		birth = yes
 	}
@@ -212,6 +228,11 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=tough_soldier
+	trait=ambitious
+	trait=lustful
+	trait=proud
+	trait=legit_bastard
 	2411.1.4 = {
 		birth = yes
 	}
@@ -224,6 +245,11 @@
 	dynasty = 4000509	# 굉
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=tough_soldier
+	trait=lunatic
+	trait=brave
+	trait=chaste
+	trait=envious
 	2411.11.28 = {
 		birth = yes
 	}
@@ -236,6 +262,16 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=brilliant_strategist
+	trait=proud
+	trait=diligent
+	trait=patient
+	trait=winter_soldier
+	trait=zealous
+	trait=organizer
+	trait=scarred
+	trait=ambitious
+	trait=shrewd
 	2425.12.31 = {
 		birth = yes
 	}
@@ -248,6 +284,13 @@
 	dynasty = 4000510	# 고롼
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=tough_soldier
+	trait=kind
+	trait=trusting
+	trait=honest
+	trait=zealous
+	trait=chaste
+	trait=charitable
 	2420.7.23 = {
 		birth = yes
 	}
@@ -261,6 +304,11 @@
 	dynasty = 4000509	# 굉
 	culture = jianzhou # 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=tough_soldier
+	trait=charitable
+	trait=proud
+	trait=lustful
+	trait=fair
 	2427.2.14 = {
 		birth = yes
 	}
@@ -273,6 +321,11 @@
 	dynasty = 4000511	# 완안
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	trait=indulgent_wastrel
+	trait=homosexual
+	trait=cannibal_trait
+	trait=arbitrary
+	trait=ambitious
 	2414.1.23 = {
 		birth = yes
 	}
@@ -285,6 +338,13 @@
 	dynasty = 4000512	# 귐
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	trait=tough_soldier
+	trait=deceitful
+	trait=ambitious
+	trait=paranoid
+	trait=shy
+	trait=cruel
+	trait=bastard
 	2417.2.29 = {
 		birth = yes
 	}
@@ -297,6 +357,11 @@
 	dynasty = 4000511	# 완안
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	trait=tough_soldier
+	trait=proud
+	trait=zealous
+	trait=slothful
+	trait=impaler
 	2412.12.31 = {
 		birth = yes
 	}
@@ -309,6 +374,12 @@
 	dynasty = 4000511	# 완안
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	trait=tough_soldier
+	trait=brave
+	trait=greedy
+	trait=cynical
+	trait=lefthanded
+	trait=twin
 	2421.3.16 = {
 		birth = yes
 	}
@@ -321,6 +392,12 @@
 	dynasty = 4000513	# 이
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	trait=flamboyant_schemer
+	trait=trusting
+	trait=ambitious
+	trait=seducer
+	trait=gregarious
+	trait=twin
 	2419.3.16 = {
 		birth = yes
 	}
@@ -333,6 +410,11 @@
 	dynasty = 4000514	# 궁니
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	trait=tough_soldier
+	trait=fair
+	trait=shy
+	trait=shrewd
+	trait=slothful
 	2427.12.31 = {
 		birth = yes
 	}
@@ -345,6 +427,15 @@
 	dynasty = 4000511	# 완안
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	trait=brilliant_strategist
+	trait=proud
+	trait=ambitious
+	trait=just
+	trait=inspiring_leader
+	trait=shrewd
+	trait=winter_soldier
+	trait=brave
+	trait=wroth
 	2421.1.1 = {
 		birth = yes
 	}
@@ -358,6 +449,12 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = russian	# 러시아
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=thrifty_clerk
+	trait=chaste
+	trait=kind
+	trait=content
+	trait=shy
+	trait=fair
 	2419.10.31 = {
 		birth = yes
 	}
@@ -371,6 +468,14 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = russian	# 러시아
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=flamboyant_schemer
+	trait=paranoid
+	trait=depressed
+	trait=fair
+	trait=trickster
+	trait=patient
+	trait=diligent
+	trait=poet
 	2413.5.17 = {
 		birth = yes
 	}
@@ -378,11 +483,156 @@
 		death = yes
 	}
 }
-
+538 = {
+	name = "Uroni"	# 우로니
+	father = 531 
+	dynasty = 4000507	# 아이신기오로
+	culture = jianzhou	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=martial_cleric
+	trait=zealous
+	trait=wroth
+	trait=arbitrary
+	trait=diligent
+	trait=bastard
+	2400.1.13 = {
+		birth = yes
+	}
+}
 # 해서왕국
 
 # 건주 조상
-
+531 = {
+	name = "Uhyoo"	# 우효오
+	dynasty = 4000507	# 아이산기오로
+	culture = jianzhou	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=skilled_tactician
+	trait=wroth
+	trait=ambitious
+	trait=legit_bastard
+	trait=strategist
+	trait=fair
+	trait=cavalry_leader
+	trait=one_handed
+	trait=one_eyed
+	2394.2.14 = {
+		birth = yes
+	}
+	2431.6.25 = {
+		death = yes
+	}
+}
+532 = {
+	name = "Wanjio"	# 완지오
+	dynasty = 4000512	# 귐
+	culture = jianzhou	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=fortune_builder
+	trait=just
+	trait=greedy
+	trait=administrator
+	2381.9.9 = {
+		birth = yes
+	}
+	2431.1.13 = {
+		death = yes
+	}
+}
+533 = {
+	name = "Huo"	# 후오
+	dynasty = 4000509	# 굉
+	culture = jianzhou	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=intricate_webweaver
+	trait=diligent
+	trait=patient
+	trait=envious
+	trait=humble
+	trait=deceitful
+	trait=cynical
+	trait=trickster
+	2399.9.9 = {
+		birth = yes
+	}
+	2429.10.9 = {
+		death = yes
+	}
+}
+534 = {
+	name = "Chuha"	# 추하
+	dynasty = 4000510	# 고롼
+	culture = jianzhou	# 건주
+	religion = aisin_gioro	# 아이신기오로씨 숭배
+	trait=tough_soldier
+	trait=siege_leader
+	trait=aggressive_leader
+	trait=wroth
+	trait=duelist
+	trait=cruel
+	trait=arbitrary
+	trait=brave
+	2379.10.29 = {
+		birth = yes
+	}
+	2443.10.12 = {
+		death = yes
+	}
+}
 # 건주왕 가족
 
 # 해서 조상
+540 = {
+	name = "Amin"	# 아민
+	dynasty = 4000511	# 완안
+	culture = haixi # 해서
+	religion = wanyan	# 완안씨 숭배
+	trait=skilled_tactician
+	trait=ambitious
+	trait=brave
+	trait=zealous
+	trait=clubfooted
+	trait=uncouth
+	trait=desert_terrain_leader
+	2381.1.15 = {
+		birth = yes
+	}
+	2422.11.2 = {
+		death = yes
+	}
+}
+541 = {
+	name = "Rwosyawak"	# 뤄샤왁
+	dynasty = 4000511	# 완안
+	culture = haixi # 해서
+	religion = wanyan	# 완안씨 숭배
+	trait=underhanded_rogue
+	trait=groomed
+	trait=socializer
+	trait=gregarious
+	trait=lustful
+	trait=diligent
+	2391.3.14 = {
+		birth = yes
+	}
+	2427.1.14 = {
+		death = yes
+	}
+}
+542 = {
+	name = "Io"	# 이오
+	dynasty = 4000514	# 궁니
+	culture = haixi # 해서
+	religion = wanyan	# 완안씨 숭배
+	trait=skilled_tactician
+	trait=brave
+	trait=kind
+	trait=chaste
+	trait=hunter
+	2393,1,15 = {
+		birth = yes
+	}
+	2422.11.2 = {
+		death = yes
+	}
+}
