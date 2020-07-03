@@ -11,4 +11,4 @@ b_unheung_b1 = castle
 
 # Misc
 culture = jagang
-religion = holy_spirit
+religion = holy_spirit_pagan

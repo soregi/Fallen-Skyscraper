@@ -16,12 +16,12 @@
 4000304 = {
 	name = "Gu"
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4000305 = {
 	name = "Lee"
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4000306 = {
 	name = "Won"
@@ -76,7 +76,7 @@
 4000316 = {
 	name = "Wang"
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4000317 = {
 	name = "Choi"
@@ -101,7 +101,7 @@
 4000321 = {
 	name = "Jong"
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4000322 = {
 	name = "Chae"

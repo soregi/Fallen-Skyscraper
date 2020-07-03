@@ -11,4 +11,4 @@ b_bocheon_b1 = city
 
 # Misc
 culture = jagang
-religion = holy_spirit
+religion = holy_spirit_pagan

@@ -77,7 +77,7 @@
 	name = "Honggu"
 	dynasty = 4000304
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2421.4.30 = {
 		birth = yes
 	}
@@ -86,7 +86,7 @@
 	name = "Minhea"
 	dynasty = 4000305
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2414.2.14 = {
 		birth = yes
 	}
@@ -265,7 +265,7 @@
 	dynasty = 4000321
 	female = yes
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2412.3.15 = {
 		birth = yes
 	}
@@ -275,7 +275,7 @@
 	name = "Sanggu"
 	dynasty = 4000316
 	culture = liaoning
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 306
 	mother = 326
 	2428.4.16 = {

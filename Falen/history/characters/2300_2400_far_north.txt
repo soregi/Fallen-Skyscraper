@@ -2,7 +2,7 @@
 	name = "Jesusmariajoseph"
 	dynasty = 4002301
 	culture = honam
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = grey_eminence
 	trait = lustful
 	trait = proud
@@ -30,7 +30,7 @@
 	female = yes
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2303
 	trait = detached_priest
 	trait = fair
@@ -59,7 +59,7 @@
 	name = "Petro"
 	dynasty = 4002301
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2301
 	mother = 2302
 	trait = martial_cleric
@@ -80,7 +80,7 @@
 	name = "Joseph"
 	dynasty = 4002301
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2301
 	mother = 2302
 	2366.8.22 = {
@@ -98,7 +98,7 @@
 	female = yes
 	dynasty = 4002303
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2307
 	trait = amateurish_plotter
 	trait = fair
@@ -158,7 +158,7 @@
 	name = "Ka Pun"
 	dynasty = 4002304
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = fair
 	trait = lustful
 	2345.9.16 = {
@@ -176,7 +176,7 @@
 	female = yes
 	dynasty = 4002305
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = naive_appeaser
 	trait = zealous
 	trait = arbitrary
@@ -188,7 +188,7 @@
 	name = "Mose"
 	dynasty = 4002301
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2304
 	mother = 2310
 	2421.9.16 = {
@@ -199,7 +199,7 @@
 	name = "Jae Hyok"
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2303
 	2344.5.17 = {
 		birth = yes
@@ -212,7 +212,7 @@
 	name = "Mu Hak"
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2312
 	2367.10.15 = {
 		birth = yes
@@ -225,7 +225,7 @@
 	name = "Mu Hyun"
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2312
 	2369.11.30 = {
 		birth = yes
@@ -241,7 +241,7 @@
 	name = "Mu Sik"
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2314
 	mother = 2316
 	2400.1.6 = {
@@ -253,7 +253,7 @@
 	female = yes
 	dynasty = 4002306
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2375.8.19 = {
 		birth = yes
 	}
@@ -262,7 +262,7 @@
 	name = "U Jin"
 	dynasty = 4002307
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2418.5.5 = {
 		birth = yes
 	}
@@ -271,7 +271,7 @@
 	name = "Philip"
 	dynasty = 4002308
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2410.9.22 = {
 		birth = yes
 	}
@@ -312,7 +312,7 @@
 	name = "Chol Ku"
 	dynasty = 4002351
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2351
 	2388.5.12 = {
 		birth = yes
@@ -325,7 +325,7 @@
 	name = "Chol Ung"
 	dynasty = 4002351
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	secret_religion = marxist
 	father = 2351
 	trait = flamboyant_schemer
@@ -352,7 +352,7 @@
 	name = "Chol Min"
 	dynasty = 4002352
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2355
 	trait = celibate
 	2392.4.19 = {
@@ -363,7 +363,7 @@
 	name = "Cha Sim"
 	dynasty = 4002352
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2356
 	trait = legit_bastard
 	trait = genius
@@ -375,7 +375,7 @@
 	name = "Mu Han"
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2314
 	mother = 2316
 	2408.7.19 = {
@@ -390,7 +390,7 @@
 	female = yes
 	dynasty = 4002353
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2314
 	mother = 1316
 	2411.5.9 = {
@@ -401,7 +401,7 @@
 	name = "Yu Sik"
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2358
 	mother = 2359
 	trait = twin
@@ -413,7 +413,7 @@
 	name = "Man Sik"
 	dynasty = 4002302
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2358
 	mother = 2359
 	trait = twin
@@ -426,7 +426,7 @@
 	female = yes
 	dynasty = 4002354
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	secret_religion = mu_pagan
 	2421.5.31 = {
 		birth = yes
@@ -436,7 +436,7 @@
 	name = "Min Hyok"
 	dynasty = 4002355
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2387.4.26 = {
 		birth = yes
 	}
@@ -448,7 +448,7 @@
 	name = "Kang Jun"
 	dynasty = 4002355
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2363
 	trait = monk
 	2421.5.28 = {
@@ -459,7 +459,7 @@
 	name = "Kwang Hui"
 	dynasty = 4002355
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2363
 	2427.5.1 = {
 		birth = yes
@@ -505,7 +505,7 @@
 	name = "Jin Yong"
 	dynasty = 4002303
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2308
 	2321.8.25 = {
 		birth = yes
@@ -518,7 +518,7 @@
 	name = "Xinrin"
 	dynasty = 4002402
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = scarred_type_10
 	trait = charitable
 	trait = just
@@ -535,7 +535,7 @@
 	name = "Mikhail"
 	dynasty = 4002403
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2308
 	2392.5.3 = {
 		birth = yes
@@ -545,7 +545,7 @@
 	name = "Jong Thae"
 	dynasty = 4002404
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	father = 2308
 	2376.11.2 = {
 		birth = yes
@@ -610,7 +610,7 @@
 	female = yes
 	dynasty = 4002403
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = bastard
 	father = 2305
 	2438.3.28 = {
@@ -622,7 +622,7 @@
 	female = yes
 	dynasty = 4002406
 	culture = russian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	2386.1.20 = {
 		birth = yes
 	}
@@ -631,7 +631,7 @@
 	name = "Wong"
 	dynasty = 4002402
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = twin
 	trait = homosexual
 	trait = chaste
@@ -649,7 +649,7 @@
 	female = yes
 	dynasty = 4002404
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = twin
 	trait = homosexual
 	trait = chaste
@@ -668,7 +668,7 @@
 	female = yes
 	dynasty = 4002404
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 	trait = twin
 	trait = homosexual
 	trait = chaste
@@ -692,7 +692,7 @@
 	trait = gluttonous
 	trait = diligent
 	trait = zealous
-	father = 2308
+	father = 2408
 	mother = 2410
 	2422.3.20 = {
 		birth = yes
@@ -712,7 +712,7 @@
 	trait = greedy
 	trait = diligent
 	trait = zealous
-	father = 2308
+	father = 2408
 	mother = 2410
 	2422.3.20 = {
 		birth = yes

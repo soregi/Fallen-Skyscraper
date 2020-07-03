@@ -1,11 +1,11 @@
 4002301 = {
 	name = "Kim"
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002302 = {
 	name = "Gu"
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002303 = {
 	name = "Maeng"
@@ -14,27 +14,27 @@
 4002304 = {
 	name = "Hong"
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002305 = {
 	name = "Choi"
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002306 = {
 	name = "Ma"
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002307 = {
 	name = "Mae"
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002308 = {
 	name = "Seo"
 	culture = chaoxian
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 #백두
 4002351 = {
@@ -44,22 +44,22 @@
 4002352 = {
 	name = "Han"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002353 = {
 	name = "Chol"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002354 = {
 	name = "Min"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002355 = {
 	name = "So"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 #육진
 4002401 = {
@@ -70,17 +70,17 @@
 4002402 = {
 	name = "Chao"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002403 = {
 	name = "Zhangminov"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002404 = {
 	name = "Ri"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 4002405 = {
 	name = "Ju"
@@ -89,7 +89,7 @@
 4002406 = {
 	name = "Yang"
 	culture = hambuk
-	religion = holy_spirit
+	religion = holy_spirit_pagan
 }
 #헤이룽장
 4002431 = {

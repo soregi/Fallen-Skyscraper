@@ -10,4 +10,4 @@ b_heocheon_b0 = temple
 
 # Misc
 culture = hambuk
-religion = holy_spirit
+religion = holy_spirit_pagan

@@ -10,4 +10,4 @@ b_kapsan_b0 = temple
 
 # Misc
 culture = jagang
-religion = holy_spirit
+religion = holy_spirit_pagan

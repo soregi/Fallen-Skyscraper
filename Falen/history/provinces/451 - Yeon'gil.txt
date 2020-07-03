@@ -10,4 +10,4 @@ b_yanji_b0 = tribal
 
 # Misc
 culture = chaoxian
-religion = holy_spirit
+religion = holy_spirit_pagan

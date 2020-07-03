@@ -10,4 +10,4 @@ b_changbai = tribal
 
 # Misc
 culture = chaoxian
-religion = muist
+religion = mu_pagan
