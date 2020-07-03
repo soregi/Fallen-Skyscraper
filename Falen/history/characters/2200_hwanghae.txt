@@ -222,11 +222,90 @@
 		}
 	}
 }
-
-
-
-
-
+2220 = {
+	name = "Ji Min"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2204
+	2274.9.23 = {
+		birth = yes
+	}
+	2310.4.4 = {
+		death = yes
+	}
+}
+2221 = {
+	name = "Ryong"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2220
+	2301.6.15 = {
+		birth = yes
+	}
+	2336.6.4 = {
+		death = yes
+	}
+}
+2222 = {
+	name = "Jui"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2220
+	2307.4.7 = {
+		birth = yes
+	}
+	2361.3.28 = {
+		death = yes
+	}
+}
+2223 = {
+	name = "Koun"
+	dynasty = 4002202
+	culture = hwanghae
+	religion = cheondo
+	father = 2207
+	2348.7.11 = {
+		birth = yes
+	}
+	2414.9.16 = {
+		death = yes
+	}
+}
+2224 = {
+	name = "Je"
+	dynasty = 4002202
+	culture = hwanghae
+	religion = cheondo
+	father = 2223
+	2354.10.3 = {
+		birth = yes
+	}
+	2382.11.27 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2225 = {
+	name = "Shim Mun"
+	female = yes
+	dynasty = 4002202
+	culture = hwanghae
+	religion = cheondo
+	father = 2223
+	2384.1.6 = {
+		birth = yes
+	}
+	2434.11.11 = {
+		death = {
+			death_reason = death_execution
+			killer = 2276
+		}
+	}
+}
 
 
 
