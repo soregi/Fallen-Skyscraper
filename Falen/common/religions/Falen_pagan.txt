@@ -385,7 +385,7 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 		
-		intermarry = mu_pagan_reformed
+		intermarry = gaian_reformed
 	}
 	steel_pagan_reformed = {
 		graphical_culture = chinesegfx
@@ -500,7 +500,7 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 		
-		intermarry = mu_pagan_reformed
+		intermarry = steel_pagan_reformed
 	}
 	atomicist_reformed = { #
 		graphical_culture = hellenicgfx
@@ -641,7 +641,7 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 		
-		intermarry = steel_pagan
+		intermarry = jeju_pagan
 	}
 
 	jeju_pagan = {
@@ -701,13 +701,13 @@ pagan_group = {
 		female_temple_holders = yes
 		raised_vassal_opinion_loss = no
 		allow_in_ruler_designer = yes
-		reformed = steel_pagan_reformed
+		reformed = jeju_pagan_reformed
 		can_demand_religious_conversion = no
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 		
-		intermarry = mu_pagan_reformed
+		intermarry = jeju_pagan_reformed
 	}
 	
     holy_spirit_pagan = {
