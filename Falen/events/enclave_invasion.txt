@@ -6,10 +6,10 @@ narrative_event = { # EVT Chain 0
 	border = GFX_event_narrative_frame_diplomacy
 	major = yes
 	title = enclave_1
-	desc = seoul_1_desc
+	desc = enclave_1_desc
 	only_playable = yes
 	trigger = {
-		year = 2700
+		year = 2600
 		NOT = { has_global_flag = enclav_0 }
 		ai = no #좆간에게만 뜬다
 	}
@@ -21,15 +21,17 @@ narrative_event = { # EVT Chain 0
 		666666 = { character_event = enclave.2 year = 10 }
 	}
 	option = {
-		name = enclave_1_a
-		trigger = {
-			has_landed_title = c_ulleung
+		name = {
+			text = enclave_1_a
+			trigger = {
+				has_landed_title = c_ulleung
+			}
 		}
-	}
-	option = {
-		name = enclave_1_b
-		trigger = {
-			NOT = { has_landed_title = c_ulleung }
+		name = {
+			text = enclave_1_b
+			trigger = {
+				NOT = { has_landed_title = c_ulleung }
+			}
 		}
 	}
 }
