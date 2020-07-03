@@ -11,7 +11,8 @@ narrative_event = { # EVT Chain 0
 	trigger = {
 		year = 2600
 		NOT = { has_global_flag = enclav_0 }
-		ai = no #좆간에게만 뜬다
+		ai = no #좆간에게만 뜬다#
+		####
 	}
 	mean_time_to_happen = {
 		months = 12
