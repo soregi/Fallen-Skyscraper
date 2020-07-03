@@ -1,0 +1,230 @@
+2201 = {
+	name = "Yong Chon"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2202
+	2181.10.13 = {
+		birth = yes
+	}
+	2223.8.7 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+2202 = {
+	name = "Hyon"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = mu_pagan
+	2142.12.19 = {
+		birth = yes
+	}
+	2198.4.16 = {
+		death = yes
+	}
+}
+2203 = {
+	name = "Hyok Jun"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2201
+	2202.5.16 = {
+		birth = yes
+	}
+	2276.12.2 = {
+		death = yes
+	}
+}
+2204 = {
+	name = "To Hyon"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2203
+	2238.6.7 = {
+		birth = yes
+	}
+	2292.1.6 = {
+		death = yes
+	}
+}
+2205 = {
+	name = "Sa Ju"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2204
+	2271.8.26 = {
+		birth = yes
+	}
+	2313.12.17 = {
+		death = yes
+	}
+}
+2206 = {
+	name = "Gaean"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = populist
+	father = 2205
+	2294.8.31 = {
+		birth = yes
+	}
+	2341.4.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+2207 = {
+	name = "Chol Jong"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2206
+	2328.11.16 = {
+		birth = yes
+	}
+	2357.7.14 = {
+		death = {
+			death_reason = death_deul
+		}
+	}
+}
+2208 = {
+	name = "Chan Jong"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2206
+	2331.8.11 = {
+		birth = yes
+	}
+	2394.8.23 = {
+		death = yes
+	}
+}
+2209 = {
+	name = "Yun"
+	female = yes
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2205
+	2300.4.20 = {
+		birth = yes
+	}
+	2352.3.21 = {
+		death = yes
+	}
+}
+2210 = {
+	name = "Pho Myong"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2208
+	2373.4.21 = {
+		birth = yes
+	}
+	2408.12.8 = {
+		death = yes
+	}
+}
+2211 = {
+	name = "Jon Jin"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2210
+	2390.6.23 = {
+		birth = yes
+	}
+	2413.6.27 = {
+		add_spouse = 2225
+	}
+	2432.9.4 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+2212 = {
+	name = "Ye"
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2211
+	2425.7.3 = {
+		birth = yes
+	}
+}
+2213 = {
+	name = "Un"
+	female = yes
+	dynasty = 4002201
+	culture = hwanghae
+	religion = cheondo
+	father = 2211
+	mother = 2225
+	2425.7.3 = {
+		birth = yes
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

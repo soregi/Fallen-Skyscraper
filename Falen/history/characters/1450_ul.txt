@@ -1,0 +1,22 @@
+1451 = {
+	name = "Gilsu"
+	dynasty = 4001451
+	culture = yeongnam
+	religion = authoritarian
+	2372.6.7 = {
+		birth = yes
+	}
+	2436.6.15 = {
+		death = yes
+	}
+}
+1452 = {
+	name = "Hyeonsu"
+	dynasty = 4001451
+	culture = yeongnam
+	religion = authoritarian
+	father = 1451
+	2411.9.18 = {
+		birth = yes
+	}
+}
