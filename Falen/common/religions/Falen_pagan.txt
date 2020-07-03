@@ -740,6 +740,7 @@ pagan_group = {
 		priests_can_marry = yes
 		max_consorts = 3
 		short_reign_opinion_year_mult = 2
+		reformed = holy_spirit_pagan_reformed
 		
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
