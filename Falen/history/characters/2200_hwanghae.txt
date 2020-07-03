@@ -162,12 +162,14 @@
 		birth = yes
 	}
 }
-2212 = {
+2213 = {
 	name = "Un"
+	female = yes
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
 	father = 2211
+	mother = 2225
 	2425.7.3 = {
 		birth = yes
 	}

@@ -98,7 +98,6 @@
 4000601 = {
 	name = "Wang" #개성, 마포 왕씨
 	culture = seoul
-	religion = koreanist
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -136,7 +135,7 @@
 4000607 = {
 	name = "Nae" #개성 내씨
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 4000608 = {
 	name = "Lee" #개성 이씨
@@ -146,11 +145,17 @@
 4000609 = {
 	name = "In" # 백령 인씨
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 4000610 = {
 	name = "Jeon" #백령 전씨
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 #여기서부터 부산
+#울릉도
+4001451 = {
+	name = "Bae"
+	culture = yeongnam
+	religion = authoritarian
+}
