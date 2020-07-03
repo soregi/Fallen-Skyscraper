@@ -1,5 +1,5 @@
 old_world_group = {
-	has_coa_on_barony_only = no
+	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	playable = yes
 	hostile_within_group = yes
@@ -9,7 +9,7 @@ old_world_group = {
 	
 	color = { 0.2 0.4 0.8 }
 	
-	interface_skin = { indian_interface muslim_interface }
+	#interface_skin = { indian_interface muslim_interface }
 	
 	# Names given only to Indian characters (base names)
 	male_names = {

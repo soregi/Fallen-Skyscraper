@@ -1,8 +1,8 @@
 namespace = enclave
 
-narrative_event = { # EVT Chain 0
+narrative_event = { # EVT Chain 0 ##
 	id = enclave.1
-	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함
+	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함 ###
 	border = GFX_event_narrative_frame_diplomacy
 	major = yes
 	title = enclave_1
@@ -64,17 +64,18 @@ character_event = {
 		new_character = {
 			save_event_target_as = enclave_leader
 			dynasty = event_target:holder_ulleung
-			character_event = enclave.3
+			narrative_event = { id = enclave.3 days = 1 }
 		}
 	}
 }
-narrative_event_event = { # EVT Chain 1
+
+narrative_event = { # EVT Chain 1 ##
 	id = enclave.3
-	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함
+	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함 ###
 	border = GFX_event_narrative_frame_war
 	major = yes
 	title = enclave_3
-	desc = seoul_3_desc
+	desc = enclave_3_desc
 	is_triggered_only = yes
 	major_trigger = {
 		ai = no
