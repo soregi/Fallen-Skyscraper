@@ -11,3 +11,13 @@
 		religion = catholic
 	}
 }
+4000802 = {
+	name = "XT498"
+	culture = old_korean
+	religion = koreanist
+}
+4000803 = {
+	name = "Dynasty Placeholder"
+	culture = old_korean
+	religion = koreanist
+}

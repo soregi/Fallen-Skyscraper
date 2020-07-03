@@ -1,0 +1,45 @@
+c8_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+
+	ai_convert_same_group = 0
+	ai_convert_other_group = 0
+
+	# Names given only to hip_religion_group characters (base names)
+	male_names = {
+	}
+	female_names = {
+	}
+
+	alternate_start = { always = no }
+	
+	c8_religion = {
+		graphical_culture = westerngfx
+		alternate_start = { always = no }
+
+		icon = 19
+		heresy_icon = 20
+
+		color = { 0.1 0.1 0.1 }
+
+		god_names = {
+			GOD_LORD_C8
+		}
+
+		evil_god_names = {
+			GOD_MB
+		}
+
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		scripture_name = C8
+		priest_title = C8
+		piety_name = C8
+
+		dynamic_cult = no
+		secret_religion = no
+	}
+}

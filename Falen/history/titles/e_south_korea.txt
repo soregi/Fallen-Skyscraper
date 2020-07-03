@@ -51,4 +51,5 @@
 }
 2022.5.9 = {
 	holder = 0
+	active = no
 }

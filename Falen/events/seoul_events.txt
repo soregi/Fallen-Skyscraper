@@ -85,6 +85,7 @@ narrative_event = {
 	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함
 	border = GFX_event_narrative_frame_war
 	major = yes
+	title = seoul_2
 	desc = seoul_2_desc
 	only_playable = yes
 	major_trigger = {
@@ -103,8 +104,11 @@ narrative_event = {
 		}
 		culture = seoul
 	}
+	mean_time_to_happen = {
+		months = 1
+	}
 	option = {
-		name = seoul_2 # 불쌍하군
+		name = seoul_2_a # 불쌍하군
 		k_seoul = {
 			any_direct_de_jure_vassal_title = {
 				de_jure_liege = k_gyeonggi

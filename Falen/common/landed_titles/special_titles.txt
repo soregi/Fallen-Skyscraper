@@ -40,6 +40,7 @@ e_south_korea = {
 	title_female = "PRESIDENT"
 	foa = "PRESIDENT_FOA"
 	short_name = yes
+	landless = yes
 	allow = {
 		always = no
 	}

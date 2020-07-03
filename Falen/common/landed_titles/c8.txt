@@ -1,0 +1,36 @@
+e_c8 = {
+	color = { 123 0 255 }
+	color2 = { 224 224 224 }
+
+	capital = 40 # C-8
+
+	culture = old_korean
+	religion = c8_religion
+
+	# this way, her religion cannot change (without unsafe_religion), so the event pre-trigger religion = hip_religion
+	# alone is the fastest possible filter & we can rely on isis to simply never change religion.
+	controls_religion = c8_religion
+
+	title = LORD
+	title_female = LORD
+	foa = LORD_FOA
+
+	landless = yes
+	primary = yes
+	short_name = yes
+	dynasty_title_names = no
+	can_be_usurped = no
+	can_be_claimed = no
+
+	allow = { always = no }
+}
+c_usan_temp = {
+	color = { 255 255 255 }
+	landless = yes
+	primary = yes
+	short_name = yes
+	dynasty_title_names = no
+	title = LORD
+	title_female = LORD
+	foa = LORD_FOA
+}

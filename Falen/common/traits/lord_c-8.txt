@@ -1,0 +1,9 @@
+lord_c8 = {
+	combat_rating = 256
+	immortal = yes
+	cannot_marry = yes
+	cannot_inherit = yes
+	cached = yes
+	customizer = no
+	random = no
+}
