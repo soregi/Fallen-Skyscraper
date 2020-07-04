@@ -322,6 +322,7 @@
 	effect = {
 	add_lover = 2253
 	}
+	}
 	2428.11.7 = {
 		religion = juche
 	}
@@ -550,31 +551,88 @@
 	}
 }
 2263 = {
-	name = "Jon Chu"
+	name = "Yi Yong"
 	dynasty = 4002262
 	culture = pyongnam
 	religion = juche
-	2398.7.3 = {
+	father = 2293
+	2410.9.3 = {
 		birth = yes
 	}
 }
 2264 = {
 	name = "O Min"
 	dynasty = 4002263
-	culture = pyongnam
+	culture = hamnam
 	religion = juche
 	2391.11.7 = {
 		birth = yes
 	}
-	24.. = {
+	2415.6.20 = {
 		add_spouse = 2268
 	}
 }
-
-
-
-
-
+2265 = {
+	name = "Ju"
+	dynasty = 4002263
+	culture = hamnam
+	religion = juche
+	father = 2264
+	mother = 2268
+	2432.7.24 = {
+		birth = yes
+	}
+}
+2266 = {
+	name = "Yong"
+	female = yes
+	dynasty = 4002264
+	culture = pyongnam
+	religion = juche
+	2393.6.3 = {
+		birth = yes
+	}
+	2421.4.30 = {
+		death = {
+			death_reason = death_execution
+			killer = 201
+		}
+	}
+}
+2267 = {
+	name = "Mun Ju"
+	female = yes
+	dynasty = 4002261
+	culture = pyongnam
+	religion = juche
+	father = 2261
+	mother = 2266
+	2416.6.12 = {
+		birth = yes
+	}
+}
+2268 = {
+	name = "Ji Min"
+	female = yes
+	dynasty = 4002265
+	culture = pyongnam
+	religion = juche
+	2392.1.2 = {
+		birth = yes
+	}
+}
+2271 = {
+	name = "Hyon Su"
+	dynasty = 4002271
+	culture = pyongnam
+	religion = juche
+	2392.1.2 = {
+		birth = yes
+	}
+	2407.11.23 = {
+		death = yes
+	}
+}
 
 
 

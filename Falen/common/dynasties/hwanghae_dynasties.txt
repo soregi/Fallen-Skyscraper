@@ -42,8 +42,7 @@
 	religion = juche
 }
 4002262 = {
-	name = "Kong"
-	culture = pyongnam
+	name = "Sim"
 	religion = juche
 }
 4002263 = {
