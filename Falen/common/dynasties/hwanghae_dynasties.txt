@@ -31,6 +31,11 @@
 	culture = pyongnam
 	religion = juche
 }
+4002254 = {
+	name = "Yu"
+	culture = pyongnam
+	religion = juche
+}
 4002261 = {
 	name = "Jon"
 	culture = pyongnam
@@ -47,6 +52,11 @@
 	religion = juche
 }
 4002264 = {
+	name = "Lee"
+	culture = pyongnam
+	religion = juche
+}
+4002265 = {
 	name = "Lee"
 	culture = pyongnam
 	religion = juche

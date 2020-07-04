@@ -523,7 +523,6 @@
 	trait = charitable
 	trait = just
 	trait = duelist
-	father = 2308
 	2342.6.8 = {
 		birth = yes
 	}
@@ -536,7 +535,6 @@
 	dynasty = 4002403
 	culture = hambuk
 	religion = holy_spirit_pagan
-	father = 2308
 	2392.5.3 = {
 		birth = yes
 	}
@@ -546,7 +544,6 @@
 	dynasty = 4002404
 	culture = hambuk
 	religion = holy_spirit_pagan
-	father = 2308
 	2376.11.2 = {
 		birth = yes
 	}
@@ -562,7 +559,6 @@
 	trait = kind
 	trait = chaste
 	trait = feeble
-	father = 2308
 	2376.5.24 = {
 		birth = yes
 	}
@@ -573,7 +569,7 @@
 	culture = chaoxian
 	religion = marxist
 	trait = stressed
-	father = 2307
+	father = 2407
 	mother = 2402
 	2404.2.8 = {
 		birth = yes
@@ -587,7 +583,7 @@
 	dynasty = 4002303
 	culture = hambuk
 	religion = marxist
-	father = 2307
+	father = 2407
 	mother = 2402
 	2407.12.20 = {
 		birth = yes
@@ -599,7 +595,7 @@
 	dynasty = 4002404
 	culture = hambuk
 	religion = marxist
-	father = 2306
+	father = 2406
 	mother = 2412
 	2405.3.16 = {
 		birth = yes
@@ -612,7 +608,7 @@
 	culture = hambuk
 	religion = holy_spirit_pagan
 	trait = bastard
-	father = 2305
+	father = 2405
 	2438.3.28 = {
 		birth = yes
 	}
@@ -639,7 +635,7 @@
 	trait = slothful
 	trait = cynical
 	trait = giant
-	father = 2304
+	father = 2404
 	2376.2.3 = {
 		birth = yes
 	}
@@ -657,7 +653,7 @@
 	trait = charitable
 	trait = slothful
 	trait = feeble
-	father = 2306
+	father = 2406
 	mother = 2412
 	2421.5.15 = {
 		birth = yes
@@ -675,7 +671,7 @@
 	trait = gluttonous
 	trait = diligent
 	trait = zealous
-	father = 2306
+	father = 2406
 	mother = 2412
 	2421.5.15 = {
 		birth = yes

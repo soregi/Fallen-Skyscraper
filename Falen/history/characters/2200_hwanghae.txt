@@ -434,18 +434,142 @@
 		birth = yes
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
+2251 = {
+	name = "Thae"
+	dynasty = 4002251
+	culture = pyongnam
+	religion = juche
+	2376.4.20 = {
+		birth = yes
+	}
+	2397.12.8 = {
+		add_spouse = 2257
+	}
+}
+2252 = {
+	name = "Hyok Su"
+	dynasty = 4002251
+	culture = pyongnam
+	religion = juche
+	father = 2251
+	mother = 2257
+	2403.7.26 = {
+		birth = yes
+	}
+}
+2253 = {
+	name = "Un Sol"
+	female = yes
+	dynasty = 4002251
+	culture = pyongnam
+	religion = juche
+	father = 2251
+	mother = 2257
+	2409.1.13 = {
+		birth = yes
+	}
+}
+2254 = {
+	name = "Hyon"
+	dynasty = 4002251
+	culture = pyongnam
+	religion = juche
+	father = 2251
+	mother = 2257
+	2410.6.3 = {
+		birth = yes
+	}
+	2438.5.10 = {
+		add_spouse = 2267
+	}
+}
+2255 = {
+	name = "Mu Jung"
+	dynasty = 4002252
+	culture = pyongnam
+	religion = juche
+	2394.2.11 = {
+		birth = yes
+	}
+	2422.3.3 = {
+		add_spouse = 2258
+	}
+}
+2256 = {
+	name = "Ji"
+	dynasty = 4002252
+	culture = pyongnam
+	religion = juche
+	father = 2255
+	mother = 2258
+	2423.1.30 = {
+		birth = yes
+	}
+}
+2257 = {
+	name = "Jin Hwa"
+	female = yes
+	dynasty = 4002253
+	culture = pyongnam
+	religion = juche
+	2378.2.4 = {
+		birth = yes
+	}
+}
+2258 = {
+	name = "Song"
+	female = yes
+	dynasty = 4002254
+	culture = pyongnam
+	religion = juche
+	2402.6.11 = {
+		birth = yes
+	}
+}
+2261 = {
+	name = "Mu Chon"
+	dynasty = 4002261
+	culture = pyongnam
+	religion = juche
+	2397.8.21 = {
+		birth = yes
+	}
+	2414.4.26 = {
+		add_spouse = 2266
+	}
+}
+2262 = {
+	name = "Jin Hu"
+	dynasty = 4002261
+	culture = pyongnam
+	religion = juche
+	father = 2261
+	mother = 2266
+	2419.2.21 = {
+		birth = yes
+	}
+}
+2263 = {
+	name = "Jon Chu"
+	dynasty = 4002262
+	culture = pyongnam
+	religion = juche
+	2398.7.3 = {
+		birth = yes
+	}
+}
+2264 = {
+	name = "O Min"
+	dynasty = 4002263
+	culture = pyongnam
+	religion = juche
+	2391.11.7 = {
+		birth = yes
+	}
+	24.. = {
+		add_spouse = 2268
+	}
+}
 
 
 
