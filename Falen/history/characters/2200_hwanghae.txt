@@ -306,16 +306,134 @@
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
+2226 = {
+	name = "Thae Ma"
+	dynasty = 4002202
+	culture = hwanghae
+	religion = cheondo
+	father = 2223
+	2391.5.8 = {
+		birth = yes
+	}
+	2416.10.5 = {
+		add_spouse = 2229
+	}
+	2427.6.13 = {
+	effect = {
+	add_lover = 2253
+	}
+	2428.11.7 = {
+		religion = juche
+	}
+	2432.11.7 = {
+		add_spouse = 2253
+	}
+}
+2227 = {
+	name = "Chan Su"
+	dynasty = 4002202
+	culture = pyongnam
+	religion = juche
+	father = 2226
+	mother = 2229
+	2421.8.9 = {
+		birth = yes
+	}
+}
+2228 = {
+	name = "Kang Thae"
+	dynasty = 4002202
+	culture = pyongnam
+	religion = juche
+	father = 2226
+	mother = 2229
+	2421.8.9 = {
+		birth = yes
+	}
+}
+2229 = {
+	name = "Kkotpun"
+	female = yes
+	dynasty = 4002203
+	culture = hwanghae
+	religion = cheondo
+	2396.7.21 = {
+		birth = yes
+	}
+	2421.8.9 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+2230 = {
+	name = "Yon"
+	female = yes
+	dynasty = 4002202
+	culture = hwanghae
+	religion = juche
+	father = 2226
+	mother = 2253
+	2441.6.3 = {
+		birth = yes
+	}
+}
+#개성 이씨
+2236 = {
+	name = "Sinwoo"
+	dynasty = 4000608
+	culture = hwanghae
+	religion = cheondo
+	2321.5.1 = {
+		birth = yes
+	}
+	2382.4.26 = {
+		death = yes
+	}
+}
+2237 = {
+	name = "Jeongwoo"
+	dynasty = 4000608
+	culture = hwanghae
+	religion = cheondo
+	father = 2236
+	2358.12.7 = {
+		birth = yes
+	}
+	2407.11.23 = {
+		death = yes
+	}
+}
+2238 = {
+	name = "Jaedong"
+	dynasty = 4000608
+	culture = hwanghae
+	religion = cheondo
+	father = 2237
+	2381.5.4 = {
+		birth = yes
+	}
+}
+#다시 황해
+2241 = {
+	name = "Ju An"
+	dynasty = 4002241
+	culture = hwanghae
+	religion = cheondo
+	2382.7.24 = {
+		birth = yes
+	}
+}
+2242 = {
+	name = "Chung Jol"
+	dynasty = 4002241
+	culture = hwanghae
+	religion = juche
+	father = 2241
+	2403.12.9 = {
+		birth = yes
+	}
+}
 
 
 
