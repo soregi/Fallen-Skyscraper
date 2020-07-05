@@ -23,6 +23,24 @@ k_seoul = {
 
 		c_seoul = {
 			color = { 127 0 38 }
+			holy_site = catholic
+			holy_site = orthodox
+			holy_site = protestant
+			holy_site = koreanist
+			holy_site = authoritarian
+			holy_site = populist
+			holy_site = mahayana
+			holy_site = confucian
+			holy_site = mu_pagan
+			holy_site = mu_pagan_reformed
+			holy_site = steel_pagan
+			holy_site = steel_pagan_reformed
+			holy_site = imperial
+			holy_site = unitary
+			holy_site = islam
+			holy_site = gaian
+			holy_site = gaian_reformed
+			holy_site = cheondo
 			b_jongno = {} #종로
 			b_eulji = {} #을지
 			b_chungmu = {} #충무
@@ -33,6 +51,8 @@ k_seoul = {
 		}
 		c_yongsan = {
 			color = { 91 5 38 }
+			holy_site = islam
+			holy_site = miaphysite
 			b_yongsan = {} #용산
 			b_itaewon = {} #이태원
 			b_hannam = {}
@@ -77,6 +97,8 @@ k_seoul = {
 
 		c_gangnam = {
 			color = { 132 79 22 }
+			holy_site = steel_pagan
+			holy_site = steel_pagan_reformed
 			b_gangnam = {}
 			b_apkujeong = {} #압구정
 			b_nonhyeon = {}
@@ -104,6 +126,9 @@ k_seoul = {
 
 		c_yeongdeungpo = {
 			color = { 69 0 66 }
+			holy_site = koreanist
+			holy_site = authoritarian
+			holy_site = populist
 			b_yeongdeungpo = {}
 			b_yeouido = {}
 			b_gukhoe = {}
@@ -207,6 +232,9 @@ k_gyeonggi = {
 
 		c_incheon = {
 			color = { 214 0 0 }
+			holy_site = protestant
+			holy_site = holy_spirit_pagan
+			holy_site = holy_spirit_pagan_reformed
 			b_incheon = {}
 			b_michuhol = {}
 			b_bupyeong = {}
@@ -245,6 +273,8 @@ k_gyeonggi = {
 
 		c_paju = {
 			color = { 127 0 51 }
+			holy_site = gaian
+			holy_site = gaian_reformed
 			b_paju = {}
 			b_geumchon_paju = {}
 			b_unjeong_paju = {}
@@ -358,6 +388,7 @@ k_gyeonggi = {
 		}
 		c_guri = {
 			color = { 178 38 38 }
+			holy_site = unitary
 			b_guri = {}
 			b_inchang = {}
 			b_dong-gu = {}
@@ -526,6 +557,7 @@ k_gyeonggi = {
 		}
 		c_danwon = {
 			color = { 138 0 0 }
+			holy_site = islam
 			b_ansan = {}
 			b_danwon = {}
 			b_wongok = {}
@@ -642,6 +674,8 @@ k_kaesong = { #개성 공화국
 
 		c_kaesong = {
 			color = { 150 50 0 }
+			holy_site = gaian
+			holy_site = gaian_reformed
 			b_kaesong = {}
 			b_koryo = {}
 			b_unhak = {}

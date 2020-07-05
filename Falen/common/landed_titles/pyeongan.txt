@@ -6,6 +6,9 @@ k_pyeongan = {
 		capital = 271
 		c_pyongyang = {
 			color = { 75 0 0 }
+			holy_site = cheondo
+			holy_site = juche
+			holy_site = protestant
 			b_pyongyang = {}
 			b_rakrang_pyongyang = {}
 			b_moranbong_pyongyang = {}
@@ -432,6 +435,7 @@ k_pyeongan = {
 		}
 		c_sinuiju = {
 			color = { 170 25 25 }
+			holy_site = juche
 			b_sinuiju_b0 = {}
 			b_sinuiju_b1 = {}
 			b_sinuiju_b2 = {}

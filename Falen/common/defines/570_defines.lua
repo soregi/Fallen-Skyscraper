@@ -1,0 +1,2 @@
+NDefines.NTechnology.DONT_EXECUTE_TECH_BEFORE = 2400
+NDefines.NTechnology.IDEAL_YEAR_LEVEL_0 = 2200
