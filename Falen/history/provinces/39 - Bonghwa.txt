@@ -8,7 +8,7 @@ max_settlements = 6
 
 b_bonghwa = castle
 b_bongseong = city
-b_sangun = town
+b_sangun = city
 
 # Misc
 culture = yeongnam

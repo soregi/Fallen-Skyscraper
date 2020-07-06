@@ -33,6 +33,9 @@ narrative_event = { # EVT Chain 0 ##
 			trigger = {
 				NOT = { has_landed_title = c_ulleung }
 			}
+			custom_tooltip = {
+				text = enclave_1_b_tooltip
+			}
 		}
 	}
 }

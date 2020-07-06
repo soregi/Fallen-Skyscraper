@@ -1,0 +1,50 @@
+castle = {
+	ca_seoul_special_0 = { # Skyscrapers of Seoul Ruins
+		potential = {
+			region = custom_seoul
+		}
+		trigger = { 
+			capital_holding = {
+				title = FROMFROM
+			}
+		}
+		desc = ca_seoul_special_desc
+		gold_cost = 10000
+		build_time = 3650
+		fort_level = 1.0
+		tax_income = 25
+		light_infantry = 400
+		heavy_infantry = 600
+		pikemen = 200
+		archers = 300
+		retinue_size = 50
+		garrison_size = 0.25
+		ai_creation_factor = 300
+
+		extra_tech_building_start = 0.0
+	}
+	ca_seoul_special_1 = { # Skyscrapers of Seoul Ruins
+		potential = {
+			county = {
+				title = c_seoul
+			}
+		}
+		trigger = {
+			FROMFROM = { title = b_jongno }
+		}
+		desc = ca_seoul_special_desc
+		upgrades_from = ca_seoul_special_0
+		gold_cost = 13000
+		build_time = 7300
+		fort_level = 1.5
+		tax_income = 25
+		light_infantry = 100
+		heavy_infantry = 1400
+		pikemen = 800
+		archers = 700
+		retinue_size = 100
+		ai_creation_factor = 300
+
+		extra_tech_building_start = 0.0
+	}
+}
