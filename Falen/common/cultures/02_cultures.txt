@@ -49,7 +49,7 @@ south_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 34 25 224 }
+		color = { 251 111 63 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -70,7 +70,7 @@ south_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 70 70 220 }
+		color = { 151 5 58 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -91,7 +91,7 @@ south_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 96 114 245 }
+		color = { 132 26 86 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -133,7 +133,7 @@ south_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 11 244 24 }
+		color = { 45 221 44 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -154,7 +154,7 @@ south_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 170 128 209 }
+		color = { 222 173 124 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -175,7 +175,7 @@ south_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 171 144 224 }
+		color = { 16 166 227 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -197,7 +197,7 @@ south_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 71 44 124 }
+		color = { 155 187 228 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -262,7 +262,7 @@ north_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 221 44 54 }
+		color = { 89 133 197 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -304,7 +304,7 @@ north_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 221 44 34 }
+		color = { 163 124 181 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -325,7 +325,7 @@ north_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 221 44 24 }
+		color = { 119 103 137 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -346,7 +346,7 @@ north_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 221 44 14 }
+		color = { 176 192 137 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
@@ -367,7 +367,7 @@ north_koreanic = {
 		
 		dynasty_name_first = yes
 		
-		color = { 221 44 4 }
+		color = { 48 107 85 }
 
 		male_names = {
 			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
