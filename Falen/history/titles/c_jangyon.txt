@@ -19,6 +19,5 @@
 	holder = 2223
 }
 2414.9.16 = {
-	liege = k_hwanghae
 	holder = 2226
 }

@@ -4,6 +4,9 @@
 2198.4.16 = {
 	holder = 2201
 }
+2223.8.7 = {
+	holder = 0
+}
 2432.7.1 = {
 	liege = k_prk
 	holder = 212
