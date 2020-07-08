@@ -14,3 +14,17 @@ b_cheongdam = temple
 # Misc
 culture = seoul
 religion = koreanist
+
+2200.1.1 = {
+	religion = populist
+	b_gangnam = ca_seoul_special_0
+	b_gangnam = ca_keep_1
+	b_gangnam = ca_militia_barracks_1
+	b_gangnam = ca_wall_1
+	b_gangnam = ca_town_1
+	b_gangnam = ca_town_2
+	b_apkujeong = ct_marketplace_1
+	b_apkujeong = ct_marketplace_2
+	b_apkujeong = ct_marketplace_3
+	b_apkujeong = ct_wall_1
+}

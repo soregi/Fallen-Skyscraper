@@ -251,6 +251,7 @@ k_gangwon = {
 		}
 		c_gapyeong = {
 			color = { 70 0 0 }
+			holy_site = unitary
 			b_gapyeong = {}
 			b_seorak_gapyeong = {}
 			b_cheongpyeong_gapyeong = {}
@@ -271,6 +272,7 @@ k_gangwon = {
 		}
 		c_cheorwon = {
 			color = { 0 100 0 }
+		#	holy_site = maitreya
 			b_cheorwon = {}
 			b_galmal_cheorwon = {}
 			b_dongsong_cheorwon = {}

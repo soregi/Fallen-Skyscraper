@@ -84,6 +84,8 @@ k_jeolla = {
 
 		c_gimje = {
 			color = { 102 13 13 }
+			holy_site = holy_spirit_pagan
+			holy_site = holy_spirit_pagan_reformed
 			b_gimje = {}
 			b_geumgu = {}
 			b_yochon = {}
@@ -121,6 +123,8 @@ k_jeolla = {
 
 		c_jeonju = {
 			color = { 153 38 13 }
+			holy_site = imperial
+			holy_site = confucian
 			b_jeonju = {}
 			b_pyeonghwa = {}
 			b_samcheon = {}
@@ -521,6 +525,7 @@ e_sinan = {
 
 			c_mokpo = {
 				color = { 26 0 0 }
+				holy_site = protestant
 				b_mokpo = {}
 				b_hadang = {}
 				b_chukkyo = {}

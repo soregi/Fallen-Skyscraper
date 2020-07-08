@@ -90,14 +90,14 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_SURYONG
+		#high_god_name = 
 		
 		god_names = {
-			GOD_SURYONG GOD_JANGGUN
+			GOD_REPUBLIC
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+			#TRAITOR
 		}
 		
 		can_excommunicate = yes
@@ -121,17 +121,17 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_SURYONG
+		#high_god_name = 
 		
 		god_names = {
-			GOD_SURYONG GOD_JANGGUN
+			GOD_REPUBLIC
 		}
 		character_modifier = {
 			vassal_limit = 10
 			vassal_opinion = 10
 		}
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+			DICTACTOR
 		}
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		can_excommunicate = yes
@@ -155,7 +155,7 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_SURYONG
+#		high_god_name = GOD_REPUBLIC
 		
 		character_modifier = {
 			levy_size = 0.20
@@ -163,11 +163,11 @@ old_world_group = {
 		}
 		
 		god_names = {
-			GOD_SURYONG GOD_JANGGUN
+			GOD_REPUBLIC
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+			REBEL RIOT
 		}
 		
 		short_reign_opinion_year_mult = 0 # No short reign penalty
@@ -192,14 +192,14 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_SURYONG
+		high_god_name = GOD_LORD_C8
 		
 		god_names = {
-			GOD_SURYONG GOD_JANGGUN
+			GOD_LORD_C8 GOD_SAMSUNG GOD_LG
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+			#
 		}
 		
 		can_excommunicate = yes
@@ -223,14 +223,14 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_SURYONG
+		#high_god_name = GOD_SURYONG
 		
 		god_names = {
-			GOD_SURYONG GOD_JANGGUN
+		#	GOD_SURYONG GOD_JANGGUN
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+		#	AMERICAN_IMPERIALIST
 		}
 		
 		can_excommunicate = yes
@@ -255,14 +255,14 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_SURYONG
+		#high_god_name = GOD_SURYONG
 		
 		god_names = {
-			GOD_SURYONG GOD_JANGGUN
+		#	GOD_SURYONG GOD_JANGGUN
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+		#	AMERICAN_IMPERIALIST
 		}
 		
 		can_excommunicate = yes

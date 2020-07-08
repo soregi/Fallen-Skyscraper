@@ -14,3 +14,20 @@ b_daerim = castle
 # Misc
 culture = seoul
 religion = koreanist
+
+2200.1.1 = {
+	religion = populist
+	b_yeongdeungpo = ca_seoul_special_0
+	b_yeongdeungpo = ca_keep_1
+	b_yeongdeungpo = ca_militia_barracks_1
+	b_yeongdeungpo = ca_wall_1
+	b_yeongdeungpo = ca_town_1
+	b_yeongdeungpo = ca_town_2
+	b_yeouido = ct_marketplace_1
+	b_yeouido = ct_marketplace_2
+	b_yeouido = ct_guard_1
+	b_yeouido = ct_university_1
+	b_gukhoe = tp_wall_1
+	b_gukhoe = tp_wall_2
+	b_gukhoe = tp_barracks_1
+}

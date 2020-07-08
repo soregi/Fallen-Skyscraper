@@ -1,17 +1,61 @@
-#KOREA
+#대전#
 technology = {
 	titles = {
-		d_seoul
-		d_sinan
-	}
-	800 = {
-		military = 2.0
-		economy = 2.0
-		culture = 2.0
+		d_daejeon
 	}
 	2400 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
+		military = 6.0
+		economy = 6.0
+		culture = 6.0
 	}
 }
+#연해주
+technology = {
+	titles = {
+		d_vladivostok
+		d_ussuriysk
+	}
+	2400 = {
+		military = 2.0
+		economy = 1.5
+		culture = 2.0
+	}
+}
+#자강도
+#만주(성지제외)
+#만주(성지)
+#요동
+#몽골
+#요서
+#연변
+#함경북도+량강도
+#함남
+#평북
+#평남(인공)
+#황남
+#황북
+#개성
+#서울 중앙부
+#드루이드
+#인민군
+#국군
+#산악연맹
+#영동
+#경기도(남)
+#기계교 지역들
+#신복련 일대
+#전라남도
+#목포와 신안
+#가야
+#진해, 부산
+#포항
+#불국토
+#미군들
+#소백산 우가우가
+#태백산 우가우가
+#한울국
+#안동(주)
+#제주
+#머마도
+#계룡
+#울 릉 도
