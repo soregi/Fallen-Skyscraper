@@ -626,16 +626,47 @@
 	dynasty = 4002271
 	culture = pyongnam
 	religion = juche
-	2392.1.2 = {
+	2383.2.5 = {
 		birth = yes
 	}
-	2407.11.23 = {
+	2441.9.26 = {
 		death = yes
 	}
 }
-
-
-
+2272 = {
+	name = "Ji Hye"
+	female = yes
+	dynasty = 4002271
+	culture = pyongnam
+	religion = juche
+	father = 2271
+	2417.7.17 = {
+		birth = yes
+	}
+}
+2273 = {
+	name = "Yon Su"
+	dynasty = 4002271
+	culture = pyongnam
+	religion = juche
+	father = 2271
+	2412.8.11 = {
+		birth = yes
+	}
+}
+2276 = {
+	name = "In Nong"
+	dynasty = 4002276
+	culture = pyongnam
+	religion = juche
+	father = 2271
+	2387.3.22 = {
+		birth = yes
+	}
+	2415.6.20 = {
+		add_spouse = 2283
+	}
+}
 
 
 
