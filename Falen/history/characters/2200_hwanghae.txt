@@ -4,6 +4,9 @@
 	culture = hwanghae
 	religion = cheondo
 	father = 2202
+	give_nickname = nick_noko_lord
+	trait = brilliant_strategist
+	trait = wounded
 	2181.10.13 = {
 		birth = yes
 	}
@@ -18,6 +21,8 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = mu_pagan
+	trait = underhanded_rogue
+	trait = charitable
 	2142.12.19 = {
 		birth = yes
 	}
@@ -30,6 +35,9 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = detached_priest
+	trait = shrewd
+	trait = proud
 	father = 2201
 	2202.5.16 = {
 		birth = yes
@@ -43,6 +51,8 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = misguided_warrior
+	trait = scarred
 	father = 2203
 	2238.6.7 = {
 		birth = yes
@@ -56,6 +66,8 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = flamboyant_schemer
+	trait = lustful
 	father = 2204
 	2271.8.26 = {
 		birth = yes
@@ -69,6 +81,12 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = populist
+	give_nickname = nick_kaesong_guy
+	trait = fortune_builder
+	trait = quick
+	trait = ambitious
+	trait = scholar
+	trait = humble
 	father = 2205
 	2294.8.31 = {
 		birth = yes
@@ -84,6 +102,13 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	give_nickname = nick_the_conqueror
+	trait = skilled_tactician
+	trait = quick
+	trait = strong
+	trait = scarred
+	trait = ambitious
+	trait = wroth
 	father = 2206
 	2328.11.16 = {
 		birth = yes
@@ -99,6 +124,10 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = thrifty_clerk
+	trait = quick
+	trait = kind
+	trait = architect
 	father = 2206
 	2331.8.11 = {
 		birth = yes
@@ -113,6 +142,11 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = grey_eminence
+	trait = quick
+	trait = kind
+	trait = charitable
+	trait = erudite
 	father = 2205
 	2300.4.20 = {
 		birth = yes
@@ -126,6 +160,9 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = underhanded_rogue
+	trait = brave
+	trait = slothful
 	father = 2208
 	2373.4.21 = {
 		birth = yes
@@ -139,6 +176,11 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = fortune_builder
+	trait = just
+	trait = fair
+	trait = diligent
+	trait = content
 	father = 2210
 	2390.6.23 = {
 		birth = yes
@@ -157,9 +199,25 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	give_nickname = nick_the_avenger
+	trait = tough_soldier
+	trait = legit_bastard
+	trait = possessed
+	trait = ambitious
+	trait = patient
+	trait = just
+	trait = cynical
+	disallow_random_traits = yes
+	wealth = 650
+	prestige = 700
 	father = 2211
 	2425.7.3 = {
 		birth = yes
+	}
+	2432.9.4 = {
+		effect={
+			add_rival = 2226
+		}
 	}
 }
 2213 = {
@@ -168,6 +226,11 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = charismatic_negotiator
+	trait = fair
+	trait = shrewd
+	trait = envious
+	disallow_random_traits = yes
 	father = 2211
 	mother = 2225
 	2427.12.8 = {
@@ -196,6 +259,10 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = tough_soldier
+	trait = envious
+	trait = is_fat
+	trait = charitable
 	father = 2201
 	2203.11.7 = {
 		birth = yes
@@ -212,6 +279,10 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = naive_appeaser
+	trait = depressed
+	trait = feeble
+	trait = kind
 	father = 2208
 	2377.9.21 = {
 		birth = yes
@@ -227,6 +298,9 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = flamboyant_schemer
+	trait = charitable
+	trait = kind
 	father = 2204
 	2274.9.23 = {
 		birth = yes
@@ -240,6 +314,8 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = naive_appeaser
+	trait = kind
 	father = 2220
 	2301.6.15 = {
 		birth = yes
@@ -253,6 +329,8 @@
 	dynasty = 4002201
 	culture = hwanghae
 	religion = cheondo
+	trait = indulgent_wastrel
+	trait = erudite
 	father = 2220
 	2307.4.7 = {
 		birth = yes
@@ -266,6 +344,9 @@
 	dynasty = 4002202
 	culture = hwanghae
 	religion = cheondo
+	trait = scholarly_theologian
+	trait = content
+	trait = theologian
 	father = 2207
 	2348.7.11 = {
 		birth = yes
@@ -280,6 +361,8 @@
 	culture = hwanghae
 	religion = cheondo
 	father = 2223
+	trait = misguided_warrior
+	trait = feeble
 	2354.10.3 = {
 		birth = yes
 	}
@@ -295,6 +378,7 @@
 	dynasty = 4002202
 	culture = hwanghae
 	religion = cheondo
+	trait = chaste
 	father = 2223
 	2384.1.6 = {
 		birth = yes
@@ -311,6 +395,12 @@
 	dynasty = 4002202
 	culture = hwanghae
 	religion = cheondo
+	trait = underhanded_rogue
+	trait = diligent
+	trait = lustful
+	trait = envious
+	trait = gregarious
+	trait = arbitrary
 	father = 2223
 	2391.5.8 = {
 		birth = yes
@@ -335,6 +425,14 @@
 	dynasty = 4002202
 	culture = pyongnam
 	religion = juche
+	trait = charismatic_negotiator
+	trait = ambitious
+	trait = seducer
+	trait = groomed
+	trait = twin
+	trait = lustful
+	trait = envious
+	disallow_random_traits = yes
 	father = 2226
 	mother = 2229
 	2421.8.9 = {
@@ -346,6 +444,14 @@
 	dynasty = 4002202
 	culture = pyongnam
 	religion = juche
+	trait = intricate_webweaver
+	trait = ambitious
+	trait = seducer
+	trait = groomed
+	trait = twin
+	trait = lustful
+	trait = envious
+	disallow_random_traits = yes
 	father = 2226
 	mother = 2229
 	2421.8.9 = {
@@ -358,6 +464,9 @@
 	dynasty = 4002203
 	culture = hwanghae
 	religion = cheondo
+	trait = feeble
+	trait = charitable
+	trait = chaste
 	2396.7.21 = {
 		birth = yes
 	}
@@ -385,6 +494,9 @@
 	dynasty = 4000608
 	culture = hwanghae
 	religion = cheondo
+	trait = charismatic_negotiator
+	trait = kind
+	trait = just
 	2321.5.1 = {
 		birth = yes
 	}
@@ -397,6 +509,9 @@
 	dynasty = 4000608
 	culture = hwanghae
 	religion = cheondo
+	trait = tough_soldier
+	trait = charitable
+	trait = diligent
 	father = 2236
 	2358.12.7 = {
 		birth = yes
@@ -410,6 +525,11 @@
 	dynasty = 4000608
 	culture = hwanghae
 	religion = cheondo
+	trait = martial_cleric
+	trait = shy	
+	trait = charitable
+	trait = one_eyed
+	trait = stressed
 	father = 2237
 	2381.5.4 = {
 		birth = yes
@@ -421,6 +541,8 @@
 	dynasty = 4002241
 	culture = hwanghae
 	religion = cheondo
+	trait = tough_soldier
+	trait = just
 	2382.7.24 = {
 		birth = yes
 	}
@@ -430,6 +552,8 @@
 	dynasty = 4002241
 	culture = hwanghae
 	religion = juche
+	trait = detached_priest
+	trait = content
 	father = 2241
 	2403.12.9 = {
 		birth = yes
@@ -440,6 +564,13 @@
 	dynasty = 4002251
 	culture = pyongnam
 	religion = juche
+	trait = elusive_shadow
+	trait = ambitious
+	trait = lustful
+	trait = shrewd
+	trait = wounded
+	trait = zealous
+	trait = proud
 	2376.4.20 = {
 		birth = yes
 	}
@@ -452,10 +583,16 @@
 	dynasty = 4002251
 	culture = pyongnam
 	religion = juche
+	trait = thrifty_clerk
+	trait = charitable
+	trait = is_fat
 	father = 2251
 	mother = 2257
 	2403.7.26 = {
 		birth = yes
+	}
+	2416.9.9 = {
+		effect = { add_friend = 2261 }
 	}
 }
 2253 = {
@@ -464,6 +601,8 @@
 	dynasty = 4002251
 	culture = pyongnam
 	religion = juche
+	trait = underhanded_rogue
+	trait = zealous
 	father = 2251
 	mother = 2257
 	2409.1.13 = {
@@ -475,6 +614,8 @@
 	dynasty = 4002251
 	culture = pyongnam
 	religion = juche
+	trait = detached_priest
+	trait = scholar
 	father = 2251
 	mother = 2257
 	2410.6.3 = {
@@ -489,6 +630,8 @@
 	dynasty = 4002252
 	culture = pyongnam
 	religion = juche
+	trait = skilled_tactician
+	trait = depressed
 	2394.2.11 = {
 		birth = yes
 	}
@@ -501,6 +644,8 @@
 	dynasty = 4002252
 	culture = pyongnam
 	religion = juche
+	trait = skilled_tactician
+	trait = lustful
 	father = 2255
 	mother = 2258
 	2423.1.30 = {
@@ -513,6 +658,7 @@
 	dynasty = 4002253
 	culture = pyongnam
 	religion = juche
+	trait = naive_appeaser
 	2378.2.4 = {
 		birth = yes
 	}
@@ -523,6 +669,8 @@
 	dynasty = 4002254
 	culture = pyongnam
 	religion = juche
+	trait = thrifty_clerk
+	trait = homosexual
 	2402.6.11 = {
 		birth = yes
 	}
@@ -532,6 +680,10 @@
 	dynasty = 4002261
 	culture = pyongnam
 	religion = juche
+	trait = charismatic_negotiator
+	trait = patient
+	trait = cynical
+	trait = chaste
 	2397.8.21 = {
 		birth = yes
 	}
@@ -544,6 +696,8 @@
 	dynasty = 4002261
 	culture = pyongnam
 	religion = juche
+	trait = tough_soldier
+	trait = kind
 	father = 2261
 	mother = 2266
 	2419.2.21 = {
@@ -555,6 +709,8 @@
 	dynasty = 4002262
 	culture = pyongnam
 	religion = juche
+	trait = martial_cleric
+	trait = brave
 	father = 2293
 	2410.9.3 = {
 		birth = yes
@@ -565,6 +721,8 @@
 	dynasty = 4002263
 	culture = hamnam
 	religion = juche
+	trait = indulgent_wastrel
+	trait = slothful
 	2391.11.7 = {
 		birth = yes
 	}
@@ -589,6 +747,9 @@
 	dynasty = 4002264
 	culture = pyongnam
 	religion = juche
+	trait = martial_cleric
+	trait = shrewd
+	trait = kind
 	2393.6.3 = {
 		birth = yes
 	}
@@ -605,6 +766,9 @@
 	dynasty = 4002261
 	culture = pyongnam
 	religion = juche
+	trait = underhanded_rogue
+	trait = kind
+	trait = lustful
 	father = 2261
 	mother = 2266
 	2416.6.12 = {
@@ -617,6 +781,8 @@
 	dynasty = 4002265
 	culture = pyongnam
 	religion = juche
+	trait = detached_priest
+	trait = kind
 	2392.1.2 = {
 		birth = yes
 	}
@@ -626,6 +792,10 @@
 	dynasty = 4002271
 	culture = pyongnam
 	religion = juche
+	trait = skilled_tactician
+	trait = strong
+	trait = wroth
+	trait = drunkard
 	2383.2.5 = {
 		birth = yes
 	}
@@ -639,6 +809,13 @@
 	dynasty = 4002271
 	culture = pyongnam
 	religion = juche
+	give_nickname = nick_iron_lady
+	trait = brilliant_strategist
+	trait = strategist
+	trait = strong
+	trait = diligent
+	trait = arbitrary
+	trait = zealous
 	father = 2271
 	2417.7.17 = {
 		birth = yes
@@ -649,6 +826,10 @@
 	dynasty = 4002271
 	culture = pyongnam
 	religion = juche
+	trait = underhanded_rogue
+	trait = erudite
+	trait = brave
+	trait = incapable
 	father = 2271
 	2412.8.11 = {
 		birth = yes
@@ -657,29 +838,182 @@
 2276 = {
 	name = "In Nong"
 	dynasty = 4002276
-	culture = pyongnam
+	culture = hwanghae
 	religion = juche
-	father = 2271
+	trait = one_handed
+	trait = gardener
+	trait = stressed
+	trait = just
+	trait = charitable
+	trait = gluttonous
 	2387.3.22 = {
 		birth = yes
 	}
-	2415.6.20 = {
+	2406.2.23 = {
 		add_spouse = 2283
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2277 = {
+	name = "Thaesogi"
+	dynasty = 4002276
+	culture = hwanghae
+	religion = juche
+	diplomacy = 4
+	martial = 5
+	intrigue = 2
+	stewardship = 3
+	learning = 1
+	trait = slow
+	trait = gardener
+	trait = lustful
+	trait = greedy
+	father = 2276
+	mother = 2283
+	2412.8.2 = {
+		birth = yes
+	}
+	2431.12.29 = {
+		add_spouse = 2284
+	}
+}
+2278 = {
+	name = "Myong Kong"
+	dynasty = 4002276
+	culture = hwanghae
+	religion = juche
+	trait = fair
+	trait = lefthanded
+	father = 2277
+	mother = 2284
+	2441.2.28 = {
+		birth = yes
+	}
+}
+2279 = {
+	name = "Ku Min"
+	dynasty = 4002277
+	culture = hwanghae
+	religion = gaian
+	trait = detached_priest
+	2379.12.18 = {
+		birth = yes
+	}
+}
+2280 = {
+	name = "Pomnae"
+	female = yes
+	dynasty = 4002278
+	culture = hwanghae
+	religion = juche
+	trait = gardener
+	trait = diligent
+	2401.8.12 = {
+		birth = yes
+	}
+}
+2281 = {
+	name = "Somnae"
+	dynasty = 4002279
+	culture = hwanghae
+	religion = cheondo
+	trait = gardener
+	trait = kind
+	2387.2.24 = {
+		birth = yes
+	}
+}
+2282 = {
+	name = "Ji Hun"
+	dynasty = 4002280
+	culture = hwanghae
+	religion = cheondo
+	trait = intricate_webweaver
+	trait = administrator
+	trait = content
+	2398.7.22 = {
+		birth = yes
+	}
+}
+2283 = {
+	name = "Yu"
+	female = yes
+	dynasty = 4002281
+	culture = hwanghae
+	religion = cheondo
+	trait = gardener
+	2388.7.11 = {
+		birth = yes
+	}
+	2419.3.6 = {
+		death = yes
+	}
+}
+2284 = {
+	name = "Chon Un"
+	female = yes
+	dynasty = 4002282
+	culture = hwanghae
+	religion = juche
+	diplomacy = 6
+	martial = 12
+	intrigue = 8
+	stewardship = 4
+	learning = 3
+	trait = gardener
+	trait = ambitious
+	trait = charitable
+	trait = brave
+	trait = duelist
+	trait = strategist
+	trait = aggressive_leader
+	2415.11.6 = {
+		birth = yes
+	}
+}
+2291 = {
+	name = "Yong"
+	dynasty = 4002262
+	culture = yeongdong
+	religion = juche
+	give_nickname = nick_goja
+	trait = underhanded_rogue
+	trait = ancient
+	trait = eunuch
+	trait = poet
+	disallow_random_traits = yes
+	1910.9.3 = {
+		birth = yes
+	}
+	1971.7.24 = {
+		death = yes
+	}
+}
+2292 = {
+	name = "Descendants of the goja"
+	dynasty = 4002262
+	culture = pyongnam
+	religion = juche
+	disallow_random_traits = yes
+	father = 2291
+	1950.1.1 = {
+		birth = yes
+	}
+	2390.1.1 = {
+		death = yes
+	}
+}
+2293 = {
+	name = "Jae Sol"
+	dynasty = 4002262
+	culture = pyongnam
+	religion = juche
+	trait = charismatic_negotiator
+	trait = shrewd
+	father = 2292
+	2387.2.2 = {
+		birth = yes
+	}
+	2434.2.6 = {
+		death = yes
+	}
+}
