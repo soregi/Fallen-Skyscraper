@@ -10,3 +10,15 @@
 2341.4.1 = {
 	holder = 2207
 }
+2367.8.24 = {
+	liege = k_hwanghae
+	holder = 2223
+}
+2412.6.9 = {
+	liege = d_gwail
+	holder = 2241
+}
+2430.3.20 = {
+	liege = d_gwail
+	holder = 2242
+}

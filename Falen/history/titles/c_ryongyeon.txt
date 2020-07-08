@@ -13,6 +13,14 @@
 2341.4.1 = {
 	holder = 2207
 }
+2367.8.24 = {
+	liege = k_hwanghae
+	holder = 2223
+}
+2414.9.16 = {
+	liege = k_hwanghae
+	holder = 2226
+}
 2433.11.6 = {
 	liege = k_kaesong
 	holder = 2212

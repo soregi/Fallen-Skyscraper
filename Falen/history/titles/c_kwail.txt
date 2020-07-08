@@ -5,3 +5,23 @@
 2276.12.2 = {
 	holder = 2204
 }
+2294.6.12 = {
+	liege = d_gwail
+	holder = 2220
+}
+2310.4.4 = {
+	liege = d_gwail
+	holder = 2221
+}
+2336.6.4 = {
+	liege = d_gwail
+	holder = 2222
+}
+2361.3.28 = {
+	liege = k_hwanghae
+	holder = 2223
+}
+2414.9.16 = {
+	liege = k_hwanghae
+	holder = 2226
+}
