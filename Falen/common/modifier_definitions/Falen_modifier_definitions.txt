@@ -26,4 +26,3 @@ chaoxian_opinion = {
 	is_hidden = no
 	max_decimals = 0
 }
-

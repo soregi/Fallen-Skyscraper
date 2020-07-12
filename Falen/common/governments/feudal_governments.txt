@@ -432,4 +432,40 @@ feudal_governments = {
 		## Modifiers
 		court_size_modifier = 15
 	}
+#미완
+    6_government = {
+	    preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE 
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { 
+			TRIBAL
+		}
+		free_revoke_on_governments_religion = { 
+			tribal_government
+		}
+		allow_title_revokation = {
+		    NOT = { cultures_group = old_korean }
+		}
+		potential = {
+		    YES = {
+                controls_religion = yes
+                cultures_group = old_korean
+                has_cultures_feature = cultures_temporal_head				
+			}
+			is_patrician = no
+		}
+		color = { 51 102 255 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		can_create_empires = no
+		can_create_kingdoms = no
+		capital_move_delay = 600
+		can_build_tribal = no 
+		
+		levy_size = -90
+	}
 }
