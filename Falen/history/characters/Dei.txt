@@ -16,7 +16,7 @@
 	1955.2.11 = {
 		birth = yes
 	}
-	2020.1.1 = {
+	2020.7.9 = {
 		trait = lord_c8
 		immortal_age = 65
 		effect = {
