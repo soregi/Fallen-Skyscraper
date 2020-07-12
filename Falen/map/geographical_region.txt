@@ -56,7 +56,26 @@ world_korea = {
 		world_jeolla world_jeju world_chungcheong world_gyeonggi world_gyeongsang world_gangwon world_hwanghae world_pyeongan 
 	}
 }
-
+world_shandong = {
+	duchies = {
+		d_tsingtao d_yantai d_weihai
+	}
+}
+world_manchuria = {
+	duchies = {
+		d_yanbian d_baishan d_tonghua d_ussuriysk d_vladivostok d_changchun d_jilin d_heilongjiang d_fengtian d_dandong d_yingkou d_liaoyang d_dalian d_tieling d_jinzhou d_huludao d_panjin
+	}
+}
+world_steppe_east = {
+	duchies = {
+		d_tongliao d_chifeng d_chaoyang d_chifing
+	}
+}
+world_old_china = {
+	regions = {
+		world_shandong world_manchuria world_steppe_east
+	}
+}
 ###########################################################################
 # Custom Regions
 ###########################################################################
