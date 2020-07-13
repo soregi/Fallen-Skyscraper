@@ -13,3 +13,7 @@
 2431.9.4 = {
 	holder = 2216
 }
+2434.11.11 = {
+	liege = k_haeju_farm
+	holder = 2282
+}

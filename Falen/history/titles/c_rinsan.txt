@@ -1,3 +1,7 @@
 2020.3.14 = {
 	holder = 0
 }
+2434.11.11 = {
+	liege = k_haeju_farm
+	holder = 2279
+}
