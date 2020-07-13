@@ -6,6 +6,9 @@
 	liege = k_hwanghae
 	holder = 2238
 }
+2434.11.11 = {
+	holder = 2238
+}
 2443.12.14 = {
 	holder = 649
 }
