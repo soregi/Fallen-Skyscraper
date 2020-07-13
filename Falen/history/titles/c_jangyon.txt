@@ -19,5 +19,10 @@
 	holder = 2223
 }
 2414.9.16 = {
+	liege = k_hwanghae
+	holder = 2226
+}
+2432.8.16 = {
+	liege = k_hwanghae_party
 	holder = 2226
 }

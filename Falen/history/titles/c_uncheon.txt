@@ -2,3 +2,6 @@
 	liege = k_hwanghae
 	holder = 2203
 }
+2268.2.21 = {
+	holder = 0
+}
