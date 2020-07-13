@@ -220,7 +220,7 @@ k_taedong = { #대동강 전선
 	color2={ 16 170 122 }
 
 }
-k_paektu_guard = { #백두 친위대
+d_paektu_guard = { #백두 친위대, 기사단임
 	color={ 240 30 20 }
 	color2={ 16 170 122 }
 

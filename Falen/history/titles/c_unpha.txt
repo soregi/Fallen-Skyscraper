@@ -1,3 +1,4 @@
-2020.3.14 = {
-	holder = 0
+2429.6.2 = {
+	liege = k_hwanghae_party
+	holder = 2251
 }

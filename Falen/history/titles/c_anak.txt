@@ -5,3 +5,7 @@
 2272.5.14 = {
 	holder = 0
 }
+2430.10.30 = {
+	liege = k_hwanghae_party
+	holder = 2255
+}
