@@ -410,6 +410,7 @@
 	dynasty = 4000514	# 궁니
 	culture = haixi # 해서
 	religion = wanyan	# 완안씨 숭배
+	female = yes
 	trait=tough_soldier
 	trait=fair
 	trait=shy
@@ -449,6 +450,7 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = russian	# 러시아
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	female = yes
 	trait=thrifty_clerk
 	trait=chaste
 	trait=kind
@@ -468,6 +470,7 @@
 	dynasty = 4000507	# 아이산기오로
 	culture = russian	# 러시아
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	female = yes
 	trait=flamboyant_schemer
 	trait=paranoid
 	trait=depressed
@@ -489,6 +492,7 @@
 	dynasty = 4000507	# 아이신기오로
 	culture = jianzhou	# 건주
 	religion = aisin_gioro	# 아이신기오로씨 숭배
+	female = yes
 	trait=martial_cleric
 	trait=zealous
 	trait=wroth
@@ -629,10 +633,89 @@
 	trait=kind
 	trait=chaste
 	trait=hunter
-	2393,1,15 = {
+	2393.1.15 = {
 		birth = yes
 	}
 	2422.11.2 = {
 		death = yes
+	}
+}
+550 = {
+    name = "Nurhaci" # 누르하지
+    dynasty = 400507 #아이신기오로
+    culture = manchu #만주
+	religion = pagan #파간
+	trait=brilliant_strategist
+	trait=gregarious
+	trait=fair
+	trait=wroth
+	trait=strategist
+	trait=diligent
+	trait=quick
+	trait=proud
+	trait=lustful
+	1559.2.21 = {
+	    birth = yes
+	}
+	1626.9.30 = {
+	    death = yes
+		create_bloodline = {
+		    type = aisin_gioro_blood
+		    has_dlc = "Holy Fury"
+		}
+	}
+}
+551 = {
+    name = "Aguda" #아골타
+	dynasty = 400511 #완안
+	culture = manchu #만주
+	religion = pagan #파간
+	trait=brilliant_strategist
+	trait=cruel
+	trait=hunter
+	trait=temperate
+	trait=diligent
+	trait=patient
+	trait=quick
+	trait=lustful
+	trait=proud
+	trait=zealous
+	1068.8.1 = {
+	    birth = yes
+	}
+	1123.9.19 = {
+	    death = yes
+		create_bloodline = {
+		    type = wanyan_blood
+		    has_dlc = "Holy Fury"
+		}
+	}
+}
+553 = {
+    name = "unknown"#무명
+	dynasty = 400507 #아이신기오로
+    culture = jianzhou #건주
+	religion = pagan #파간
+	father = 550
+	trait=detached_priest
+	1610.9.29 = {
+	    birth = yes
+	}
+	2443.12.30 = {
+	    death = yes
+	}
+}
+554 = {
+    name = "unknown"#무명
+	dynasty = 400511 #완안
+    culture = haixi #해서
+	religion = pagan #파간
+	father = 551
+	trait=detached_priest
+	1042.1.1 = {
+	    birth = yes
+	}
+	2443.12.30 = {
+	    death = yes
 	}
 }
