@@ -1,0 +1,17 @@
+trade_route_post_trigger = {
+	custom_tooltip = {
+		text = trade_route_province_desc
+		hidden_tooltip = {
+			OR = {
+				province_id = 434 #taihe
+			    province_id = 413 #dawa
+			    province_id = 408 #xishi
+			    province_id = 411 #qianshan
+			    province_id = 471 #changchun
+			    province_id = 446 #domun
+			    province_id = 327 #wiwon
+				province_id = 290 #daehung
+			}
+		}
+	}
+}

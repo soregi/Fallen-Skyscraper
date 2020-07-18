@@ -1,0 +1,19 @@
+north korean_road = {
+	wealth = 197     # Total base wealth of north korean road
+	trade_post_display_trigger = {
+		OR = {
+		    province_id = 327 #wiwon
+			province_id = 290 #daehung
+		}
+	}
+	
+	start = {
+	    327 #wiwon
+	}
+	path = { #wiwon_node
+	    327 322 320
+	}
+	path = { #roade to daehung
+	    320 290
+	}
+}
