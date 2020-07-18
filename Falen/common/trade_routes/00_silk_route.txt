@@ -6,6 +6,7 @@ silk_road = {
 			province_id = 413 #dawa
 			province_id = 408 #xishi
 			province_id = 411 #qianshan
+			province_id = 514 #shenyang
 			province_id = 471 #changchun
 			province_id = 446 #domun
 		}
