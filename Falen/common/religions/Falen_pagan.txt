@@ -788,7 +788,7 @@ pagan_group = {
 		heresy_icon = 20
 		
 		color = { 0.75 0.2 0.1 }
-		crusade_name = CRUSADE
+		crusade_name = KWANGMYONGJONJAENG
 		scripture_name = THE_SOLAR_BIBLE
 		priest_title = HATMURIKKUN
 		parent = juche
@@ -803,6 +803,40 @@ pagan_group = {
 		}
 		
 		can_excommunicate = yes
+		female_temple_holders = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		priests_can_marry = yes
+		psc_marriage = no
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+	}
+	red_solar_pagan_reformed = {
+		graphical_culture = westerngfx
+		
+		icon = 19
+		heresy_icon = 20
+		
+		color = { 0.75 0.2 0.1 }
+		crusade_name = KWANGMYONGJONJAENG
+		scripture_name = THE_SOLAR_BIBLE
+		priest_title = HATMURIKKUN
+		parent = juche
+		high_god_name = GOD_RED_SOLAR
+		
+		god_names = {
+			GOD_RYONGDOJA GOD_PITSAL GOD_KANGNYONG
+		}
+		
+		evil_god_names = {
+			KORIP CHOSEN_PEOPLE
+		}
+		
+		can_excommunicate = yes
+		female_temple_holders = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
 		can_call_crusade = yes

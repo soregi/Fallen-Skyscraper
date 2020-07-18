@@ -48,37 +48,6 @@ old_world_group = {
 		religious_clothing_priest = 2
 		
 	}
-	red_solar = {
-		graphical_culture = westerngfx
-		
-		icon = 19
-		heresy_icon = 20
-		
-		color = { 0.75 0.2 0.1 }
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
-		priest_title = PRIEST
-		parent = juche
-		high_god_name = GOD_SURYONG
-		
-		god_names = {
-			GOD_SURYONG GOD_JANGGUN
-		}
-		
-		evil_god_names = {
-			AMERICAN_IMPERIALIST
-		}
-		
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_call_crusade = yes
-		can_retire_to_monastery = yes
-		priests_can_inherit = no
-		
-		religious_clothing_head = 2
-		religious_clothing_priest = 2
-	}
 	koreanist = {
 		graphical_culture = westerngfx
 		
