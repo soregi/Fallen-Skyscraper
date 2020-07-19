@@ -1,0 +1,26 @@
+# Types:
+# 0 - Light Infantry
+# 1 - Heavy Infantry
+# 2 - Pikemen
+# 3 - Light Cavalry
+# 4 - Heavy Cavalry
+# 5 - Archers
+# 6 - Special troops
+
+RETTYPE_CUL_KOREAN = 
+{
+	first_type = 6
+	first_amount = 100
+
+	special_troops = korean_troops
+	
+	potential = {
+		is_nomadic = no
+		has_landed_title = e_south_korea
+		culture = old_korean
+		
+	}
+	
+	modifier = {
+	}
+}
