@@ -13,4 +13,4 @@ b_seoseokdae = city
 
 # Misc
 culture = honam
-religion = protestant
+religion = catholic

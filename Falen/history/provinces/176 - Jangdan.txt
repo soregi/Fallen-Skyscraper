@@ -11,5 +11,5 @@ b_chaha = temple
 b_kuhwa = tribal
 
 # Misc
-culture = gyeonggi
+culture = hwanghae
 religion = gaian

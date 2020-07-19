@@ -759,7 +759,7 @@
 	name = "Min Su"
 	dynasty = 4002431
 	culture = chaoxian
-	religion = red_solar
+	religion = red_solar_pagan
 	trait = quick
 	trait = zodiac_aquarius
 	trait = brooding
@@ -775,7 +775,7 @@
 	female = yes
 	dynasty = 4002431
 	culture = chaoxian
-	religion = red_solar
+	religion = red_solar_pagan
 	trait = playful
 	trait = zodiac_pisces
 	trait = willful
@@ -866,7 +866,7 @@
 		birth = yes
 	}
 	2401.9.8 = {
-		religion = red_solar
+		religion = red_solar_pagan
 		remove_trait = sympathy_christendom
 		remove_trait = sympathy_pagans 
 	}
@@ -900,6 +900,6 @@
 		birth = yes
 	}
 	2403.6.20 = {
-		religion = red_solar
+		religion = red_solar_pagan
 	}
 }

@@ -7,8 +7,8 @@ title = c_ningan
 max_settlements = 7
 
 b_ningan_b0 = tribal
-b_ningan_b0 = temple
+b_ningan_b1 = temple
 
 # Misc
 culture = chaoxian
-religion = red_solar
+religion = red_solar_pagan

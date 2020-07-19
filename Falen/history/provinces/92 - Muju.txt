@@ -10,4 +10,4 @@ b_muju = tribal
 
 # Misc
 culture = honam
-religion = catholic
+religion = mu_pagan

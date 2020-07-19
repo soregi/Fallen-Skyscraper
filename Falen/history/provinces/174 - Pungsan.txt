@@ -10,5 +10,5 @@ b_jangphung = tribal
 b_ryohyon = tribal
 
 # Misc
-culture = gyeonggi
+culture = hwanghae
 religion = gaian

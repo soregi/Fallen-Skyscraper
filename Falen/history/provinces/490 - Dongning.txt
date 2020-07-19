@@ -10,4 +10,4 @@ b_dongning_b0 = tribal
 
 # Misc
 culture = russian
-religion = red_solar
+religion = red_solar_pagan

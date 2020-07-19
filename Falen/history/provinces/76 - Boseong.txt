@@ -13,4 +13,4 @@ b_bongnae = city
 
 # Misc
 culture = honam
-religion = mu_pagan
+religion = protestant

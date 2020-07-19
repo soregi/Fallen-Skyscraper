@@ -12,4 +12,4 @@ b_dongmyeongchilgok = city
 
 # Misc
 culture = yeongnam
-religion = confucian
+religion = catholic

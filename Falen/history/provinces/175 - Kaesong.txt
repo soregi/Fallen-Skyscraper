@@ -13,7 +13,7 @@ b_kwanhun = temple
 
 
 # Misc
-culture = gyeonggi
+culture = hwanghae
 religion = populist
 
 # History

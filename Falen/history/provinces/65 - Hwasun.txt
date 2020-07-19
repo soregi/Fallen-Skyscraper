@@ -12,4 +12,4 @@ b_chunyang = temple
 
 # Misc
 culture = honam
-religion = mu_pagan
+religion = catholic

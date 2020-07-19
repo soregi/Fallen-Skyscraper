@@ -10,4 +10,4 @@ b_antu_b0 = tribal
 
 # Misc
 culture = chaoxian
-religion = red_solar
+religion = red_solar_pagan

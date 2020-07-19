@@ -10,5 +10,5 @@ b_changbai = tribal
 b_sipsadogu = temple
 
 # Misc
-culture = chaoxian
+culture = jagang
 religion = mu_pagan

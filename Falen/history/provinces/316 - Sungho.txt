@@ -11,5 +11,5 @@ b_apsae_sungho = city
 b_tokkol_sungho = temple
 
 # Misc
-culture = pyongbuk
+culture = pyongnam
 religion = cheondo
