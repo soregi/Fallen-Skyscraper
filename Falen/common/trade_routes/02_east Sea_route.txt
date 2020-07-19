@@ -1,0 +1,19 @@
+east Sea_road = {
+	wealth = 197     # Total base wealth of north korean road
+	trade_post_display_trigger = {
+		OR = {
+		    province_id = 387 #블라디보스톸
+			province_id = 378 #라진
+			province_id = 369 #hwadae
+			province_id = 352 #kumya
+			province_id = 220 #anbyon
+			province_id = 212 #gangneung
+		}
+	}
+	
+	start = {
+	    387 #블라디보스톸
+	}
+	path = {
+	    387 395 378 369 352 229 228 226 220 215 212
+    }
