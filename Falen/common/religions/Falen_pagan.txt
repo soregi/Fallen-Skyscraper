@@ -813,6 +813,8 @@ pagan_group = {
 		psc_marriage = no
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
+		
+		intermarry = red_solar_pagan_reformed
 	}
 	red_solar_pagan_reformed = {
 		graphical_culture = westerngfx

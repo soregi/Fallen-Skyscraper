@@ -12,4 +12,4 @@ b_samseongyangsan = temple
 
 # Misc
 culture = yeongnam
-religion = mahayana
+religion = bailian

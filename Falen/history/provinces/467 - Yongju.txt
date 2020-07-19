@@ -10,4 +10,4 @@ b_yongji_b0 = tribal
 
 # Misc
 culture = jilin
-religion = holy_spirit_pagan
+religion = wanyan
