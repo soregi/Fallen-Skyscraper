@@ -8,56 +8,98 @@
 	culture = honam
 	religion = atomicist
 }
-4002103 = {
+4002111 = {
+	name = "ParkKim"
+	culture = honam
+	religion = catholic
+}
+4002112 = {
+	name = "Kang"
+	culture = honam
+	religion = catholic
+}
+4002113 = {
+	name = "Min"
+	culture = honam
+	religion = catholic
+}
+4002114 = {
+	name = "Bu"
+	culture = honam
+	religion = catholic
+}
+4002115 = {
+	name = "Sang"
+	culture = sinan
+	religion = protestant
+}
+4002116 = {
+	name = "Ma"
+	culture = honam
+	religion = catholic
+}
+4002121 = {
 	name = "Park"
 	culture = honam
 	religion = marxist
 }
-4002104 = {
+4002122 = {
 	name = "Kim"
 	culture = honam
 	religion = marxist
 }
-4002105 = {
+4002123 = {
 	name = "Mong"
 	culture = honam
 	religion = marxist
 }
-4002106 = {
+4002131 = {
 	name = "Bam"
 	culture = honam
 	religion = protestant
 }
-4002107 = {
+4002132 = {
 	name = "Ho"
 	culture = honam
 	religion = protestant
 }
-4002108 = {
+4002133 = {
 	name = "Lee"
 	culture = honam
 	religion = protestant
 }
-4002109 = {
+4002134 = {
 	name = "Ahn"
 	culture = honam
 	religion = protestant
 }
-4002110 = {
+4002151 = {
 	name = "Non"
 	culture = honam
 	religion = protestant
 }
-4002111 = {
+4002152 = {
 	name = "Ban"
 	culture = honam
 	religion = protestant
 }
-4002112 = {
+4002153 = {
 	name = "Park"
 	culture = honam
 	religion = protestant
 }
-
-
-
+4002154 = {
+	name = "Myeong"
+	culture = honam
+	religion = protestant
+}
+4002155 = {
+	name = "Ya"
+	culture = honam
+	religion = protestant
+}
+4002156 = {
+	name = "Ji"
+	culture = sinan
+	religion = protestant
+}

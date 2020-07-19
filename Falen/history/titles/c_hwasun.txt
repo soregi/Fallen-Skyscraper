@@ -1,4 +1,8 @@
-2443.5.3 = {
-	liege = c_gwangju
+2389.4.12 = {
+	liege = d_gwangju
+	holder = 2118
+}
+2432.11.8 = {
+	liege = d_gwangju
 	holder = 2115
 }

@@ -1,4 +1,14 @@
+2393.9.15 = {
+	liege = e_sinan
+	holder = 2160
+}
+2401.5.23 = {
+	holder = 2156
+}
+2419.6.28 = {
+	holder = 2151
+}
 2443.10.7 = {
 	liege = d_free_honam
-	holder = 2141
+	holder = 2152
 }

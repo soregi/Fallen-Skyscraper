@@ -41,9 +41,188 @@
 		birth = yes
 	}
 }
+2109 = {
+	name = "Hyeonseok"
+	dynasty = 4002116
+	culture = honam
+	religion = catholic
+	2361.1.3 = {
+		birth = yes
+	}
+	2399.2.17 = {
+		death = {
+		death_reason = death_duel
+		killer = 2119
+		}
+	}
+}
+2110 = {
+	name = "Seokjun"
+	dynasty = 4002116
+	culture = honam
+	religion = catholic
+	father = 2019
+	trait = underhanded_rogue
+	trait = fair
+	trait = kind
+	trait = shrewd
+	trait = depressed
+	trait = chaste
+	2384.4.10 = {
+		birth = yes
+	}
+	2413.6.16 = {
+		death = { death_reason = death_suicide }
+}
+2111 = {
+	name = "Cheolpae"
+	dynasty = 4002111
+	culture = honam
+	religion = catholic
+	father = 2110
+	mother = 2119
+	trait = grey_eminence
+	trait = humble
+	trait = wroth
+	trait = shy
+	trait = ambitious
+	trait = scarred_type_2
+	2401.3.6 = {
+		birth = yes
+	}
+	2418.2.13 = {
+		add_spouse = 2112
+	}
+}
+2112 = {
+	name = "Hyeon"
+	female = yes
+	dynasty = 4002112
+	culture = honam
+	religion = catholic
+	trait = tough_soldier
+	trait = lustful
+	2397.6.4 = {
+		birth = yes
+	}
+}
+2113 = {
+	name = "Seonghyeon"
+	dynasty = 4002111
+	culture = honam
+	religion = catholic
+	secret_religion = marxist
+	father = 2111
+	mother = 2112
+	trait = charismatic_negotiator
+	trait = charitable
+	trait = lefthanded
+	2423.8.10 = {
+		birth = yes
+	}
+	2441.12.24 = {
+		add_spouse = 2116
+	}
+}
+2114 = {
+	name = "Uhyeon"
+	dynasty = 4002111
+	culture = honam
+	religion = catholic
+	secret_religion = protestant
+	father = 2111
+	mother = 2112
+	trait = misguided_warrior
+	trait = wroth
+	trait = gluttonous
+	2425.8.20 = {
+		birth = yes
+	}
+	2442.12.26 = {
+		add_spouse = 2117
+	}
+}
+2115 = {
+	name = "Dugyeong"
+	dynasty = 4002113
+	culture = honam
+	religion = catholic
+	father = 2118
+	trait = intricate_webweaver
+	trait = shrewd
+	trait = ambitious
+	2416.7.9 = {
+		birth = yes
+	}
+}
+2116 = {
+	name = "Gahui"
+	female = yes
+	dynasty = 4002114
+	culture = honam
+	religion = catholic
+	trait = thrifty_clerk
+	trait = chaste
+	trait = content
+	2427.5.6 = {
+		birth = yes
+	}
+}
+2117 = {
+	name = "Hyeseon"
+	female = yes
+	dynasty = 4002115
+	culture = sinan
+	religion = protestant
+	trait = scholarly_theologian
+	trait = zealous
+	trait = paranoid
+	2421.9.2 = {
+		birth = yes
+	}
+}
+2118 = {
+	name = "Juwon"
+	dynasty = 4002113
+	culture = honam
+	religion = catholic
+	trait = underhanded_rogue
+	trait = kind
+	2376.2.14 = {
+		birth = yes
+	}
+	2432.11.8 = {
+		death = {
+		death_reason = death_murder
+		killer = 2115
+		}
+	}
+}
+2119 = {
+	name = "Jeonghyeon"
+	female = yes
+	dynasty = 4002111
+	culture = honam
+	religion = catholic
+	trait = skilled_tactician
+	trait = wroth
+	trait = cruel
+	trait = envious
+	trait = duelist
+	trait = syphilitic
+	2371.3.19 = {
+		birth = yes
+	}
+	2399.2.18 = {
+		add_matrilineal_spouse = 2111
+	}
+	2422.6.30 = {
+		death = { death_reason = death_trait }
+	}
+}
 2121 = {
 	name = "Deokyoung"
-	dynasty = 4002103
+	dynasty = 4002121
 	culture = honam
 	religion = marxist
 	trait = skilled_tactician
@@ -66,7 +245,7 @@
 2122 = {
 	name = "Alexandra"
 	female = yes
-	dynasty = 4002104
+	dynasty = 4002122
 	culture = honam
 	religion = marxist
 	trait = charismatic_negotiator
@@ -88,7 +267,7 @@
 }
 2123 = {
 	name = "Yang"
-	dynasty = 4002105
+	dynasty = 4002123
 	culture = honam
 	religion = marxist
 	trait = tough_soldier
@@ -105,7 +284,7 @@
 }
 2131 = {
 	name = "Jeonghwa"
-	dynasty = 4002106
+	dynasty = 4002131
 	culture = honam
 	religion = protestant
 	trait = scholarly_theologian
@@ -131,7 +310,7 @@
 }
 2132 = {
 	name = "Bada"
-	dynasty = 4002106
+	dynasty = 4002131
 	culture = honam
 	religion = protestant
 	father = 2131
@@ -157,7 +336,7 @@
 2133 = {
 	name = "Sanna"
 	female = yes
-	dynasty = 4002107
+	dynasty = 4002132
 	culture = honam
 	religion = protestant
 	trait = martial_cleric
@@ -177,7 +356,7 @@
 }
 2134 = {
 	name = "Youngsu"
-	dynasty = 4002108
+	dynasty = 4002133
 	culture = honam
 	religion = protestant
 	trait = flamboyant_schemer
@@ -193,7 +372,7 @@
 }
 2135 = {
 	name = "Young"
-	dynasty = 4002105
+	dynasty = 4002123
 	culture = honam
 	religion = protestant
 	trait = midas_touched
@@ -211,7 +390,7 @@
 }
 2136 = {
 	name = "Gunsin"
-	dynasty = 4002109
+	dynasty = 4002134
 	culture = honam
 	religion = protestant
 	trait = thrifty_clerk
@@ -228,9 +407,9 @@
 		birth = yes
 	}
 }
-2138 = {
+2151 = {
 	name = "Dooryeong"
-	dynasty = 4002110
+	dynasty = 4002151
 	culture = honam
 	religion = protestant
 	trait = skilled_tactician
@@ -249,16 +428,22 @@
 	trait = content
 	trait = headache
 	disallow_random_traits = yes
+	father = 2156
+	mother = 2157
 	2381.1.31 = {
 		birth = yes
 	}
+	2411.6.13 = {
+		add_spouse = 2158
+	}
 }
-2139 = {
+2152 = {
 	name = "Jaju"
-	dynasty = 4002110
+	dynasty = 4002151
 	culture = honam
 	religion = protestant
-	father = 2138
+	father = 2151
+	mother = 2158
 	trait = fortune_builder
 	trait = patient
 	trait = just
@@ -275,13 +460,13 @@
 	}
 	2438.7.26 = {
 		effect={
-			add_rival = 2141
+			add_rival = 2154
 		}
 	}
 }
-2140 = {
+2153 = {
 	name = "Kigu"
-	dynasty = 4002111
+	dynasty = 4002152
 	culture = honam
 	religion = protestant
 	trait = underhanded_rogue
@@ -293,14 +478,15 @@
 	trait = temperate
 	trait = patient
 	trait = content
+	father = 2159
 	disallow_random_traits = yes
 	2409.3.4 = {
 		birth = yes
 	}
 }
-2141 = {
+2154 = {
 	name = "Yeongmin"
-	dynasty = 4002112
+	dynasty = 4002143
 	culture = honam
 	religion = protestant
 	trait = intricate_webweaver
@@ -318,23 +504,85 @@
 		birth = yes
 	}
 }
-2142 = {
+2155 = {
 	name = "Yiju"
 	female = yes
-	dynasty = 4002110
+	dynasty = 4002151
 	culture = honam
 	religion = protestant
-	father = 2138
+	father = 2151
+	mother = 2158
 	trait = fair
 	disallow_random_traits = yes
 	2439.1.3 = {
 		birth = yes
 	}
 }
-
-
-
-
+2156 = {
+	name = "Hyeokseong"
+	dynasty = 4002151
+	culture = honam
+	religion = protestant
+	2349.5.8 = {
+		birth = yes
+	}
+	2373.2.10 = {
+		add_spouse = 2157
+	}
+	2419.6.28 = {
+		death = yes
+	}
+}
+2157 = {
+	name = "Eun"
+	female = yes
+	dynasty = 4002154
+	culture = honam
+	religion = protestant
+	2354.2.7 = {
+		birth = yes
+	}
+	2418.3.6 = {
+		death = yes
+	}
+}
+2158 = {
+	name = "Seolmin"
+	female = yes
+	dynasty = 4002155
+	culture = honam
+	religion = protestant
+	2386.4.19 = {
+		birth = yes
+	}
+}
+2159 = {
+	name = "Jeonggu"
+	dynasty = 4002152
+	culture = honam
+	religion = protestant
+	2378.3.29 = {
+		birth = yes
+	}
+	2437.6.4 = {
+		death = yes
+	}
+}
+2160 = {
+	name = "Cheongryeol"
+	dynasty = 4002156
+	culture = sinan
+	religion = protestant
+	2374.2.16 = {
+		birth = yes
+	}
+	2401.5.23 = {
+		death = {
+			death_reason = death_execution
+			killer = 2156
+		}
+	}
+}
 
 
 
