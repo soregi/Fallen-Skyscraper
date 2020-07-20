@@ -1,0 +1,51 @@
+rpe_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2 # always
+	ai_convert_other_group = 2	# always try to convert
+	
+	color = { 0.2 0.4 0.8 }
+	
+	#interface_skin = { indian_interface muslim_interface }
+	
+	# Names given only to Indian characters (base names)
+	male_names = {
+	}
+	female_names = {
+	}
+	sanminzhuyi = {
+		graphical_culture = chinesegfx
+		
+		icon = 35
+		heresy_icon = 36
+		
+		color = { 0.85 0.05 0.1 }
+		crusade_name = CRUSADE
+		scripture_name = THE_LEGEND
+		priest_title = PRIEST
+		
+		high_god_name = GOD_SURYONG
+		
+		god_names = {
+			GOD_SURYONG GOD_JANGGUN
+		}
+		
+		evil_god_names = {
+			AMERICAN_IMPERIALIST CAPITALIST
+		}
+		
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+	}
+}

@@ -1,0 +1,10 @@
+1948.5.20 = {
+	holder = 2601
+	name = nationalist_china
+}
+1978.5.20 = {
+	holder = 2602
+}
+2400.1.1 = {
+	holder = 2621
+}
