@@ -1,24 +1,24 @@
-4001401 = {
+4001351 = {
 	name = "Wang"
 	culture = liaoning
 	religion = maoist
 }
-4001402 = {
+4001352 = {
 	name = "Xi"
 	culture = liaoning
 	religion = maoist
 }
-4001403 = {
+4001353 = {
 	name = "Jang"
 	culture = liaoning
 	religion = maoist
 }
-4001404 = {
+4001354 = {
 	name = "Yi"
 	culture = liaoning
 	religion = maoist
 }
-4001405 = {
+4001355 = {
 	name = "Mao"
 	culture = liaoning
 	religion = maoist

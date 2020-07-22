@@ -1,6 +1,6 @@
 1351 = {
 	name = "Xupeng"
-	dynasty = 4001401
+	dynasty = 4001351
 	culture = liaoning
 	religion = maoist
 	trait = brilliant_strategist
@@ -16,7 +16,7 @@
 }
 1352 = {
 	name = "Zhuang"
-	dynasty = 4001401
+	dynasty = 4001351
 	culture = liaoning
 	religion = maoist
 	father = 1351
@@ -34,7 +34,7 @@
 }
 1353 = {
 	name = "Liwei"
-	dynasty = 4001401
+	dynasty = 4001351
 	culture = liaoning
 	religion = maoist
 	father = 1352
@@ -52,7 +52,7 @@
 }
 1354 = {
 	name = "Manchu"
-	dynasty = 4001401
+	dynasty = 4001351
 	culture = liaoning
 	religion = maoist
 	father = 1353
@@ -70,7 +70,7 @@
 }
 1355 = {
 	name = "Jian"
-	dynasty = 4001401
+	dynasty = 4001351
 	culture = liaoning
 	religion = maoist
 	father = 1354
@@ -91,7 +91,7 @@
 }
 1356 = {
 	name = "Juguo"
-	dynasty = 4001401
+	dynasty = 4001351
 	culture = liaoning
 	religion = maoist
 	father = 1355
@@ -108,7 +108,7 @@
 }
 1357 = {
 	name = "Pingjin"
-	dynasty = 4001402
+	dynasty = 4001352
 	culture = liaoning
 	religion = maoist
 	2419.7.16 = {
@@ -117,7 +117,7 @@
 }
 1358 = {
 	name = "Kaishek"
-	dynasty = 4001403
+	dynasty = 4001353
 	culture = liaoning
 	religion = maoist
 	2408.5.13 = {
@@ -126,7 +126,7 @@
 }
 1359 = {
 	name = "Kang"
-	dynasty = 4001404
+	dynasty = 4001354
 	culture = liaoning
 	religion = maoist
 	2423.6.8 = {
@@ -135,7 +135,7 @@
 }
 1360 = {
 	name = "Zedong"
-	dynasty = 4001405
+	dynasty = 4001355
 	culture = liaoning
 	religion = maoist
 	trait = skilled_tactician
