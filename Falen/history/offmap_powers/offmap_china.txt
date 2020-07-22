@@ -1,6 +1,9 @@
 1948.5.20 = {
 	holder = 3001
-	name = nationalist_china
+	name = nanking_china
+}
+1949.12.20 = {
+	name = taipei_china
 }
 1978.5.20 = {
 	holder = 3002

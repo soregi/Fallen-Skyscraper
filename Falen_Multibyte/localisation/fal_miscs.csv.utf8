@@ -9,4 +9,12 @@ KINGDOM_PREFIX;왕국;;;;;;;;;;;;;x
 #HOUSE; House;;;;;;;;;;;;;x
 nick_salt_emperor;염제;;;;;;;;;;;;;x
 nationalist_china;국민정부;;;;;;;;;;;;;x
-
+taipei_china;타이베이;;;;;;;;;;;;;x
+nanking_china;난징;;;;;;;;;;;;;x
+title_china_emperor;총통;;;;;;;;;;;;;x
+e_china_west_governor;중원총독부;;;;;;;;;;;;;x
+e_china;중화민국;;;;;;;;;;;;;x
+china_china;국민정부;Chine;China;;China;;;;;;;;;x
+china_china_full;중화민국;;;;;;;;;;;;;x
+TXT_CHINA;중화민국;;;;;;;;;;x
+empire;국민정부;;;;;;;;;;x

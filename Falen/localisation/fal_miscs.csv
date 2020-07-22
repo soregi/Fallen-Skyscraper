@@ -8,5 +8,17 @@ GOD_MAITREYA;Maitreya;;;;;;;;;;;;;x
 KINGDOM_PREFIX;Kingdom of;;;;;;;;;;;;;x
 #HOUSE; House;;;;;;;;;;;;;x
 nick_salt_emperor;the Salt Emperor;;;;;;;;;;;;;x
-nationalist_china;Nationalist Government;;;;;;;;;;;;;x
-
+nationalist_china;Nationalist;;;;;;;;;;;;;x
+taipei_china;Taipei;;;;;;;;;;;;;x
+nanking_china;Nanjing;;;;;;;;;;;;;x
+guangzhou_china;Guangzhou;;;;;;;;;;;;;x
+wuhan_china;Wuhan;;;;;;;;;;;;;x
+beiyang_china;Beiyang;;;;;;;;;;;;;x
+title_china_emperor;President;;;;;;;;;;;;;x
+e_china_west_governor;Northern Protectorate;;;;;;;;;;;;;x
+e_china_west_governor_adj;Chinese;;;;;;;;;;;;;x
+e_china;Republic of China;;;;;;;;;;;;;x
+china_china;Government;Chine;China;;China;;;;;;;;;x
+china_china_full;Chinese Republic;;;;;;;;;;;;;x
+TXT_CHINA;Republic of China;;;;;;;;;;x
+empire;Government;;;;;;;;;;x
