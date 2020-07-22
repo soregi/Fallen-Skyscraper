@@ -4,11 +4,19 @@ Related effects:
 set_trade_route_base_value = {	# Changes the amount of wealth brought from off-map; same as the "wealth" parameter in the trade route definition, except can be done dynamically
 	which = silk_road			# What trade route to modify
 	value = 200					# What to set the value to. Variables work too
+        which = north korean_road
+        value = 200
+        which = east Sea_road
+        value = 200
 }
 
 set_trade_route_value_multiplier = {	# Multiplies the value of the trade route. If set to 0, the province tooltip will explain that the route is inactive
 	which = silk_road
 	value = 0
+        which = north korean_road
+        value = 0
+        which = east Sea_road
+        value = 0
 }
 
 trade_post_display_trigger = { 	# Defines what provinces show the "trade center" icon. Has no gameplay effect, just display
