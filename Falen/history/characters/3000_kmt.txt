@@ -1,6 +1,6 @@
-2601 = {
+3001 = {
 	name = "Kai-shek"
-	dynasty = 4002601 # Chiang
+	dynasty = 4003001 # Chiang
 	culture = han
 	religion = protestant
 	occluded = yes
@@ -12,9 +12,9 @@
 		death = yes
 	}
 }
-2602 = {
+3002 = {
 	name = "Ching-kuo"
-	dynasty = 4002601 # Chiang
+	dynasty = 4003001 # Chiang
 	father = 2601
 	culture = han
 	religion = sanminzhuyi
@@ -28,9 +28,9 @@
 	}
 }
 
-2621 = {
+3021 = {
 	name = "Zhaoming"
-	dynasty = 4002602 # Sun
+	dynasty = 4003002 # Sun
 	culture = han
 	religion = sanminzhuyi
 	2397.1.1 = { 

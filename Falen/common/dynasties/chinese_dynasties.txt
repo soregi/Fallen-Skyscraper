@@ -23,12 +23,12 @@
 	culture = liaoning
 	religion = maoist
 }
-4002601 = {
+4003001 = {
 	name = "Chiang"
 	culture = han
 	religion = sanminzhuyi
 }
-4002602 = {
+4003002 = {
 	name = "Sun"
 	culture = han
 	religion = sanminzhuyi
