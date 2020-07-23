@@ -51,8 +51,8 @@ old_world_group = {
 	koreanist = {
 		graphical_culture = westerngfx
 		
-		icon = 19
-		heresy_icon = 20
+		icon = 37
+		heresy_icon = 38
 		
 		color = { 0.2 0.4 0.8 }
 		crusade_name = CRUSADE
@@ -82,8 +82,8 @@ old_world_group = {
 	populist = {
 		graphical_culture = westerngfx
 		
-		icon = 19
-		heresy_icon = 20
+		icon = 39
+		heresy_icon = 38
 		
 		color = { 0.2 0.4 0.8 }
 		crusade_name = CRUSADE
@@ -116,8 +116,8 @@ old_world_group = {
 	authoritarian = {
 		graphical_culture = westerngfx
 		
-		icon = 19
-		heresy_icon = 20
+		icon = 37
+		heresy_icon = 38
 		
 		color = { 0.2 0.4 0.8 }
 		crusade_name = CRUSADE
