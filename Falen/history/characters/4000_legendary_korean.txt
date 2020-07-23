@@ -1,0 +1,202 @@
+
+4001 = {
+	name = "Sehun"
+	dynasty = 4000712
+	culture = south_korean
+	religion = catholic
+	occluded = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1961.1.4 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+4002 = {
+	name = "Yeonggyu"
+	dynasty = 4000713
+	culture = south_korean
+	religion = catholic
+	occluded = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1955.3.3 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+4003 = {
+	name = "Wonsun"
+	dynasty = 4000714
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1955.2.11 = { birth = yes }
+	2020.7.9 = {
+		death = {
+			death_reason = death_suicide_fall
+		}
+	}
+}
+4004 = {
+	name = "Yangsuk"
+	dynasty = 4000715
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	female = yes
+	disallow_random_traits = yes
+	1948.2.2 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+4005 = {
+	name = "Gunho"
+	dynasty = 4000709
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 709
+	mother = 4004
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1973.5.6 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+4006 = {
+	name = "Jungyeon"
+	dynasty = 4000709
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 709
+	mother = 4004
+	female = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1975.5.23 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+4007 = {
+	name = "Seoeun"
+	dynasty = 4000709
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 4005
+	female = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	2004.5.23 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+4008 = {
+	name = "Hajin"
+	dynasty = 4000709
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 4005
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	2008.5.23 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+4009 = {
+	name = "Pansuk"
+	dynasty = 4000709
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 4005
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1900.5.23 = { birth = yes }
+	1931.5.23 = {
+		add_spouse = 4010
+		}
+	1976.5.23 = { death = yes }
+}
+4010 = {
+	name = "Sunrye"
+	dynasty = 4000716
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1914.5.23 = { birth = yes }
+	1998.5.23 = { death = yes }
+}
+4011 = {
+	name = "Yeonghyon"
+	dynasty = 4000709
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 4009
+	mother = 4010
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1932.5.23 = { birth = yes }
+	1972.5.23 = { death = yes }
+}
+4012 = {
+	name = "Gunpyong"
+	dynasty = 4000709
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 4009
+	mother = 4010
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1942.1.30 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
