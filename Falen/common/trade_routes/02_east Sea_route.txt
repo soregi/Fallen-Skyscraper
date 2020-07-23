@@ -11,6 +11,17 @@ east Sea_road = {
 		}
 	}
 	
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.01
+		city_tax_modifier = 0.01
+		temple_tax_modifier = 0.01
+		tribal_tax_modifier = 0.01
+		trade_route_value = 0.1
+		local_movement_speed = 0.02
+		tech_growth_modifier = 0.015
+		icon = 4
+	}
+	
 	start = {
 	    387 #블라디보스톸
 	}
