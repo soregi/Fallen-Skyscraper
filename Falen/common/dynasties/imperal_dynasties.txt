@@ -54,3 +54,28 @@
 	culture = old_korean 
 	religion = koreanist
 }
+4000712 = {
+	name = "Oh"
+	culture = old_korean 
+	religion = koreanist
+}
+4000713 = {
+	name = "Kwon"
+	culture = old_korean 
+	religion = koreanist
+}
+4000714 = {
+	name = "Park"
+	culture = old_korean 
+	religion = koreanist
+}
+4000715 = {
+	name = "Kwon"
+	culture = old_korean 
+	religion = koreanist
+}
+4000716 = {
+	name = "Lee"
+	culture = old_korean 
+	religion = koreanist
+}
