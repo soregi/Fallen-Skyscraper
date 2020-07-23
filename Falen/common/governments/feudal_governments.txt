@@ -450,17 +450,12 @@ feudal_governments = {
 		    NOT = { cultures_group = old_korean }
 		}
 		potential = {
-		    YES = {
-                controls_religion = yes
-                cultures_group = old_korean
-                has_cultures_feature = cultures_temporal_head				
-			}
+			has_landed_title = e_south_korea
+			culture = old_korean
 			is_patrician = no
 		}
 		color = { 51 102 255 }
-		
-		dukes_called_kings = yes
-		barons_need_dynasty = yes
+
 		can_create_empires = no
 		can_create_kingdoms = no
 		capital_move_delay = 600

@@ -1,0 +1,5 @@
+feudal_governments = {
+
+	feudal_government = {
+	}
+}
