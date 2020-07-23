@@ -85,6 +85,7 @@ d_yeongju = {
 	color2={ 132 148 120 }
 
 }
+#########고려 행정구역##############
 e_goryeo = {
 	color={ 191 138 105 }
 	color2={ 132 148 120 }
@@ -94,6 +95,247 @@ e_goryeo = {
 	title_prefix = KINGDOM_PREFIX
 	
 }
+k_goryeo_bukgye = {
+	color={ 191 138 105 }
+	color2={ 132 148 120 }
+	
+}
+k_goryeo_donggye = {
+	color={ 191 138 105 }
+	color2={ 132 148 120 }
+	
+}
+k_goryeo_seohaedo = {
+	color={ 191 138 105 }
+	color2={ 132 148 120 }
+	
+}
+k_goryeo_gyojudo = {
+	color={ 191 138 105 }
+	color2={ 132 148 120 }
+	
+}
+k_goryeo_yanggwangdo = {
+	color={ 191 138 105 }
+	color2={ 132 148 120 }
+	
+}
+k_goryeo_jeollado = {
+	color={ 191 138 105 }
+	color2={ 132 148 120 }
+	
+}
+k_goryeo_gyeongsangdo = {
+	color={ 191 138 105 }
+	color2={ 132 148 120 }
+	
+}
+##############여기까지 고려 행정구역##############
+##########한국 행정구역#################
+k_seoul_teukbyeol_si = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_incheon_gwangyeok_si = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_gyeonggi_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_gangwon_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_chungcheong_buk_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_chungcheong_nam_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_daejeon_gwangyeok_si = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_sejong_teukbyeol_jachisi = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_gyeongsang_buk_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_gyeongsang_nam_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_daegu_gwangyeok_si = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_busan_gwangyeok_si = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_ulsan_gwangyeok_si = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_jeolla_buk_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_jeolla_nam_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_gwangju_gwangyeok_si = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_jeju_teukbyeol_jachido = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+#이북5도 + 신 광역자치단체
+k_daema_teukbyeol_jachido = { #대마특별자치도
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_gaeseong_gwangyeok_si = { #개성광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_pyeongyang_gwangyeok_si = { #평양광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_nampo_gwangyeok_si = { #남포광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_sinuiju_gwangyeok_si = { #신의주광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_najin_gwangyeok_si = { #나진광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_wonsan_gwangyeok_si = { #원산광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+#
+k_hwanghae_do = { #황해도
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_pyeongan_buk_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_pyeongan_nam_do = { 
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_hamgyeong_buk_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_hamgyeong_nam_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+#해외
+k_yeonbyeon_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_yodong_buk_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_yodong_nam_do = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_yoseo_teukbyeol_jachido = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_mongol_teukbyeol_jachido = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_manju_teukbyeol_jachido = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_yeonhaeju_teukbyeol_jachido = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_sandong_teukbyeol_jachido = {
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_jinju_gwangyeok_si = { #블라디보스톡 광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_cheongdo_gwangyeok_si = { #칭따오 광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+k_daeryeon_gwangyeok_si = { #다롄 광역시
+	color = { 50 25 223 }
+	color2 = { 255 255 255 }
+
+}
+#############여기까지 한국 행정구역##############
 k_mountain_league = { #산악연맹
 	color={ 250 238 35 }
 	color2={ 132 148 20 }

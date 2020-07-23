@@ -153,19 +153,8 @@
 	stewardship = 4
 	intrigue = 6
 	learning = 10
-	father = 4009
-	mother = 4010
-	add_trait = "charismatic_negotiator"
-	add_trait = "gregarious"
-	add_trait = "arbitrary"
-	add_trait = "trusting"
-	add_trait = "administrator"
-	add_trait = "stubborn"
 	disallow_random_traits = yes
 	1946.9.1 = { birth = yes }
-	1973.1.29 = {
-		add_spouse = 4004
-		}
 	2009.5.23 = {
 		death = {
 			death_reason = death_suicide_fall
