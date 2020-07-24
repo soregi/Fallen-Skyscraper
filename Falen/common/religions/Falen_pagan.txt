@@ -271,7 +271,7 @@ pagan_group = {
 		intermarry = mu_pagan_reformed
 	}
 	gaian_reformed = {
-		graphical_culture = chinesegfx
+		graphical_culture = africangfx
 		secondary_event_pictures = finnish_pagan
 		alternate_start = { always = no }
 		
@@ -322,7 +322,7 @@ pagan_group = {
 	}
 
 	gaian = {
-		graphical_culture = chinesegfx
+		graphical_culture = africangfx
 
 		icon = 20
 		heresy_icon = 73
@@ -815,7 +815,9 @@ pagan_group = {
 		religious_clothing_priest = 2
 		reformed = red_solar_pagan_reformed
 		
+		intermarry = juche
 		intermarry = red_solar_pagan_reformed
+		
 	}
 	red_solar_pagan_reformed = {
 		graphical_culture = westerngfx
@@ -850,6 +852,7 @@ pagan_group = {
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
+		intermarry = juche
 		intermarry = red_solar_pagan
 	}
 }

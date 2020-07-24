@@ -84,8 +84,8 @@ old_world_group = {
 		
 		icon = 39
 		heresy_icon = 38
-		
-		color = { 0.2 0.4 0.8 }
+		color = { 0.2 0.4 0.9 }
+		#구분용 임시색변, 이건 본 색color = { 0.2 0.4 0.8 }
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
@@ -118,8 +118,8 @@ old_world_group = {
 		
 		icon = 37
 		heresy_icon = 38
-		
-		color = { 0.2 0.4 0.8 }
+		color = { 0.3 0.4 0.8 }
+		#이것도color = { 0.2 0.4 0.8 }
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST

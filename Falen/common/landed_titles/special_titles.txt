@@ -320,11 +320,6 @@ k_sandong_teukbyeol_jachido = {
 	color2 = { 255 255 255 }
 
 }
-k_jinju_gwangyeok_si = { #블라디보스톡 광역시
-	color = { 50 25 223 }
-	color2 = { 255 255 255 }
-
-}
 k_cheongdo_gwangyeok_si = { #칭따오 광역시
 	color = { 50 25 223 }
 	color2 = { 255 255 255 }
