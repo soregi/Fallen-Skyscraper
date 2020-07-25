@@ -1,0 +1,414 @@
+#문경
+2601 = {
+	name = "Seonwoo"
+	dynasty = 4002601
+	culture = yeongnam
+	religion = confucian
+	2379.2.21 = {
+		birth = yes
+	}
+}
+2602 = {
+	name = "Jiwon"
+	dynasty = 4002601
+	culture = yeongnam
+	religion = confucian
+	father = 2601
+	2408.6.14 = {
+		birth = yes
+	}
+}
+2603 = {
+	name = "Jinyeong"
+	dynasty = 4002601
+	culture = yeongnam
+	religion = confucian
+	father = 2601
+	2410.8.1 = {
+		birth = yes
+	}
+}
+2604 = {
+	name = "Bangwon"
+	dynasty = 4002602
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2605
+	2422.3.16 = {
+		birth = yes
+	}
+}
+2605 = {
+	name = "Banggeun"
+	dynasty = 4002602
+	culture = yeongnam
+	religion = mu_pagan
+	2356.7.2 = {
+		birth = yes
+	}
+	2438.5.18 = {
+		death = yes
+	}
+}
+#고령
+2611 = {
+	name = "Yi"
+	dynasty = 4002611
+	culture = yeongnam
+	religion = mu_pagan
+	trait = proud
+	2267.8.16 = {
+		birth = yes
+	}
+	2332.5.21 = {
+		death = {
+			death_reason = death_execution
+			killer = 2612
+		}
+	}
+}
+2612 = {
+	name = "Yeonwoo"
+	dynasty = 4002612
+	culture = sudsee
+	religion = protestant
+	2303.1.27 = {
+		birth = yes
+	}
+	2351.6.23 = {
+		death = yes
+	}
+}
+2613 = {
+	name = "Cheongeun"
+	dynasty = 4002611
+	culture = yeongnam
+	religion = mu_pagan
+	trait = content
+	trait = kind
+	trait = diligent
+	trait = just
+	trait = chaste
+	trait = humble
+	2276.9.4 = {
+		birth = yes
+	}
+	2330.5.20 = {
+		death = {
+			death_reason = death_murder
+			killer = 2612
+		}
+	}
+}
+2614 = {
+	name = "Yeongwon"
+	dynasty = 4002611
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2613
+	trait = ambitious
+	trait = quick
+	2304.7.21 = {
+		birth = yes
+	}
+	2404.5.21 = {
+		death = yes
+	}
+}
+2615 = {
+	name = "Hyeonwoo"
+	dynasty = 4002611
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2614
+	trait = quick
+	2331.6.10 = {
+		birth = yes
+	}
+	2397.4.2 = {
+		death = yes
+	}
+}
+2616 = {
+	name = "Jiseong"
+	dynasty = 4002611
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2615
+	trait = quick
+	trait = tough_soldier
+	2376.3.19 = {
+		birth = yes
+	}
+	2419.2.5 = {
+		death = yes
+	}
+}
+2617 = {
+	name = "Seonmu"
+	dynasty = 4002611
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2616
+	trait = naive_appeaser
+	2401.4.3 = {
+		birth = yes
+	}
+}
+#무주
+2621 = {
+	name = "Seungmin"
+	dynasty = 4002621
+	culture = honam
+	religion = mu_pagan
+	2354.11.6 = {
+		birth = yes
+	}
+	2403.6.2 = {
+		death = yes
+	}
+}
+2622 = {
+	name = "Yujin"
+	dynasty = 4002621
+	culture = honam
+	religion = mu_pagan
+	father = 2621
+	2396.4.11 = {
+		birth = yes
+	}
+	2428.7.16 = {
+		add_spouse = 2625
+	}
+}
+2623 = {
+	name = "Minwoo"
+	dynasty = 4002621
+	culture = honam
+	religion = mu_pagan
+	father = 2622
+	mother = 2625
+	2429.7.2 = {
+		birth = yes
+	}
+}
+2624 = {
+	name = "Minju"
+	female = yes
+	dynasty = 4002621
+	culture = honam
+	religion = mu_pagan
+	father = 2622
+	mother = 2625
+	2432.3.18 = {
+		birth = yes
+	}
+}
+2625 = {
+	name = "Inju"
+	female = yes
+	dynasty = 4002631
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2632
+	2412.6.15 = {
+		birth = yes
+	}
+}
+#구미
+2631 = {
+	name = "Seungjae"
+	dynasty = 4002631
+	culture = yeongnam
+	religion = mu_pagan
+	2341.6.13 = {
+		birth = yes
+	}
+	2398.9.22 = {
+		death = yes
+	}
+}
+2632 = {
+	name = "Hyeontae"
+	dynasty = 4002631
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2631
+	2393.9.17 = {
+		birth = yes
+	}
+}
+2633 = {
+	name = "Museung"
+	dynasty = 4002631
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2632
+	2413.5.4 = {
+		birth = yes
+	}
+}
+2634 = {
+	name = "Jieon"
+	dynasty = 4002631
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2632
+	2419.8.6 = {
+		birth = yes
+	}
+	2438.12.6 = {
+		add_spouse = 2635
+	}
+}
+2635 = {
+	name = "Mina"
+	female = yes
+	dynasty = 4002632
+	culture = yeongnam
+	religion = mu_pagan
+	2421.11.12 = {
+		birth = yes
+	}
+}
+2636 = {
+	name = "Seunga"
+	female = yes
+	dynasty = 4002631
+	culture = yeongnam
+	religion = mu_pagan
+	father = 2634
+	mother = 2635
+	2439.12.6 = {
+		birth = yes
+	}
+}
+#문경 북쪽
+2641 = {
+	name = "Jinwoo"
+	dynasty = 4002641
+	culture = hoseo
+	religion = mu_pagan
+	2351.12.6 = {
+		birth = yes
+	}
+	2429.9.8 = {
+		death = yes
+	}
+}
+2642 = {
+	name = "Yuhwa"
+	female = yes
+	dynasty = 4002641
+	culture = hoseo
+	religion = mu_pagan
+	father = 2641
+	2386.2.18 = {
+		birth = yes
+	}
+}
+2643 = {
+	name = "Yuyoung"
+	female = yes
+	dynasty = 4002641
+	culture = hoseo
+	religion = mu_pagan
+	father = 2641
+	2389.11.23 = {
+		birth = yes
+	}
+}
+2644 = {
+	name = "Daesu"
+	female = yes
+	dynasty = 4002641
+	culture = hoseo
+	religion = mu_pagan
+	father = 2641
+	2397.1.13 = {
+		birth = yes
+	}
+	2419.4.27 = {
+		add_spouse = 2645
+	}
+}
+2645 = {
+	name = "Jieun"
+	female = yes
+	dynasty = 4002642
+	culture = hoseo
+	religion = mu_pagan
+	2398.7.21 = {
+		birth = yes
+	}
+}
+2646 = {
+	name = "Yujin"
+	dynasty = 4002641
+	culture = hoseo
+	religion = mu_pagan
+	father = 2644
+	mother = 2645
+	2426.6.2 = {
+		birth = yes
+	}
+}
+2647 = {
+	name = "Jina"
+	female = yes
+	dynasty = 4002641
+	culture = hoseo
+	religion = mu_pagan
+	father = 2644
+	mother = 2645
+	2424.11.5 = {
+		birth = yes
+	}
+}
+#전라도쪽
+2651 = {
+	name = "Sinhyeok"
+	dynasty = 4002651
+	culture = honam
+	religion = mu_pagan
+	2368.7.2 = {
+		birth = yes
+	}
+	2411.8.24 = {
+		death = yes
+	}
+}
+2652 = {
+	name = "Jeonhyeong"
+	dynasty = 4002651
+	culture = honam
+	religion = imperial
+	father = 2651
+	2403.9.25 = {
+		birth = yes
+	}
+	2419.3.16 = {
+		add_spouse = 2654
+	}
+}
+2653 = {
+	name = "Daniel"
+	dynasty = 4002651
+	culture = honam
+	religion = imperial
+	father = 2652
+	mother = 2654
+	2420.6.18 = {
+		birth = yes
+	}
+}
+2654 = {
+	name = "Cheong"
+	female = yes
+	dynasty = 4002652
+	culture = honam
+	religion = imperial
+	2402.1.10 = {
+		birth = yes
+	}
+}

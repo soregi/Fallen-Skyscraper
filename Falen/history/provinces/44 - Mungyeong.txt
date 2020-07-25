@@ -12,4 +12,4 @@ b_gaeun = city
 			
 # Misc
 culture = yeongnam
-religion = koreanist
+religion = confucian

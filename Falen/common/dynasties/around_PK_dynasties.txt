@@ -1,0 +1,54 @@
+4002601 = {
+	name = "Ahn"
+	culture = yeongnam
+	religion = confucian
+}
+4002602 = {
+	name = "Seong"
+	culture = yeongnam
+	religion = confucian
+}
+4002611 = {
+	name = "Hwang"
+	culture = yeongnam
+	religion = mu_pagan
+}
+4002612 = {
+	name = "Min"
+	culture = sudsee
+	religion = protestant
+}
+4002621 = {
+	name = "Cha"
+	culture = honam
+	religion = mu_pagan
+}
+4002631 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = mu_pagan
+}
+4002632 = {
+	name = "Seong"
+	culture = yeongnam
+	religion = mu_pagan
+}
+4002641 = {
+	name = "Seon"
+	culture = hoseo
+	religion = mu_pagan
+}
+4002642 = {
+	name = "Lee"
+	culture = hoseo
+	religion = mu_pagan
+}
+4002651 = {
+	name = "Hong"
+	culture = honam
+}
+4002652 = {
+	name = "Song"
+	culture = honam
+	religion = imperial
+}
