@@ -11,4 +11,4 @@ b_dogye = city
 
 # Misc
 culture = yeongdong
-religion = koreanist
+religion = authoritarian

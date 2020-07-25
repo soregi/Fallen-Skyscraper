@@ -10,4 +10,4 @@ b_westwonju = tribal
 
 # Misc
 culture = yeongdong
-religion = koreanist
+religion = mu_pagan

@@ -1,0 +1,8 @@
+#신복련
+
+#대전
+4001851 = {
+	name = "Hwa"
+	culture = hoseo
+	religion = mechanist
+}

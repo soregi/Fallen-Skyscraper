@@ -10,4 +10,4 @@ b_yangpyeong = tribal
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = mu_pagan

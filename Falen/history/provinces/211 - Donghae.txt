@@ -11,4 +11,4 @@ b_guho = city
 
 # Misc
 culture = yeongdong
-religion = koreanist
+religion = authoritarian

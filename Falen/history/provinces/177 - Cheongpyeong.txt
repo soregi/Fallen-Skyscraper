@@ -12,4 +12,4 @@ b_daeseong_cheongpyeong = city
 
 # Misc
 culture = gyeonggi
-religion = catholic
+religion = authoritarian

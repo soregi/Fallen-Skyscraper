@@ -331,6 +331,11 @@ k_daeryeon_gwangyeok_si = { #다롄 광역시
 
 }
 #############여기까지 한국 행정구역##############
+k_daejeon_scfi = {
+	color = { 30 50 190 }
+	color2 = { 105 55 25 }
+
+}
 k_mountain_league = { #산악연맹
 	color={ 250 238 35 }
 	color2={ 132 148 20 }

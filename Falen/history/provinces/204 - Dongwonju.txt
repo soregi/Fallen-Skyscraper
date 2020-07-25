@@ -10,4 +10,4 @@ b_eastwonju = tribal
 
 # Misc
 culture = yeongseo
-religion = confucian
+religion = mu_pagan

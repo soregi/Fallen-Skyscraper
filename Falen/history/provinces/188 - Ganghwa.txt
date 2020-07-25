@@ -10,4 +10,4 @@ b_ganghwa = tribal
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

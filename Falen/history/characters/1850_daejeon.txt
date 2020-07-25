@@ -1,0 +1,13 @@
+#설정 정해질때까지 한명한테 몰빵해둔다
+1851 = {
+	name = "Jeonghak"
+	dynasty = 4001851 #대전 정부성씨
+	culture = hoseo
+	religion = mechanist
+	trait = fortune_builder
+	trait = cynical
+	trait = scholar
+	2416.4.21 = {
+		birth = yes
+	}
+}

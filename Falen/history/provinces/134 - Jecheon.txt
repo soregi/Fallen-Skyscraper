@@ -10,4 +10,4 @@ b_jecheon = tribal
 
 # Misc
 culture = hoseo
-religion = confucian
+religion = mu_pagan
