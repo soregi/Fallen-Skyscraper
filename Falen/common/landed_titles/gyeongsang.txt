@@ -295,7 +295,7 @@ k_gyeongsang = {
 			b_geumpyeong = {}
 		}
 	}
-	d_sangju = {
+	d_mungyeong = {
 		color = { 142 197 255 }
 
 		capital = 43
