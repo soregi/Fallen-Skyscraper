@@ -1,0 +1,8 @@
+2418.5.26 = {
+	liege = k_jinhae
+	holder = 1676
+}
+2430.5.17 = {
+	liege = k_jinhae
+	holder = 1677
+}

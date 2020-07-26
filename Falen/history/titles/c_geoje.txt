@@ -1,0 +1,4 @@
+2438.7.21 = {
+	liege = k_jinhae
+	holder = 1679
+}

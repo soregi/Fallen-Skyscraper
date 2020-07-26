@@ -1,0 +1,181 @@
+1601 = {
+	name = "Yoshihiro"
+	dynasty = 4001601 #So
+	culture = yeongnam #원래는 일본인데, 아직 없음
+	religion = mahayana #원래 신토
+	father = 1602
+	trait = skilled_tactician
+	2424.3.25 = {
+		birth = yes
+	}
+}
+1602 = {
+	name = "Hitoshi"
+	dynasty = 4001601 #So
+	culture = yeongnam #원래는 일본인데, 아직 없음
+	religion = mahayana #원래 신토
+	trait = tough_soldier
+	2376.1.16 = {
+		birth = yes
+	}
+	2441.11.9 = {
+		death = yes
+	}
+}
+#진해
+1671 = {
+	name = "Suchang"
+	dynasty = 4001671
+	culture = yeongnam
+	religion = authoritarian
+	2391.12.15 = {
+		birth = yes
+	}
+	2408.3.8 = {
+		add_spouse = 1683
+	}
+}
+1672 = {
+	name = "Malyoung"
+	female = yes
+	dynasty = 4001671
+	culture = yeongnam
+	religion = authoritarian
+	father = 1671
+	mother = 1683
+	2415.8.9 = {
+		birth = yes
+	}
+}
+1673 = {
+	name = "Jeongsuk"
+	female = yes
+	dynasty = 4001671
+	culture = yeongnam
+	religion = authoritarian
+	father = 1671
+	mother = 1683
+	2418.6.17 = {
+		birth = yes
+	}
+}
+1674 = {
+	name = "Myeongin"
+	female = yes
+	dynasty = 4001671
+	culture = yeongnam
+	religion = authoritarian
+	father = 1671
+	mother = 1683
+	2421.9.18 = {
+		birth = yes
+	}
+}
+1675 = {
+	name = "Kwonwu"
+	dynasty = 4001671
+	culture = yeongnam
+	religion = authoritarian
+	father = 1671
+	mother = 1683
+	2430.1.7 = {
+		birth = yes
+	}
+}
+1676 = {
+	name = "Sangmin"
+	dynasty = 4001672
+	culture = yeongnam
+	religion = authoritarian
+	2377.9.17 = {
+		birth = yes
+	}
+	2430.5.17 = {
+		death = yes
+	}
+}
+1677 = {
+	name = "Yujin"
+	dynasty = 4001672
+	culture = yeongnam
+	religion = authoritarian
+	father = 1676
+	2408.8.17 = {
+		birth = yes
+	}
+}
+1678 = {
+	name = "Donghyeok"
+	dynasty = 4001672
+	culture = yeongnam
+	religion = authoritarian
+	father = 1676
+	2412.4.9 = {
+		birth = yes
+	}
+}
+1679 = {
+	name = "Yehwan"
+	dynasty = 4001673
+	culture = yeongnam
+	religion = authoritarian
+	2397.6.12 = {
+		birth = yes
+	}
+	2422.7.10 = {
+		add_spouse = 1682
+	}
+}
+1680 = {
+	name = "Youngdal"
+	dynasty = 4001673
+	culture = yeongnam
+	religion = authoritarian
+	father = 1679
+	mother = 1682
+	2427.1.2 = {
+		birth = yes
+	}
+}
+1681 = {
+	name = "Cheolmin"
+	dynasty = 4001673
+	culture = yeongnam
+	religion = authoritarian
+	father = 1679
+	mother = 1682
+	2430.2.9 = {
+		birth = yes
+	}
+}
+1682 = {
+	name = "Jeonghye"
+	female = yes
+	dynasty = 4001674
+	culture = yeongnam
+	religion = authoritarian
+	2399.5.20 = {
+		birth = yes
+	}
+}
+1683 = {
+	name = "Juyoung"
+	female = yes
+	dynasty = 4001675
+	culture = yeongnam
+	religion = authoritarian
+	2389.11.6 = {
+		birth = yes
+	}
+}
+
+
+
+
+
+
+
+
+
+
+

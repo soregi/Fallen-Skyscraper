@@ -320,7 +320,6 @@
 }
 2644 = {
 	name = "Daesu"
-	female = yes
 	dynasty = 4002641
 	culture = hoseo
 	religion = mu_pagan

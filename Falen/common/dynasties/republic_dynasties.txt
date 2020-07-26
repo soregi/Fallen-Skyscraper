@@ -153,6 +153,32 @@
 	religion = populist
 }
 #여기서부터 부산
+#진해
+4001671 = {
+	name = "Kwon"
+	culture = yeongnam
+	religion = authoritarian
+}
+4001672 = {
+	name = "Choi"
+	culture = yeongnam
+	religion = authoritarian
+}
+4001673 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = authoritarian
+}
+4001674 = {
+	name = "Yu"
+	culture = yeongnam
+	religion = authoritarian
+}
+4001675 = {
+	name = "Jo"
+	culture = yeongnam
+	religion = authoritarian
+}
 #울릉도
 4001451 = {
 	name = "Bae"

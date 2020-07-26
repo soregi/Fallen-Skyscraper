@@ -331,7 +331,7 @@ k_daeryeon_gwangyeok_si = { #다롄 광역시
 
 }
 #############여기까지 한국 행정구역##############
-k_daejeon_scfi = {
+k_daejeon_sifi = {
 	color = { 30 50 190 }
 	color2 = { 105 55 25 }
 
@@ -490,6 +490,16 @@ k_hebei = { #허베이
 k_yanbian = { #연변
 	color={ 199 55 95 }
 	color2={ 30 120 230 }
+
+}
+k_busan = { #부산 연합
+	color = { 117 209 255 }
+	color2={ 86 10 92 }
+
+}
+k_jinhae = { #진해해군사령부
+	color = { 70 204 212 }
+	color2={ 186 10 22 }
 
 }
 e_kangsong_tae_kuk = {
