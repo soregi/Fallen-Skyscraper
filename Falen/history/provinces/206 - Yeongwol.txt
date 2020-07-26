@@ -10,4 +10,4 @@ b_yeongwol = tribal
 
 # Misc
 culture = yeongseo
-religion = mu_pagan
+religion = confucian

@@ -13,4 +13,4 @@ b_wau_wonsan = temple
 
 # Misc
 culture = yeongdong
-religion = catholic
+religion = orthodox

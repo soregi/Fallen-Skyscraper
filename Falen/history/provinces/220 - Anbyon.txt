@@ -10,4 +10,4 @@ b_anbyon = tribal
 
 # Misc
 culture = yeongdong
-religion = catholic
+religion = mu_pagan
