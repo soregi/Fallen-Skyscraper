@@ -1,4 +1,4 @@
-
+#제주
 1701 = {
 	name = "Munhwa"
 	dynasty = 4001701 #제주 현씨
@@ -38,3 +38,97 @@
 		death = yes
 	}
 }
+#미군
+1771 = {
+	name = "Alfred"
+	dynasty = 4001771
+	culture = american
+	religion = catholic
+	2301.7.29 = {
+		birth = yes
+	}
+	2350.1.26 = {
+		death = yes
+	}
+}
+1772 = {
+	name = "John"
+	dynasty = 4001771
+	culture = american
+	religion = catholic
+	father = 1771
+	2326.8.23 = {
+		birth = yes
+	}
+	2370.5.13 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1773 = {
+	name = "Samuel"
+	dynasty = 4001771
+	culture = american
+	religion = catholic
+	father = 1772
+	2350.3.12 = {
+		birth = yes
+	}
+	2407.7.9 = {
+		death = yes
+	}
+}
+1774 = {
+	name = "Steven"
+	dynasty = 4001771
+	culture = american
+	religion = catholic
+	father = 1773
+	2373.8.13 = {
+		birth = yes
+	}
+	2411.4.18 = {
+		death = yes
+	}
+}
+1775 = {
+	name = "Alfred"
+	dynasty = 4001771
+	culture = american
+	religion = catholic
+	father = 1774
+	2395.7.11 = {
+		birth = yes
+	}
+}
+1776 = {
+	name = "Johan"
+	dynasty = 4001772
+	culture = yeongnam
+	religion = catholic
+	2318.9.5 = {
+		birth = yes
+	}
+	2370.5.13 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1777 = {
+	name = "Paul"
+	dynasty = 4001772
+	culture = yeongnam
+	religion = catholic
+	father = 1775
+	2340.9.7 = {
+		birth = yes
+	}
+	2389.2.11 = {
+		death = yes
+	}
+}
+#일시중지
+
+

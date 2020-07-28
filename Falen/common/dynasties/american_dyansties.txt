@@ -1,0 +1,23 @@
+#평택
+#군산
+#대구
+4001771 = {
+	name = "Buchanan"
+	culture = american
+	religion = catholic
+}
+4001772 = {
+	name = "Park"
+	culture = yeongnam
+	religion = catholic
+}
+4001773 = {
+	name = "walker"
+	culture = american
+	religion = catholic
+}
+4001774 = {
+	name = "Jang"
+	culture = yeongnam
+	religion = catholic
+}
