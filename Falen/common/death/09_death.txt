@@ -1,0 +1,3 @@
+death_kor_guy = { #기록 소실, 현재도 살아있는 정치인용
+	long_desc = "DEATH_KOR_GUY"
+}

@@ -121,7 +121,7 @@
 	dynasty = 4001772
 	culture = yeongnam
 	religion = catholic
-	father = 1775
+	father = 1776
 	2340.9.7 = {
 		birth = yes
 	}
@@ -129,6 +129,24 @@
 		death = yes
 	}
 }
-#일시중지
-
-
+1778 = {
+	name = "Jacob"
+	dynasty = 4001772
+	culture = yeongnam
+	religion = catholic
+	father = 1777
+	2358.1.22 = {
+		birth = yes
+	}
+}
+1779 = {
+	name = "Pedro"
+	dynasty = 4001772
+	culture = yeongnam
+	religion = catholic
+	father = 1778
+	2358.1.22 = {
+		birth = yes
+	}
+}
+#중지
