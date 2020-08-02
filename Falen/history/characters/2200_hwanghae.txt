@@ -711,7 +711,7 @@
 	religion = juche
 	trait = martial_cleric
 	trait = brave
-	father = 2293
+	father = 2292
 	2410.9.3 = {
 		birth = yes
 	}
@@ -988,13 +988,13 @@
 		death = yes
 	}
 }
-2292 = {
+2291 = {
 	name = "Descendants of the goja"
 	dynasty = 4002262
 	culture = pyongnam
 	religion = juche
 	disallow_random_traits = yes
-	father = 2291
+	father = 4741
 	1950.1.1 = {
 		birth = yes
 	}
@@ -1002,14 +1002,14 @@
 		death = yes
 	}
 }
-2293 = {
+2292 = {
 	name = "Jae Sol"
 	dynasty = 4002262
 	culture = pyongnam
 	religion = juche
 	trait = charismatic_negotiator
 	trait = shrewd
-	father = 2292
+	father = 2291
 	2387.2.2 = {
 		birth = yes
 	}
