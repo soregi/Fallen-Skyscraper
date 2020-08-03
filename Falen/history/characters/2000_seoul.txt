@@ -399,6 +399,57 @@
 	mother = 2047
 	2439.10.5 = { birth = yes }
 }
+2061 = {
+	name = "Juchul"
+	dynasty = 4002026
+	religion="koreanist"
+	culture="seoul"
+	2420.5.18 = { birth = yes }
+}
+2062 = {
+	name = "Donggu"
+	dynasty = 4002027
+	religion="koreanist"
+	culture="seoul"
+	2378.5.22 = { birth = yes }
+	2404.12.15 = { add_spouse=2063 }
+}
+2063 = {
+	name = "Serim"
+	female = yes
+	dynasty = 4002028
+	religion="koreanist"
+	culture="seoul"
+	2384.8.19 = { birth = yes }
+	2404.12.15 = { add_spouse=2062 }
+}
+2064 = {
+	name = "Jongbu"
+	dynasty = 4002027
+	religion="koreanist"
+	culture="seoul"
+	father = 2062
+	mother = 2063
+	2412.9.5 = { birth = yes }
+}
+2065 = {
+	name = "Budong"
+	dynasty = 4002027
+	religion="koreanist"
+	culture="seoul"
+	father = 2062
+	mother = 2063
+	2421.11.11 = { birth = yes }
+}
+2066 = {
+	name = "Sangsun"
+	dynasty = 4002027
+	religion="koreanist"
+	culture="seoul"
+	father = 2062
+	mother = 2063
+	2426.2.3 = { birth = yes }
+}
 #여기서부터 마포 백작들
 2049 = {
 	name = "Sinjin"

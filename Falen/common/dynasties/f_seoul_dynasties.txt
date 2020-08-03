@@ -123,3 +123,12 @@
 	culture = seoul 
 	religion = koreanist
 }
+4002026 = {
+	name = "Shin"
+}
+4004027 = {
+	name = "Ma"
+}
+4004028 = {
+	name = "Hong"
+}
