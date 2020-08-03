@@ -23,4 +23,6 @@
 }
 4000804 = {
 	name = "Kim"
+	culture = seoul 
+	religion = koreanist
 }

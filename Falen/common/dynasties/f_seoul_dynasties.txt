@@ -125,10 +125,16 @@
 }
 4002026 = {
 	name = "Shin"
+	culture = seoul 
+	religion = koreanist
 }
 4004027 = {
 	name = "Ma"
+	culture = seoul 
+	religion = koreanist
 }
 4004028 = {
 	name = "Hong"
+	culture = seoul 
+	religion = koreanist
 }
