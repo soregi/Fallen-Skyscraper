@@ -1,0 +1,225 @@
+4000001 = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000002 = {
+	name = "Yu"
+	culture = hoseo
+	religion  = imperial
+}
+4000003 = {
+	name = "Park"
+	culture = hoseo
+	religion  = imperial
+}
+4000004 = {
+	name = "Park"
+	culture = hoseo
+	religion  = imperial
+}
+4000005 = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000006 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000007 = {
+	name = "Bae"
+	culture = hoseo
+	religion  = imperial
+}
+4000008 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000009 = {
+	name = "Park"
+	culture = hoseo
+	religion  = imperial
+}
+4000011 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000012 = {
+	name = "Wu"
+	culture = hoseo
+	religion  = imperial
+}
+4000013 = {
+	name = "Park"
+	culture = hoseo
+	religion  = imperial
+}
+4000014 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000015 = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000016 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000017   = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000018 = {
+	name = "Yu"
+	culture = hoseo
+	religion  = imperial
+}
+4000019 = {
+	name = "Hong"
+	culture = hoseo
+	religion  = imperial
+}
+4000020 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000021 = {
+	name = "Gu"
+	culture = hoseo
+	religion  = imperial
+}
+4000022 = {
+	name = "Bang"
+	culture = hoseo
+	religion  = imperial
+}
+4000023 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000024 = {
+	name = "Bang"
+	culture = hoseo
+	religion  = imperial
+}
+4000025 = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000023 = {
+	name = "Bae"
+	culture = hoseo
+	religion  = imperial
+}
+4000024 = {
+	name = "Yu"
+	culture = hoseo
+	religion  = imperial
+}
+4000025 = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000026 = {
+	name = "Bae"
+	culture = hoseo
+	religion  = imperial
+}
+4000027 = {
+	name = "Ahn"
+	culture = hoseo
+	religion  = imperial
+}
+4000030 = {
+	name = "Song"
+	culture = hoseo
+	religion  = imperial
+}
+4000031 = {
+	name = "Jang"
+	culture = hoseo
+	religion  = imperial
+}
+4000032 = {
+	name = "Song"
+	culture = hoseo
+	religion  = imperial
+}
+4000033 = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000034 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000035 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000036 = {
+	name = "Youjin"
+	culture = hoseo
+	religion  = imperial
+}
+4000037 = {
+	name = "Jang"
+	culture = hoseo
+	religion  = imperial
+}
+4000038 = {
+	name = "Hong"
+	culture = hoseo
+	religion  = imperial
+}
+4000039 = {
+	name = "Yu"
+	culture = hoseo
+	religion  = imperial
+}
+4000040 = {
+	name = "Oh"
+	culture = hoseo
+	religion  = imperial
+}
+4000041 = {
+	name = "Yu"
+	culture = hoseo
+	religion  = imperial
+}
+4000042 = {
+	name = "Lee"
+	culture = hoseo
+	religion  = imperial
+}
+4000043 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000044 = {
+	name = "Kim"
+	culture = hoseo
+	religion  = imperial
+}
+4000045 = {
+	name = "Kang"
+	culture = hoseo
+	religion  = imperial
+}
