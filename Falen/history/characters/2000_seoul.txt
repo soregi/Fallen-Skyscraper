@@ -452,7 +452,7 @@
 }
 #여기서부터 마포 백작들
 2049 = {
-	name = "Sinjin"
+	name = "jitae"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
 	religion = koreanist #앤 그냥 한국교. 굳이 따지면 대중에 가깝긴 하니 시스템상 못넣게되면 대중으로
@@ -469,7 +469,7 @@
 	}
 }
 2050 = {
-	name = "Jitae"
+	name = "Sinjin"
 	dynasty = 4000601 # 개성, 마포왕씨
 	culture = seoul
 	religion = populist
