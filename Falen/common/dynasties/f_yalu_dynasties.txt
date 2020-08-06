@@ -163,7 +163,29 @@
 	culture = yalu
 	religion = cheondo
 }
-
-
-
-
+#신의주
+4002501 = {
+	name = "Sholokhov"
+	culture = russian
+	religion = marxist
+}
+4002501 = {
+	name = "Sholokhov"
+	culture = russian
+	religion = marxist
+}
+4002502 = {
+	name = "Sin"
+	culture = pyongbuk
+	religion = marxist
+}
+4002503 = {
+	name = "Yeo"
+	culture = pyongbuk
+	religion = marxist
+}
+4002504 = {
+	name = "Jae"
+	culture = pyongbuk
+	religion = marxist
+}

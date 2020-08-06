@@ -1,0 +1,75 @@
+2501 = {
+	name = "Pyotr"
+	dynasty = 4002501
+	culture = russian
+	religion = marxist
+	2310.7.18 = {
+		birth = yes
+	}
+	2384.8.14 = {
+		death = yes
+	}
+}
+2502 = {
+	name = "Ju Paek"
+	dynasty = 4002502
+	culture = pyongbuk
+	religion = marxist
+	2309.6.11 = {
+		birth = yes
+	}
+	2360.9.22 = {
+		death = yes
+	}
+}
+2503 = {
+	name = "Minu"
+	dynasty = 4002502
+	culture = pyongbuk
+	religion = marxist
+	father = 2503
+	2332.9.8 = {
+		birth = yes
+	}
+	2426.1.1 = {
+		death = yes
+	}
+}
+2504 = {
+	name = "Pil Song"
+	dynasty = 4002503
+	culture = pyongbuk
+	religion = marxist
+	2376.4.27 = {
+		birth = yes
+	}
+	2397.2.26 = {
+		add_spouse = 2405
+	}
+}
+2505 = {
+	name = "Hyon A"
+	female = yes
+	dynasty = 4002504
+	culture = pyongbuk
+	religion = marxist
+	2374.6.9 = {
+		birth = yes
+	}
+	2439.8.18 = {
+		death = yes
+	}
+}
+2506 = {
+	name = "Hanul"
+	dynasty = 4002503
+	culture = pyongbuk
+	religion = marxist
+	father = 2504
+	mother = 2505
+	2402.4.5 = {
+		birth = yes
+	}
+}
+
+
