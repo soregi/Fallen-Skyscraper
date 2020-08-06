@@ -271,17 +271,37 @@ e_kangsong_tae_kuk = {
 		always = no #붉은태양 종교 개혁하면 주는 작위
 	}
 }
+
+#신복련
+e_holy_bible_confederation = { #신복련
+	color = { 80 80 80 }
+	color2 = { 50 50 50 }
+}
+k_central = {
+	color = { 80 80 80 }
+	color2 = { 50 50 50 }
+}
+d_buyeo = {
+	color = { 255 255 153 }
+	color2 = { 204 204 153
+}
+d_hongseong = {
+	color = {169 153 51)
+	color2 = {169 153 0}
+}
 #미군들
-e_new_usa = #복원미국
+e_new_usa = { #복원미국
 	color = { 70 204 212 }
 	color2={ 186 10 22 }
 
 }
-k_daegu_usa = #대구미군
+k_daegu_usa = { #대구미군
 	color = { 70 204 212 }
 	color2={ 186 10 22 }
 
 }
+
+
 ######################################
 # 상인공화국 가문들의 자리. 이 아래에 가문말고 넣지말것  #
 ######################################
