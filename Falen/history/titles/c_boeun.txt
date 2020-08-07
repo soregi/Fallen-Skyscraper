@@ -1,4 +1,4 @@
 2443.2.1 = {
-	liege = k_airforce
+	liege = k_air_force
 	holder = 1160
 } 

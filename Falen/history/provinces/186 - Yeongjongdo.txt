@@ -9,5 +9,5 @@ max_settlements = 4
 b_yeongjongdo = tribal
 
 # Misc
-culture = seoul
-religion = koreanist
+culture = gyeonggi
+religion = protestant

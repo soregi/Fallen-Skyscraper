@@ -1,5 +1,104 @@
 feudal_governments = {
+	#미완
+    6_government = {
+	    preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE 
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { 
+			TRIBAL
+		}
+		free_revoke_on_governments_religion = { 
+			tribal_government
+		}
+		allow_title_revokation = {
+		    NOT = { cultures_group = old_korean }
+		}
+		potential = {
+			has_landed_title = e_south_korea
+			culture = old_korean
+			is_patrician = no
+		}
+		color = { 51 102 255 }
 
-	#feudal_government = {
-	#}
+		can_create_empires = no
+		can_create_kingdoms = no
+		capital_move_delay = 600
+		can_build_tribal = no 
+		
+		levy_size = -90
+	}
+	marxist_government = {
+		preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			feudal_government
+			theocratic_feudal_government
+			chinese_imperial_government
+		}
+		free_revoke_on_tiers = {
+			duke
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_iqta"
+		potential = {
+			OR = {
+				controls_religion = no
+				religion_group = muslim
+				has_religion_feature = religion_temporal_head
+				AND = {
+					religion = norse_pagan_reformed
+					has_religion_features = no # Old saves, and campaigns without HF, need the Fylkirate to continue working
+				}
+			}
+			religion_group = socialist_group
+			NOT = { religion = maoist }
+			NOT = { is_government_potential = roman_imperial_government }
+			NOT = { is_government_potential = order_government }
+			NAND = {
+				tier = EMPEROR
+				primary_title = { has_title_flag = pretender_chinese_empire }
+				OR = {
+					culture_group = chinese_group
+					culture = khitan
+					culture = tangut
+					culture = jurchen
+					has_character_flag = chinese_imperial_government_preserve
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 210 18 17 }
+		
+		uses_decadence = yes
+		uses_piety_for_law_change = yes
+		
+		dukes_called_kings = no
+		barons_need_dynasty = yes
+		have_gender_laws = no
+		allows_matrilineal_marriage = yes
+		free_retract_vassalage = yes
+
+		can_build_tribal = no
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+		capital_move_delay = 600
+
+		## Modifiers
+		court_size_modifier = 10
+	}
 }

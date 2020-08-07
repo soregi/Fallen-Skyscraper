@@ -38,6 +38,8 @@ k_prk;조선인민공화국;;;;;;;;;;;;;x
 k_prk_adj;공화국;;;;;;;;;;;;;x
 k_yanbian;연변;;;;;;;;;;;;;x
 k_yanbian_adj;연변;;;;;;;;;;;;;x
+k_pyeongbuk;평안북도;;;;;;;;;;;;;x
+k_pyeongbuk_adj;평안북도;;;;;;;;;;;;;x
 k_jianzhou;건주;;;;;;;;;;;;;x
 k_jianzhou_adj;건주;;;;;;;;;;;;;x
 k_haixi;해서;;;;;;;;;;;;;x
@@ -46,3 +48,13 @@ k_mountain_league;산악연맹;;;;;;;;;;;;;x
 k_mountain_league_adj;산악;;;;;;;;;;;;;x
 k_rok_armed_forces;대한 군정청;;;;;;;;;;;;;x
 k_rok_armed_forces_adj;군정청;;;;;;;;;;;;;x
+k_korean_people's_army;조선인민군;;;;;;;;;;;;;x
+k_korean_people's_army_adj;인민군;;;;;;;;;;;;;x
+k_taedong;대동;;;;;;;;;;;;;x
+k_taedong_adj;대동;;;;;;;;;;;;;x
+k_air_force;공군;;;;;;;;;;;;;x
+k_air_force_adj;공군;;;;;;;;;;;;;x
+k_hwanghae_party;황해도당;;;;;;;;;;;;;x
+k_hwanghae_party_adj;황해;;;;;;;;;;;;;x
+k_haeju_farm;해주 농민국;;;;;;;;;;;;;x
+k_haeju_farm_adj;해주;;;;;;;;;;;;;x

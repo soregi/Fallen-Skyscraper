@@ -13,4 +13,4 @@ b_songdo_incheon = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = protestant

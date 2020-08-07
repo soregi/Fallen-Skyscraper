@@ -11,4 +11,4 @@ b_gyesan = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = protestant
