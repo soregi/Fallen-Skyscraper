@@ -196,7 +196,7 @@ d_free_honam = {
 	color2={ 161 33 154 }
 
 }
-k_airforce = {
+k_air_force = {
 	color={ 10 148 235 }
 	color2={ 161 33 154 }
 
@@ -275,6 +275,7 @@ e_kangsong_tae_kuk = {
 e_hec = { #신복련
 	color = { 80 80 80 }
 	color2 = { 50 50 50 }
+	short_name = yes
 }
 k_central = {
 	color = { 80 80 80 }
