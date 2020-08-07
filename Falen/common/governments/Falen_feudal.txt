@@ -1,6 +1,6 @@
 feudal_governments = {
 	#미완
-    6_government = {
+    sixth_government = {
 	    preferred_holdings = { CASTLE }
 		allowed_holdings = { 
 			CASTLE 
@@ -17,8 +17,28 @@ feudal_governments = {
 		    NOT = { cultures_group = old_korean }
 		}
 		potential = {
-			has_landed_title = e_south_korea
-			culture = old_korean
+			NOT = {
+				is_save_game = no
+				has_game_started = no
+			}
+			primary_title = { 
+				title = e_south_korea
+			}
+			NOT = { religion_group = pagan_group }
+			NOT = { is_government_potential = roman_imperial_government }
+			NOT = { is_government_potential = order_government }
+			NOT = { is_government_potential = marxist_government }
+			NAND = {
+				tier = EMPEROR
+				primary_title = { has_title_flag = pretender_chinese_empire }
+				OR = {
+					culture_group = chinese_group
+					culture = khitan
+					culture = tangut
+					culture = jurchen
+					has_character_flag = chinese_imperial_government_preserve
+				}
+			}
 			is_patrician = no
 		}
 		color = { 51 102 255 }

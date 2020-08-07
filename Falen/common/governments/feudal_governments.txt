@@ -32,7 +32,7 @@ feudal_governments = {
 			NOT = {	religion_group = muslim	}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
-			NOT = { is_government_potential = 6_government }
+			NOT = { is_government_potential = sixth_government }
 			NOT = { is_government_potential = marxist_government }
 			NAND = { 
 				culture_group = tibetan_group
