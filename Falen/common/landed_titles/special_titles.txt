@@ -85,7 +85,6 @@ d_yeongju = {
 	color2={ 132 148 120 }
 
 }
-#########고려 행정구역##############
 e_goryeo = {
 	color={ 191 138 105 }
 	color2={ 132 148 120 }
@@ -273,7 +272,7 @@ e_kangsong_tae_kuk = {
 }
 
 #신복련
-e_holy_bible_confederation = { #신복련
+e_hec = { #신복련
 	color = { 80 80 80 }
 	color2 = { 50 50 50 }
 }

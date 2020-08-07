@@ -13,6 +13,8 @@ e_joseon;Joseon;;;;;;;;;;;;;x
 e_joseon_adj;Joseon;;;;;;;;;;;;;x
 e_donghae_adj;Donghae;;;;;;;;;;;;;x
 e_donghae_adj;Vostochniy;;;;;;;;;;;;;x
+e_goryeo;Goryeo;;;;;;;;;;;;;x
+e_goryeo_adj;Korean;;;;;;;;;;;;;x
 d_seoul;Seoul;;;;;;;;;;;;;x
 d_seoul_adj;Seoul;;;;;;;;;;;;;x
 d_gangnam;Gangnam;;;;;;;;;;;;;x
@@ -31,5 +33,11 @@ d_haenam;Haenam;;;;;;;;;;;;;x
 d_haenam_adj;Haenam;;;;;;;;;;;;;x
 d_jeju;Jeju;;;;;;;;;;;;;x
 d_jeju_adj;Jeju;;;;;;;;;;;;;x
+d_incheon;Incheon;;;;;;;;;;;;;x
+d_incheon_adj;Incheon;;;;;;;;;;;;;x
+d_yeosu;Yeosu;;;;;;;;;;;;;x
+d_yeosu_adj;Yeosu;;;;;;;;;;;;;x
+d_hanwul;Han'ul;;;;;;;;;;;;;x
+d_hanwul_adj;Han'ul;;;;;;;;;;;;;x
 c_seoul;Seoul;;;;;;;;;;;;;x
 c_seoul_adj;Seoul;;;;;;;;;;;;;x
