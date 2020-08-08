@@ -1,0 +1,206 @@
+namespace = enclave
+
+narrative_event = { # EVT Chain 0 ##
+	id = enclave.1
+	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함 ###
+	border = GFX_event_narrative_frame_diplomacy
+	major = yes
+	title = enclave_1
+	desc = enclave_1_desc
+	only_playable = yes
+	trigger = {
+		year = 2600
+		NOT = { has_global_flag = enclav_0 }
+		ai = no #좆간에게만 뜬다#
+		####
+	}
+	mean_time_to_happen = {
+		months = 12
+	}
+	immediate = {
+		set_global_flag = enclav_0
+		666666 = { character_event = { id = enclave.2 years = 10 } }
+	}
+	option = {
+		name = {
+			text = enclave_1_a
+			trigger = {
+				has_landed_title = c_ulleung
+			}
+		}
+		name = {
+			text = enclave_1_b
+			trigger = {
+				NOT = { has_landed_title = c_ulleung }
+			}
+			custom_tooltip = {
+				text = enclave_1_b_tooltip
+			}
+		}
+	}
+}
+character_event = {
+	id = enclave.2
+	hide_window = yes
+	is_triggered_only = yes
+	immediate = {
+		c_ulleung = {
+			holder_scope = {
+				save_event_target_as = holder_ulleung
+			}
+		}
+		activate_title = { title = e_south_korea status = yes }
+		create_character = {
+			random_traits = yes
+			female = no
+			age = 40
+			culture = old_korean
+			religion = authoritarian
+			attributes = {
+				diplomacy = 10
+				martial = 10
+				stewardship = 10
+				intrigue = 10
+				learning = 10
+			}
+		}
+		new_character = {
+			save_event_target_as = enclave_leader
+			dynasty = event_target:holder_ulleung
+			narrative_event = { id = enclave.3 days = 1 }
+		}
+	}
+}
+
+narrative_event = { # EVT Chain 1 ##
+	id = enclave.3
+	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함 ###
+	border = GFX_event_narrative_frame_war
+	major = yes
+	title = enclave_3
+	desc = enclave_3_desc
+	is_triggered_only = yes
+	major_trigger = {
+		ai = no
+	}
+	immediate = {
+		e_south_korea = { grant_title = ROOT }
+		c_ulleung = { grant_title = ROOT }
+		40 = {
+			if = {
+				limit = {
+					40 = {
+						num_of_max_settlements > 1
+					}
+				}
+				add_holding_slot = 5
+			}
+			else = {
+				add_holding_slot = 6
+			}
+				build_holding = {
+					title = b_namseo
+					type = castle
+					holder = ROOT
+				}
+				build_holding = {
+					title = b_cheonbu
+					type = castle
+					holder = ROOT
+				}
+				build_holding = {
+					title = b_hyeonpo
+					type = castle
+					holder = ROOT
+				}
+				build_holding = {
+					title = b_nari
+					type = castle
+					holder = ROOT
+				}
+				build_holding = {
+					title = b_jeodong
+					type = castle
+					holder = ROOT
+				}
+				build_holding = {
+					title = b_sadong
+					type = castle
+					holder = ROOT
+				}
+			hidden_tooltip = {
+				b_nari = { 
+					province_capital = yes
+					add_building = ca_wall_q_1
+					add_building = ca_wall_q_2
+					add_building = ca_wall_1
+					add_building = ca_wall_2
+					add_building = ca_keep_1
+					add_building = ca_keep_2
+					add_building = ca_militia_barracks_1
+					add_building = ca_militia_barracks_2
+					add_building = ca_training_grounds_1
+					add_building = ca_barracks_1
+					add_building = ca_barracks_2
+					add_building = ca_stable_1
+					add_building = ca_town_1
+					add_building = ca_town_2
+				}
+				}
+			}
+		event_target:holder_ulleung = {
+			c_usan_temp = { grant_title = ROOT}
+			set_defacto_liege = ROOT
+		}
+		spawn_unit = {
+			owner = ROOT
+			leader = ROOT
+			province = 40
+			earmark = enclave_army
+			troops = {
+				heavy_infantry = { 5000 5000 }
+			}
+			attrition = 0.0
+		}
+		spawn_fleet = {
+			owner = ROOT
+			leader = ROOT
+			province = 524
+			earmark = enclave_fleet
+			troops = {
+				galleys = { 100 100 }
+			}
+		}
+		c_busan = {
+			add_claim = ROOT
+		}
+		c_busan = {
+			holder_scope = {
+				reverse_war = {
+					casus_beli = claim
+					target = ROOT
+					thirdparty_title = c_busan
+					infamy = 0
+				}
+			}
+		}
+	}
+	option = {
+		name = enclave_3_a
+		trigger = {
+			THIS = { NOT = { character = ROOT } }
+		}
+	}
+	option = {
+		name = enclave_3_b
+		trigger = {
+			THIS = { character = event_target:holder_ulleung }
+		}
+		set_player_character = event_target:enclave_leader
+	}
+	after = {
+		event_target:enclave_leader = {
+			dynasty = 4000803
+		}
+	}
+}
