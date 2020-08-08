@@ -369,3 +369,92 @@
 		birth = yes
 	}
 }
+45 = {
+	name = "Tomas"
+	dynasty = 4000036
+	culture = american
+	religion = imperial
+	2421.5.3 = {
+		birth = yes
+	}
+}
+48 = {
+	name = "Tomas"
+	dynasty = 4000039
+	culture = honam
+	religion = imperial
+	2416.3.18 = {
+		birth = yes
+	}
+}
+49 = {
+	name = "Paesang"
+	dynasty = 4000040
+	culture = honam
+	religion = imperial
+	2415.1.19 = {
+		birth = yes
+	}
+}
+45 = {
+	name = "Cheolman"
+	dynasty = 4000045
+	culture = honam
+	religion = imperial
+	trait = skilled_tactician
+	trait = strong
+	trait = worth
+	trait = paranoid
+	trait = just
+	2417.1.25 = {
+		birth = yes
+	}
+}
+90 = {
+	name = "Muhong"
+	dynasty = 4000011
+	culture = honam
+	religion = protestant
+	2275.6.13 = {
+		birth = yes
+	}
+	2325.11.12 = {
+		death = yes
+	}
+}
+91 = {
+	name = "Munho"
+	dynasty = 4000001
+	culture = honam
+	religion = protestant
+	2296.5.12 = {
+		birth = yes
+	}
+	2347.3.19 = {
+		death = yes
+	}
+}
+92 = {
+	name = "Jaeyeong"
+	dynasty = 4000001
+	culture = honam
+	religion = imperial
+	2326.1.16 = {
+		birth = yes
+	}
+	2387.5.24 = {
+		death = yes
+	}
+}
+93 = {
+	name = "Junghyen"
+	dynasty = 4000004
+	culture = honam
+	religion = imperial
+	2348.12.4 = {
+		birth = yes
+	}
+	2414.2.9 = {
+		death = yes
+	}
+}
