@@ -1,3 +1,4 @@
+
 1 = {
 	name = "Hanwol"
 	dynasty = 4000001
@@ -456,5 +457,14 @@
 	}
 	2414.2.9 = {
 		death = yes
+	}
+}
+99 = {
+	name = "Grrrr"
+	dynasty = 4000046
+	culture = bear
+	religion = muist
+	2424.1.1 = {
+		birth = yes
 	}
 }

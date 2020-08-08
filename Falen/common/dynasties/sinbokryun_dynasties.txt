@@ -223,3 +223,8 @@
 	culture = hoseo
 	religion  = imperial
 }
+4000046 = {
+	name = "Grrrr"
+	culture = bear
+	religion  = Muist
+}
