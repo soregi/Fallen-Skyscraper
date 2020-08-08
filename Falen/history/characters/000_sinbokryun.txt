@@ -32,25 +32,7 @@
 		birth = yes
 	}
 }
-3 = {
-	name = "Hanwol"
-	dynasty = 4000002
-	culture = hoseo
-	religion = imperial
-	trait = midas_touched
-	trait = kind
-	trait = charitable
-	trait = content
-	trait = humble
-	disallow_random_traits = yes
-	mother = 13
-	2403.7.2 = {
-		birth = yes
-	}
-	2424.1.1 = {
-		add_spouse = 14
-	}
-}
+
 4 = {
 	name = "Oksoon"
 	dynasty = 4000003
@@ -200,7 +182,7 @@
 	2416.3.26 = {
 		birth = yes
 	}
-	2436..1.1 = {
+	2436.1.1 = {
 		add_spouse = 25
 	}
 
@@ -241,4 +223,149 @@
 		birth = yes
 	}
 
+}
+14 = {
+	name = "Ilhwa"
+	dynasty = 4000012
+	culture = honam
+	religion = imperial
+	female = yes
+	2397.11.12 = {
+		birth = yes
+	}
+	2424.1.1 = {
+		add_spouse = 3
+	}
+}
+15 = {
+	name = "Miwon"
+	dynasty = 4000002
+	culture = honam
+	religion = imperial
+	female = yes
+	father = 3
+	mother = 14
+	2332.5.14 = {
+		birth = yes
+	}
+}
+16 = {
+	name = "Ilwon"
+	dynasty = 4000013
+	culture = honam
+	religion = imperial
+	2407.4.12 = {
+		birth = yes
+	}
+	2429.1.1 = {
+		add_spouse = 4
+	}
+}
+17 = {
+	name = "Yuna"
+	dynasty = 4000003
+	culture = honam
+	religion = imperial
+	father = 16
+	mother = 4
+	2432.12.13 = {
+		birth = yes
+	}
+}
+18 = {
+	name = Yuri"
+	dynasty = 4000014
+	culture = honam
+	religion = imperial
+	2410.6.6 = {
+		birth = yes
+	}
+	2438.1.1 = {
+		add_spouse = 6
+	}
+}
+19 = {
+	name = "Yurim"
+	dynasty = 4000015
+	culture = honam
+	religion = imperial
+	female = yes
+	2400.11.13 = {
+		birth = yes
+	}
+	2415.1.1 = {
+		add_spouse = 7
+	}
+}
+20 = {
+	name = "Yugeon"
+	dynasty = 4000006
+	culture = honam
+	religion = imperial
+	father = 7
+	mother = 19
+	2421.2.3 = {
+		birth = yes
+	}
+}
+21 = {
+	name = "Junil"
+	dynasty = 4000007
+	culture = honam
+	religion = imperial
+	2361.9.17 = {
+		birth = yes
+	}
+}
+22 = {
+	name = "Sugun"
+	dynasty = 4000007
+	culture = honam
+	religion = imperial
+	father = 8
+	2409.4.25 = {
+		birth = yes
+	}
+}
+23 = {
+	name = "Junil"
+	dynasty = 4000008
+	culture = honam
+	religion = imperial
+	father = 9
+	2428.1.13= {
+		birth = yes
+	}
+}
+24 = {
+	name = "Wonil"
+	dynasty = 4000010
+	culture = honam
+	religion = imperial
+	2386.7.4 = {
+		birth = yes
+	}
+}
+25 = {
+	name = "Junil"
+	dynasty = 4000016
+	culture = honam
+	religion = imperial
+	trait = intricate_webweaver
+	trait = schemer
+	2415.1.9 = {
+		birth = yes
+	}
+	2436.1.1 = {
+		add_spouse = 11
+	}
+}
+26 = {
+	name = "inho"
+	dynasty = 4000019
+	culture = hoseo
+	religion = imperial
+	2422.22.22 = {
+		birth = yes
+	}
 }
