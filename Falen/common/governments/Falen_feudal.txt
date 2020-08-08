@@ -1,35 +1,4 @@
 feudal_governments = {
-	#미완
-    6_government = {
-	    preferred_holdings = { CASTLE }
-		allowed_holdings = { 
-			CASTLE 
-			FORT
-			HOSPITAL
-		}
-		allowed_holdings_culture = { 
-			TRIBAL
-		}
-		free_revoke_on_governments_religion = { 
-			tribal_government
-		}
-		allow_title_revokation = {
-		    NOT = { cultures_group = old_korean }
-		}
-		potential = {
-			has_landed_title = e_south_korea
-			culture = old_korean
-			is_patrician = no
-		}
-		color = { 51 102 255 }
-
-		can_create_empires = no
-		can_create_kingdoms = no
-		capital_move_delay = 600
-		can_build_tribal = no 
-		
-		levy_size = -90
-	}
 	marxist_government = {
 		preferred_holdings = { CASTLE }
 		allowed_holdings = { 

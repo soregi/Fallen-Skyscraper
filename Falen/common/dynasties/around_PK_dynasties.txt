@@ -52,3 +52,18 @@
 	culture = honam
 	religion = imperial
 }
+4002661 = {
+	name = "Park"
+	culture = hoseo
+	religion = mechanist
+}
+4002662 = {
+	name = "Seo"
+	culture = hoseo
+	religion = mu_pagan
+}
+4002671 = {
+	name = "Cheon"
+	culture = yeongseo
+	religion = confucian
+}

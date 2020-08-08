@@ -1,0 +1,15 @@
+2361.4.5 = {
+	holder = 1772
+}
+2361.5.1 = {
+	liege = k_daegu_usa
+	holder = 1780
+}
+2368.11.23 = {
+	liege = k_daegu_usa
+	holder = 1781
+}
+2408.3.15 = {
+	liege = k_daegu_usa
+	holder = 1782
+}

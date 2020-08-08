@@ -1,6 +1,4 @@
-2386.11.24 = {
-	holder = 2665
-}
-2400.8.19 = {
-	holder = 2666
+2441.10.1 = {
+	liege = k_mountain_league
+	holder = 956
 }

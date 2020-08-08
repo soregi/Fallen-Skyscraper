@@ -113,3 +113,24 @@
 	culture = yeongseo
 	religion = mu_pagan
 }
+#동해해군
+4001631 = {
+	name = "Won"
+	culture = yeongdong
+	religion = authoritarian
+}
+4001632 = {
+	name = "Kim"
+	culture = yeongdong
+	religion = authoritarian
+}
+4001633 = {
+	name = "Yu"
+	culture = yeongdong
+	religion = authoritarian
+}
+4001634 = {
+	name = "Jeong"
+	culture = yeongdong
+	religion = authoritarian
+}
