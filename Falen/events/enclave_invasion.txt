@@ -33,9 +33,9 @@ narrative_event = { # EVT Chain 0 ##
 			trigger = {
 				NOT = { has_landed_title = c_ulleung }
 			}
-			custom_tooltip = {
-				text = enclave_1_b_tooltip
-			}
+		#	custom_tooltip = {
+		#		text = enclave_1_b_tooltip
+		#	}
 		}
 	}
 }
@@ -177,7 +177,7 @@ narrative_event = { # EVT Chain 1 ##
 		c_busan = {
 			holder_scope = {
 				reverse_war = {
-					casus_beli = claim
+					casus_belli = claim
 					target = ROOT
 					thirdparty_title = c_busan
 					infamy = 0
