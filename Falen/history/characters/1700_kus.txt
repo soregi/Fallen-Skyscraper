@@ -145,8 +145,101 @@
 	culture = yeongnam
 	religion = catholic
 	father = 1778
-	2358.1.22 = {
+	2377.5.27 = {
 		birth = yes
 	}
 }
-#중지
+1780 = {
+	name = "Aaron"
+	dynasty = 4001773
+	culture = american
+	religion = catholic
+	2309.12.12 = {
+		birth = yes
+	}
+	2368.11.23 = {
+		death = yes
+	}
+}
+1781 = {
+	name = "Tyler"
+	dynasty = 4001773
+	culture = american
+	religion = catholic
+	father = 1780
+	2343.4.3 = {
+		birth = yes
+	}
+	2408.3.15 = {
+		death = yes
+	}
+}
+1782 = {
+	name = "John"
+	dynasty = 4001773
+	culture = american
+	religion = catholic
+	father = 1781
+	2375.6.5 = {
+		birth = yes
+	}
+}
+1783 = {
+	name = "Inwook"
+	dynasty = 4001774
+	culture = yeongnam
+	religion = catholic
+	2396.9.11 = {
+		birth = yes
+	}
+}
+1784 = {
+	name = "Henry"
+	dynasty = 4001771
+	culture = american
+	religion = catholic
+	father = 1775
+	2418.1.11 = {
+		birth = yes
+	}
+}
+1785 = {
+	name = "Joshua"
+	dynasty = 4001772
+	culture = yeongnam
+	religion = catholic
+	father = 1779
+	2401.11.23 = {
+		birth = yes
+	}
+}
+1786 = {
+	name = "Julian"
+	dynasty = 4001773
+	culture = american
+	religion = catholic
+	father = 1782
+	2399.4.5 = {
+		birth = yes
+	}
+}
+1787 = {
+	name = "Taesu"
+	dynasty = 4001774
+	culture = yeongnam
+	religion = catholic
+	father = 1783
+	2427.8.13 = {
+		birth = yes
+	}
+}
+1788 = {
+	name = "James"
+	dynasty = 4001773
+	culture = american
+	religion = catholic
+	father = 1786
+	2424.11.9 = {
+		birth = yes
+	}
+}
