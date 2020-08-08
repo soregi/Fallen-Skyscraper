@@ -22,6 +22,135 @@
 		death = yes
 	}
 }
+#동해
+1631 = {
+	name = "Myeongsu"
+	dynasty = 4001631
+	culture = yeongdong
+	religion = authoritarian
+	2398.9.15 = {
+		birth = yes
+	}
+	2417.2.13 = {
+		add_spouse = 1641
+	}
+}
+1632 = {
+	name = "Jeonghui"
+	female = yes
+	dynasty = 4001631
+	culture = yeongdong
+	religion = authoritarian
+	father = 1631
+	mother = 1641
+	2425.7.19 = {
+		birth = yes
+	}
+}
+1633 = {
+	name = "Boun"
+	female = yes
+	dynasty = 4001631
+	culture = yeongdong
+	religion = authoritarian
+	father = 1631
+	mother = 1641
+	2428.4.30 = {
+		birth = yes
+	}
+}
+1634 = {
+	name = "Chaemin"
+	female = yes
+	dynasty = 4001631
+	culture = yeongdong
+	religion = authoritarian
+	father = 1631
+	mother = 1641
+	2431.3.18 = {
+		birth = yes
+	}
+}
+1635 = {
+	name = "Pyeongwoo"
+	dynasty = 4001631
+	culture = yeongdong
+	religion = authoritarian
+	father = 1631
+	mother = 1641
+	2434.9.14 = {
+		birth = yes
+	}
+}
+1636 = {
+	name = "Dohyeon"
+	dynasty = 4001632
+	culture = yeongdong
+	religion = authoritarian
+	2370.10.31 = {
+		birth = yes
+	}
+	2422.2.16 = {
+		death = yes
+	}
+}
+1637 = {
+	name = "Jeongmin"
+	female = yes
+	dynasty = 4001632
+	culture = yeongdong
+	religion = authoritarian
+	father = 1636
+	2399.12.31 = {
+		birth = yes
+	}
+}
+1638 = {
+	name = "Hosu"
+	dynasty = 4001632
+	culture = yeongdong
+	religion = authoritarian
+	father = 1636
+	2405.3.8 = {
+		birth = yes
+	}
+	2423.2.13 = {
+		add_spouse = 1640
+	}
+}
+1639 = {
+	name = "Jumyeong"
+	female = yes
+	dynasty = 4001632
+	culture = yeongdong
+	religion = authoritarian
+	father = 1638
+	mother = 1640
+	2426.7.2 = {
+		birth = yes
+	}
+}
+1640 = {
+	name = "Seonghwa"
+	female = yes
+	dynasty = 4001633
+	culture = yeongdong
+	religion = authoritarian
+	2401.8.19 = {
+		birth = yes
+	}
+}
+1641 = {
+	name = "Yujin"
+	female = yes
+	dynasty = 4001634
+	culture = yeongdong
+	religion = authoritarian
+	father = 1636
+	2397.6.13 = {
+		birth = yes
+	}
+}
 #진해
 1671 = {
 	name = "Suchang"

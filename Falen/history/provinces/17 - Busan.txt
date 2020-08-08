@@ -15,4 +15,4 @@ b_hadan = city
 
 # Misc
 culture = yeongnam
-religion = steel_pagan
+religion = populist

@@ -13,4 +13,4 @@ b_annae_okcheon = city
 
 # Misc
 culture = hoseo
-religion = mu_pagan
+religion = mechanist

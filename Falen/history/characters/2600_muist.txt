@@ -411,3 +411,74 @@
 		birth = yes
 	}
 }
+#두칸
+2661 = {
+	name = "Jiwon"
+	dynasty = 4002661
+	culture = hoseo
+	religion = mechanist
+	2354.3.29 = {
+		birth = yes
+	}
+	2404.4.16 = {
+		death = yes
+	}
+}
+2662 = {
+	name = "Taehwan"
+	dynasty = 4002661
+	culture = hoseo
+	religion = mechanist
+	father = 2661
+	2389.3.7 = {
+		birth = yes
+	}
+	2438.9.1 = {
+		death = yes
+	}
+}
+2663 = {
+	name = "Yuseong"
+	dynasty = 4002661
+	culture = hoseo
+	religion = mechanist
+	father = 2662
+	2416.9.14 = {
+		birth = yes
+	}
+}
+2664 = {
+	name = "Jeongwon"
+	dynasty = 4002662
+	culture = hoseo
+	religion = mu_pagan
+	2398.4.6 = {
+		birth = yes
+	}
+	2442.2.18 = {
+		death = yes
+	}
+}
+2665 = {
+	name = "Sinwon"
+	dynasty = 4002662
+	culture = hoseo
+	religion = mu_pagan
+	father = 2664
+	2421.3.6 = {
+		birth = yes
+	}
+}
+#영월
+2671 = {
+	name = "Muntae"
+	dynasty = 4002671
+	culture = yeongseo
+	religion = confucian
+	2402.9.17 = {
+		birth = yes
+	}
+}
+
+
+
