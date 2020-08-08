@@ -1,4 +1,3 @@
-
 1 = {
 	name = "Hanwol"
 	dynasty = 4000001
@@ -274,7 +273,7 @@
 	}
 }
 18 = {
-	name = Yuri"
+	name = "Yuri"
 	dynasty = 4000014
 	culture = honam
 	religion = imperial
@@ -362,7 +361,7 @@
 	}
 }
 26 = {
-	name = "inho"
+	name = "Inho"
 	dynasty = 4000019
 	culture = hoseo
 	religion = imperial
