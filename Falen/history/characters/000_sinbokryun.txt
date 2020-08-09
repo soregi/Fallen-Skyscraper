@@ -396,7 +396,7 @@
 		birth = yes
 	}
 }
-45 = {
+50 = {
 	name = "Cheolman"
 	dynasty = 4000045
 	culture = honam

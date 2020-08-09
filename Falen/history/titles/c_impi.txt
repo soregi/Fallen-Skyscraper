@@ -1,4 +1,4 @@
 2330.1.1 = {
 	liege = e_hec
-	holder = 45
+	holder = 50
 }
