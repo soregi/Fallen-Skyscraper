@@ -274,7 +274,7 @@
 	}
 }
 18 = {
-	name = Yuri"
+	name = "Yuri"
 	dynasty = 4000014
 	culture = honam
 	religion = imperial
