@@ -381,7 +381,7 @@
 48 = {
 	name = "Tomas"
 	dynasty = 4000039
-	culture = honam
+	culture = american
 	religion = imperial
 	2416.3.18 = {
 		birth = yes
