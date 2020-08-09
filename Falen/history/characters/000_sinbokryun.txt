@@ -379,9 +379,9 @@
 	}
 }
 48 = {
-	name = "Tomas"
+	name = "Mingi"
 	dynasty = 4000039
-	culture = american
+	culture = honam
 	religion = imperial
 	2416.3.18 = {
 		birth = yes
