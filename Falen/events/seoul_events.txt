@@ -3,6 +3,8 @@ namespace = seoul
 narrative_event = {
 	id = seoul.1
 	is_triggered_only = yes
+	title = EVTTITLE_seoul_1
+	desc = EVTDESC_seoul_1
 	picture = GFX_evt_rome_restored_byzantine
 	border = GFX_event_narrative_frame_diplomacy
 	major = yes
@@ -82,6 +84,8 @@ narrative_event = {
 }
 narrative_event = {
 	id = seoul.2
+	title = EVTTITLE_seoul_2
+	desc = EVTDESC_seoul_2
 	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함
 	border = GFX_event_narrative_frame_war
 	major = yes
