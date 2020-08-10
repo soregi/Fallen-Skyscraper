@@ -1,0 +1,18 @@
+#yalu
+namespace = yalu
+character_event = {
+	id = yalu.001
+	title = EVTTITLE_yalu.001
+	desc = EVTDESC_yalu.001
+	picture = GFX_evt_rome_restored_byzantine
+	
+	trigger = {
+        any_character = {
+            has_character_flag = is_ilnam
+        } 
+    }
+	
+	option = {
+	name = EVTOPTAyalu001
+	e_yalu = { destroy_landed_title = yes }
+}

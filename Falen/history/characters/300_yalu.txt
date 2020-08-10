@@ -11,6 +11,9 @@
 	disallow_random_traits = yes
 	2382.3.14 = {
 		birth = yes
+		effect = { 
+			set_character_flag = is_ilnam 
+		}
 	}
 	2432.6.14 = {
 	give_nickname = nick_ilnam's_nick
