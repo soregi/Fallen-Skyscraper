@@ -289,6 +289,10 @@ d_hongseong = {
 	color = {169 153 51)
 	color2 = {169 153 0}
 }
+k_northern_margraviate = {
+	color ={ 226 226 226 }
+	color2 = { 236 236 236 }
+}
 #미군들
 e_usa_mil = { #미군정
 	color = { 70 204 212 }
