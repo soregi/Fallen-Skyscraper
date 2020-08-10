@@ -410,6 +410,26 @@
 		birth = yes
 	}
 }
+70 = {
+	name = "Yohan"
+	dynasty = 4000047
+	culture = honam
+	religion = imperial
+	trait = brilliant_strategist
+	trait = trickster
+	trait = brave
+	trait = strategist
+	trait = patient
+	trait = gardener
+	disallow_random_traits = yes
+	2377.2.11 = {
+		birth = yes
+	}
+	2397.1.1 = {
+		add_spouse = 71
+	}
+
+}
 90 = {
 	name = "Muhong"
 	dynasty = 4000011
