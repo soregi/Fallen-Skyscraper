@@ -1,0 +1,166 @@
+namespace = juche
+
+character_event = {
+	id = juche.1
+	title = juche_1
+	desc = juche_1_desc
+	picture = "GFX_evt_emissary_arabic"
+	
+	trigger = {
+		has_landed_title = e_north_korea
+		NOT = { has_global_flag = juche_rised }
+		start_date < 2445.7.1
+		start_date > 2444.1.1
+		year = 2444
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	option = {
+		name = juche_1_a
+		narrative_event = juche.2
+	}
+}
+narrative_event = {
+	id = juche.2
+	title = juche_2
+	desc = juche_2_desc
+	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함
+	border = GFX_event_narrative_frame_war
+	is_triggered_only = yes
+	major = yes
+	major_trigger = {
+		is_playable = yes
+	}
+	immediate = {
+		if = {
+			limit = {
+				THIS = {
+					character = ROOT
+				}
+			}
+			narrative_event = { id = juche.3 days = 10 }
+		}
+	}
+	option = {
+		name = juche_2_a
+		trigger = {
+			NOT = { religion = juche }
+		}
+	}
+	option = {
+		name = juche_2_b
+		trigger = {
+			religion = juche
+		}
+		piety = 100
+	}
+}
+narrative_event = {
+	id = juche.3
+	title = juche_3
+	desc = juche_3_desc
+	picture = GFX_evt_rome_restored_byzantine # 나중에 적당한그림 찾아서 넣어야함
+	border = GFX_event_narrative_frame_war
+	is_triggered_only = yes
+	major = yes
+	major_trigger = {
+		is_playable = yes
+	}
+	immediate = {
+		spawn_unit = { # 이벤트 병력 스폰
+				owner = ROOT
+				leader = ROOT
+				province = 333
+				troops = {
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 0.0
+		}
+		spawn_unit = { # 이벤트 병력 스폰
+				owner = ROOT
+				leader = ROOT
+				province = 333
+				troops = {
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 0.0
+		}
+		spawn_unit = { # 이벤트 병력 스폰
+				owner = ROOT
+				leader = ROOT
+				province = 333
+				troops = {
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 0.0
+		}
+		spawn_unit = { # 이벤트 병력 스폰
+				owner = ROOT
+				leader = ROOT
+				province = 333
+				troops = {
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 0.0
+		}
+		spawn_unit = { # 이벤트 병력 스폰
+				owner = ROOT
+				leader = ROOT
+				province = 333
+				troops = {
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 0.0
+		}
+	}
+	option = {
+		name = juche_3_a
+		trigger = {
+			NOT = { religion = juche }
+			NOT = { has_landed_title = k_prk }
+		}
+	}
+	option = {
+		name = juche_3_b
+		trigger = {
+			religion = juche
+		}
+		piety = 50
+		ai_chance = { factor = 1 }
+	}
+	option = {
+		name = juche_3_b
+		ai_chance = { factor = 99 }
+		trigger = {
+			OR = {
+				AND = {
+					ROOT = { ai = yes }
+					religion = juche
+					independent = yes
+					primary_title = {
+						NOT = { tier = EMPEROR }
+					}
+				}
+				AND = {
+					ROOT = { ai = no }
+					religion = juche
+					culture = jagang
+					independent = yes
+					primary_title = {
+						NOT = { tier = EMPEROR }
+					}
+				}
+			}
+		}
+		set_defacto_liege = ROOT
+		piety = 250
+	}
+	option = {
+		name = juche_3_d
+		trigger = {
+			has_landed_title = k_prk
+		}
+		piety = -50
+	}
+}
