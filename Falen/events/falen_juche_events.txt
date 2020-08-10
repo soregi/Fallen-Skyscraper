@@ -1,5 +1,6 @@
 namespace = juche
 
+######################################
 character_event = {
 	id = juche.1
 	title = juche_1
@@ -9,18 +10,21 @@ character_event = {
 	trigger = {
 		has_landed_title = e_north_korea
 		NOT = { has_global_flag = juche_rised }
+		NOT = { has_global_flag = juche_observe }
 		start_date < 2445.7.1
-		start_date > 2444.1.1
+		start_date >= 2444.1.1
 		year = 2444
 	}
 	mean_time_to_happen = {
 		months = 1
 	}
 	option = {
+		set_global_flag = juche_observe
 		name = juche_1_a
-		narrative_event = juche.2
+		narrative_event = { id = juche.2 }
 	}
 }
+#############################
 narrative_event = {
 	id = juche.2
 	title = juche_2
@@ -33,12 +37,7 @@ narrative_event = {
 		is_playable = yes
 	}
 	immediate = {
-		if = {
-			limit = {
-				THIS = {
-					character = ROOT
-				}
-			}
+		ROOT = {
 			narrative_event = { id = juche.3 days = 10 }
 		}
 	}
@@ -130,7 +129,7 @@ narrative_event = {
 		ai_chance = { factor = 1 }
 	}
 	option = {
-		name = juche_3_b
+		name = juche_3_c
 		ai_chance = { factor = 99 }
 		trigger = {
 			OR = {
