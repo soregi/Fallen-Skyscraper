@@ -15,6 +15,16 @@ k_hwanghae = {
 			b_yongyang_haeju = {}
 			b_jangbang_haeju = {}
 		}
+		c_pyoksong = {
+			color = { 0 0 110 }
+			b_pyoksong = {}
+			b_naeho_pyoksong = {}
+			b_tohyon_pyoksong = {}
+			b_ryongjong_pyoksong = {}
+			b_sangrim_pyoksong = {}
+			b_jukchon_pyoksong = {}
+			b_ssangam_pyoksong = {}
+		}
 		c_chongdan = {
 			color = { 10 10 75 }
 			b_chongdan = {}
@@ -300,27 +310,6 @@ k_hwanghae = {
 			b_sanchon_jangyon = {}
 			b_hakrim_jangyon = {}
 		}
-		c_ryongyeon = {
-			color = { 10 10 90 }
-			b_ryongyeon = {}
-			b_sawon_ryongyeon = {}
-			b_kumsu_ryongyeon = {}
-			b_sonpho_ryongyeon = {}
-			b_ryongho_ryongyeon = {}
-			b_kumnok_ryongyeon = {}
-			b_pongthae_ryongyeon = {}
-			
-		}
-		c_baeknyeongdo = {
-			color = { 135 100 22 }
-			b_baeknyeong = {}
-			b_daecheong = {}
-			b_socheong = {}
-			b_yeonpyeong = {}
-			b_satan = {}
-			b_guji_q = {}
-			b_u_island = {}
-		}
 		c_songhwa = {
 			color = { 0 0 145 }
 			b_songhwa = {}
@@ -331,8 +320,18 @@ k_hwanghae = {
 			b_taam_songhwa = {}
 			b_kwanyang_songhwa = {}
 		}
+		c_samchon = {
+			color = { 0 0 45 }
+			b_samchon = {}
+			b_sujang_samchon = {}
+			b_tokchon_samchon = {}
+			b_kohyon_samchon = {}
+			b_churung_samchon = {}
+			b_talchon_samchon = {}
+			b_kunghum_samchon = {}
+		}
 	}
-	d_byeokseong = {
+	d_ongjin = {
 		color = { 221 184 9 }
 		capital = 241
 
@@ -356,26 +355,6 @@ k_hwanghae = {
 			b_kwasan_thaethan = {}
 			b_ryujong_thaethan = {}
 		}
-		c_samchon = {
-			color = { 0 0 45 }
-			b_samchon = {}
-			b_sujang_samchon = {}
-			b_tokchon_samchon = {}
-			b_kohyon_samchon = {}
-			b_churung_samchon = {}
-			b_talchon_samchon = {}
-			b_kunghum_samchon = {}
-		}
-		c_pyoksong = {
-			color = { 0 0 110 }
-			b_pyoksong = {}
-			b_naeho_pyoksong = {}
-			b_tohyon_pyoksong = {}
-			b_ryongjong_pyoksong = {}
-			b_sangrim_pyoksong = {}
-			b_jukchon_pyoksong = {}
-			b_ssangam_pyoksong = {}
-		}
 		c_kangryong = {
 			color = { 0 0 65 }
 			b_kangryong = {}
@@ -385,6 +364,27 @@ k_hwanghae = {
 			b_ryongyon = {}
 			b_ssanggyo = {}
 			b_tongpo = {}
+		}
+		c_ryongyeon = {
+			color = { 10 10 90 }
+			b_ryongyeon = {}
+			b_sawon_ryongyeon = {}
+			b_kumsu_ryongyeon = {}
+			b_sonpho_ryongyeon = {}
+			b_ryongho_ryongyeon = {}
+			b_kumnok_ryongyeon = {}
+			b_pongthae_ryongyeon = {}
+			
+		}
+		c_baeknyeongdo = {
+			color = { 135 100 22 }
+			b_baeknyeong = {}
+			b_daecheong = {}
+			b_socheong = {}
+			b_yeonpyeong = {}
+			b_satan = {}
+			b_guji_q = {}
+			b_u_island = {}
 		}
 	}
 }
