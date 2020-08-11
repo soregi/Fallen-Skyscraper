@@ -4,11 +4,13 @@ character_event = {
 	id = yalu.001
 	title = EVTTITLE_yalu.001
 	desc = EVTDESC_yalu.001
-	picture = GFX_evt_rome_restored_byzantine
+	picture = GFX_evt_rome_restored_byzantin
 	
 	trigger = {
+	    NOT = {
         any_character = {
             has_character_flag = is_ilnam
+			}
         } 
     }
 	
