@@ -448,6 +448,25 @@
 	2397.1.1 = {
 		add_spouse = 71
 	}
+}
+72 = {
+	name = "seongon"
+	dynasty = 4000047
+	culture = hoseo
+	religion = imperial
+	trait = tough_soldier
+	trait = erudite
+	trait = gardener
+	trait = kind
+	trait = just
+ 	trait = hunter
+	disallow_random_traits = yes
+	2377.2.11 = {
+		birth = yes
+	}
+	2397.1.1 = {
+		add_spouse = 71
+	}
 
 }
 90 = {
