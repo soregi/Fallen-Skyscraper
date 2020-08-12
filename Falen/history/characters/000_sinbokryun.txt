@@ -532,6 +532,7 @@
 	dynasty = 4000001
 	culture = honam
 	religion = protestant
+	father = 94
 	2296.5.12 = {
 		birth = yes
 	}
@@ -562,6 +563,18 @@
 	2414.2.9 = {
 		death = yes
 	}
+}
+94 = {
+	name = "Bloodline"
+	dynasty = 4000801
+	culture = ancient_korean
+	religion = prostetant
+	father = 803
+	1422.6.11 = {
+		birth = yes
+	}
+	2296.5.12 = {
+		death = yes
 }
 99 = {
 	name = "Grrrr"
