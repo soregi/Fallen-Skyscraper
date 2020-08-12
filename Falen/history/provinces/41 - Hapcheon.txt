@@ -7,6 +7,7 @@ title = c_hapcheon
 max_settlements = 4
 
 b_hapcheon = tribal
+b_haein = temple
 
 # Misc
 culture = yeongnam

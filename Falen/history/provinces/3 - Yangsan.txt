@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_yangsan = castle
 b_yangju = city
-b_samseongyangsan = temple
+b_wondong = temple
 
 # Misc
 culture = yeongnam

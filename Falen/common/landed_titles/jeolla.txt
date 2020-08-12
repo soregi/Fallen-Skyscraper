@@ -448,6 +448,7 @@ k_jeolla = {
 			b_jangcheon = {}
 			b_jeojeon = {}
 			b_juam = {}
+				holy_site = mahayana
 			b_oeseo = {}
 			b_nagan = {}
 		}
