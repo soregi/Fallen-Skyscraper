@@ -602,7 +602,7 @@
 	}
 }
 827 = {
-	name = "Hyeong"
+	name = "Hyeong" #고종
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
@@ -627,7 +627,7 @@
 	}
 }
 828 = {
-	name = "Cheok"
+	name = "Cheok" #순종
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
@@ -720,7 +720,7 @@
 	}
 }
 834 = {
-	name = "Haeung"
+	name = "Haeung" #흥선대원군
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
@@ -838,7 +838,7 @@
 	}
 }
 842 = {
-	name = "Je"
+	name = "Je" #양녕군
 	dynasty = 4000801
 	culture = old_korean
 	religion = confucian
@@ -856,4 +856,58 @@
 	father = 803
 	1394.1.1 = { birth = yes }
 	1462.9.7 = { death = yes }
+}
+843 = {
+	name = "Kang" #의친왕 이강
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	father = 827
+	1877.3.30 = { birth = yes }
+	1955.8.16 = { death = yes }
+}
+844 = {
+	name = "Geon" #이건(모모야마 켄이이치)
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	father = 843
+	1909.10.28 = { birth = yes }
+	1990.12.21 = { death = yes } #자연사
+}
+845 = {
+	name = "Wu" #이우 공
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	father = 843
+	1912.11.15 = { birth = yes }
+	1945.8.7 = { death = yes } #방사능 피폭으로 인한 사망
+}
+846 = {
+	name = "Cheong" #이청 공
+	dynasty = 4000801
+	culture = south_korean
+	religion = confucian
+	father = 845
+	1936.4.23 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+847 = {
+	name = "Jin" #이청의 아들
+	dynasty = 4000801
+	culture = south_korean
+	religion = confucian
+	father = 846
+	1975.4.23 = { birth = yes }
+	2020.3.14 = { death = yes }
+}
+848 = {
+	name = "descendant of Joseon dynasty"
+	dynasty = 4000801
+	culture = south_korean
+	religion = confucian
+	father = 847
+	2001.4.23 = { birth = yes }
+	2400.1.1 = { death = yes }
 }

@@ -1,0 +1,82 @@
+#합일교와 부산
+
+#합일교
+4000750 = {
+	name = "Eil"
+	culture = gyeonggi
+	religion = unitary
+}
+4000759 = {
+	name = "han"
+	culture = gyeonggi
+	religion = unitary
+}
+4000760 = {
+	name = "Gyeong"
+	culture = gyeonggi
+	religion = unitary
+}
+4000761 = {
+	name = "Myeong"
+	culture = gyeonggi
+	religion = unitary
+}
+4000762 = {
+	name = "Won"
+	culture = gyeonggi
+	religion = unitary
+}
+
+#부산
+4000770 = {
+	name = "O"
+	culture = yeongnam
+	religion = populist
+}
+4000774 = {
+	name = "Gwon"
+	culture = yeongnam
+	religion = populist
+}
+4000777 = {
+	name = "Choi"
+	culture = yeongnam
+	religion = populist
+}
+4000780 = {
+	name = "Do"
+	culture = yeongnam
+	religion = koreanist
+}
+4000784 = {
+	name = "Na"
+	culture = yeongnam
+	religion = populist
+}
+4000787 = {
+	name = "Myeong"
+	culture = yeongnam
+	religion = populist
+}
+4000790 = {
+	name = "Roh"
+	culture = yeongnam
+	religion = koreanist
+}
+}
+4000793 = {
+	name = "Kim"
+	culture = yeongnam
+	religion = populist
+}
+4000796 = {
+	name = "Jeong"
+	culture = yeongnam
+	religion = koreanist
+}
+}
+4000799 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = populist
+}

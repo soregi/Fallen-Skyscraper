@@ -1,0 +1,181 @@
+750 = {
+	name = "Kwanchean"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	trait = grey_eminence
+	trait = genius
+	trait = strong
+	trait = hedonist
+	trait = kind
+	trait = lustful
+	trait = proud
+	trait = zealous
+	trait = deceitful
+	trait = ambitious
+	add_spouse = 759
+	add_spouse = 760
+	add_spouse = 761
+	add_spouse = 762
+	2392.07.18 = {
+		birth = yes
+	}
+}
+751 = {
+	name = "Keangchean"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	trait = intricate_webweaver
+	trait = genius
+	trait = strong
+	trait = feeble
+	trait = slothful
+	trait = envious
+	trait = proud
+	trait = cruel
+	father = 750
+	mother = 759
+	2409.03.14 = {
+		birth = yes
+	}
+}
+752 = {
+	name = "Wonchean"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	trait = mastermind_theologian
+	trait = genius
+	trait = strong
+	trait = groomed
+	trait = charitable
+	trait = diligent
+	trait = proud
+	trait = lustful
+	trait = brave
+	trait = zealous	
+	father = 750
+	mother = 760
+	2409.10.18 = {
+		birth = yes
+	}
+}
+753 = {
+	name = "Meangji"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 759
+	2411.09.21 = {
+		birth = yes
+	}
+}
+754 = {
+	name = "Yeahji"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 760
+	2412.11.02 = {
+		birth = yes
+	}
+}
+755 = {
+	name = "Yeonji"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 760
+	2414.09.15 = {
+		birth = yes
+	}
+}
+756 = {
+	name = "Gwoncheon"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	father = 750
+	mother = 760
+	2415.10.31 = {
+		birth = yes
+	}
+}
+757 = {
+	name = "Jucheon"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	father = 750
+	mother = 761
+	2438.09.12 = {
+		birth = yes
+	}
+}
+758 = {
+	name = "Hyeji"
+	dynasty = 4000750 #합일교 교주 일씨가문
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 761
+	2441.06.18 = {
+		birth = yes
+	}
+}
+759 = {
+	name = "Yeonsun"
+	dynasty = 4000759 #한씨
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 761
+	2394.05.05 = {
+		birth = yes
+	}
+}
+760 = {
+	name = "Jaesuk"
+	dynasty = 4000760	#경씨
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 761
+	2394.05.05 = {
+		birth = yes
+	}
+}
+761 = {
+	name = "Hwayeong"
+	dynasty = 4000761 #명씨
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 761
+	2415.10.31 = {
+		birth = yes
+	}
+}
+762 = {
+	name = "Cheolhui"
+	dynasty = 4000762 #원씨
+	culture = gyeonggi
+	religion = unitary
+	female = yes
+	father = 750
+	mother = 761
+	2425.06.01 = {
+		birth = yes
+	}
+}
