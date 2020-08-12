@@ -8,6 +8,7 @@ max_settlements = 4
 
 b_uljin = castle
 b_geunnam = city
+b_hanul = temple
 
 # Misc
 culture = yeongnam

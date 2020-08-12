@@ -388,7 +388,7 @@ pagan_group = {
 		intermarry = gaian_reformed
 	}
 	steel_pagan_reformed = {
-		graphical_culture = chinesegfx
+		graphical_culture = norsegfx
 		secondary_event_pictures = finnish_pagan
 		alternate_start = { always = no }
 		
@@ -438,7 +438,7 @@ pagan_group = {
 	}
 
 	steel_pagan = {
-		graphical_culture = chinesegfx
+		graphical_culture = norsegfx
 
 		icon = 20
 		heresy_icon = 73
@@ -595,7 +595,7 @@ pagan_group = {
 		intermarry = chrome_cultist
 	}
 	jeju_pagan_reformed = {
-		graphical_culture = chinesegfx
+		graphical_culture = norsegfx
 		secondary_event_pictures = finnish_pagan
 		alternate_start = { always = no }
 		
@@ -645,7 +645,7 @@ pagan_group = {
 	}
 
 	jeju_pagan = {
-		graphical_culture = chinesegfx
+		graphical_culture = norsegfx
 
 		icon = 20
 		heresy_icon = 73

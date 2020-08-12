@@ -7,8 +7,8 @@ title = c_yeonggwang
 max_settlements = 5
 
 b_yeonggwang = castle
-b_baeksu_yeonggwang = city 
-b_beopseong = temple
+b_hanbit_yeonggwang = temple
+b_beopseong = city
 b_daema_yeonggwang = castle
 
 # Misc
