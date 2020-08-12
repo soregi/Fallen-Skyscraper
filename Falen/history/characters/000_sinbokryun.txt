@@ -568,8 +568,15 @@
 	name = "Bloodline"
 	dynasty = 4000801
 	culture = ancient_korean
-	religion = prostetant
+	religion = koreanist
 	father = 803
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	occluded = yes
+	disallow_random_traits = yes
 	1422.6.11 = {
 		birth = yes
 	}
