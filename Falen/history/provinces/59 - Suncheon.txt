@@ -8,7 +8,7 @@ max_settlements = 6
 
 b_suncheon = castle
 b_jungang_suncheon = city
-b_jangcheon = temple
+b_juam = temple
 b_jeojeon = castle
 
 # Misc

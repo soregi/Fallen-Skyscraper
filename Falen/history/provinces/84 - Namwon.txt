@@ -7,6 +7,7 @@ title = c_namwon
 max_settlements = 4
 
 b_namwon = tribal
+b_dotong = temple
 
 # Misc
 culture = honam

@@ -97,8 +97,6 @@ k_seoul = {
 
 		c_gangnam = {
 			color = { 132 79 22 }
-			holy_site = steel_pagan
-			holy_site = steel_pagan_reformed
 			b_gangnam = {}
 			b_apkujeong = {} #압구정
 			b_nonhyeon = {}
