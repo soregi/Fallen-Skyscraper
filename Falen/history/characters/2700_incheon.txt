@@ -1,0 +1,65 @@
+2700 = {
+	name = "manchun" #만춘
+	dynasty = 4005001 #남
+	culture = gyeonggi
+	religion = protestant
+	diplomacy = 7
+	martial = 11
+	stewardship = 6
+	intrigue = 8
+	learning = 9
+	trait = mastermind_theologian
+	trait = brave
+	trait = genius
+	trait = ambitious
+	disallow_random_traits = yes
+	2429.4.9 = { birth = yes }
+	2444.3.5 = { 
+	add_spouse = 2705
+	}
+}
+
+2701 = {
+	name = "seojun" #서준
+	dynasty = 4005002 #이
+	culture = gyeonggi
+	religion = protestant
+	martial = 7
+	2406.6.5 = { birth = yes }
+}
+
+2702 = {
+	name = "Seoryeong" #서령
+	dynasty = 4005002 #이
+	culture = gyeonggi
+	religion = protestant
+	2410.4.3 = { birth = yes }
+}
+
+2703 = {
+	name = "Joseph" #요셉
+	dynasty = 4005003 #김
+	culture = gyeonggi
+	religion = protestant
+	2386.6.6 = { birth = yes }
+}
+
+2704 = {
+	name = "Soojin" #수진
+	dynasty = 4005004 #박
+	culture = gyeonggi
+	religion = protestant
+	2409.3.17 = { birth = yes }
+}
+
+2705 = {
+	name = "Eujin" #유진
+	dynasty = 4005005 #강
+	culture = gyeonggi
+	religion = protestant
+            female = yes
+	2430.7.3 = { birth = yes }
+	2444.3.5 = { 
+	add_spouse = 2700 
+	}
+}

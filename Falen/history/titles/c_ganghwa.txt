@@ -1,4 +1,4 @@
 2426.7.16 = {
-	liege = d_ganghwa
+	liege = d_incheon
 	holder = 2033
 }

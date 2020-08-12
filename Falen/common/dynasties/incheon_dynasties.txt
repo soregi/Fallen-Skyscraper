@@ -1,0 +1,29 @@
+4005001 = {
+	name = "Nam"
+	culture = gyeonggi
+	religion = protestant
+}
+
+4005002 = {
+	name = "Yi"
+	culture = gyeonggi
+	religion = protestant
+}
+
+4005003 = {
+	name = "Kim"
+	culture = gyeonggi
+	religion = protestant
+}
+
+4005004 = {
+	name = "Park"
+	culture = gyeonggi
+	religion = protestant
+}
+
+4005005 = {
+	name = "Kang"
+	culture = gyeonggi
+	religion = protestant
+}

@@ -1,4 +1,4 @@
-2417.9.16 = {
-	liege = k_civil_seoul
-	holder = 2034
+2444.3.7 = {
+            liege = k_incheon
+	holder = 2700
 }

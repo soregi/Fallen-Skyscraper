@@ -6,7 +6,7 @@ title = c_yeongjongdo
 # Settlements
 max_settlements = 4
 
-b_yeongjongdo = tribal
+b_yeongjongdo = castle
 
 # Misc
 culture = gyeonggi

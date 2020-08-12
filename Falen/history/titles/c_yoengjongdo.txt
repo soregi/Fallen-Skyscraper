@@ -1,4 +1,0 @@
-2417.7.5 = {
-	liege = d_incheon
-	holder = 2035
-}

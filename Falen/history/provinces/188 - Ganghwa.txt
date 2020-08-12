@@ -6,7 +6,7 @@ title = c_ganghwa
 # Settlements
 max_settlements = 5
 
-b_ganghwa = tribal
+b_ganghwa = city
 
 # Misc
 culture = gyeonggi
