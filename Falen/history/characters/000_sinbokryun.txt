@@ -3,7 +3,7 @@
 	dynasty = 4000801
 	culture = honam
 	religion = imperial
-	father = 92
+	father = 94
 	trait = fortune_builder
 	trait = kind
 	trait = charitable
@@ -563,6 +563,19 @@
 		birth = yes
 	}
 	2414.2.9 = {
+		death = yes
+	}
+}
+94 = {
+	name = "Wu"
+	dynasty = 4000801
+	culture = honam
+	religion = imperial
+	father = 92
+	2359.8.11 = {
+		birth = yes
+	}
+	2420.7.14 = {
 		death = yes
 	}
 }
