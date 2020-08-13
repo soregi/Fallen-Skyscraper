@@ -1,0 +1,45 @@
+4000770 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000774 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000777 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000780 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000787 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000790 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000793 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000796 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
+4000799 = {
+	name = "Oh"
+	culture = yeongnam
+	religion = koreanist
+}
