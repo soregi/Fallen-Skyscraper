@@ -18,7 +18,7 @@
 }
 2 = {
 	name = "Yuhan"
-	dynasty = 4000001
+	dynasty = 4000801
 	culture = honam
 	religion = imperial
 	trait = gery_eminence
