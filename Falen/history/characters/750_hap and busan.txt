@@ -179,3 +179,49 @@
 		birth = yes
 	}
 }
+770 = {
+	name = "Jeongsu
+	dynasty = 4000770
+	culture = yeongnam
+	religion = populist
+	2390.12.12 = {
+		birth = yes
+	}
+	2410.1.1 = {
+		add_spouse = 774
+	}
+}
+771 = {
+	name = "Yeongguk"
+	dynasty = 4000770
+	culture = yeongnam
+	religion = populist
+	2410.9.6 = {
+		birth = yes
+	}
+	father = 770
+	mother = 774
+}
+772 = {
+	name = "Jeongguk"
+	dynasty = 4000770
+	culture = yeongnam
+	religion = populist
+	2412.1.6 = {
+		birth = yes
+	}
+	father = 770
+	mother = 774
+}
+773 = {
+	name = "Sugguk"
+	dynasty = 4000770
+	culture = yeongnam
+	religion = populist
+	2416.3.7 = {
+		birth = yes
+	}
+	female = yes
+	father = 770
+	mother = 774
+}
