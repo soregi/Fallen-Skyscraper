@@ -339,7 +339,46 @@ b_jeon = {
 	religion = koreanist
 }
 #부산
-
+b_oh = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_gwon = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_choi = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_do = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_na = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_myeong = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_roh = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_gim = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_jeong = {
+	culture = yeongnam
+	religion = koreanist
+}
+b_lee = {
+	culture = yeongnam
+	religion = koreanist
+}
 #얄루내 상공봉신
 b_kim = {
 	culture = pyongbuk
