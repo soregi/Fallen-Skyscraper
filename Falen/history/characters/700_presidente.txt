@@ -147,6 +147,8 @@
 	dynasty = 4000709
 	culture = yeongnam
 	religion = koreanist
+	father = 4009
+	mother = 4010
 	occluded = yes
 	diplomacy = 3
 	martial = 3
