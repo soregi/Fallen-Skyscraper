@@ -33,3 +33,8 @@
 	culture = han
 	religion = sanminzhuyi
 }
+4001371 = {
+	name = "Wu"
+	culture = liaoning
+	religion = cheondo
+}
