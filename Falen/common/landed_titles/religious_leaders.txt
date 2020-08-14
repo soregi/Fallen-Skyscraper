@@ -100,3 +100,18 @@ d_red_solar_pagan_reformed = {
 	
 	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 }
+d_unitary = { #합일교주
+	color = { 123 100 22 }
+	capital = 162 #경기도 광주
+	allow = {
+		religion = unitary
+	}
+	title = "KYOJU" #교주
+	title_female = "KYOJU"
+	foa = "KYOJU_FOA"
+	short_name = yes
+	dignity = 1000
+	controls_religion = unitary
+	religion = unitary
+	dynasty_title_names = no
+}

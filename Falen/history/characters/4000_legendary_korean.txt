@@ -1,0 +1,49 @@
+4741 = {
+	name = "Yong"
+	dynasty = 4002262
+	culture = yeongdong
+	religion = juche
+	give_nickname = nick_goja
+	trait = underhanded_rogue
+	trait = ancient
+	trait = eunuch
+	trait = poet
+	disallow_random_traits = yes
+	1910.9.3 = {
+		birth = yes
+	}
+	1971.7.24 = {
+		death = yes
+	}
+}
+4750 = {
+	name = "Chwachin"
+	dynasty = 4004751
+	culture = south_korean
+	religion = koreanist
+	occluded = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1889.12.16 = { birth = yes }
+	1930.1.24 = { death = { death_reason = death_murder } }
+}
+4751 = {
+	name = "Duhan"
+	dynasty = 4004751
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 4746
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1942.1.30 = { birth = yes }
+	1972.11.21 = { death = yes }
+}
