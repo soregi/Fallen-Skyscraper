@@ -200,13 +200,13 @@
 	1918.5.15 = { birth = yes }
 	1972.11.21 = { death = yes }
 }
-4012 = {
+4013 = {
 	name = "Duhan"
 	dynasty = 4000804
 	culture = south_korean
 	religion = mahayana
 	occluded = yes
-	father = 4013
+	father = 4014
 	diplomacy = 1
 	martial = 1
 	stewardship = 1
@@ -216,7 +216,7 @@
 	1942.1.30 = { birth = yes }
 	1972.11.21 = { death = yes }
 }
-4013 = {
+4014 = {
 	name = "Jajin"
 	dynasty = 4000804
 	culture = south_korean
