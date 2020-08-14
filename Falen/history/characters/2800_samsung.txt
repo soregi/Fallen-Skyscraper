@@ -1,0 +1,9 @@
+2800 = {
+	name = "Youchel"
+	dynasty = 4002801
+	culture = gyoenggi
+	religion = mechanist
+	2405.3.6 = {
+		birth = yes
+	}
+}
