@@ -491,7 +491,7 @@
 74 = {
 	name = "Mingeun"
 	dynasty = 4000048
-	culture = Gyeonggi
+	culture = gyeonggi
 	religion = imperial
 	2416.5.9 = {
 		birth = yes
@@ -500,7 +500,7 @@
 75 = {
 	name = "Beyeonghee"
 	dynasty = 4000049
-	culture = Gyeonggi
+	culture = gyeonggi
 	religion = imperial
 	2413.11.12 = {
 		birth = yes
@@ -509,7 +509,7 @@
 76 = {
 	name = "yeseong"
 	dynasty = 4000050
-	culture = Gyeonggi
+	culture = gyeonggi
 	religion = imperial
 	trait = homosexual
 	2411.6.4 = {
@@ -583,7 +583,7 @@
 	name = "Grrrr"
 	dynasty = 4000046
 	culture = bear
-	religion = muist
+	religion = mu_pagan
 	2424.1.1 = {
 		birth = yes
 	}

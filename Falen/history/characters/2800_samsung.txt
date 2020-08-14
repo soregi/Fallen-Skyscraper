@@ -1,7 +1,7 @@
 2800 = {
 	name = "Youchel"
 	dynasty = 4002801
-	culture = gyoenggi
+	culture = gyeonggi
 	religion = mechanist
 	2405.3.6 = {
 		birth = yes
