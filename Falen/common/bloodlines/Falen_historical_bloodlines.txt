@@ -26,6 +26,9 @@ paektu = { #백두혈통
 	allow_bastards = yes
 	picture = GFX_bloodlines_symbol_buddhist
 	flags = { historical_bloodline }
+	active = {
+		religion = juche
+	}
 }
 ilnam = { # 얄루 황제 정일남
 	combat_ration = 10
@@ -56,6 +59,9 @@ yi_joseon = {
 	allow_bastards = yes
 	picture = GFX_bloodlines_symbol_carolingian #이화 gfx에 넣고 바꾸기
 	flags = { historical_bloodline bloodline_heroes }
+	active = {
+		religion = confucian
+	}
 }
 sejong_the_great = {
 	just_opinion = 5
@@ -64,6 +70,9 @@ sejong_the_great = {
 	inheritance = patrilineal
 	picture = GFX_bloodlines_symbol_carolingian #이것도 뭔가로 바꾸고
 	flags = { historical_bloodline }
+	active = {
+		religion = confucian
+	}
 }
 steel_blood = { #포항왕국 혈통
 	combat_rating = 5
