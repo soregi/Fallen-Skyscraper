@@ -1,0 +1,35 @@
+4002801 = {
+	name = "Sin"
+	culture = gyeonggi
+	religion = mechanist
+}
+4002802 = {
+	name = "You"
+	culture = gyeonggi
+	religion = mechanist
+}
+4002803 = {
+	name = "Kim"
+	culture = gyeonggi
+	religion = mechanist
+}
+4002804 = {
+	name = "Lee"
+	culture = gyeonggi
+	religion = mechanist
+}
+4002805 = {
+	name = "Park"
+	culture = gyeonggi
+	religion = mechanist
+}
+4002806 = {
+	name = "Park"
+	culture = gyeonggi
+	religion = mechanist
+}
+4002807 = {
+	name = "Gang"
+	culture = gyeonggi
+	religion = mechanist
+}
