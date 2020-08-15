@@ -404,3 +404,25 @@ b_ji = {
 	culture = pyongbuk
 	religion = cheondo
 }
+
+#인천상공
+b_nam = {
+	culture = gyeonggi
+	religion = protestant
+}
+b_Yi = {
+	culture = gyeonggi
+	religion = protestant
+}
+b_hae = {
+	culture = gyeonggi
+	religion = protestant
+}
+b_Jiang = {
+	culture = weihai
+	religion = protestant
+}
+b_yoo = {
+	culture = gyeonggi
+	religion = protestant
+}

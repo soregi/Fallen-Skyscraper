@@ -3,6 +3,7 @@
 	dynasty = 4005001 #남
 	culture = gyeonggi
 	religion = protestant
+	mother = 2704
 	diplomacy = 7
 	martial = 11
 	stewardship = 6
@@ -24,6 +25,7 @@
 	dynasty = 4005002 #이
 	culture = gyeonggi
 	religion = protestant
+	father = 2706
 	martial = 7
 	2406.6.5 = { birth = yes }
 }
@@ -33,6 +35,7 @@
 	dynasty = 4005002 #이
 	culture = gyeonggi
 	religion = protestant
+	father = 2706
 	2410.4.3 = { birth = yes }
 }
 
@@ -49,6 +52,7 @@
 	dynasty = 4005004 #박
 	culture = gyeonggi
 	religion = protestant
+	female = yes
 	2409.3.17 = { birth = yes }
 }
 
@@ -57,9 +61,41 @@
 	dynasty = 4005005 #강
 	culture = gyeonggi
 	religion = protestant
-            female = yes
+    female = yes
 	2430.7.3 = { birth = yes }
 	2444.3.5 = { 
 	add_spouse = 2700 
 	}
+}
+
+2706 = {
+	name = "Seongchun" #성춘
+	dynasty = 4005002 #이
+	culture = gyeonggi
+	religion = protestant
+	2388.7.9 = { birth = yes }
+}
+
+2707 = {
+	name = "Yoojun" #유준
+	dynasty = 4005006 #해
+	culture = gyeonggi
+	religion = protestant
+	2408.6.13 = { birth = yes }
+}
+
+2708 = {
+	name = "Zinlong" #진용
+	dynasty = 4005008 #장
+	culture = weihai
+	religion = protestant
+	2398.9.8 = { birth = yes }
+}
+
+2709 = {
+	name = "yeol" #열
+	dynasty = 4005007 #유
+	culture = gyeonggi
+	religion = protestant
+	2416.3.3 = { birth = yes }
 }
