@@ -80,11 +80,6 @@
 	religion = confucian
 }
 40004029 = {
-	name = "Gwon" #안동권씨
-	culture = yeongnam
-	religion = confucian
-}
-40004030 = {
 	name = "Park" #밀양박씨 규정공파
 	culture = yeongnam
 	religion = confucian
