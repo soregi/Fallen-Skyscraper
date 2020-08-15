@@ -116,6 +116,9 @@
 	dynasty = 4001208 # 폰 키아우초우
 	culture = central_germanic
 	religion = christian
+  trait = fortune_builder
+  trait = administrator
+  trait = diligent
 	2416.4.16 = {
 		birth = yes
 	}
@@ -125,6 +128,7 @@
 	dynasty = 4001208 # 폰 키아우초우
 	culture = central_germanic
 	religion = christian
+	father = 1207
 	2443.11.21 = {
 		birth = yes
 	}
@@ -134,6 +138,8 @@
 	dynasty = 4001206 # 쿵
 	culture = Shandong
 	religion = confucian
+  trait = amateurish_plotter
+  trait = slothful
 	2412.9.4 = {
 		birth = yes
 	}
@@ -143,6 +149,12 @@
 	dynasty = 4001205 # 장
 	culture = Shandong
 	religion = taoist
+  trait = fortune_builder
+  trait = humble
+  trait = poet
+  trait = just
+  trait = greedy
+  trait = twin
 	give_nickname = nick_Di_Gong
 	2407.8.7 = {
 		birth = yes
@@ -153,15 +165,31 @@
 	dynasty = 4001208 # 폰 키아우초우
 	culture = central_germanic
 	religion = christian
+  trait = underhanded_rogue
+  trait = fair
+  trait = lustful
+  trait = groomed
+  trait = kind
+	() = {
+        add_spouse = (1207)
+        }
 	2420.12.6 = {
 		birth = yes
 	}
+	female = yes
 }
 1212 = {
 	name = "Liang"
 	dynasty = 4001205 # 장
 	culture = Shandong
 	religion = taoist
+  trait = skilled_tactician
+  trait = patient
+  trait = falconer
+  trait = stubborn
+  trait = proud
+  trait = ambitious
+  trait = twin
 	give_nickname = nick_Lian_Gong
 	2407.8.7 = {
 		birth = yes
@@ -172,6 +200,9 @@
 	dynasty = 4001209 # 폰 은정
 	culture = central_germanic
 	religion = christian
+  trait = elusive_shadow
+  trait = lunatic
+  trait = schemer
 	2417.3.4 = {
 		birth = yes
 	}
@@ -217,6 +248,9 @@
 	dynasty = 4001214 # 티테
 	culture = central_germanic
 	religion = christian
+  trait = charismatic_negotiator
+  trait = fair
+  trait = seductress
 	2426.6.4 = {
 		birth = yes
 	}
@@ -230,28 +264,12 @@
 		birth = yes
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1220 = {
 	name = "Kongji" 
 	dynasty = 4001206 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1205
 	2440.6.7 = {
 		birth = yes
 	}
@@ -279,6 +297,7 @@
 	dynasty = 4001215 # 쑹
 	culture = Shandong
 	religion = confucian
+	father = 1209
 	2406.7.8 = {
 		birth = yes
 	}
@@ -288,6 +307,7 @@
 	dynasty = 4001210 # 베르너
 	culture = central_germanic
 	religion = christian
+	father = 1215
 	2424.1.8 = {
 		birth = yes
 	}
@@ -337,6 +357,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1228
 	give_nickname = nick_Mu_Wang
 	2145.7.16 = {
 		birth = yes
@@ -350,6 +371,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1229
 	give_nickname = nick_Go_Wang
 	2165.6.4 = {
 		birth = yes
@@ -363,6 +385,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1230
 	give_nickname = nick_Myeong_Wang
 	2192.9.14 = {
 		birth = yes
@@ -376,6 +399,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1231
 	give_nickname = nick_Sung_Wang
 	2214.7.24 = {
 		birth = yes
@@ -389,6 +413,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1232
 	give_nickname = nick_Wun_Wang
 	2237.4.18 = {
 		birth = yes
@@ -402,6 +427,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1232
 	give_nickname = nick_Gang_Wang
 	2239.7.8 = {
 		birth = yes
@@ -415,6 +441,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1233
 	give_nickname = nick_Mok_Wang
 	2262.2.14 = {
 		birth = yes
@@ -428,6 +455,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1234
 	give_nickname = nick_Wung_Wang
 	2274.9.4 = {
 		birth = yes
@@ -441,6 +469,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1234
 	give_nickname = nick_Hye_Wang
 	2276.11.21 = {
 		birth = yes
@@ -454,6 +483,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1231
 	2232.7.30 = {
 		birth = yes
 	}
@@ -466,6 +496,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1238
 	2263.5.14 = {
 		birth = yes
 	}
@@ -478,6 +509,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1232
 	2241.7.12 = {
 		birth = yes
 	}
@@ -490,6 +522,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1240
 	2260.1.2 = {
 		birth = yes
 	}
@@ -502,6 +535,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1239
 	give_nickname = nick_Ae_Wang
 	2284.2.01 = {
 		birth = yes
@@ -515,6 +549,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1241
 	give_nickname = nick_Huan_Wang
 	2281.9.6 = {
 		birth = yes
@@ -528,6 +563,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1242
 	give_nickname = nick_Jung_Wang
 	2304.1.24 = {
 		birth = yes
@@ -541,6 +577,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1244
 	give_nickname = nick_Yae_Wang
 	2328.4.3 = {
 		birth = yes
@@ -554,6 +591,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1245
 	give_nickname = nick_Min_Wang
 	2350.7.7 = {
 		birth = yes
@@ -567,6 +605,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1246
 	give_nickname = nick_Jung_Gong
 	2389.7.7 = {
 		birth = yes
@@ -580,6 +619,7 @@
 	dynasty = 4001220 # 쿵
 	culture = Shandong
 	religion = confucian
+	father = 1247
 	give_nickname = nick_Myeol_Gong
 	2408.1.4 = {
 		birth = yes
@@ -593,24 +633,34 @@
 	dynasty = 4001219 # 랴오
 	culture = Shandong
 	religion = confucian
+	() = {
+        add_spouse = (1205)
+        }
 	2413.3.27 = {
 		birth = yes
 	}
+	female = yes
 }
 1250 = {
 	name = "Peiling"
 	dynasty = 4001222 # 쑹
 	culture = Shandong
 	religion = confucian
+  trait = elusive_shadow
+	() = {
+        add_spouse = (1206)
+        }
 	2409.6.25 = {
 		birth = yes
 	}
+	female = yes
 }
 1251 = {
 	name = "Chuanlin"
 	dynasty = 4001207 # 덩
 	culture = Shandong
 	religion = confucian
+	father = 1206
 	2432.9.8 = {
 		birth = yes
 	}
@@ -620,6 +670,7 @@
 	dynasty = 4001207 # 덩
 	culture = Shandong
 	religion = confucian
+	father = 1206
 	2434.9.7 = {
 		birth = yes
 	}
@@ -629,24 +680,33 @@
 	dynasty = 4001223 # 찐
 	culture = Shandong
 	religion = taoist
+	() = {
+        add_spouse = (1210)
+        }
 	2409.1.12 = {
 		birth = yes
 	}
+	female = yes
 }
 1254 = {
 	name = "Ziyi"
 	dynasty = 4001224 # 뱌오
 	culture = Shandong
 	religion = taoist
+	() = {
+        add_spouse = (1212)
+        }
 	2411.4.3 = {
 		birth = yes
 	}
+	female = yes
 }
 1255 = {
 	name = "Tianlin"
 	dynasty = 4001205 # 장
 	culture = Shandong
 	religion = taoist
+	father = 1210
 	2430.9.4 = {
 		birth = yes
 	}
@@ -656,15 +716,18 @@
 	dynasty = 4001205 # 장
 	culture = Shandong
 	religion = taoist
+	father = 1210
 	2433.12.21 = {
 		birth = yes
 	}
+	female = yes
 }
 1257 = {
 	name = "Fuzhe"
 	dynasty = 4001205 # 장
 	culture = Shandong
 	religion = taoist
+	father = 1210
 	2436.1.3 = {
 		birth = yes
 	}
