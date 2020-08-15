@@ -29,7 +29,7 @@ k_civil_seoul_adj;Seoul;;;;;;;;;;;;;x
 k_bulgukto;Bulgukto;;;;;;;;;;;;;x
 k_bulgukto_adj;Bulgukto;;;;;;;;;;;;;x
 k_kaesong;Kaesong;;;;;;;;;;;;;x
-k_kaesong_adj;Kaesong;;;;;;;;;;;;;x
+k_kaesong_adj;Kaesongite;;;;;;;;;;;;;x
 k_gaya;Gaya;;;;;;;;;;;;;x
 k_gaya_adj;Gaya;;;;;;;;;;;;;x
 k_andong;Ju;;;;;;;;;;;;;x
@@ -58,3 +58,17 @@ k_hwanghae_party;Hwanghae Labour's Party;;;;;;;;;;;;;x
 k_hwanghae_party_adj;Hwanghae;;;;;;;;;;;;;x
 k_haeju_farm;Haeju Peasants' State;;;;;;;;;;;;;x
 k_haeju_farm_adj;Haeju;;;;;;;;;;;;;x
+k_samsung;Steel Union;;;;;;;;;;;;;x
+k_samsung_adj;Union;;;;;;;;;;;;;x
+k_central;Central Crownland;;;;;;;;;;;;;x
+k_central_adj;Central;;;;;;;;;;;;;x
+k_northern_margraviate;Northern Margraviate;;;;;;;;;;;;;x
+k_northern_margraviate_adj;Marcher;;;;;;;;;;;;;x
+k_daegu_usa;Daegu;;;;;;;;;;;;;x
+k_daegu_usa_adj;American;;;;;;;;;;;;;x
+k_sinuiju_comm;Commune of New Uiju;;;;;;;;;;;;;x
+k_sinuiju_comm_adj;Communal;;;;;;;;;;;;;x
+k_east_navy;East Navy;;;;;;;;;;;;;x
+k_east_navy_adj;Naval;;;;;;;;;;;;;x
+k_jinhae;Jinhae;;;;;;;;;;;;;x
+k_jinhae_adj;Jinhae;;;;;;;;;;;;;x

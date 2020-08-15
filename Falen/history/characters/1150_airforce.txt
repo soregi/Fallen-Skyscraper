@@ -72,7 +72,7 @@
 	name = "Wongong"
 	dynasty = 4001152
 	culture = hoseo
-	religion = authoritarian5
+	religion = authoritarian
 	2390.9.12 = {
 		birth = yes
 	}

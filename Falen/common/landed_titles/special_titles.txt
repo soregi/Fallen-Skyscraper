@@ -292,6 +292,7 @@ d_hongseong = {
 k_northern_margraviate = {
 	color ={ 226 226 226 }
 	color2 = { 236 236 236 }
+	short_name = yes
 }
 #미군들
 e_usa_mil = { #미군정
@@ -307,7 +308,6 @@ k_daegu_usa = { #대구미군
 k_sinuiju_comm = { #신의주
 	color={ 199 5 9 }
 	color2={ 3 142 230 }
-
 }
 k_east_navy = { #동해해군
 	color = { 70 104 212 }
@@ -317,6 +317,7 @@ k_east_navy = { #동해해군
 k_samsung = { #강철 조합국
 	color = { 0 0 128 }
 	color2 = { 25 25 112 }
+	short_name = yes
 }
 k_jianzhou = { #건주
 	color = { 0 0 100 }
