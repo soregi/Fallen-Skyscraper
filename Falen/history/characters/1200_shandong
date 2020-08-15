@@ -1,0 +1,65 @@
+1200 = {
+	name = "Dan"
+	dynasty = 4001201 # 노
+	culture = old_chinese
+	religion = confucian
+	trait = ancient
+	trait = mastermind_theologian
+	trait = temperate
+	trait = kind
+	trait = patient
+	trait = just
+  trait = honest
+	give_nickname = nick_no_jugong
+	2101.1.1 = {
+		birth = yes
+	}
+	2250.1.1 = {
+	death = yes
+	}
+}
+1201 = {
+	name = "Zhongwei"
+	dynasty = 4001202 # 톈
+	culture = old_chinese
+	religion = confucian
+  trait = ancient
+	1870.1.1 = {
+		birth = yes
+	}
+	1935.1.1 = {
+	death = yes
+	}
+}
+1202 = {
+	name = "Zhongchang"
+	dynasty = 4001203 # 장
+	culture = old_chinese
+	religion = confucian
+  trait = ancient
+  trait = skilled_tactician
+  trait = lustful
+  trait = greedy
+  give_nickname = nick_gaegogi_jang_gun
+	1881.2.13 = {
+		birth = yes
+	}
+	1932.9.3 = {
+	death = yes
+	}
+}
+1203 = {
+	name = "Fuju"
+	dynasty = 4001204 # 한
+	culture = old_chinese
+	religion = confucian
+  trait = ancient
+  trait = misguided_warrior
+  trait = craven
+	1890.1.25 = {
+		birth = yes
+	}
+	1938.1.24 = {
+	death = yes
+	}
+}
