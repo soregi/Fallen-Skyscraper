@@ -91,7 +91,7 @@ k_gangwon = {
 			b_hakseong = {}
 			b_myeongnyun = {}
 			b_bangok = {}
-			b_jangnam = {}
+			b_jangnam_wonju = {}
 			b_seocheo = {}
 			b_sillim = {}
 		}

@@ -636,7 +636,7 @@ k_andong = {
 			b_gaepo = {}
 		}
 	}
-		d_yeongdeok = {
+	d_yeongdeok = {
 		color = { 13 65 242 }
 
 		capital = 36

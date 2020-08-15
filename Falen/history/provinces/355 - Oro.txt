@@ -1,12 +1,12 @@
-# 355 - Yong'gwang
+# 355 - Oro
 
 # County Title
-title = c_h_yeonggwang
+title = c_oro
 
 # Settlements
 max_settlements = 3
 
-b_h_yeonggwang_b0 = tribal
+b_oro = tribal
 
 # Misc
 culture = hamnam

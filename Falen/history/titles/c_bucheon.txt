@@ -1,4 +1,4 @@
 2440.1.1 = {
 	liege = k_civil_seoul
 	holder = 2062
-)
+}
