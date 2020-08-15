@@ -21,8 +21,3 @@
 	culture = old_korean
 	religion = koreanist
 }
-4000804 = {
-	name = "Kim"
-	culture = seoul 
-	religion = koreanist
-}

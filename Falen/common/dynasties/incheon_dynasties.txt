@@ -27,3 +27,21 @@
 	culture = gyeonggi
 	religion = protestant
 }
+
+4005006 = {
+	name = "hae"
+	culture = gyeonggi
+	religion = protestant
+}
+
+4005007 = {
+	name = "yoo"
+	culture = gyeonggi
+	religion = protestant
+}
+
+4005008 = {
+	name = "Jiang"
+	culture = weihai
+	religion = protestant
+}

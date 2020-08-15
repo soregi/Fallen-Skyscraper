@@ -318,6 +318,14 @@ k_samsung = { #강철 조합국
 	color = { 0 0 128 }
 	color2 = { 25 25 112 }
 }
+k_jianzhou = { #건주
+	color = { 0 0 100 }
+	color2 = { 25 25 112 }
+}
+k_haixi = { #해서
+	color = { 0 100 0 }
+	color2 = { 25 25 112 }
+}
 ######################################
 # 상인공화국 가문들의 자리. 이 아래에 가문말고 넣지말것  #
 ######################################
@@ -403,4 +411,26 @@ b_sang = {
 b_ji = {
 	culture = pyongbuk
 	religion = cheondo
+}
+
+#인천상공
+b_nam = {
+	culture = gyeonggi
+	religion = protestant
+}
+b_Yi = {
+	culture = gyeonggi
+	religion = protestant
+}
+b_hae = {
+	culture = gyeonggi
+	religion = protestant
+}
+b_Jiang = {
+	culture = weihai
+	religion = protestant
+}
+b_yoo = {
+	culture = gyeonggi
+	religion = protestant
 }

@@ -1,0 +1,140 @@
+40004001 = {
+	name = "Kim" #김녕김씨
+	culture = yeongnam
+	religion = mahayana
+}
+40004002 = {
+	name = "Lee" #전주이씨 효령대군파
+	culture = Seoul
+	religion = confucian
+}
+40004003 = {
+	name = "Kim" #본관 불명
+	culture = Hambook
+	religion = confucian
+}
+40004004 = {
+	name = "Go" #제주고씨
+	culture = jeju
+	religion = confucian
+}
+40004005 = {
+	name = "Heo" #김해허씨
+	culture = yeongnam
+	religion = confucian
+}
+40004006 = {
+	name = "Im" #본관 불명
+	culture = Seoul
+	religion = confucian
+}
+40004007 = {
+	name = "Jang" #본관 불명
+	culture = Seoul
+	religion = confucian
+}
+40004008 = {
+	name = "Kim" #본관 불명
+	culture = Seoul
+	religion = confucian
+}
+40004009 = {
+	name = "Yun" #본관 불명
+	culture = Seoul
+	religion = confucian
+}
+40004010 = {
+	name = "Yun" #해평윤씨
+	culture = yeongnam
+	religion = confucian
+}
+40004011 = {
+	name = "Kim" #본관 불명
+	culture = yeongnam
+	religion = confucian
+}
+40004012 = {
+	name = "Yang" #본관 불명
+	culture = yeongnam
+	religion = confucian
+}
+40004013 = {
+	name = "Gu" #능성구씨
+	culture = honam
+	religion = confucian
+}
+40004014 = {
+	name = "Jeung"
+	culture = yeongnam
+	religion = confucian
+}
+40004015 = {
+	name = "Park"
+	culture = yeongnam
+	religion = confucian
+}
+40004016 = {
+	name = "Kim"
+	culture = yeongnam
+	religion = confucian
+}
+40004017 = {
+	name = "Yeom"
+	culture = yeongnam
+	religion = confucian
+}
+40004018 = {
+	name = "Kim"
+	culture = yeongnam
+	religion = confucian
+}
+40004020 = {
+	name = "Park"
+	culture = yeongnam
+	religion = confucian
+}
+40004021 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = confucian
+}
+40004022 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = confucian
+}
+40004023 = {
+	name = "Kim"
+	culture = yeongnam
+	religion = confucian
+}
+40004024 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = confucian
+}
+40004025 = {
+	name = "U" #단양우씨
+	culture = hoseo
+	religion = confucian
+}
+40004026 = {
+	name = "Choi" #화순최씨
+	culture = honam
+	religion = confucian
+}
+40004027 = {
+	name = "Cho" #풍양조씨
+	culture = gyeonggi
+	religion = confucian
+}
+40004028 = {
+	name = "Oh" #해주오씨 추탄공파
+	culture = hwanghae
+	religion = confucian
+}
+40004029 = {
+	name = "Park" #밀양박씨 규정공파
+	culture = yeongnam
+	religion = confucian
+}

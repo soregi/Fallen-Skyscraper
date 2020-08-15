@@ -1,4 +1,3 @@
-2430.1.1 = {
-	liege = k_samsung
-	holder = 2809
+2416.4.30 = {
+	holder = 750
 }

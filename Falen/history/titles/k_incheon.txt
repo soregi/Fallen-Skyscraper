@@ -1,4 +1,8 @@
 2444.3.7 = {
+    set_tribute_suzerain = {
+		who = k_civil_seoul
+		type = permanent 
+	}
 	holder = 2700
 	set_tribute_suzerain = {
 		who = k_civil_seoul

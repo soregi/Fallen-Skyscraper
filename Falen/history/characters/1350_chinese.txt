@@ -156,4 +156,25 @@
 		birth = yes
 	}
 }
-
+1371 = {
+	name = "Kun"
+	dynasty = 4001371
+	culture = liaoning
+	religion = cheondo
+	2361.2.13 = {
+		birth = yes
+	}
+	2392.7.16 = {
+		death = yes
+	}
+}
+1372 = {
+	name = "Weijun"
+	dynasty = 4001371
+	culture = liaoning
+	religion = cheondo
+	father = 1371
+	2392.7.14 = {
+		birth = yes
+	}
+}

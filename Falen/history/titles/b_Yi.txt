@@ -1,0 +1,5 @@
+2432.6.15 = {
+	liege = k_incheon
+	holding_dynasty = 4005002
+	holder = 2706
+}

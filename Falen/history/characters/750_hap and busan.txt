@@ -1,5 +1,5 @@
 750 = {
-	name = "Kwanchean"
+	name = "Kwancheon"
 	dynasty = 4000750 #합일교 교주 일씨가문
 	culture = gyeonggi
 	religion = unitary
@@ -22,7 +22,7 @@
 	}
 }
 751 = {
-	name = "Keangchean"
+	name = "Gyeongcheon"
 	dynasty = 4000750 #합일교 교주 일씨가문
 	culture = gyeonggi
 	religion = unitary
@@ -41,7 +41,7 @@
 	}
 }
 752 = {
-	name = "Wonchean"
+	name = "Woncheon"
 	dynasty = 4000750 #합일교 교주 일씨가문
 	culture = gyeonggi
 	religion = unitary
@@ -62,7 +62,7 @@
 	}
 }
 753 = {
-	name = "Meangji"
+	name = "Myeongji"
 	dynasty = 4000750 #합일교 교주 일씨가문
 	culture = gyeonggi
 	religion = unitary
@@ -74,7 +74,7 @@
 	}
 }
 754 = {
-	name = "Yeahji"
+	name = "Yeji"
 	dynasty = 4000750 #합일교 교주 일씨가문
 	culture = gyeonggi
 	religion = unitary
@@ -98,7 +98,7 @@
 	}
 }
 756 = {
-	name = "Gwoncheon"
+	name = "Kwoncheon"
 	dynasty = 4000750 #합일교 교주 일씨가문
 	culture = gyeonggi
 	religion = unitary
