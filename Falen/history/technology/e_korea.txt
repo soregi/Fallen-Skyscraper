@@ -24,8 +24,12 @@ technology = {
 #자강도
 technology = {
 	titles = {
-		d_jasong
-        d_ganggye
+		c_ryongrim
+		c_songgan
+		c_kanggye
+		c_janggang
+		c_hwapyeong
+		c_junggang
 	}
 	2444 = {
 		military = 1.0
@@ -95,6 +99,7 @@ technology = {
 	titles = {
 		d_jinzhou
 		d_huludao
+		c_liaozhong
 	}
 	2444 = {
 		military =2.0
@@ -121,7 +126,7 @@ technology = {
 		d_chongjin
 		d_kilju
 		d_baekdu
-		d_kuongsong
+		d_kyongsong
 	}
 	2444 = {
 		military =1.0
@@ -145,7 +150,14 @@ technology = {
 #평북
 technology = {
 	titles = {
-		k_pyeongbuk
+		d_jongju
+		d_dongrim
+		d_uiju
+		d_gusong
+		d_yongbyon
+		d_huichon
+		d_ganggye
+		d_jasong
 	}
 	2444 = {
 		military =1.0
@@ -156,7 +168,12 @@ technology = {
 #평남(인공)
 technology = {
 	titles = {
-		k_pyeongnam
+		d_nampo
+		d_pyongyang
+		d_songcheon
+		d_sunchon
+		d_anju
+		d_maengsan
 	}
 	2444 = {
 		military =2.0
@@ -284,6 +301,7 @@ technology = {
 	}
 }
 #영동
+
 #경기도(남)
 technology = {
 	titles = {
@@ -452,8 +470,8 @@ technology = {
 #한울국
 technology = {
 	titles = {
-		c_ulijin
-		c_yeibgdeok
+		c_uljin
+		c_yeongdeok
 	}
 	2444 = {
 		military = 1.0
@@ -465,6 +483,8 @@ technology = {
 technology = {
 	titles = {
 		d_andong
+		d_yeongdeok
+		c_uiseong
 	}
 	2444 = {
 		military = 2.0
@@ -519,7 +539,8 @@ technology = {
 #인천
 technology = {
 	titles = {
-		k_incheon
+		d_incheon
+		d_ganghwa
 	}
 	2444 = {
 		military = 2.5
