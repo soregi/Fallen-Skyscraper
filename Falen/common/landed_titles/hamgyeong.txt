@@ -15,16 +15,6 @@ k_hamgyeong = {
 			b_hamheung_b5 = {}
 			b_hamheung_b6 = {}
 		}
-		c_yodeok = {
-			color = { 45 45 70 }
-			b_yodeok_b0 = {}
-			b_yodeok_b1 = {}
-			b_yodeok_b2 = {}
-			b_yodeok_b3 = {}
-			b_yodeok_b4 = {}
-			b_yodeok_b5 = {}
-			b_yodeok_b6 = {}
-		}
 		c_jeongpyeong = {
 			color = { 50 100 120 }
 			b_jeongpyeong_b0 = {}
@@ -44,16 +34,6 @@ k_hamgyeong = {
 			b_hamju_b4 = {}
 			b_hamju_b5 = {}
 			b_hamju_b6 = {}
-		}
-		c_daeheung = {
-			color = { 180 0 0 }
-			b_daeheung_b0 = {}
-			b_daeheung_b1 = {}
-			b_daeheung_b2 = {}
-			b_daeheung_b3 = {}
-			b_daeheung_b4 = {}
-			b_daeheung_b5 = {}
-			b_daeheung_b6 = {}
 		}
 	}
 	d_sinpo = {

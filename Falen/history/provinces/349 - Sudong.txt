@@ -1,13 +1,13 @@
-# 349 - Sudong'gu
+# 349 - Sudong
 
 # County Title
-title = c_sudonggu
+title = c_sudong
 
 # Settlements
 max_settlements = 3
 
-b_sudonggu = castle
-b_changdong_sudonggu = temple
+b_sudong = castle
+b_changdong_sudong = temple
 
 # Misc
 culture = hamnam

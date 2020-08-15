@@ -1,0 +1,101 @@
+#울 릉 도
+technology = {
+	titles = {
+		d_ulleung
+	}
+	2444 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+#한울국
+technology = {
+	titles = {
+		d_yeongdeok
+	}
+	2444 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+#안동(주)
+technology = {
+	titles = {
+		d_andong
+		d_cheongsong
+		d_yeongju
+		c_uiseong
+	}
+	2444 = {
+		military = 2.0
+		economy = 1.0
+		culture = 3.0
+	}
+}
+#가야
+technology = {
+	titles = {
+		d_miryang
+		d_gaya
+		d_namhae
+	}
+	2444 = {
+		military = 2.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+#진해, 부산
+technology = {
+	titles = {
+		d_busan
+		d_jinhae
+		d_geoje
+		c_gimhae
+	}
+	2444 = {
+		military = 1.0
+		economy = 3.0
+		culture = 3.0
+	}
+}
+#포항
+technology = {
+	titles = {
+		d_pohang
+		d_ulsan
+	}
+	2444 = {
+		military = 3.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+#불국토
+technology = {
+	titles = {
+		d_gyeongju
+		d_gimhae
+		c_changnyeong
+		c_eonyang
+	}
+	2444 = {
+		military = 3.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+#미군들
+technology = {
+	titles = {
+		d_daegu
+		c_chilgok
+	}
+	2444 = {
+		military = 3.0
+		economy = 1.0
+		culture = 2.0
+	}
+}

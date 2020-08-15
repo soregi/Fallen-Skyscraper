@@ -8,8 +8,8 @@ max_settlements = 5
 
 b_ulju = castle
 b_bemseo = city
-b_gori = temple
-b_eonyang_ulju = castle
+b_dudong = temple
+b_onyang_ulju = castle
 
 # Misc
 culture = yeongnam

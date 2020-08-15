@@ -8,7 +8,7 @@ max_settlements = 5
 
 b_gijang = castle
 b_jangan = city
-b_gyori = temple
+b_gori = temple
 
 # Misc
 culture = yeongnam

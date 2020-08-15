@@ -70,6 +70,7 @@ d_cheondo = {
     primary = yes
 
     dynasty_title_names = no
+}
 d_red_solar_pagan_reformed = {
 	color = { 191 51 25 }
 	color2 = { 50 200 230 }

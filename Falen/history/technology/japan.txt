@@ -1,0 +1,11 @@
+#머마도
+technology = {
+	titles = {
+		d_tsushima
+	}
+	2444 = {
+		military = 2.0
+		economy = 1.0
+		culture = 1.0
+	}
+}

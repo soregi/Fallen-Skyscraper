@@ -1,0 +1,94 @@
+#만주(성지제외)
+technology = {
+	titles = {
+		d_jilin
+        d_changchun
+		d_chifing
+		d_baishan
+		d_tonghua
+		d_tieling
+	}
+	2444 = {
+		military = 1.0
+		economy = 0.2
+		culture = 0.1
+	}
+}
+#만주(성지)
+technology = {
+	titles = {
+		c_jilin
+		c_changbai
+	}
+	2444 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+}
+#요동
+technology = {
+	titles = {
+		d_dalian
+		d_yingkou
+		d_dandong
+		d_liaoyang
+		d_panjin
+		d_fengtian
+	}
+	2444 = {
+		military = 2.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+#몽골
+technology = {
+	titles = {
+		d_chaoyang
+		d_chifeng
+		d_tongliao
+	}
+	2444 = {
+		military = 1.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+#요서
+technology = {
+	titles = {
+		d_jinzhou
+		d_huludao
+		c_liaozhong
+	}
+	2444 = {
+		military =2.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+#연변
+technology = {
+	titles = {
+		d_yanbian
+		d_heilongjiang
+	}
+	2444 = {
+		military =1.0
+		economy = 1.0
+		culture = 2.0
+	}
+}
+#연해주
+technology = {
+	titles = {
+		d_vladivostok
+		d_ussuriysk
+	}
+	2444 = {
+		military = 2.0
+		economy = 1.5
+		culture = 2.0
+	}
+}

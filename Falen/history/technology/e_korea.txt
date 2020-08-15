@@ -9,18 +9,6 @@ technology = {
 		culture = 4.0
 	}
 }
-#연해주
-technology = {
-	titles = {
-		d_vladivostok
-		d_ussuriysk
-	}
-	2444 = {
-		military = 2.0
-		economy = 1.5
-		culture = 2.0
-	}
-}
 #자강도
 technology = {
 	titles = {
@@ -35,88 +23,6 @@ technology = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
-	}
-}
-#만주(성지제외)
-technology = {
-	titles = {
-		d_jilin
-        d_changchun
-		d_chifing
-		d_baishan
-		d_tonghua
-		d_tieling
-	}
-	2444 = {
-		military = 1.0
-		economy = 0.2
-		culture = 0.1
-	}
-}
-#만주(성지)
-technology = {
-	titles = {
-		c_jilin
-		c_changbai
-	}
-	2444 = {
-		military = 2.0
-		economy = 2.0
-		culture = 2.0
-	}
-}
-#요동
-technology = {
-	titles = {
-		d_dalian
-		d_yingkou
-		d_dandong
-		d_liaoyang
-		d_panjin
-		d_fengtian
-	}
-	2444 = {
-		military = 2.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-#몽골
-technology = {
-	titles = {
-		d_chaoyang
-		d_chifeng
-		d_tongliao
-	}
-	2444 = {
-		military = 1.0
-		economy = 0.0
-		culture = 0.0
-	}
-}
-#요서
-technology = {
-	titles = {
-		d_jinzhou
-		d_huludao
-		c_liaozhong
-	}
-	2444 = {
-		military =2.0
-		economy = 2.0
-		culture = 3.0
-	}
-}
-#연변
-technology = {
-	titles = {
-		d_yanbian
-		d_heilongjiang
-	}
-	2444 = {
-		military =1.0
-		economy = 1.0
-		culture = 2.0
 	}
 }
 #함경북도+량강도
@@ -400,98 +306,8 @@ technology = {
 		culture = 3.0
 	}
 }
-#가야
-technology = {
-	titles = {
-		d_miryang
-		d_gaya
-		d_namhae
-	}
-	2444 = {
-		military = 2.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-#진해, 부산
-technology = {
-	titles = {
-		d_busan
-		d_jinhae
-		d_geoje
-		c_gimhae
-	}
-	2444 = {
-		military = 1.0
-		economy = 3.0
-		culture = 3.0
-	}
-}
-#포항
-technology = {
-	titles = {
-		d_pohang
-		d_ulsan
-	}
-	2444 = {
-		military = 3.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-#불국토
-technology = {
-	titles = {
-		d_gyeongju
-		d_gimhae
-		c_changnyeong
-		c_eonyang
-	}
-	2444 = {
-		military = 3.0
-		economy = 2.0
-		culture = 3.0
-	}
-}
-#미군들
-technology = {
-	titles = {
-		d_daegu
-		c_chilgok
-	}
-	2444 = {
-		military = 3.0
-		economy = 1.0
-		culture = 2.0
-	}
-}
 #소백산 우가우가
 #태백산 우가우가
-#한울국
-technology = {
-	titles = {
-		c_uljin
-		c_yeongdeok
-	}
-	2444 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-#안동(주)
-technology = {
-	titles = {
-		d_andong
-		d_yeongdeok
-		c_uiseong
-	}
-	2444 = {
-		military = 2.0
-		economy = 1.0
-		culture = 3.0
-	}
-}
 #제주
 technology = {
 	titles = {
@@ -503,32 +319,10 @@ technology = {
 		culture = 1.0
 	}
 }
-#머마도
-technology = {
-	titles = {
-		c_tsushima
-	}
-	2444 = {
-		military = 2.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
 #계룡
 technology = {
 	titles = {
 		c_gyeryong
-	}
-	2444 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-#울 릉 도
-technology = {
-	titles = {
-		d_ulleung
 	}
 	2444 = {
 		military = 1.0

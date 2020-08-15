@@ -170,7 +170,16 @@ k_jeolla = {
 		color = { 255 217 30 }
 
 		capital = 91
-
+		c_muju = {
+			color = { 77 0 0 }
+			b_muju = {}
+			b_mupung = {}
+			b_seolcheonmuju = {}
+			b_jeoksang = {}
+			b_anseong = {}
+			b_bunam = {}
+			b_geumpyeong = {}
+		}
 		c_geumsan = {
 			color = { 0 115 10 }
 			b_geumsan = {}
@@ -210,7 +219,6 @@ k_jeolla = {
 
 		c_jeongeup = {
 			color = { 164 64 64 }
-			holy_site = cheondo
 			b_jeongup = {}
 			b_jangsang = {}
 			b_suseong_jeongup = {}

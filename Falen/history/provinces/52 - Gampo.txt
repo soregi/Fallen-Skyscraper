@@ -1,7 +1,7 @@
-# 52 - Wolsong
+# 52 - Gampo
 
 # County Title
-title = c_wolsong
+title = c_gampo
 
 # Settlements
 max_settlements = 5

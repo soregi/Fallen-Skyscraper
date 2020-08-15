@@ -123,54 +123,6 @@ k_gyeongsang = {
 			b_palryong = {}
 		}
 	}
-	d_busan = {
-		color = { 117 209 255 }
-
-		capital = 17
-
-		c_gangseo = {
-			color = { 132 0 201 }
-			b_gangseobusan = {}
-			b_daejeo = {}
-			b_noksan = {}
-			b_gangdongbusan = {}
-			b_myeongji = {}
-			b_garak = {}
-			b_gadeokdo = {}
-		}
-		c_busan = {
-			color = { 0 0 127 }
-			b_busan = {}
-			b_nampobusan = {}
-			b_beomil = {}
-			b_daeyeon = {}
-			b_yeongseon = {}
-			b_hadan = {}
-			b_sasang = {}
-		}
-		c_dongnae = {
-			color = { 95 77 255 }
-			b_dongnae = {}
-			b_namcheon = {}
-			b_sumin = {}
-			b_boksan = {}
-			b_yeonsan = {}
-			b_haeundae = {}
-			b_nopo = {}
-		}
-		c_gijang = {
-			color = { 13 0 170 }
-			b_gijang = {}
-			b_jangan = {}
-			b_jeonggwan = {}
-			b_ilgwang = {}
-			b_cheolma = {}
-			b_gyori = {}
-				holy_site = atomicist
-				holy_site = atomicist_reformed
-			b_sincheongijang = {}
-		}
-	}
 	d_gimhae = {
 		color = { 74 138 255 }
 
@@ -291,16 +243,6 @@ k_gyeongsang = {
 			b_goje = {}
 			b_buksang = {}
 		}
-		c_muju = {
-			color = { 77 0 0 }
-			b_muju = {}
-			b_mupung = {}
-			b_seolcheonmuju = {}
-			b_jeoksang = {}
-			b_anseong = {}
-			b_bunam = {}
-			b_geumpyeong = {}
-		}
 	}
 	d_mungyeong = {
 		color = { 142 197 255 }
@@ -330,11 +272,11 @@ k_gyeongsang = {
 		c_yeongdong = {
 			color = { 26 127 26 }
 			b_yeongdong = {}
-			b_Yongsan = {}
+			b_yongsan = {}
 			b_Yanggang = {}
 			b_Simcheon = {}
-			b_Hwanggan = {}
-			b_Chupungnyeong = {}
+			b_hwanggan = {}
+			b_chupungnyeong = {}
 			b_Sangchon = {}
 		}
 		c_mungyeong = {
@@ -463,7 +405,6 @@ k_gyeongsang = {
 			b_angang = {}
 			b_bodeok = {}
 			b_bulguksa = {}
-				
 			b_geoncheon = {}
 			b_gangdonggyeongju = {}
 			b_hwangseong = {}
@@ -477,96 +418,6 @@ k_gyeongsang = {
 			b_geumcheon = {}
 			b_unmun = {}
 			b_maejeon = {}
-		}
-	}
-	d_pohang = {
-		color = { 0 21 255 }
-
-		capital = 27
-
-		c_heunghae = {
-			color = { 183 214 255 }
-			holy_site = steel_pagan
-			holy_site = steel_pagan_reformed
-			b_heunghae = {}
-			b_jangnyang = {}
-			b_jukjang = {}
-			b_gigye = {}
-			b_singwang = {}
-			b_cheongha = {}
-			b_songna = {}
-		}
-		c_pohang = {
-			color = { 0 0 153 }
-			b_pohang = {}
-			b_jungangpohang = {}
-			b_jecheol = {}
-				holy_site = steel_pagan
-				holy_site = steel_pagan_reformed
-			b_jukdo = {}
-			b_ocheon = {}
-			b_guryongpo = {}
-			b_yeonil = {}
-		}
-		c_wolsong = {
-			color = { 66 117 145 }
-			b_gampo = {}
-			b_oedong = {}
-			b_wolseong = {}
-				holy_site = atomicist
-				holy_site = atomicist_reformed
-			b_yangnam = {}
-			b_doji = {}
-			b_inwang = {}
-			b_baeban = {}
-		}
-	}
-	d_yeongdeok = {
-		color = { 13 65 242 }
-
-		capital = 36
-
-		c_yeongdeok = {
-			color = { 0 102 204 }
-			b_yeongdeok = {}
-			b_ganggu = {}
-			b_namjeong = {}
-			b_dalsan = {}
-			b_jipum = {}
-			b_yeonghae = {}
-			b_byeonggok = {}
-		}
-		c_cheongsong = {
-			color = { 51 0 178 }
-			b_cheongsong = {}
-			b_juwangsan = {}
-			b_bunam_cheongsong = {}
-			b_hyeondong = {}
-			b_hyeonseo = {}
-			b_andeok = {}
-			b_jinbo = {}
-		}
-		c_yeongyang = {
-			color = { 51 127 255 }
-			b_yeongyang = {}
-			b_subi = {}
-			b_irwol = {}
-			b_cheonggi = {}
-			b_seokbo = {}
-			b_ibam = {}
-			b_gisan_yeongyang = {}
-		}
-		c_uljin = {
-			color = { 77 77 255 }
-			b_uljin = {}
-			b_geunnam = {}
-			b_hanul = {}
-				holy_site = atomicist
-				holy_site = atomicist_reformed
-			b_maehwa = {}
-			b_jukbyeon = {}
-			b_pyeonghae = {}
-			b_giseong = {}
 		}
 	}
 	d_gumi = {
@@ -605,6 +456,103 @@ k_gyeongsang = {
 			b_bugye = {}
 		}
 	}
+	d_ulsan = {
+		color = { 40 0 74 }
+		capital = 21
+		c_ulsan = {
+			color = { 0 0 64 }
+			holy_site = steel_pagan
+			holy_site = steel_pagan_reformed
+			holy_site = cheondo
+			b_ulsan = {}
+			b_samsan_ulsan = {}
+			b_bangeo = {}
+			b_sinjeong = {}
+			b_ilsan_ulsan = {}
+			b_mugeo = {}
+			b_taehwa_ulsan = {}
+		}
+		c_ulju = {
+			color = { 69 123 236 }
+			b_ulju = {}
+			b_bemseo = {}
+			b_dudong = {}
+			b_onyang_ulju = {}
+			b_cheongnyang = {}
+			b_duseo = {}
+			b_onsan = {}
+		}
+		c_eonyang = {
+			color = { 217 167 236 }
+			b_eonyang = {}
+			b_samnam = {}
+			b_samdongeonyang = {}
+			b_sangbuk = {}
+			b_banggi = {}
+			b_songdae = {}
+			b_bancheon = {}
+		}
+	}
+}
+k_busan = { #부산 연합
+	color = { 117 209 255 }
+	color2={ 86 10 92 }
+	capital = 17
+	
+	d_busan = {
+		color = { 117 209 255 }
+
+		capital = 17
+
+		c_gangseo = {
+			color = { 132 0 201 }
+			b_gangseobusan = {}
+			b_daejeo = {}
+			b_noksan = {}
+			b_gangdongbusan = {}
+			b_myeongji = {}
+			b_garak = {}
+			b_gadeokdo = {}
+		}
+		c_busan = {
+			color = { 0 0 127 }
+			b_busan = {}
+			b_nampobusan = {}
+			b_beomil = {}
+			b_daeyeon = {}
+			b_yeongseon = {}
+			b_hadan = {}
+			b_sasang = {}
+		}
+		c_dongnae = {
+			color = { 95 77 255 }
+			b_dongnae = {}
+			b_namcheon = {}
+			b_sumin = {}
+			b_boksan = {}
+			b_yeonsan = {}
+			b_haeundae = {}
+			b_nopo = {}
+		}
+		c_gijang = {
+			color = { 13 0 170 }
+			holy_site = atomicist
+			holy_site = atomicist_reformed
+			b_gijang = {}
+			b_jangan = {}
+			b_jeonggwan = {}
+			b_ilgwang = {}
+			b_cheolma = {}
+			b_gori = {}
+			b_sincheon_gijang = {}
+		}
+	}
+}
+k_andong = {
+	capital = 35
+
+	color={ 200 198 105 }
+	color2={ 132 148 120 }
 	d_andong = {
 		color = { 0 127 255 }
 
@@ -612,11 +560,11 @@ k_gyeongsang = {
 
 		c_andong = {
 			color = { 38 38 217 }
+			holy_site = confucian
 			b_andong = {}
 			b_songha = {}
 			b_angi = {}
 			b_myeongnyun = {}
-				holy_site = confucian
 			b_yongsang = {}
 			b_taehwa_andong = {}
 			b_ok = {}
@@ -661,12 +609,17 @@ k_gyeongsang = {
 			b_socheon = {}
 			b_seokpa = {}
 		}
+	}
+	d_yeongju = {
+	
+		color={ 190 198 105 }
+		color2={ 132 148 120 }
 		c_yeongju = {
 			color = { 102 127 217 }
+			holy_site = confucian
 			b_yeongju = {}
 			b_gaheung = {}
 			b_hamang = {}
-				holy_site = confucian
 			b_hyucheon_yeongju = {}
 			b_punggi = {}
 			b_sangmang = {}
@@ -683,41 +636,104 @@ k_gyeongsang = {
 			b_gaepo = {}
 		}
 	}
-	d_ulsan = {
-		color = { 40 0 74 }
-		capital = 21
-		c_ulsan = {
-			color = { 0 0 64 }
+		d_yeongdeok = {
+		color = { 13 65 242 }
+
+		capital = 36
+
+		c_yeongdeok = {
+			color = { 0 102 204 }
+			b_yeongdeok = {}
+			b_ganggu = {}
+			b_namjeong = {}
+			b_dalsan = {}
+			b_jipum = {}
+			b_yeonghae = {}
+			b_byeonggok = {}
+		}
+		c_uljin = {
+			color = { 77 77 255 }
+			holy_site = atomicist
+			holy_site = atomicist_reformed
+			b_uljin = {}
+			b_geunnam = {}
+			b_hanul = {}
+			b_maehwa = {}
+			b_jukbyeon = {}
+			b_pyeonghae = {}
+			b_giseong = {}
+		}
+	}
+	d_cheongsong = {
+	
+		color={ 120 198 105 }
+		color2={ 132 148 120 }
+		c_cheongsong = {
+			color = { 51 0 178 }
+			b_cheongsong = {}
+			b_juwangsan = {}
+			b_bunam_cheongsong = {}
+			b_hyeondong = {}
+			b_hyeonseo = {}
+			b_andeok = {}
+			b_jinbo = {}
+		}
+		c_yeongyang = {
+			color = { 51 127 255 }
+			b_yeongyang = {}
+			b_subi = {}
+			b_irwol = {}
+			b_cheonggi = {}
+			b_seokbo = {}
+			b_ibam = {}
+			b_gisan_yeongyang = {}
+		}
+	}
+}
+k_pohang = { #포항왕국
+	color={ 210 250 242 }
+	color2={ 25 32 65 }
+	d_pohang = {
+		color = { 0 21 255 }
+
+		capital = 27
+
+		c_heunghae = {
+			color = { 183 214 255 }
 			holy_site = steel_pagan
 			holy_site = steel_pagan_reformed
-			holy_site = cheondo
-			b_ulsan = {}
-			b_samsan_ulsan = {}
-			b_bangeo = {}
-			b_sinjeong = {}
-			b_ilsan_ulsan = {}
-			b_mugeo = {}
-			b_taehwa_ulsan = {}
+			b_heunghae = {}
+			b_jangnyang = {}
+			b_jukjang = {}
+			b_gigye = {}
+			b_singwang = {}
+			b_cheongha = {}
+			b_songna = {}
 		}
-		c_ulju = {
-			color = { 69 123 236 }
-			b_ulju = {}
-			b_bemseo = {}
-			b_gori = {}
-			b_eonyang_ulju = {}
-			b_cheongnyang = {}
-			b_duseo = {}
-			b_onsan = {}
+		c_pohang = {
+			color = { 0 0 153 }
+			holy_site = steel_pagan
+			holy_site = steel_pagan_reformed
+			b_pohang = {}
+			b_jungangpohang = {}
+			b_jecheol = {}
+				
+			b_jukdo = {}
+			b_ocheon = {}
+			b_guryongpo = {}
+			b_yeonil = {}
 		}
-		c_eonyang = {
-			color = { 217 167 236 }
-			b_eonyang = {}
-			b_samnam = {}
-			b_samdongeonyang = {}
-			b_sangbuk = {}
-			b_banggi = {}
-			b_songdae = {}
-			b_bancheon = {}
+		c_gampo = {
+			color = { 66 117 145 }
+			holy_site = atomicist
+			holy_site = atomicist_reformed
+			b_gampo = {}
+			b_oedong = {}
+			b_wolseong = {}
+			b_yangnam = {}
+			b_doji = {}
+			b_inwang = {}
+			b_baeban = {}
 		}
 	}
 }

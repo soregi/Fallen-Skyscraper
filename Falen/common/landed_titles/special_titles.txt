@@ -17,8 +17,6 @@ k_mil_seoul = {
 	culture = seoul
 	religion = koreanist
 }
-#인물 작동 여부를 확인하기 위해 임시로 k_gaya, e_joseon을, k_pohang, d_gaian_union, k_republic_of_kasong, e_goryeo, k_prk ,d_ingonggun ,d_kyoryung, k_andong 을 추가함. 이것들좀 색상 재배정하고 아래 칸 바깥으로 옮겨주십쇼
-#위와 같은 이유로 k_bulgukto, k_mountain_league,d_hanwul 만듬
 k_gaya = {
 	color={ 211 126 65 }
 	color2={ 258 258 28 }
@@ -50,11 +48,6 @@ k_bulgukto = {
 	color2={ 132 148 120 }
 
 }
-k_pohang = { #포항왕국
-	color={ 210 250 242 }
-	color2={ 25 32 65 }
-
-}
 d_gaian_union = { #자연인 연맹
 	color={ 34 220 82 }
 	color2={ 25 32 60 }
@@ -63,21 +56,6 @@ d_gaian_union = { #자연인 연맹
 d_ingonggun = { #인공군
 	color={ 120 42 190 }
 	color2={ 250 251 20 }
-
-}
-k_andong = {
-	color={ 200 198 105 }
-	color2={ 132 148 120 }
-
-}
-d_cheongsong = {
-	color={ 120 198 105 }
-	color2={ 132 148 120 }
-
-}
-d_yeongju = {
-	color={ 190 198 105 }
-	color2={ 132 148 120 }
 
 }
 e_goryeo = {
@@ -130,6 +108,7 @@ e_donghae = { #동해제국
 	color2={ 10 176 152 }
 	capital = 387 # 울라지보스또끄
 	russian = "Vostochnaya Imperiya"
+	short_name = yes
 }
 d_co_party = { #전연방공산당
 	color={ 210 20 90 }
@@ -211,11 +190,6 @@ k_hwanghae_party = { #황해 인민 노동당
 	color2={ 16 170 122 }
 
 }
-k_taedong = { #대동강 전선
-	color={ 152 90 110 }
-	color2={ 16 170 122 }
-
-}
 d_paektu_guard = { #백두 친위대, 기사단임
 	color={ 240 30 20 }
 	color2={ 16 170 122 }
@@ -241,16 +215,6 @@ k_hebei = { #허베이
 	color2={ 6 110 222 }
 
 }
-k_yanbian = { #연변
-	color={ 199 55 95 }
-	color2={ 30 120 230 }
-
-}
-k_busan = { #부산 연합
-	color = { 117 209 255 }
-	color2={ 86 10 92 }
-
-}
 k_jinhae = { #진해해군사령부
 	color = { 70 204 212 }
 	color2={ 186 10 22 }
@@ -271,10 +235,15 @@ e_hec = { #신복련
 	color = { 80 80 80 }
 	color2 = { 50 50 50 }
 	short_name = yes
-}
-k_central = {
-	color = { 80 80 80 }
-	color2 = { 50 50 50 }
+	k_central = {
+		color = { 80 80 80 }
+		color2 = { 50 50 50 }
+	}
+	k_northern_margraviate = {
+		color ={ 226 226 226 }
+		color2 = { 236 236 236 }
+		short_name = yes
+	}
 }
 d_buyeo = {
 	color = { 255 255 153 }
@@ -284,11 +253,7 @@ d_hongseong = {
 	color = {169 153 51)
 	color2 = {169 153 0}
 }
-k_northern_margraviate = {
-	color ={ 226 226 226 }
-	color2 = { 236 236 236 }
-	short_name = yes
-}
+
 #미군들
 e_usa_mil = { #미군정
 	color = { 70 204 212 }
@@ -307,20 +272,11 @@ k_sinuiju_comm = { #신의주
 k_east_navy = { #동해해군
 	color = { 70 104 212 }
 	color2={ 186 110 22 }
-
 }
 k_samsung = { #강철 조합국
 	color = { 0 0 128 }
 	color2 = { 25 25 112 }
 	short_name = yes
-}
-k_jianzhou = { #건주
-	color = { 0 0 100 }
-	color2 = { 25 25 112 }
-}
-k_haixi = { #해서
-	color = { 0 100 0 }
-	color2 = { 25 25 112 }
 }
 ######################################
 # 상인공화국 가문들의 자리. 이 아래에 가문말고 넣지말것  #
