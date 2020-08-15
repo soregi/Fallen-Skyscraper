@@ -1,0 +1,32 @@
+d_gaston_company = {
+	color = { 80 80 160 }
+	color2 = { 255 255 255 }
+	capital = 160 # 서울
+	religion = koreanist
+	culture = seoul
+	mercenary = yes
+	title = "Halbae"
+	foa = "FOA_Halbae"
+	landless = yes
+	primary = yes
+	independent = no
+	strength_growth_per_century = 1.0
+	mercenary_type = gaston_composition
+
+}
+d_bobusang_company = {
+	color = { 80 100 160 }
+	color2 = { 255 255 255 }
+	capital = 160 # 서울
+	religion = koreanist
+	culture = seoul
+	mercenary = yes
+	title = "Jangsu"
+	foa = "FOA_Jangsu"
+	landless = yes
+	primary = yes
+	independent = no
+	strength_growth_per_century = 1.0
+	mercenary_type = bobusang_composition
+
+}
