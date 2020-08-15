@@ -457,11 +457,13 @@ k_gyeongsang = {
 		}
 		c_gyeongju = {
 			color = { 0 0 77 }
+			holy_site = mahayana
+			holy_site = cheondo
 			b_gyeongju = {}
 			b_angang = {}
 			b_bodeok = {}
 			b_bulguksa = {}
-				holy_site = mahayana
+				
 			b_geoncheon = {}
 			b_gangdonggyeongju = {}
 			b_hwangseong = {}
@@ -688,6 +690,7 @@ k_gyeongsang = {
 			color = { 0 0 64 }
 			holy_site = steel_pagan
 			holy_site = steel_pagan_reformed
+			holy_site = cheondo
 			b_ulsan = {}
 			b_samsan_ulsan = {}
 			b_bangeo = {}

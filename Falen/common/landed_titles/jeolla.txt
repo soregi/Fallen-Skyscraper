@@ -210,6 +210,7 @@ k_jeolla = {
 
 		c_jeongeup = {
 			color = { 164 64 64 }
+			holy_site = cheondo
 			b_jeongup = {}
 			b_jangsang = {}
 			b_suseong_jeongup = {}

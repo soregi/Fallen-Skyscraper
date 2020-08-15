@@ -60,11 +60,6 @@ d_gaian_union = { #자연인 연맹
 	color2={ 25 32 60 }
 
 }
-k_prk = { #조선인민공화국
-	color={ 230 40 190 }
-	color2={ 250 250 20 }
-
-}
 d_ingonggun = { #인공군
 	color={ 120 42 190 }
 	color2={ 250 251 20 }

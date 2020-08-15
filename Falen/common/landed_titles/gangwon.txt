@@ -477,15 +477,5 @@ k_gangwon = {
 			b_sahyon_geumya = {}
 			b_sindang_geumya = {}
 		}
-		c_sudonggu = {
-			color = { 10 10 45 }
-			b_sudonggu = {}
-			b_changdong_sudonggu = {}
-			b_toksa_sudonggu = {}
-			b_ungok_sudonggu = {}
-			b_pharhung_sudonggu = {}
-			b_wongo_sudonggu = {}
-			b_ryongphyong_sudonggu = {}
-		}
 	}
 }

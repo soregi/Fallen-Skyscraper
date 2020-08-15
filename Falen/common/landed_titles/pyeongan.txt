@@ -455,8 +455,10 @@ k_pyeongbuk = {
 		}
 	}
 }
-k_pyeongnam = {
-	color = { 27 104 163 }
+k_prk = { #조선인민공화국
+	color={ 230 40 190 }
+	color2={ 250 250 20 }
+	short_name = yes
 	capital = 271
 	d_pyongyang = {
 		color = { 0 23 204 }
@@ -498,6 +500,7 @@ k_pyeongnam = {
 		}
 		c_sungho = {
 			color = { 195 104 60 }
+			pyeongnam = "Sungho"
 			b_sungho = {}
 			b_apsae_sungho = {}
 			b_tokkol_sungho = {}
@@ -559,50 +562,6 @@ k_pyeongnam = {
 			b_songsa_pukchang = {}
 			b_maehyon_pukchang = {}
 			b_sinsok_pukchang = {}
-		}
-	}
-	d_maengsan = {
-		color = { 93 97 160 }
-		capital = 271
-		c_maengsan = {
-			color = { 100 30 10 }
-			b_maengsan_b0 = {}
-			b_maengsan_b1 = {}
-			b_maengsan_b2 = {}
-			b_maengsan_b3 = {}
-			b_maengsan_b4 = {}
-			b_maengsan_b5 = {}
-			b_maengsan_b6 = {}
-		}
-		c_nyeongwon = {
-			color = { 245 0 0 }
-			b_nyeongwon_b0 = {}
-			b_nyeongwon_b1 = {}
-			b_nyeongwon_b2 = {}
-			b_nyeongwon_b3 = {}
-			b_nyeongwon_b4 = {}
-			b_nyeongwon_b5 = {}
-			b_nyeongwon_b6 = {}
-		}
-		c_sinyang = {
-			color = { 155 25 25 }
-			b_sinyang_b0 = {}
-			b_sinyang_b1 = {}
-			b_sinyang_b2 = {}
-			b_sinyang_b3 = {}
-			b_sinyang_b4 = {}
-			b_sinyang_b5 = {}
-			b_sinyang_b6 = {}
-		}
-		c_yangdok = {
-			color = { 160 0 0 }
-			b_yangdok_b0 = {}
-			b_yangdok_b1 = {}
-			b_yangdok_b2 = {}
-			b_yangdok_b3 = {}
-			b_yangdok_b4 = {}
-			b_yangdok_b5 = {}
-			b_yangdok_b6 = {}
 		}
 	}
 	d_anju = {
@@ -737,4 +696,90 @@ k_pyeongnam = {
 			b_phungjong_jungsan = {}
 		}
 	}
+}
+k_taedong = { #대동강 전선
+	color={ 152 90 110 }
+	color2={ 16 170 122 }
+	d_maengsan = {
+		color = { 93 97 160 }
+		capital = 271
+		c_maengsan = {
+			color = { 100 30 10 }
+			b_maengsan_b0 = {}
+			b_maengsan_b1 = {}
+			b_maengsan_b2 = {}
+			b_maengsan_b3 = {}
+			b_maengsan_b4 = {}
+			b_maengsan_b5 = {}
+			b_maengsan_b6 = {}
+		}
+		c_nyeongwon = {
+			color = { 245 0 0 }
+			b_nyeongwon_b0 = {}
+			b_nyeongwon_b1 = {}
+			b_nyeongwon_b2 = {}
+			b_nyeongwon_b3 = {}
+			b_nyeongwon_b4 = {}
+			b_nyeongwon_b5 = {}
+			b_nyeongwon_b6 = {}
+		}
+		c_sinyang = {
+			color = { 155 25 25 }
+			b_sinyang_b0 = {}
+			b_sinyang_b1 = {}
+			b_sinyang_b2 = {}
+			b_sinyang_b3 = {}
+			b_sinyang_b4 = {}
+			b_sinyang_b5 = {}
+			b_sinyang_b6 = {}
+		}
+		c_yangdok = {
+			color = { 160 0 0 }
+			b_yangdok_b0 = {}
+			b_yangdok_b1 = {}
+			b_yangdok_b2 = {}
+			b_yangdok_b3 = {}
+			b_yangdok_b4 = {}
+			b_yangdok_b5 = {}
+			b_yangdok_b6 = {}
+		}
+		c_yodeok = {
+			color = { 45 45 70 }
+			b_yodeok_b0 = {}
+			b_yodeok_b1 = {}
+			b_yodeok_b2 = {}
+			b_yodeok_b3 = {}
+			b_yodeok_b4 = {}
+			b_yodeok_b5 = {}
+			b_yodeok_b6 = {}
+		}
+		c_daeheung = {
+			color = { 180 0 0 }
+			b_daeheung_b0 = {}
+			b_daeheung_b1 = {}
+			b_daeheung_b2 = {}
+			b_daeheung_b3 = {}
+			b_daeheung_b4 = {}
+			b_daeheung_b5 = {}
+			b_daeheung_b6 = {}
+		}
+		c_sudong = {
+			color = { 10 10 45 }
+			b_sudong = {}
+			b_changdong_sudong = {}
+			b_toksa_sudong = {}
+			b_ungok_sudong = {}
+			b_pharhung_sudong = {}
+			b_wongo_sudong = {}
+			b_ryongphyong_sudong = {}
+		}
+	}
+}
+k_pyeongnam = {
+	color = { 27 104 163 }
+	capital = 271
+	allow = {
+		always = no
+	}
+	
 }
