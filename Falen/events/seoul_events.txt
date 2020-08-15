@@ -113,6 +113,7 @@ narrative_event = {
 	}
 	option = {
 		name = seoul_2_a # 불쌍하군
+		set_global_flag = seoul_destroyed
 		k_seoul = {
 			any_direct_de_jure_vassal_title = {
 				de_jure_liege = k_gyeonggi
