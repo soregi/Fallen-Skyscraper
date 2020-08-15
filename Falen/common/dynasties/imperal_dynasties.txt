@@ -5,7 +5,7 @@
 	religion = koreanist
 }
 4000702 = {
-	name = "Yun"
+	name = "Yun" #해평윤씨
 	culture = old_korean 
 	religion = koreanist
 }
