@@ -38,7 +38,26 @@
 	culture = Seoul
 	religion = confucian
 }
-#
+4004009 = {
+	name = "Yun" #본관 불명
+	culture = Seoul
+	religion = confucian
+}
+4004010 = {
+	name = "Yun" #해평윤씨
+	culture = yeongnam
+	religion = confucian
+}
+4004011 = {
+	name = "Kim" #본관 불명
+	culture = yeongnam
+	religion = confucian
+}
+4004012 = {
+	name = "Yang" #본관 불명
+	culture = yeongnam
+	religion = confucian
+}
 4004013 = {
 	name = "Gu" #능성구씨
 	culture = honam
