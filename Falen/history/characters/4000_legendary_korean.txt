@@ -214,17 +214,8 @@
 	2020.3.14 = { death = yes }
 }
 4029 = {
-	name = "Yeong-gyu" #권영규
-	dynasty = 40004029 #안동권씨
-	culture = south_korean
-	religion = catholic
-	disallow_random_traits = yes
-	1955.3.3 = { birth = yes }
-	2020.3.14 = { death = yes }
-}
-4030 = {
 	name = "Won-sun" #박원순
-	dynasty = 40004030 #밀양박씨 규정공파
+	dynasty = 40004029 #밀양박씨 규정공파
 	culture = south_korean
 	religion = mahayana
 	disallow_random_traits = yes
@@ -235,6 +226,7 @@
 		}
 	}
 }
+
 ##이스터에그##
 4741 = {
 	name = "Yong"
