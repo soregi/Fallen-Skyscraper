@@ -3,7 +3,7 @@
 ##
 4001 = {
 	name = "Hyeong-min" #김형민
-	dynasty = 4004001 #김녕김씨
+	dynasty = 40004001 #김녕김씨
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -16,7 +16,7 @@
 }
 4002 = {
 	name = "Ki-poong" #이기붕
-	dynasty = 4004002 #전주이씨 효령대군파 17세손
+	dynasty = 40004002 #전주이씨 효령대군파 17세손
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -29,7 +29,7 @@
 }
 4003 = {
 	name = "Tae-sun" #김태선
-	dynasty = 4004003 #본관 불명
+	dynasty = 40004003 #본관 불명
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -42,7 +42,7 @@
 }
 4004 = {
 	name = "Jae-bong" #고재봉
-	dynasty = 4004004 #제주고씨
+	dynasty = 40004004 #제주고씨
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -55,7 +55,7 @@
 }
 4005 = {
 	name = "Jung" #허정
-	dynasty = 4004005 #김해허씨
+	dynasty = 40004005 #김해허씨
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -68,7 +68,7 @@
 }
 4006 = {
 	name = "Heung-sun" #임흥순
-	dynasty = 4004006 #본관 불명
+	dynasty = 40004006 #본관 불명
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -81,7 +81,7 @@
 }
 4007 = {
 	name = "Gi-yeong" #장기영
-	dynasty = 4004007 #본관 불명
+	dynasty = 40004007 #본관 불명
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -94,7 +94,7 @@
 }
 4008 = {
 	name = "Sang-don" #김상돈
-	dynasty = 4004008 #본관 불명
+	dynasty = 40004008 #본관 불명
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -107,7 +107,7 @@
 }
 4009 = {
 	name = "Tae-il" #윤태일
-	dynasty = 4004009 #본관 불명
+	dynasty = 40004009 #본관 불명
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -120,7 +120,7 @@
 }
 4010 = {
 	name = "Chi-Yeong" #윤치영
-	dynasty = 4004010 #해평윤씨
+	dynasty = 40004010 #해평윤씨
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -131,9 +131,10 @@
 		death = yes
 	}
 }
+
 4011 = {
 	name = "Hyeon-ok" #김현옥
-	dynasty = 4004011 #본관 불명
+	dynasty = 40004011 #본관 불명
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -146,7 +147,7 @@
 }
 4012 = {
 	name = "Taek-sik" #양택식
-	dynasty = 4004012 #본관 불명
+	dynasty = 40004012 #본관 불명
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -159,7 +160,7 @@
 }
 4013 = {
 	name = "Ja-chun" #구자춘
-	dynasty = 4004013 #능성구씨
+	dynasty = 40004013 #능성구씨
 	culture = south_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -173,7 +174,7 @@
 ##
 4019 = {
 	name = "Gun" #고건
-	dynasty = 4004004 #제주고씨 문충공파
+	dynasty = 40004004 #제주고씨 문충공파
 	culture = south_korean
 	religion = protestant
 	disallow_random_traits = yes
@@ -187,7 +188,7 @@
 ##
 4026 = {
 	name = "Byung-ryul" #최병렬
-	dynasty = 4004026 #화순최씨
+	dynasty = 40004026 #화순최씨
 	culture = south_korean
 	religion = catholic
 	disallow_random_traits = yes
@@ -196,7 +197,7 @@
 }
 4027 = {
 	name = "Soon" #조순
-	dynasty = 4004027 #풍양조씨 평장사공파
+	dynasty = 40004027 #풍양조씨 평장사공파
 	culture = south_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -205,7 +206,7 @@
 }
 4028 = {
 	name = "Se-hun" #오세훈
-	dynasty = 4004028 #해주오씨 추탄공파
+	dynasty = 40004028 #해주오씨 추탄공파
 	culture = south_korean
 	religion = catholic
 	disallow_random_traits = yes
@@ -214,7 +215,7 @@
 }
 4029 = {
 	name = "Yeong-gyu" #권영규
-	dynasty = 4004029 #안동권씨
+	dynasty = 40004029 #안동권씨
 	culture = south_korean
 	religion = catholic
 	disallow_random_traits = yes
@@ -223,7 +224,7 @@
 }
 4030 = {
 	name = "Won-sun" #박원순
-	dynasty = 4004030 #밀양박씨 규정공파
+	dynasty = 40004030 #밀양박씨 규정공파
 	culture = south_korean
 	religion = mahayana
 	disallow_random_traits = yes
@@ -234,81 +235,8 @@
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##이스터에그? 나중에 삭제하거나 다른 번호로 옮겨야할 수도 있음
+##이스터에그##
 4741 = {
-	name = "Yong"
-	dynasty = 4002262
-	culture = yeongdong
-	religion = juche
-	give_nickname = nick_goja
-	trait = underhanded_rogue
-	trait = ancient
-	trait = eunuch
-	trait = poet
-	disallow_random_traits = yes
-	1910.9.3 = {
-		birth = yes
-	}
-	1971.7.24 = {
-		death = yes
-	}
-}
-4750 = {
-	name = "Chwachin"
-	dynasty = 4004751
-	culture = south_korean
-	religion = koreanist
-	occluded = yes
-	diplomacy = 1
-	martial = 1
-	stewardship = 1
-	intrigue = 1
-	learning = 1
-	disallow_random_traits = yes
-	1889.12.16 = { birth = yes }
-	1930.1.24 = { death = { death_reason = death_murder } }
-}
-4751 = {
-	name = "Duhan"
-	dynasty = 4004751
-	culture = south_korean
-	religion = mahayana
-	occluded = yes
-	father = 4746
-	diplomacy = 1
-	martial = 1
-	stewardship = 1
-	intrigue = 1
-	learning = 1
-	disallow_random_traits = yes
-	1942.1.30 = { birth = yes }
-	1972.11.21 = { death = yes }
-}4741 = {
 	name = "Yong"
 	dynasty = 4002262
 	culture = yeongdong
