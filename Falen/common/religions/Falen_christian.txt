@@ -185,8 +185,8 @@ christian = {
 	}
 	imperial = {
 		graphical_culture = westerngfx
-		icon = 19
-		heresy_icon = 20
+		icon = 42
+		heresy_icon = 43
 		
 		color = { 0.9 0.6 0.7 }
 		

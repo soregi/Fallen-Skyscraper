@@ -1,0 +1,5 @@
+4004751 = {
+	name = "Kim"
+	culture = old_korean 
+	religion = koreanist
+}

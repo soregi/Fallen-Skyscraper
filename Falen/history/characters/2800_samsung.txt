@@ -1,9 +1,195 @@
 2800 = {
 	name = "Youchel"
 	dynasty = 4002801
-	culture = gyoenggi
+	culture = gyeonggi
 	religion = mechanist
+	trait = brilliant_strategist
+	trait = strong
+	trait = brave
+	trait = wroth
+	trait = cruel
+	trait = impaler
+	trait = architect
+	trait = erudite
+	disallow_random_trait = yes
 	2405.3.6 = {
+		birth = yes
+	}
+}
+2801 = {
+	name = "Muchel"
+	dynasty = 4002801
+	culture = gyeonggi
+	religion = mechanist
+	father = 2800
+	trait = fortune_builder
+	trait = just
+	trait = kind
+	trait = charitable
+	trait = patient
+	trait = gardener
+	trait = architect
+	trait = erudite
+	trait = ambitious
+	trait = legit_bastard
+	disallow_random_trait = yes
+	2425.11.1 = {
+		birth = yes
+	}
+}
+2802 = {
+	name = "Sumin"
+	dynasty = 4002801
+	culture = gyeonggi
+	religion = mechanist
+	father = 2800
+	trait = skilled_tactician
+	trait = strong
+	trait = robust
+	trait = duelist
+	trait = wroth
+	trait = cruel
+	trait = giant
+	trait = ambitious
+	trait = legit_bastard
+	disallow_random_trait = yes
+	2429.3.1 = {
+		birth = yes
+	}
+}
+2803 = {
+	name = "Youmin"
+	dynasty = 4002801
+	culture = gyeonggi
+	religion = mechanist
+	father = 2800
+	trait = elusive_shadow
+	trait = quick
+	trait = paranoid
+	trait = patient,
+	trait = envious
+	trait = diligent
+	trait = deceitful
+	trait = cynical
+	trait = arbitrary
+	trait = ambitious
+	trait = legit_bastard
+	disallow_random_trait = yes
+	2435.11.1 = {
+		birth = yes
+	}
+}
+2804 = {
+	name = "Youmin"
+	dynasty = 4002802
+	culture = gyeonggi
+	religion = mechanist
+	trait = charismatic_negotiator
+	trait = arbitrary
+	trait = cynical
+	trait = paranoid
+	trait = patient
+	trait = kind
+	trait = gardener
+	trait = stressed, 
+	disallow_random_trait = yes
+	2408.7.20 = {
+		birth = yes
+	}
+	2428.1.1 = {
+		add_spouse = 2805
+}
+2805 = {
+	name = "Youmin"
+	dynasty = 4002803
+	culture = gyeonggi
+	religion = mechanist
+	female = yes
+	2408.7.20 = {
+		birth = yes
+	}
+	2428.1.1 = {
+		add_spouse = 2804
+}
+2806 = {
+	name = "Chulju"
+	dynasty = 4002802
+	culture = gyeonggi
+	religion = mechanist
+	father = 2804
+	mother = 2805
+	2428.4.2 = {
+		birth = yes
+	}
+}
+2807 = {
+	name = "Taejeon"
+	dynasty = 4002803
+	culture = gyeonggi
+	religion = mechanist
+	father = 2805
+	mother = 2810
+	2400.8.9 = {
+		birth = yes
+	}
+	2420.1.1 = {
+		add_spaouse = 2808
+}
+2808 = {
+	name = "Youjin"
+	dynasty = 4002801
+	culture = gyeonggi
+	religion = mechanist
+	female = yes
+	2400.8.9 = {
+		birth = yes
+	}
+	2420.1.1 = {
+		add_spaouse = 2807
+	}
+}
+2809 = {
+	name = "Youjin"
+	dynasty = 4002804
+	culture = gyeonggi
+	religion = mechanist
+	2411.5.7 = {
+		birth = yes
+	}
+	2420.1.1 = {
+		add_spaouse = 2810
+	}
+}
+2810 = {
+	name = "Youjin"
+	dynasty = 4002803
+	culture = gyeonggi
+	religion = mechanist
+	father = 2807
+	mother = 2808
+	female = yes
+	2414.1.6 = {
+		birth = yes
+	}
+	2420.1.1 = {
+		add_spaouse = 2809
+	}
+}
+2811 = {
+	name = "Younsu"
+	dynasty = 4002806
+	culture = gyeonggi
+	religion = mechanist
+	2412.3.4 = {
+		birth = yes
+	}
+}
+2812 = {
+	name = "Cheolmin"
+	dynasty = 4002807
+	culture = gyeonggi
+	religion = mechanist
+	2413.7.7 = {
 		birth = yes
 	}
 }

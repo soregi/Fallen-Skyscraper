@@ -2,12 +2,12 @@
 
 #합일교
 4000750 = {
-	name = "Eil"
+	name = "Il"
 	culture = gyeonggi
 	religion = unitary
 }
 4000759 = {
-	name = "han"
+	name = "Han"
 	culture = gyeonggi
 	religion = unitary
 }

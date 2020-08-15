@@ -1,0 +1,4 @@
+2432.7.8 = {
+	liege = k_haixi
+	holder = 525
+}
