@@ -27,7 +27,7 @@ monastic_order_juche = {
 			}
 		}
 		age = 16
-		OR = {
+		AND = {
 			religion = juche
 			AND = {
 				is_heretic = no
@@ -347,7 +347,7 @@ monastic_order_international = {
 			}
 		}
 		age = 16
-		OR = {
+		AND = {
 			religion = marxism
 			AND = {
 				is_heretic = no
