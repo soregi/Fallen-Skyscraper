@@ -54,7 +54,7 @@
 	culture = old_chinese
 	religion = confucian
   trait = ancient
-  trait = misguided_warrior
+  trait = misguided_warriorcraven
   trait = craven
 	1890.1.25 = {
 		birth = yes
@@ -63,109 +63,609 @@
 	death = yes
 	}
 }
+1204 = {
+	name = "Yuan"
+	dynasty = 4001205
+	culture = Shandong
+	religion = taoist
+  trait = mastermind_theologian
+  trait = quick
+  trait = physician
+  trait = mystic
+  trait = charitable
+  trait = is_malnourished
+  trait = celibate
+  trait = cancer
+  give_nickname = nick_Tian_gong
+	2400.2.13 = {
+		birth = yes
+	}
+}
 1205 = {
-	name = ""
+	name = "Dekong"
+	dynasty = 4001206
+	culture = Shandong
+	religion = confucian
+  trait = scholarly_theologian
+  trait = feeble
+  trait = craven
+  trait = zealous
+  trait = deceitful
+  give_nickname = nick_Seong_Gong
+	2410.2.12 = {
+		birth = yes
+	}
+}
 1206 = {
-	name = ""
+	name = "Dekong"
+	dynasty = 4001207
+	culture = Shandong
+	religion = confucian
+  trait = brilliant_strategist
+  trait = brawny
+  trait = duelist
+  trait = brave
+  trait = zealous
+  trait = honest
+	2404.2.14 = {
+		birth = yes
+	}
+}
 1207 = {
-	name = ""
+	name = "Friedrich"
+	dynasty = 4001208
+	culture = central_germanic
+	religion = christian
+	2416.4.16 = {
+		birth = yes
+	}
+}
 1208 = {
-	name = ""
+	name = "Albrecht"
+	dynasty = 4001208
+	culture = central_germanic
+	religion = christian
+	2443.11.21 = {
+		birth = yes
+	}
+}
 1209 = {
-	name = ""
+	name = "Kuang"
+	dynasty = 4001206
+	culture = Shandong
+	religion = confucian
+	2412.9.4 = {
+		birth = yes
+	}
+}
 1210 = {
-	name = ""
+	name = "Yan"
+	dynasty = 4001205
+	culture = Shandong
+	religion = taoist
+	give_nickname = nick_Di_Gong
+	2407.8.7 = {
+		birth = yes
+	}
+}
 1211 = {
-	name = ""
+	name = "Hanna"
+	dynasty = 4001208
+	culture = central_germanic
+	religion = christian
+	2420.12.6 = {
+		birth = yes
+	}
+}
 1212 = {
-	name = ""
+	name = "Liang"
+	dynasty = 4001205
+	culture = Shandong
+	religion = taoist
+	give_nickname = nick_Lian_Gong
+	2407.8.7 = {
+		birth = yes
+	}
+}
 1213 = {
-	name = ""
+	name = "Silverstein"
+	dynasty = 4001209
+	culture = central_germanic
+	religion = christian
+	2417.3.4 = {
+		birth = yes
+	}
+}
 1214 = {
-	name = ""
+	name = "Heinrich"
+	dynasty = 4001210
+	culture = central_germanic
+	religion = christian
+	2399.6.13 = {
+		birth = yes
+	}
+}
 1215 = {
-	name = ""
+	name = "Helmuth"
+	dynasty = 4001211
+	culture = central_germanic
+	religion = christian
+	2410.6.7 = {
+		birth = yes
+	}
+}
 1216 = {
-	name = ""
+	name = "Meifeng"
+	dynasty = 4001212
+	culture = Shandong
+	religion = confucian
+	2420.7.6 = {
+		birth = yes
+	}
+}
 1217 = {
-	name = ""
+	name = "Xiaoming"
+	dynasty = 4001213
+	culture = Shandong
+	religion = confucian
+	2416.4.6 = {
+		birth = yes
+	}
+}
 1218 = {
-	name = ""
+	name = "Roza"
+	dynasty = 4001214
+	culture = central_germanic
+	religion = christian
+	2426.6.4 = {
+		birth = yes
+	}
+}
 1219 = {
-	name = ""
+	name = "Qiang"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2380.9.7 = {
+		birth = yes
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1220 = {
-	name = ""
+	name = "Kongji" 
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2440.6.7 = {
+		birth = yes
+	}
+}
 1221 = {
-	name = ""
+	name = "Meng"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2406.1.16 = {
+		birth = yes
+	}
+}
 1222 = {
-	name = ""
+	name = "Lu"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2405.7.8 = {
+		birth = yes
+	}
+}
 1223 = {
-	name = ""
+	name = "E"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2406.7.8 = {
+		birth = yes
+	}
+}
 1224 = {
-	name = ""
+	name = "Rundburg"
+	dynasty = 4001215
+	culture = central_germanic
+	religion = christian
+	2424.1.8 = {
+		birth = yes
+	}
+}
 1225 = {
-	name = ""
+	name = "Xuan"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2423.3.16 = {
+		birth = yes
+	}
+}
 1226 = {
-	name = ""
+	name = "Leifeng"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2419.8.15 = {
+		birth = yes
+	}
+}
 1227 = {
-	name = ""
+	name = "Yu"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2418.9.9 = {
+		birth = yes
+	}
+}
 1228 = {
-	name = ""
+	name = "Zilin"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Chang_Wang
+	2120.3.26 = {
+		birth = yes
+	}
+	2200.6.8 = {
+	death = yes
+	}
+}
 1229 = {
-	name = ""
+	name = "Sengji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Mu_Wang
+	2145.7.16 = {
+		birth = yes
+	}
+	2222.2.2 = {
+	death = yes
+	}
+}
 1230 = {
-	name = ""
+	name = "Liongji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Go_Wang
+	2165.6.4 = {
+		birth = yes
+	}
+	2249.7.9 = {
+	death = yes
+	}
+}
 1231 = {
-	name = ""
+	name = "Miaoji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Myeong_Wang
+	2192.9.14 = {
+		birth = yes
+	}
+	2250.1.2 = {
+	death = yes
+	}
+}
 1232 = {
-	name = ""
+	name = "Suji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Sung_Wang
+	2214.7.24 = {
+		birth = yes
+	}
+	2268.4.24 = {
+	death = yes
+	}
+}
 1233 = {
-	name = ""
+	name = "Duji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Wun_Wang
+	2237.4.18 = {
+		birth = yes
+	}
+	2279.1.5 = {
+	death = yes
+	}
+}
 1234 = {
-	name = ""
+	name = "Rede"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Gang_Wang
+	2239.7.8 = {
+		birth = yes
+	}
+	2304.1.5 = {
+	death = yes
+	}
+}
 1235 = {
-	name = ""
+	name = "Liuji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Mok_Wang
+	2262.2.14 = {
+		birth = yes
+	}
+	2301.1.2 = {
+	death = yes
+	}
+}
 1236 = {
-	name = ""
+	name = "Biaolin"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Wung_Wang
+	2274.9.4 = {
+		birth = yes
+	}
+	2304.4.6 = {
+	death = yes
+	}
+}
 1237 = {
-	name = ""
+	name = "Likong"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Hye_Wang
+	2276.11.21 = {
+		birth = yes
+	}
+	2307.1.4 = {
+	death = yes
+	}
+}
 1238 = {
-	name = ""
+	name = "Shude"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2232.7.30 = {
+		birth = yes
+	}
+	2292.12.8 = {
+	death = yes
+	}
+}
 1239 = {
-	name = ""
+	name = "Zhisou"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2263.5.14 = {
+		birth = yes
+	}
+	2300.3.4 = {
+	death = yes
+	}
+}
 1240 = {
-	name = ""
+	name = "Wusi"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2241.7.12 = {
+		birth = yes
+	}
+	2262.9.6 = {
+	death = yes
+	}
+}
 1241 = {
-	name = ""
+	name = "Zhiyang"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2260.1.2 = {
+		birth = yes
+	}
+	2301.8.8 = {
+	death = yes
+	}
+}
 1242 = {
-	name = ""
+	name = "Denghua"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Ae_Wang
+	2284.2.01 = {
+		birth = yes
+	}
+	2321.7.2 = {
+	death = yes
+	}
+}
 1243 = {
-	name = ""
+	name = "Rekong"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Huan_Wang
+	2281.9.6 = {
+		birth = yes
+	}
+	2347.6.27 = {
+	death = yes
+	}
+}
 1244 = {
-	name = ""
+	name = "Kangji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Jung_Wang
+	2304.1.24 = {
+		birth = yes
+	}
+	2356.7.8 = {
+	death = yes
+	}
+}
 1245 = {
-	name = ""
+	name = "Liaoji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Yae_Wang
+	2328.4.3 = {
+		birth = yes
+	}
+	2369.9.9 = {
+	death = yes
+	}
+}
 1246 = {
-	name = ""
+	name = "Diaoli"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Min_Wang
+	2350.7.7 = {
+		birth = yes
+	}
+	2400.1.2 = {
+	death = yes
+	}
+}
 1247 = {
-	name = ""
+	name = "Toji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Jung_Gong
+	2389.7.7 = {
+		birth = yes
+	}
+	2442.3.8 = {
+	death = yes
+	}
+}
 1248 = {
-	name = ""
+	name = "Paji"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	give_nickname = nick_Myeol_Gong
+	2408.1.4 = {
+		birth = yes
+	}
+	2443.11.7 = {
+	death = yes
+	}
+}
 1249 = {
-	name = ""
+	name = "Bing"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2413.3.27 = {
+		birth = yes
+	}
+}
 1250 = {
-	name = ""
+	name = "Peiling"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2409.6.25 = {
+		birth = yes
+	}
+}
 1251 = {
-	name = ""
+	name = "Chuanlin"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2432.9.8 = {
+		birth = yes
+	}
+}
 1252 = {
-	name = ""
+	name = "Jilin"
+	dynasty = 4001215
+	culture = Shandong
+	religion = confucian
+	2434.9.7 = {
+		birth = yes
+	}
+}
 1253 = {
-	name = ""
+	name = "Bingdi"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2409.1.12 = {
+		birth = yes
+	}
+}
 1254 = {
-	name = ""
+	name = "Ziyi"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2411.4.3 = {
+		birth = yes
+	}
+}
 1255 = {
-	name = ""
+	name = "Tianlin"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2430.9.4 = {
+		birth = yes
+	}
+}
 1256 = {
-	name = ""
+	name = "Xu'a"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2433.12.21 = {
+		birth = yes
+	}
+}
 1257 = {
-	name = ""
+	name = "Fuzhe"
+	dynasty = 4001215
+	culture = Shandong
+	religion = taoist
+	2436.1.3 = {
+		birth = yes
+	}
+}
