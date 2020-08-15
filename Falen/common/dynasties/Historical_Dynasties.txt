@@ -1,90 +1,90 @@
-4004001 = {
+40004001 = {
 	name = "Kim" #김녕김씨
 	culture = yeongnam
 	religion = mahayana
 }
-4004002 = {
+40004002 = {
 	name = "Lee" #전주이씨 효령대군파
 	culture = Seoul
 	religion = confucian
 }
-4004003 = {
+40004003 = {
 	name = "Kim" #본관 불명
 	culture = Hambook
 	religion = confucian
 }
-4004004 = {
+40004004 = {
 	name = "Go" #제주고씨
 	culture = jeju
 	religion = confucian
 }
-4004005 = {
+40004005 = {
 	name = "Heo" #김해허씨
 	culture = yeongnam
 	religion = confucian
 }
-4004006 = {
+40004006 = {
 	name = "Im" #본관 불명
 	culture = Seoul
 	religion = confucian
 }
-4004007 = {
+40004007 = {
 	name = "Jang" #본관 불명
 	culture = Seoul
 	religion = confucian
 }
-4004008 = {
+40004008 = {
 	name = "Kim" #본관 불명
 	culture = Seoul
 	religion = confucian
 }
-4004009 = {
+40004009 = {
 	name = "Yun" #본관 불명
 	culture = Seoul
 	religion = confucian
 }
-4004010 = {
+40004010 = {
 	name = "Yun" #해평윤씨
 	culture = yeongnam
 	religion = confucian
 }
-4004011 = {
+40004011 = {
 	name = "Kim" #본관 불명
 	culture = yeongnam
 	religion = confucian
 }
-4004012 = {
+40004012 = {
 	name = "Yang" #본관 불명
 	culture = yeongnam
 	religion = confucian
 }
-4004013 = {
+40004013 = {
 	name = "Gu" #능성구씨
 	culture = honam
 	religion = confucian
 }
 #
-4004026 = {
+40004026 = {
 	name = "Choi" #화순최씨
 	culture = honam
 	religion = confucian
 }
-4004027 = {
+40004027 = {
 	name = "Cho" #풍양조씨
 	culture = gyeonggi
 	religion = confucian
 }
-4004028 = {
+40004028 = {
 	name = "Oh" #해주오씨 추탄공파
 	culture = hwanghae
 	religion = confucian
 }
-4004029 = {
+40004029 = {
 	name = "Gwon" #안동권씨
 	culture = yeongnam
 	religion = confucian
 }
-4004030 = {
+40004030 = {
 	name = "Park" #밀양박씨 규정공파
 	culture = yeongnam
 	religion = confucian
