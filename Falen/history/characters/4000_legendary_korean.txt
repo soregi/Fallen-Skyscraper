@@ -105,7 +105,58 @@
 		death = yes
 	}
 }
-##
+4009 = {
+	name = "Tae-il" #윤태일
+	dynasty = 4004009 #본관 불명
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	1918.6.18 = {
+		birth = yes
+	}
+	1982.12.10 = {
+		death = yes
+	}
+}
+4010 = {
+	name = "Chi-Yeong" #윤치영
+	dynasty = 4004010 #해평윤씨
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	1898.2.10 = {
+		birth = yes
+	}
+	1996.2.9 = {
+		death = yes
+	}
+}
+4011 = {
+	name = "Hyeon-ok" #김현옥
+	dynasty = 4004011 #본관 불명
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	1926.10.27 = {
+		birth = yes
+	}
+	1997.1.9 = {
+		death = yes
+	}
+}
+4012 = {
+	name = "Taek-sik" #양택식
+	dynasty = 4004012 #본관 불명
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	1924.7.11 = {
+		birth = yes
+	}
+	2012.11.13 = {
+		death = yes
+	}
+}
 4013 = {
 	name = "Ja-chun" #구자춘
 	dynasty = 4004013 #능성구씨
