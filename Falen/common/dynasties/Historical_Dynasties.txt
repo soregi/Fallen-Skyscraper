@@ -88,7 +88,36 @@
 	culture = yeongnam
 	religion = confucian
 }
-#
+40004020 = {
+	name = "Park"
+	culture = yeongnam
+	religion = confucian
+}
+40004021 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = confucian
+}
+40004022 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = confucian
+}
+40004023 = {
+	name = "Kim"
+	culture = yeongnam
+	religion = confucian
+}
+40004024 = {
+	name = "Lee"
+	culture = yeongnam
+	religion = confucian
+}
+40004025 = {
+	name = "U" #단양우씨
+	culture = hoseo
+	religion = confucian
+}
 40004026 = {
 	name = "Choi" #화순최씨
 	culture = honam
