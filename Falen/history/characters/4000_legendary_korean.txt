@@ -54,7 +54,7 @@
 	}
 }
 4005 = {
-	name = "Jung" #허정
+	name = "Jeong" #허정
 	dynasty = 40004005 #김해허씨
 	culture = old_korean
 	religion = confucian
@@ -172,7 +172,7 @@
 	}
 }
 4014 = {
-	name = "Sang-chun" #정상천
+	name = "Sang-cheun" #정상천
 	dynasty = 40004014 #본관 불명
 	culture = south_korean
 	religion = catholic
@@ -198,7 +198,7 @@
 	}
 }
 4016= {
-	name = "Sung-bae" #김성배
+	name = "Seung-bae" #김성배
 	dynasty = 40004016 #본관 불명
 	culture = south_korean
 	religion = confucian
@@ -276,7 +276,7 @@
 	}
 }
 4022 = {
-	name = "Sangbae" #이상배
+	name = "Sang-bae" #이상배
 	dynasty = 40004022
 	culture = south_korean
 	religion = confucian
@@ -289,7 +289,7 @@
 	}
 }
 4023 = {
-	name = "Sang-chul" #김상철
+	name = "Sang-cheul" #김상철
 	dynasty = 40004023
 	culture = south_korean
 	religion = confucian
