@@ -43,11 +43,6 @@
 	culture = Seoul
 	religion = confucian
 }
-40004010 = {
-	name = "Yun" #해평윤씨
-	culture = yeongnam
-	religion = confucian
-}
 40004011 = {
 	name = "Kim" #본관 불명
 	culture = yeongnam

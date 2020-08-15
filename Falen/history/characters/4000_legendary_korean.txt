@@ -120,7 +120,7 @@
 }
 4010 = {
 	name = "Chi-Yeong" #윤치영
-	dynasty = 40004010 #해평윤씨
+	dynasty = 4000702 #해평윤씨
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -131,7 +131,6 @@
 		death = yes
 	}
 }
-
 4011 = {
 	name = "Hyeon-ok" #김현옥
 	dynasty = 40004011 #본관 불명

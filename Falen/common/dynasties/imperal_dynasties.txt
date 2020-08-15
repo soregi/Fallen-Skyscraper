@@ -5,9 +5,17 @@
 	religion = koreanist
 }
 4000702 = {
-	name = "Yun"
+	name = "Yun" #해평윤씨
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 3
+		}
+		religion = catholic
+	}
 }
 4000703 = {
 	name = "Park"

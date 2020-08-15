@@ -67,6 +67,7 @@ k_jeolla = {
 		}
 		c_iksan = {
 			color = { 51 0 0 }
+			holy_site = imperial
 			b_iksan = {}
 			b_mohyeon = {}
 			b_yeongdeung_iksan = {}
