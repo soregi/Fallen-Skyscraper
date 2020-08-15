@@ -107,10 +107,10 @@ nick_Gang_Wang = {}
 nick_Mok_Wang = {}
 nick_Wung_Wang = {}
 nick_Hye_Wang = {}
-nick_
-nick_
-nick_
-nick_
-nick_
-nick_
-nick_
+nick_Ae_Wang = {}
+nick_Huan_Wang = {}
+nick_Jung_Wang = {}
+nick_Yae_Wang = {}
+nick_Min_Wang = {}
+nick_Jung_Gong = {}
+nick_Myeol_Gong = {}
