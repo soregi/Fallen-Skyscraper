@@ -93,3 +93,4 @@ nick_ryongdoja_of_the_gentiles = {}
 #산동
 nick_no_jugong = {}
 nick_gaegogi_jang_gun = {}
+nick_Tian_gong = {}
