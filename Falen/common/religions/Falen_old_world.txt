@@ -205,7 +205,7 @@ old_world_group = {
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
-		can_call_crusade = yes
+		#can_call_crusade = yes
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		

@@ -6,7 +6,7 @@ gaston_composition = {
 bobusang_composition = {
 	levy_size = 2
 	light_cavalry = 50
-	heavy_cavalry = 30
+	knights = 30
 }
 bobusang_mokpo_composition = {
 	levy_size = 6
