@@ -124,7 +124,7 @@
 	name = "Friedrich"
 	dynasty = 4001208 # 폰 키아우초우
 	culture = tsingtao
-	religion = Protestant
+	religion = protestant
   trait = fortune_builder
   trait = administrator
   trait = diligent
@@ -139,7 +139,7 @@
 	name = "Albrecht"
 	dynasty = 4001208 # 폰 키아우초우
 	culture = tsingtao
-	religion = Protestant
+	religion = protestant
 	father = 1207
 	2443.11.21 = {
 		birth = yes
@@ -185,7 +185,7 @@
 	name = "Hanna"
 	dynasty = 4001208 # 폰 키아우초우
 	culture = tsingtao
-	religion = Protestant
+	religion = protestant
   trait = underhanded_rogue
   trait = fair
   trait = lustful
@@ -226,7 +226,7 @@
 	name = "Silverstein"
 	dynasty = 4001209 # 폰 은정
 	culture = tsingtao
-	religion = Protestant
+	religion = protestant
   trait = elusive_shadow
   trait = lunatic
   trait = schemer
@@ -241,7 +241,7 @@
 	name = "Heinrich"
 	dynasty = 4001210 # 베르너
 	culture = tsingtao
-	religion = Protestant
+	religion = protestant
 	2399.6.13 = {
 		birth = yes
 	}
@@ -253,7 +253,7 @@
 	name = "Helmuth"
 	dynasty = 4001211 # 폰 몰트케
 	culture = tsingtao
-	religion = Protestant
+	religion = protestant
 	2410.6.7 = {
 		birth = yes
 	}
@@ -289,7 +289,7 @@
 	name = "Roza"
 	dynasty = 4001214 # 티테
 	culture = central_germanic
-	religion = Protestant
+	religion = protestant
   trait = charismatic_negotiator
   trait = fair
   trait = seductress
@@ -366,7 +366,7 @@
 	name = "Rundburg"
 	dynasty = 4001210 # 베르너
 	culture = tsingtao
-	religion = christian
+	religion = protestant
 	father = 1215
 	2424.1.8 = {
 		birth = yes
