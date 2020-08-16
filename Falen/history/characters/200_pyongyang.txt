@@ -50,6 +50,9 @@
 	2432.6.29 = {
 		add_spouse = 203
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 203 = {
 	name = "Jong In"
@@ -59,6 +62,9 @@
 	religion = cheondo
 	2425.4.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 204 = {
@@ -71,6 +77,9 @@
 	mother = 203
 	2432.11.21 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 205 = {
@@ -92,6 +101,9 @@
 	2381.1.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 206 = {
 	name = "Jong Ryong"
@@ -100,6 +112,9 @@
 	religion = cheondo
 	2403.5.5 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 207 = {
@@ -110,6 +125,9 @@
 	2421.3.29 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 208 = {
 	name = "Kong Ho"
@@ -118,6 +136,9 @@
 	religion = cheondo
 	2399.12.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 209 = {
@@ -128,6 +149,9 @@
 	2411.3.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 210 = {
 	name = "Ki Chol"
@@ -136,6 +160,9 @@
 	religion = cheondo
 	2433.9.20 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 211 = {
@@ -146,6 +173,9 @@
 	2417.1.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 212 = {
 	name = "Jak Tu"
@@ -154,6 +184,9 @@
 	religion = cheondo
 	2416.5.6 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 213 = {
@@ -167,6 +200,9 @@
 	2405.7.21 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 214 = {
 	name = "Hyon" 
@@ -179,6 +215,9 @@
 	2405.7.21 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 215 = {
 	name = "Jae Ho" 
@@ -187,6 +226,9 @@
 	religion = cheondo
 	2426.10.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 216 = {
@@ -197,6 +239,9 @@
 	2429.12.9 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 217 = {
 	name = "Alexander" 
@@ -205,6 +250,9 @@
 	religion = marxist
 	2419.1.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 218 = {
@@ -223,6 +271,9 @@
 	piety = 300
 	2388.4.16 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 219 = {
@@ -261,6 +312,9 @@
 	2410.12.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 222 = {
 	name = "Jae Min" 
@@ -269,6 +323,9 @@
 	religion = cheondo
 	2431.6.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 223 = {
@@ -279,6 +336,9 @@
 	2401.6.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 224 = {
 	name = "Thae Chun" 
@@ -287,6 +347,9 @@
 	religion = cheondo
 	2382.8.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 
