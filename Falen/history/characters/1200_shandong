@@ -170,7 +170,7 @@
   trait = lustful
   trait = groomed
   trait = kind
-	() = {
+	(2440.12.8) = {
         add_spouse = (1207)
         }
 	2420.12.6 = {
@@ -633,7 +633,7 @@
 	dynasty = 4001219 # 랴오
 	culture = Shandong
 	religion = confucian
-	() = {
+	(2428.6.9) = {
         add_spouse = (1205)
         }
 	2413.3.27 = {
@@ -647,7 +647,7 @@
 	culture = Shandong
 	religion = confucian
   trait = elusive_shadow
-	() = {
+	(2425.8.19) = {
         add_spouse = (1206)
         }
 	2409.6.25 = {
@@ -680,7 +680,7 @@
 	dynasty = 4001223 # 찐
 	culture = Shandong
 	religion = taoist
-	() = {
+	(2430.1.12) = {
         add_spouse = (1210)
         }
 	2409.1.12 = {
@@ -693,7 +693,7 @@
 	dynasty = 4001224 # 뱌오
 	culture = Shandong
 	religion = taoist
-	() = {
+	(2429.4.4) = {
         add_spouse = (1212)
         }
 	2411.4.3 = {
