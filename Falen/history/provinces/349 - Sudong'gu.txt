@@ -1,0 +1,14 @@
+# 349 - Sudong'gu
+
+# County Title
+title = c_sudonggu
+
+# Settlements
+max_settlements = 3
+
+b_sudonggu = castle
+b_changdong_sudonggu = temple
+
+# Misc
+culture = hamnam
+religion = orthodox

@@ -1,4 +1,4 @@
-2418.8.1 = {
-    liege = (d_tsingtao)
+2420.8.1 = {
+    liege = d_tsingdao
     holder = 1212
 }

@@ -1,0 +1,13 @@
+# 355 - Yong'gwang
+
+# County Title
+title = c_h_yeonggwang
+
+# Settlements
+max_settlements = 3
+
+b_h_yeonggwang_b0 = tribal
+
+# Misc
+culture = hamnam
+religion = juche

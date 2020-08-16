@@ -1,0 +1,13 @@
+# 364 - Riwob
+
+# County Title
+title = c_liwon
+
+# Settlements
+max_settlements = 4
+
+b_liwon_b0 = tribal
+
+# Misc
+culture = hamnam
+religion = juche

@@ -1,0 +1,15 @@
+# 61 - Yeongnam
+
+# County Title
+title = c_yeongam 
+
+# Settlements
+max_settlements = 5
+
+b_yeongam = castle
+b_deokjin_yeongam = city
+b_hanbit = temple
+
+# Misc
+culture = honam
+religion = protestant
