@@ -5,6 +5,84 @@ gaston_composition = {
 }
 bobusang_composition = {
 	levy_size = 2
-	heavy_infantry = 50
-	light_cavalry = 5
+	light_cavalry = 50
+	heavy_cavalry = 30
+}
+bobusang_mokpo_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_sunchang_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_daejeon_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_andong_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_busan_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_gangneung_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_suwon_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_seoul_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_haeju_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_rajin_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_hamheung_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_pyongyang_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+bobusang_uiju_composition = {
+	levy_size = 6
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
 }
