@@ -48,6 +48,9 @@
 	2437.3.17 = {
 	add_lover = 693
 	}
+	2500.1.1={
+        death=yes
+}
 }
 693 = {
 	name = "Yasa"
@@ -60,6 +63,9 @@
 	2437.3.17 = {
 	add_lover = 722
 	}
+	2500.1.1={
+        death=yes
+}
 }
 694 = {
 	name = "Nayeong"
@@ -75,4 +81,7 @@
 	2424.6.18 = {
 		birth = yes
 	}
+	2500.1.1={
+        death=yes
+}
 }

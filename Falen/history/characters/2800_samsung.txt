@@ -15,6 +15,9 @@
 	2405.3.6 = {
 		birth = yes
 	}
+2500.1.1={
+        death=yes
+}
 }
 2801 = {
 	name = "Muchel"
@@ -36,6 +39,9 @@
 	2425.11.1 = {
 		birth = yes
 	}
+2500.1.1={
+        death=yes
+}
 }
 2802 = {
 	name = "Sumin"
@@ -56,6 +62,9 @@
 	2429.3.1 = {
 		birth = yes
 	}
+	2500.1.1={
+        death=yes
+}
 }
 2803 = {
 	name = "Youmin"
@@ -78,6 +87,9 @@
 	2435.11.1 = {
 		birth = yes
 	}
+	2500.1.1={
+        death=yes
+}
 }
 2804 = {
 	name = "Youmin"
@@ -99,6 +111,10 @@
 	2428.1.1 = {
 		add_spouse = 2805
 }
+2500.1.1={
+        death=yes
+}
+}
 2805 = {
 	name = "Youmin"
 	dynasty = 4002803
@@ -110,6 +126,10 @@
 	}
 	2428.1.1 = {
 		add_spouse = 2804
+}
+2500.1.1={
+        death=yes
+}
 }
 2806 = {
 	name = "Chulju"
@@ -135,6 +155,10 @@
 	2420.1.1 = {
 		add_spaouse = 2808
 }
+2500.1.1={
+        death=yes
+}
+}
 2808 = {
 	name = "Youjin"
 	dynasty = 4002801
@@ -147,6 +171,9 @@
 	2420.1.1 = {
 		add_spaouse = 2807
 	}
+	2500.1.1={
+        death=yes
+}
 }
 2809 = {
 	name = "Youjin"
@@ -159,6 +186,9 @@
 	2420.1.1 = {
 		add_spaouse = 2810
 	}
+	2500.1.1={
+        death=yes
+}
 }
 2810 = {
 	name = "Youjin"
@@ -174,6 +204,9 @@
 	2420.1.1 = {
 		add_spaouse = 2809
 	}
+	2500.1.1={
+        death=yes
+}
 }
 2811 = {
 	name = "Younsu"
@@ -183,6 +216,9 @@
 	2412.3.4 = {
 		birth = yes
 	}
+	2500.1.1={
+        death=yes
+}
 }
 2812 = {
 	name = "Cheolmin"
@@ -192,4 +228,7 @@
 	2413.7.7 = {
 		birth = yes
 	}
+	2500.1.1={
+        death=yes
+}
 }

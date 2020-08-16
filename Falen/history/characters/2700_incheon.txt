@@ -18,6 +18,9 @@
 	2444.3.5 = { 
 	add_spouse = 2705
 	}
+	2500.1.1={
+        death=yes
+}
 }
 
 2701 = {
@@ -28,6 +31,9 @@
 	father = 2706
 	martial = 7
 	2406.6.5 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
 
 2702 = {
@@ -37,6 +43,9 @@
 	religion = protestant
 	father = 2706
 	2410.4.3 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
 
 2703 = {
@@ -45,6 +54,9 @@
 	culture = gyeonggi
 	religion = protestant
 	2386.6.6 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
 
 2704 = {
@@ -54,6 +66,9 @@
 	religion = protestant
 	female = yes
 	2409.3.17 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
 
 2705 = {
@@ -66,6 +81,9 @@
 	2444.3.5 = { 
 	add_spouse = 2700 
 	}
+	2500.1.1={
+        death=yes
+}
 }
 
 2706 = {
@@ -74,6 +92,9 @@
 	culture = gyeonggi
 	religion = protestant
 	2388.7.9 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
 
 2707 = {
@@ -82,6 +103,9 @@
 	culture = gyeonggi
 	religion = protestant
 	2408.6.13 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
 
 2708 = {
@@ -90,6 +114,9 @@
 	culture = weihai
 	religion = protestant
 	2398.9.8 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
 
 2709 = {
@@ -98,4 +125,7 @@
 	culture = gyeonggi
 	religion = protestant
 	2416.3.3 = { birth = yes }
+	2500.1.1={
+        death=yes
+}
 }
