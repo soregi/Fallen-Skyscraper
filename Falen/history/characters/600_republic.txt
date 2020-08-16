@@ -202,6 +202,9 @@
 	2413.9.25 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 612 = {
 	name = "Woonseon"
@@ -217,6 +220,9 @@
 	father = 610
 	2419.11.15 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #여기부터 산씨
@@ -372,6 +378,9 @@
 	2380.6.15 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 631 = {
 	name = "Sinju"
@@ -384,6 +393,9 @@
 	trait = brave
 	2414.4.28 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 632 = {
@@ -431,6 +443,9 @@
 	trait = shy
 	2420.5.8 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #자연인 들씨
@@ -618,8 +633,11 @@
 	2413.6.5 = {
 		birth = yes
 	}
-	1431.3.5 = {
+	2431.3.5 = {
 		trait="tribal_kinslayer"
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 650 = {
@@ -641,6 +659,9 @@
 	2230.2.21 = {
 	add_spouse = 655
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 651 = {
 	name = "Sang Ju"
@@ -654,6 +675,9 @@
 	2410.7.14 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 652 = {
 	name = "Mun Ja"
@@ -665,6 +689,9 @@
 	mother = 655
 	2419.3.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 653 = {
@@ -691,6 +718,9 @@
 	2396.8.9 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 655 = {
 	name = "Ji Yong"
@@ -703,6 +733,9 @@
 	trait = seductress
 	2401.2.6 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #내씨
@@ -849,6 +882,9 @@
 	2407.4.16 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 671 = {
 	name = "Jinsa"
@@ -860,6 +896,9 @@
 	trait = kind
 	2431.6.30 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 672 = {
@@ -891,6 +930,9 @@
 	2392.10.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 674 = {
 	name = "Seyun"
@@ -905,6 +947,9 @@
 	trait = brave
 	2426.3.17 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 675 = {
@@ -921,6 +966,9 @@
 	2427.9.12 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 #이씨
 677 = {
@@ -933,6 +981,9 @@
 	trait = zealous
 	2421.8.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #이+전씨
@@ -992,6 +1043,9 @@
 	2398.12.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 684 = {
 	name = "Susoon"
@@ -1004,5 +1058,8 @@
 	trait = gluttonous
 	2400.1.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

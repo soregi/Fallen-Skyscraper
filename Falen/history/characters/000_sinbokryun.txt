@@ -15,6 +15,9 @@
 	2403.7.2 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2 = {
 	name = "Yuhan"
@@ -31,6 +34,9 @@
 	father = 1
 	2428.8.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 
@@ -54,7 +60,9 @@
 	2429.1.1 = {
 		add_spouse = 16
 	}
-
+	2500.1.1 = {
+		death = yes
+	}
 }
 5 = {
 	name = "manhee"
@@ -69,6 +77,9 @@
 	disallow_random_traits = yes
 	2417.6.2 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 
 }
@@ -91,6 +102,9 @@
 	2438.1.1 = {
 		add_spouse = 18
 	}
+	2500.1.1 = {
+		death = yes
+	}
 
 }
 7 = {
@@ -111,6 +125,9 @@
 	2415.1.1 = {
 		add_spouse = 19
 	}
+	2500.1.1 = {
+		death = yes
+	}
 
 }
 8 = {
@@ -129,6 +146,9 @@
 	2386.1.9 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 
 }
 9 = {
@@ -146,6 +166,9 @@
 	2402.11.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 
 }
 10 = {
@@ -162,6 +185,9 @@
 	disallow_random_traits = yes
 	2411.9.29 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 
 }
@@ -186,6 +212,9 @@
 	2436.1.1 = {
 		add_spouse = 25
 	}
+	2500.1.1 = {
+		death = yes
+	}
 
 }
 12 = {
@@ -206,6 +235,9 @@
 	2390.1.14 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 
 }
 13 = {
@@ -223,6 +255,9 @@
 	2376.4.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 
 }
 14 = {
@@ -237,6 +272,9 @@
 	2424.1.1 = {
 		add_spouse = 3
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 15 = {
 	name = "Miwon"
@@ -248,6 +286,9 @@
 	mother = 14
 	2332.5.14 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 16 = {
@@ -261,6 +302,9 @@
 	2429.1.1 = {
 		add_spouse = 4
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 17 = {
 	name = "Yuna"
@@ -271,6 +315,9 @@
 	mother = 4
 	2432.12.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 18 = {
@@ -283,6 +330,9 @@
 	}
 	2438.1.1 = {
 		add_spouse = 6
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 19 = {
@@ -297,6 +347,9 @@
 	2415.1.1 = {
 		add_spouse = 7
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 20 = {
 	name = "Yugeon"
@@ -308,6 +361,9 @@
 	2421.2.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 21 = {
 	name = "Junil"
@@ -316,6 +372,9 @@
 	religion = imperial
 	2361.9.17 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 22 = {
@@ -327,6 +386,9 @@
 	2409.4.25 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 23 = {
 	name = "Junil"
@@ -337,6 +399,9 @@
 	2428.1.13= {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 24 = {
 	name = "Wonil"
@@ -345,6 +410,9 @@
 	religion = imperial
 	2386.7.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 25 = {
@@ -360,6 +428,9 @@
 	2436.1.1 = {
 		add_spouse = 11
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 26 = {
 	name = "Inho"
@@ -368,6 +439,9 @@
 	religion = imperial
 	2422.22.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 45 = {
@@ -378,6 +452,9 @@
 	2421.5.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 48 = {
 	name = "Mingi"
@@ -387,6 +464,9 @@
 	2416.3.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 49 = {
 	name = "Paesang"
@@ -395,6 +475,9 @@
 	religion = imperial
 	2415.1.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 50 = {
@@ -409,6 +492,9 @@
 	trait = just
 	2417.1.25 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 70 = {
@@ -428,6 +514,9 @@
 	}
 	2397.1.1 = {
 		add_spouse = 71
+	}
+	2500.1.1 = {
+		death = yes
 	}
 
 }
@@ -449,6 +538,9 @@
 	2397.1.1 = {
 		add_spouse = 70
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 72 = {
 	name = "seongon"
@@ -466,6 +558,9 @@
 	mother = 71
 	2377.2.11 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 73 = {
@@ -487,6 +582,9 @@
 	2426.5.23 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 74 = {
 	name = "Mingeun"
@@ -495,6 +593,9 @@
 	religion = imperial
 	2416.5.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 75 = {
@@ -505,6 +606,9 @@
 	2413.11.12 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 76 = {
 	name = "yeseong"
@@ -514,6 +618,9 @@
 	trait = homosexual
 	2411.6.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 90 = {

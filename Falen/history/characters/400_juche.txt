@@ -98,6 +98,9 @@
 	2443.5.12 = {
 		add_spouse = 417
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 407 = {
 	name = "I Du"
@@ -109,6 +112,9 @@
 	}
 	2421.3.15 = {
 		add_spouse = 418
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 408 = {
@@ -122,6 +128,9 @@
 	2436.8.19 = {
 		add_spouse = 419
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 409 = {
 	name = "Bak Sa"
@@ -133,6 +142,9 @@
 	}
 	2428.11.28 = {
 		add_spouse = 420
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 410 = {
@@ -146,6 +158,9 @@
 	2438.6.5 = {
 		add_spouse = 421
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 411 = {
 	name = "In Je"
@@ -158,6 +173,9 @@
 	2421.11.9 = {
 		add_spouse = 422
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 412 = {
 	name = "Hong Ryol"
@@ -169,6 +187,9 @@
 	}
 	2396.12.8 = {
 		add_spouse = 423
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 413 = {
@@ -184,6 +205,9 @@
 	2436.11.8 = {
 		add_spouse = 424
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 414 = {
 	name = "Ji Ryong"
@@ -195,6 +219,9 @@
 	}
 	2427.10.2 = {
 		add_spouse = 425
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 415 = {
@@ -208,6 +235,9 @@
 	2419.9.9 = {
 		add_spouse = 426
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 416 = {
 	name = "O Ryong"
@@ -217,6 +247,9 @@
 	religion = juche
 	2416.12.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 417 = {
@@ -228,6 +261,9 @@
 	2408.1.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 418 = {
 	name = "Hae Ryong"
@@ -237,6 +273,9 @@
 	religion = juche
 	2409.3.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 419 = {
@@ -248,6 +287,9 @@
 	2420.11.8 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 420 = {
 	name = "Mi Ae"
@@ -257,6 +299,9 @@
 	religion = juche
 	2406.1.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 421 = {
@@ -268,6 +313,9 @@
 	2423.8.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 422 = {
 	name = "Sang Jong"
@@ -277,6 +325,9 @@
 	religion = juche
 	2403.7.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 423 = {
@@ -288,6 +339,9 @@
 	2373.6.25 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 424 = {
 	name = "Kyong Ja"
@@ -297,6 +351,9 @@
 	religion = juche
 	2416.2.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 425 = {
@@ -308,6 +365,9 @@
 	2409.9.17 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 426 = {
 	name = "Mi Kyong"
@@ -317,6 +377,9 @@
 	religion = juche
 	2401.4.14 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 427 = {
@@ -329,6 +392,9 @@
 	2439.8.14 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 428 = {
 	name = "Gu Ra"
@@ -339,6 +405,9 @@
 	mother = 416
 	2437.2.14 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 429 = {
@@ -351,6 +420,9 @@
 	2443.12.31 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 430 = {
 	name = "Sok Sa"
@@ -361,6 +433,9 @@
 	mother = 420
 	2436.6.5 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 431 = {
@@ -373,6 +448,9 @@
 	2437.1.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 432 = {
 	name = "Min Sok"
@@ -384,6 +462,9 @@
 	2440.2.22 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 433 = {
 	name = "Hyon"
@@ -394,5 +475,8 @@
 	mother = 426
 	2439.9.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
