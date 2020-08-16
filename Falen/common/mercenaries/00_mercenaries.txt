@@ -86,3 +86,13 @@ bobusang_uiju_composition = {
 	pikemen = 35
 	archers = 20
 }
+sixth_corps_composition = {
+	levy_size = 4
+	light_cavalry = 45
+	pikemen = 35
+	archers = 20
+}
+veteran_marines_composition = {
+	levy_size = 6
+	heavy_infantry = 70
+}
