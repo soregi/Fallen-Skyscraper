@@ -123,8 +123,8 @@
 1207 = {
 	name = "Friedrich"
 	dynasty = 4001208 # 폰 키아우초우
-	culture = central_germanic
-	religion = christian
+	culture = tsingtao
+	religion = Protestant
   trait = fortune_builder
   trait = administrator
   trait = diligent
@@ -138,8 +138,8 @@
 1208 = {
 	name = "Albrecht"
 	dynasty = 4001208 # 폰 키아우초우
-	culture = central_germanic
-	religion = christian
+	culture = tsingtao
+	religion = Protestant
 	father = 1207
 	2443.11.21 = {
 		birth = yes
@@ -184,8 +184,8 @@
 1211 = {
 	name = "Hanna"
 	dynasty = 4001208 # 폰 키아우초우
-	culture = central_germanic
-	religion = christian
+	culture = tsingtao
+	religion = Protestant
   trait = underhanded_rogue
   trait = fair
   trait = lustful
@@ -225,8 +225,8 @@
 1213 = {
 	name = "Silverstein"
 	dynasty = 4001209 # 폰 은정
-	culture = central_germanic
-	religion = christian
+	culture = tsingtao
+	religion = Protestant
   trait = elusive_shadow
   trait = lunatic
   trait = schemer
@@ -240,8 +240,8 @@
 1214 = {
 	name = "Heinrich"
 	dynasty = 4001210 # 베르너
-	culture = central_germanic
-	religion = christian
+	culture = tsingtao
+	religion = Protestant
 	2399.6.13 = {
 		birth = yes
 	}
@@ -252,8 +252,8 @@
 1215 = {
 	name = "Helmuth"
 	dynasty = 4001211 # 폰 몰트케
-	culture = central_germanic
-	religion = christian
+	culture = tsingtao
+	religion = Protestant
 	2410.6.7 = {
 		birth = yes
 	}
@@ -289,7 +289,7 @@
 	name = "Roza"
 	dynasty = 4001214 # 티테
 	culture = central_germanic
-	religion = christian
+	religion = Protestant
   trait = charismatic_negotiator
   trait = fair
   trait = seductress
@@ -365,7 +365,7 @@
 1224 = {
 	name = "Rundburg"
 	dynasty = 4001210 # 베르너
-	culture = central_germanic
+	culture = tsingtao
 	religion = christian
 	father = 1215
 	2424.1.8 = {
