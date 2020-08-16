@@ -28,6 +28,7 @@ d_bobusang_company = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_composition
 }
+##전국보부상협회 계열
 d_bobusang_mokpo_company #전국보부상협회 목포지부 = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
@@ -148,7 +149,6 @@ d_bobusang_seoul_company #전국보부상협회 서울지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_seoul_composition
 }
-
 d_bobusang_haeju_company #전국보부상협회 해주지부 = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
@@ -224,8 +224,37 @@ d_bobusang_uiju_company #전국보부상협회 의주지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_uiju_composition
 }
-
-
+##기타
+d_sixth_corps_company # 6군단 = {
+	color = { 80 100 160 }
+	color2 = { 255 255 255 }
+	capital = 377 # 청진
+	religion = holy_sprit_pagan
+	culture = hambuk
+	mercenary = yes
+	title = "Corps Commander" # 군단장
+	foa = "FOA_Jibujang"
+	landless = yes
+	primary = yes
+	independent = no
+	strength_growth_per_century = 1.0
+	mercenary_type = sixth_corps_composition
+}
+d_veteran_marines_company # 해병전우회 = {
+	color = { 80 100 160 }
+	color2 = { 255 255 255 }
+	capital = 27 # 포항
+	religion = steel_pagan
+	culture = yeongdong
+	mercenary = yes
+	title = "Corps Commander" # 군단장
+	foa = "FOA_Jibujang"
+	landless = yes
+	primary = yes
+	independent = no
+	strength_growth_per_century = 1.0
+	mercenary_type = veteran_marines_composition
+}
 
 
 	
