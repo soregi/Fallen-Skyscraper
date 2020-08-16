@@ -1,4 +1,4 @@
-# 364 - Riwob
+# 364 - Riwon
 
 # County Title
 title = c_liwon

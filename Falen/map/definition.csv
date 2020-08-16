@@ -59,7 +59,7 @@ provinces;red;green;blue;x;x
 58;255;127;64;Naju;x
 59;191;0;0;Suncheon;x
 60;204;0;0;Jindo;x
-61;153;0;0;Yeongnam;x
+61;153;0;0;Yeongam;x
 62;26;0;0;Mokpo;x
 63;255;64;64;Sinan;x
 64;255;64;0;Gokseong;x
@@ -345,7 +345,7 @@ provinces;red;green;blue;x;x
 344;145;190;145;Unhung;x
 345;100;120;0;Bochon;x
 346;28;120;47;Paegam;x
-347;90;140;45;Sanmjiyon;x
+347;90;140;45;Samjiyon;x
 348;45;80;30;Daehongdan;x
 349;10;10;45;Sudong;x
 350;15;30;40;Kowon;x
@@ -362,7 +362,7 @@ provinces;red;green;blue;x;x
 361;75;20;100;Hong'won;x
 362;20;100;150;Sinpho;x
 363;100;90;150;Pukchong;x
-364;70;70;255;Riwob;x
+364;70;70;255;Riwon;x
 365;65;90;160;Tanchon;x
 366;72;94;255;Toksong;x
 367;90;180;255;Hochon;x

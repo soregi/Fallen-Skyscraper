@@ -1,4 +1,4 @@
-# 61 - Yeongnam
+# 61 - Yeongam
 
 # County Title
 title = c_yeongam 

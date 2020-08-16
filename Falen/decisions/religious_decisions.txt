@@ -8,70 +8,6 @@
 
 decisions = {
 	
-	create_fraticelli_papacy = {
-		only_playable = yes
-		
-		is_high_prio = yes
-		ai_check_interval = 36
-	
-		potential = {
-			is_playable = yes
-			religion = fraticelli
-			NOT = { is_title_active = d_fraticelli }
-			has_dlc = "Sons of Abraham"
-			NOT = {
-				has_alternate_start_parameter = { key = religion_names value = random }
-			}
-		}
-		
-		allow = {
-			piety = 1000
-			OR = {
-				owns = 333 # Rome
-				any_realm_lord = {
-					owns = 333
-				}
-			}
-		}
-		
-		effect = {
-			activate_title = { title = d_fraticelli status = yes }
-			hidden_tooltip = {
-				create_random_priest = {
-					dynasty = none
-					random_traits = yes
-				}
-				new_character = {
-					d_fraticelli = {
-						grant_title = PREV
-					}
-					wealth = 500
-					opinion = {
-						who = ROOT
-						modifier = opinion_creator_of_rel_heal
-					}
-				}
-				
-				religion_authority = {
-					modifier = papacy_instituted
-					years = 20
-				}
-			}
-			hidden_effect = {
-				character_event = { id = 39703 }
-			}
-			piety = 1000
-		}
-		
-		revoke_allowed = {
-			always = no
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
 	create_iconoclast_patriarchy = {
 		only_playable = yes
 		
@@ -362,7 +298,11 @@ decisions = {
 		ai_check_interval = 36
 
 		potential = {
-			religion = west_african_pagan # Only unreformed. Reformers can pick the Syncretism Doctrine to sympathize with everyone they wish.
+			OR = {
+				religion = koreanist
+				religion = authoritarian
+				religion = populist
+			}
 			NOR = {
 				trait = sympathy_christendom
 				trait = sympathy_islam

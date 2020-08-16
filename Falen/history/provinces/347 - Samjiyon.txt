@@ -1,4 +1,4 @@
-# 347 - Sanmjiyon
+# 347 - Samjiyon
 
 # County Title
 title = c_samjiyeon
