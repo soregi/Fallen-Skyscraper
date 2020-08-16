@@ -1,0 +1,62 @@
+character_event = {
+	id = shandong001
+	desc = "EVTDESCshandong001"
+	picture = GFX_evt_throne_room
+	
+	only_rulers = yes
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		year = 2444
+		top_liege = {
+			primary_title = {
+					title = k_shandong
+				}
+			}
+		}
+		any_courtier = {
+			OR = {
+				culture = weihai
+				culture = yantai
+				culture = qingdao
+			}
+		}
+	
+	mean_time_to_happen = {
+		months = 120
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTAshandong001"
+		any_courtier = {
+			limit = {
+				OR = {	
+			    culture = weihai
+				culture = yantai
+				culture = qingdao
+				}
+			}
+			score_value = { #Prioritizes selecting an interesting courtier...
+	            value = 10
+	            interesting_courtier_selection_score = yes
+	        }
+			culture = shandong
+			hidden_tooltip = {
+				character_event = { id = shandong001 days = 3 }
+			}
+		}
+	}
+}
