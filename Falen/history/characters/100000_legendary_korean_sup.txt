@@ -1,4 +1,115 @@
-﻿110001 = {
+#해평윤씨
+100001 = {
+	name = "Chui-dong" #윤취동
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	1798.7.18 = { birth = yes }
+	1863.12.21 = { death = yes }
+}
+100002 = {
+	name = "Ung-ryul" #윤웅렬
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100001
+	disallow_random_traits = yes
+	1840.5.18 = { birth = yes }
+	1911.9.22 = { death = yes }
+}
+100003 = {
+	name = "Yeong-ryul" #윤영렬
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100001
+	disallow_random_traits = yes
+	1854.4.15 = { birth = yes }
+	1939.11.4 = { death = yes }
+}
+100004 = {
+	name = "Chi-ho" #윤치호
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100002
+	disallow_random_traits = yes
+	1865.1.23 = { birth = yes }
+	1945.12.9 = { death = yes }
+}
+100005 = {
+	name = "Chi-wang" #윤치왕
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100002
+	disallow_random_traits = yes
+	1895.2.17 = { birth = yes }
+	1982.12.21 = { death = yes }
+}
+100006 = {
+	name = "Chi-chang" #윤치창
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100002
+	disallow_random_traits = yes
+	1899.3.5 = { birth = yes }
+	1973.10.1 = { death = yes }
+}
+100007 = {
+	name = "Chi-o" #윤치오
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100003
+	disallow_random_traits = yes
+	1869.9.10 = { birth = yes }
+	1950.12.22 = { death = yes }
+}
+100008 = {
+	name = "Chi-so" #윤치소
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100003
+	disallow_random_traits = yes
+	1871.8.25 = { birth = yes }
+	1944.2.20 = { death = yes }
+}
+100009 = {
+	name = "Chi-seung" #윤치성
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100003
+	disallow_random_traits = yes
+	1875.3.2 = { birth = yes }
+	1936.8.11 = { death = yes }
+}
+100010 = {
+	name = "Chi-byung" #윤치병
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100003
+	disallow_random_traits = yes
+	1880.6.4 = { birth = yes }
+	1940.1.24 = { death = yes }
+}
+100011 = {
+	name = "Chi-myung" #윤치명
+	dynasty = 4000702
+	culture = old_korean
+	religion = confucian
+	father = 100003
+	disallow_random_traits = yes
+	1885.10.27 = { birth = yes }
+	1944.4.21 = { death = yes }
+}
+##전주이씨4000801##
+110001 = {
 	name = "An-sa" #목조 이안사 이성계 고조부
 	dynasty = 4000801
 	culture = old_korean
