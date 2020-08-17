@@ -1,0 +1,5 @@
+2445.6.7 = {
+    liege = c_gangseo
+    holding_dynasty = 4000799
+    holder = 799
+}
