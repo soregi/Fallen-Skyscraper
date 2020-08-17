@@ -356,7 +356,7 @@
 	father = 777
 }
 780 = {
-	name = ""
+	name = "jeim"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -371,7 +371,7 @@
 	mother =
 }
 781 = {
-	name = ""
+	name = "hwaseon"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -386,7 +386,7 @@
 	mother =
 }
 782 = {
-	name = ""
+	name = "hamin"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -401,7 +401,7 @@
 	mother =
 }
 783 = {
-	name = ""
+	name = "misong"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -416,7 +416,7 @@
 	mother =
 }
 784 = {
-	name = ""
+	name = "insu"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -431,7 +431,7 @@
 	mother =
 }
 785 = {
-	name = ""
+	name = "inhui"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -446,7 +446,7 @@
 	mother =
 }
 786 = {
-	name = ""
+	name = "yeosu"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -461,7 +461,7 @@
 	mother =
 }
 787 = {
-	name = ""
+	name = "danjeon"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -476,7 +476,7 @@
 	mother =
 }
 788 = {
-	name = ""
+	name = "owon"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -491,7 +491,7 @@
 	mother =
 }
 789 = {
-	name = ""
+	name = "jeongsu"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -506,7 +506,7 @@
 	mother =
 }
 790 = {
-	name = ""
+	name = "owon"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -521,7 +521,7 @@
 	mother =
 }
 791 = {
-	name = ""
+	name = "gwonmin"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -536,7 +536,7 @@
 	mother =
 }
 792 = {
-	name = ""
+	name = "jeongmin"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -551,7 +551,7 @@
 	mother =
 }
 793 = {
-	name = ""
+	name = "cheolsu"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -566,7 +566,7 @@
 	mother =
 }
 794 = {
-	name = ""
+	name = "yeonghui"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -581,7 +581,7 @@
 	mother =
 }
 795 = {
-	name = ""
+	name = "minsu"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -596,7 +596,7 @@
 	mother =
 }
 796 = {
-	name = ""
+	name = "jaesu"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -611,7 +611,7 @@
 	mother =
 }
 797 = {
-	name = ""
+	name = "jiwon"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -626,7 +626,7 @@
 	mother =
 }
 798 = {
-	name = ""
+	name = "jisun"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
@@ -641,7 +641,7 @@
 	mother =
 }
 799 = {
-	name = ""
+	name = "gwangsu"
 	dynasty = 40007
 	culture = yeongnam
 	religion = populist
