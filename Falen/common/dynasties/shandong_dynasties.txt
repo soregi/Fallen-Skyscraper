@@ -1,114 +1,114 @@
-40001201 = {
+4001201 = {
 	name = "Nu"
 	culture = old_chinese
 	religion = confucian
 }
-40001202 = {
+4001202 = {
 	name = "Tian"
 	culture = old_chinese
 	religion = confucian
 }
-40001203 = {
+4001203 = {
 	name = "Jiang"
 	culture = old_chinese
 	religion = confucian
 }
-40001204 = {
+4001204 = {
 	name = "Han"
 	culture = old_chinese
 	religion = confucian
 }
-40001205 = {
+4001205 = {
 	name = "Zhang"
 	culture = yantai
 	religion = taoist
 }
-40001207 = {
+4001207 = {
 	name = "Deng"
 	culture = weihai
 	religion = confucian
 }
-40001208 = {
+4001208 = {
 	name = "von kiautschou"
 	culture = tsingtao
 	religion = protestant
 }
-40001209 = {
+4001209 = {
 	name = "von eunjung"
 	culture = tsingtao
 	religion = protestant
 }
-40001210 = {
+4001210 = {
 	name = "werner"
 	culture = tsingtao
 	religion = protestant
 }
-40001211 = {
+4001211 = {
 	name = "von moltke"
 	culture = tsingtao
 	religion = protestant
 }
-40001212 = {
+4001212 = {
 	name = "Xi"
 	culture = yantai
 	religion = confucian
 }
-40001213 = {
+4001213 = {
 	name = "Deng"
 	culture = qingdao
 	religion = confucian
 }
-40001214 = {
+4001214 = {
 	name = "Roza"
 	culture = tsingtao
 	religion = protestant
 }
-40001215 = {
+4001215 = {
 	name = "Song"
 	culture = qingdao
 	religion = taoist
 }
-40001216 = {
+4001216 = {
 	name = "Xun"
 	culture = weihai
 	religion = confucian
 }
-40001217 = {
+4001217 = {
 	name = "Jiang"
 	culture = yantai
 	religion = taoist
 }
-40001218 = {
+4001218 = {
 	name = "Liu"
 	culture = yantai
 	religion = taoist
 }
-40001219 = {
+4001219 = {
 	name = "Guan"
 	culture = qingdao
 	religion = taoist
 }
-40001220 = {
+4001220 = {
 	name = "Kong"
 	culture = weihai
 	religion = confucian
 }
-40001221 = {
+4001221 = {
 	name = "Liao"
 	culture = weihai
 	religion = confucian
 }
-40001222 = {
+4001222 = {
 	name = "Song"
 	culture = weihai
 	religion = confucian
 }
-40001223 = {
+4001223 = {
 	name = "Jin"
 	culture = yantai
 	religion = confucian
 }
-40001224 = {
+4001224 = {
 	name = "Biao"
 	culture = yantai
 	religion = confucian

@@ -288,7 +288,7 @@
 1218 = {
 	name = "Roza"
 	dynasty = 4001214 # 티테
-	culture = central_germanic
+	culture = tsingtao
 	religion = protestant
   trait = charismatic_negotiator
   trait = fair
