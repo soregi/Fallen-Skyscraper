@@ -359,7 +359,7 @@
 	name = "jeim"
 	dynasty = 4000780 # 
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2381.6.14 = {
 		birth = yes
 	}
@@ -371,7 +371,7 @@
 	name = "hwaseon"
 	dynasty = 4000780
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2399.8.15 = {
 		birth = yes
 	}
@@ -384,7 +384,7 @@
 	name = "hamin"
 	dynasty = 4000780
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2401.5.13 = {
 		birth = yes
 	}
@@ -398,7 +398,7 @@
 	name = "misong"
 	dynasty = 4000780
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2409.4.4 = {
 		birth = yes
 	}
@@ -489,7 +489,7 @@
 	name = "owon"
 	dynasty = 4000790 # 노
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2388.9.24 = {
 		birth = yes
 	}
@@ -501,7 +501,7 @@
 	name = "gwonmin"
 	dynasty = 4000790
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2407.1.18 = {
 		birth = yes
 	}
@@ -514,7 +514,7 @@
 	name = "jeongmin"
 	dynasty = 4000790
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2410.3.25 = {
 		birth = yes
 	}
@@ -567,7 +567,7 @@
 	name = "jaesu"
 	dynasty = 4000796 # 정
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2397.8.31 = {
 		birth = yes
 	}
@@ -579,7 +579,7 @@
 	name = "jiwon"
 	dynasty = 4000796
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2419.8.14 = {
 		birth = yes
 	}
@@ -593,7 +593,7 @@
 	name = "jisun"
 	dynasty = 4000796
 	culture = yeongnam
-	religion = populist
+	religion = authoritarian
 	2422.7.9 = {
 		birth = yes
 	}
