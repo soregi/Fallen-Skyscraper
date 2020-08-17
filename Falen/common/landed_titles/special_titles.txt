@@ -303,6 +303,10 @@ b_jeon = {
 	religion = populist
 }
 #부산
+k_busan = {
+    culture = yeongnam
+    religion = populist
+}
 b_oh = {
 	culture = yeongnam
 	religion = populist
