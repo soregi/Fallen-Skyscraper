@@ -392,7 +392,7 @@
         death = yes
     }
         female = yes
-	father =
+	father = 780
 }
 783 = {
 	name = "misong"
@@ -406,7 +406,7 @@
         death = yes
     }
         female = yes
-	father =
+	father = 780
 }
 784 = {
 	name = "insu"
@@ -419,7 +419,6 @@
 	2500.1.1 = {
         death = yes
     }
-	father =
 }
 785 = {
 	name = "inhui"
@@ -433,7 +432,7 @@
         death = yes
     }
         female = yes
-	father =
+	father = 784
 }
 786 = {
 	name = "yeosu"
@@ -446,7 +445,7 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
+	father = 784
 }
 787 = {
 	name = "danjeon"
@@ -459,7 +458,6 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
 }
 788 = {
 	name = "owon"
@@ -472,7 +470,7 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
+	father = 787
 }
 789 = {
 	name = "jeongsu"
@@ -485,7 +483,7 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
+	father = 787
 }
 790 = {
 	name = "owon"
@@ -498,7 +496,6 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
 }
 791 = {
 	name = "gwonmin"
@@ -511,7 +508,7 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
+	father = 790
 }
 792 = {
 	name = "jeongmin"
@@ -525,7 +522,7 @@
         death = yes
         }
         female = yes
-	father =
+	father = 790
 }
 793 = {
 	name = "cheolsu"
@@ -538,7 +535,6 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
 }
 794 = {
 	name = "yeonghui"
@@ -552,7 +548,7 @@
         death = yes
         }
         female = yes
-	father =
+	father = 793
 }
 795 = {
 	name = "minsu"
@@ -565,7 +561,7 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
+	father = 793
 }
 796 = {
 	name = "jaesu"
@@ -578,7 +574,6 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
 }
 797 = {
 	name = "jiwon"
@@ -592,7 +587,7 @@
         death = yes
         }
         female = yes
-	father =
+	father = 796
 }
 798 = {
 	name = "jisun"
@@ -606,7 +601,7 @@
         death = yes
         }
         female = yes
-	father =
+	father = 796
 }
 799 = {
 	name = "gwangsu"
@@ -619,5 +614,4 @@
 	2500.1.1 = {
         death = yes
         }
-	father =
 }
