@@ -1,4 +1,4 @@
 2452.2.12 = {
-    liege = (d_weihai)
+    liege = d_weihai
     holder = 1216
 }
