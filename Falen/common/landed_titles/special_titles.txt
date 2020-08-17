@@ -6,7 +6,7 @@ k_civil_seoul = {
 		always = no
 	}
 	culture = seoul
-	religion = koreanist
+	religion = populist
 }
 k_mil_seoul = {
 	color = { 240 17 17 }
@@ -15,7 +15,7 @@ k_mil_seoul = {
 		always = no
 	}
 	culture = seoul
-	religion = koreanist
+	religion = populist
 }
 k_gaya = {
 	color={ 211 126 65 }
