@@ -17,9 +17,12 @@
 	add_spouse = 760
 	add_spouse = 761
 	add_spouse = 762
-	2392.07.18 = {
+	2392.7.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+}
 }
 751 = {
 	name = "Gyeongcheon"
@@ -36,9 +39,12 @@
 	trait = cruel
 	father = 750
 	mother = 759
-	2409.03.14 = {
+	2409.3.14 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+}
 }
 752 = {
 	name = "Woncheon"
@@ -60,6 +66,9 @@
 	2409.10.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+}
 }
 753 = {
 	name = "Myeongji"
@@ -69,9 +78,12 @@
 	female = yes
 	father = 750
 	mother = 759
-	2411.09.21 = {
+	2411.9.21 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+}
 }
 754 = {
 	name = "Yeji"
@@ -84,6 +96,9 @@
 	2412.11.02 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 755 = {
 	name = "Yeonji"
@@ -93,9 +108,12 @@
 	female = yes
 	father = 750
 	mother = 760
-	2414.09.15 = {
+	2414.9.15 = {
 		birth = yes
 	}
+        2500.1.1 = {
+        death = yes
+        }
 }
 756 = {
 	name = "Kwoncheon"
@@ -107,6 +125,9 @@
 	2415.10.31 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 757 = {
 	name = "Jucheon"
@@ -115,9 +136,12 @@
 	religion = unitary
 	father = 750
 	mother = 761
-	2438.09.12 = {
+	2438.9.12 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 758 = {
 	name = "Hyeji"
@@ -127,9 +151,12 @@
 	female = yes
 	father = 750
 	mother = 761
-	2441.06.18 = {
+	2441.6.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 759 = {
 	name = "Yeonsun"
@@ -139,9 +166,12 @@
 	female = yes
 	father = 750
 	mother = 761
-	2394.05.05 = {
+	2394.5.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 760 = {
 	name = "Jaesuk"
@@ -151,9 +181,12 @@
 	female = yes
 	father = 750
 	mother = 761
-	2394.05.05 = {
+	2394.5.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 761 = {
 	name = "Hwayeong"
@@ -166,6 +199,9 @@
 	2415.10.31 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 762 = {
 	name = "Cheolhui"
@@ -175,9 +211,12 @@
 	female = yes
 	father = 750
 	mother = 761
-	2425.06.01 = {
+	2425.6.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
 }
 770 = {
 	name = "Jeongsu
@@ -187,6 +226,9 @@
 	2390.12.12 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	2410.1.1 = {
 		add_spouse = 774
 	}
@@ -199,6 +241,9 @@
 	2410.9.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	father = 770
 	mother = 774
 }
@@ -210,6 +255,9 @@
 	2412.1.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	father = 770
 	mother = 774
 }
@@ -221,6 +269,9 @@
 	2416.3.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	female = yes
 	father = 770
 	mother = 774
@@ -231,9 +282,12 @@
 	dynasty = 4000774  # 권
 	culture = yeongnam
 	religion = populist
-	2392.08.09 = {
+	2392.8.9 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	female = yes
 	father = 775
 }
@@ -242,18 +296,24 @@
 	dynasty = 4000774
 	culture = yeongnam
 	religion = populist
-	2365.06.15 = {
+	2365.6.15 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 }
 776 = {
 	name = "yeoncheol"
-	dynasty = 40007
+	dynasty = 4000774
 	culture = yeongnam
 	religion = populist
-	2388.06.08 = {
+	2388.6.8 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	father = 775
 }
 777 = {
@@ -264,15 +324,21 @@
 	2379.10.30 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 }
 778 = {
 	name = "hosik"
 	dynasty = 4000777
 	culture = yeongnam
 	religion = populist
-	2399.04.11 = {
+	2399.4.11 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	father = 777
 }
 779 = {
@@ -280,9 +346,12 @@
 	dynasty = 4000777
 	culture = yeongnam
 	religion = populist
-	2399.04.11 = {
+	2399.4.11 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
 	female = yes
 	father = 777
 }
@@ -294,6 +363,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
         female =
 	father =
 	mother =
@@ -306,6 +378,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
         female =
 	father =
 	mother =
@@ -318,6 +393,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
         female =
 	father =
 	mother =
@@ -330,6 +408,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
         female =
 	father =
 	mother =
@@ -342,6 +423,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
         female =
 	father =
 	mother =
@@ -354,6 +438,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+    }
         female =
 	father =
 	mother =
@@ -366,6 +453,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -378,6 +468,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -390,6 +483,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -402,6 +498,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -414,6 +513,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -426,6 +528,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -438,6 +543,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -450,6 +558,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -462,6 +573,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -474,6 +588,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -486,6 +603,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -498,6 +618,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -510,6 +633,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
@@ -522,6 +648,9 @@
 	 = {
 		birth = yes
 	}
+	2500.1.1 = {
+        death = yes
+        }
         female =
 	father =
 	mother =
