@@ -1,0 +1,110 @@
+40001201 = {
+	name = "Nu"
+	culture =  old_chinese
+	religion = confucian
+}
+40001202 = {
+	name = "Tian"
+	culture =  old_chinese
+	religion = confucian
+}
+40001203 = {
+	name = "Jiang"
+	culture =  old_chinese
+	religion = confucian
+}
+40001204 = {
+	name = "Han"
+	culture =  old_chinese
+	religion = confucian
+}
+40001205 = {
+	name = "Zhang"
+	culture =  shandong
+	religion = taoist
+}
+40001206 = {
+	name = "Kong"
+	culture =  shandong
+	religion = confucian
+}
+40001207 = {
+	name = "Deng"
+	culture =  shandong
+	religion = confucian
+}
+40001208 = {
+	name = "von kiautschou"
+	culture =  tsingtao
+	religion = protestant
+}
+40001209 = {
+	name = "von eunjung"
+	culture =  tsingtao
+	religion = protestant
+}
+40001210 = {
+	name = "werner"
+	culture =  tsingtao
+	religion = protestant
+}
+40001211 = {
+	name = "von moltke"
+	culture =  tsingtao
+	religion = protestant
+}
+40001212 = {
+	name = "Xi"
+	culture =  shandong
+	religion = confucian
+}
+40001213 = {
+	name = "Deng"
+	culture =  shandong
+	religion = confucian
+}
+40001214 = {
+	name = "Roza"
+	culture =  tsingtao
+	religion = protestant
+}
+40001215 = {
+	name = "Song"
+	culture =  shandong
+	religion = taoist
+}
+40001216 = {
+	name = "Xun"
+	culture =  shandong
+	religion = confucian
+}
+40001217 = {
+	name = "Jiang"
+	culture =  shandong
+	religion = taoist
+}
+40001218 = {
+	name = "Liu"
+	culture =  shandong
+	religion = taoist
+}
+40001219 = {
+	name = "Guan"
+	culture =  shandong
+	religion = taoist
+}
+40001220 = {
+	name = "Kong"
+	culture =  shandong
+	religion = confucian
+}
+40001221 = {
+	name = "Liao"
+	culture =  shandong
+	religion = confucian
+}
+40001222 = {
+	name = "Song"
+	culture =  shandong
+	religion = confucian
+}
