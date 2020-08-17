@@ -1,0 +1,504 @@
+##100000 109999 타가문 할당##
+##전주이씨 가문번호4000801목조부터 환조##
+110001 = {
+	name = "An-sa" #목조 이안사 이성계 고조부
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	1200.1.1 = { birth = yes }
+	1274.1.1 = { death = yes }
+	1392.7.28 = { give_nickname = nick_mokwang }
+	1411.4.22 = { give_nickname = nick_mokjo }
+}
+110002 = {
+	name = "Haeng-ri" #익조 이행리 이성계 증조부
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110001
+	1233.1.1 = { birth = yes }
+	1293.1.1 = { death = yes }
+	1392.7.28 = { give_nickname = nick_ikwang }
+	1411.4.22 = { give_nickname = nick_ikjo }
+}
+110003 = {
+	name = "Chun" #도조 이춘 이성계 조부
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1263.1.1 = { birth = yes }
+	1342.7.24 = { death = yes }
+	1392.7.28 = { give_nickname = nick_dowang }
+	1411.4.22 = { give_nickname = nick_dojo }
+}
+110004 = {
+	name = "Ja-chun" #환조 이자춘 이성계 부
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	1315.1.20 = { birth = yes }
+	1361.6.3 = { death = yes }
+	1392.7.28 = { give_nickname = nick_hwanwang }
+	1411.4.22 = { give_nickname = nick_hwanjo }
+}
+## 목조 자손 ##
+110005 = {
+	name = "Eo-seon" #안천대군 이어선
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110001
+	1230.1.1 = { birth = yes }
+	1274.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_ancheon_daegun }
+}
+110006 = {
+	name = "Jin" #안원대군 이진
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110001
+	1231.1.1 = { birth = yes }
+	1291.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_anwon_daegun }
+}
+110007 = {
+	name = "Jeong" #안풍대군 이정
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110001
+	1232.1.1 = { birth = yes }
+	1292.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_anpung_daegun }
+}
+110008 = {
+	name = "Mae-bul" #안창대군 이매불
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110001
+	1234.1.1 = { birth = yes }
+	1294.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_anchang_daegun }
+}
+110009 = {
+	name = "Gu-su" #안흥대군 이구수
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110001
+	1235.1.1 = { birth = yes }
+	1295.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_anheung_daegun }
+}
+## 익조 자손 ##
+110010 = {
+	name = "An" #함녕대군 이안
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1260.1.1 = { birth = yes }
+	1320.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_hamneong_daegun }
+}
+110011 = {
+	name = "Jang" #함창대군 이장
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1261.1.1 = { birth = yes }
+	1321.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_hamchang_daegun }
+}
+110012 = {
+	name = "Song" #함원대군 이송
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1262.1.1 = { birth = yes }
+	1322.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_hamwon_daegun }
+}
+110013 = {
+	name = "Won" #함천대군 이원
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1264.1.1 = { birth = yes }
+	1324.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_hamcheon_daegun }
+}
+110014 = {
+	name = "Go-tae" #함릉대군 이고태
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1265.1.1 = { birth = yes }
+	1325.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_hamreung_daegun }
+}
+110015 = {
+	name = "Geon" #함양대군 이전
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1266.1.1 = { birth = yes }
+	1326.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_hamyang_daegun }
+}
+110016 = {
+	name = "Eung-geo" #함성대군 이응거
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	1267.1.1 = { birth = yes }
+	1327.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_hamseong_daegun }
+}
+110017 = {
+	name = "Princess An-ui" #안의공주 
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110002
+	female = yes
+	1268.1.1 = { birth = yes }
+	1328.1.1 = { death = yes }
+}
+## 목조 자손 ##
+110018 = {
+	name = "Ja-hong" #완창대군 이자흥
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	1305.1.1 = { birth = yes }
+	1365.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_wanchang_daegun }
+}
+110019 = {
+	name = "Ja-seon" #완원대군 이자선
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	1331.1.1 = { birth = yes }
+	1356.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_wanwon_daegun }
+}
+110020 = {
+	name = "Pyong" #완천대군 이평
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	1320.1.1 = { birth = yes }
+	1365.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_wancheon_daegun }
+}
+110021 = {
+	name = "Jong" #완성대군 이종
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	1322.1.1 = { birth = yes }
+	1385.1.1 = { death = yes }
+	1872.12.3 = { give_nickname = nick_wanseong_daegun }
+}
+110022 = {
+	name = "Princess Mun-hye" #문혜공주
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	female = yes
+	1323.1.1 = { birth = yes }
+	1385.1.1 = { death = yes }
+}
+110023 = {
+	name = "Princess Mun-suk" #문숙공주
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	female = yes
+	1324.1.1 = { birth = yes }
+	1385.1.1 = { death = yes }
+}
+110024 = {
+	name = "Princess Mun-ui" #문의공주
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110003
+	female = yes
+	1325.1.1 = { birth = yes }
+	1385.1.1 = { death = yes }
+}
+#환조 자손
+110025 = {
+	name = "Won-gye" #완풍대군 이원계
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110004
+	1330.1.1 = { birth = yes }
+	1388.10.23 = { death = yes }
+	1872.12.3 = { give_nickname = nick_wanpung_daegun }
+}
+110026 = {
+	name = "Cheon-gye" #영성대군 이천계
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110004
+	1333.1.1 = { birth = yes }
+	1392.8.5 = { death = yes }
+	1872.12.3 = { give_nickname = nick_yeongseong_daegun }
+}
+110027 = {
+	name = "Princess Jeong-hwa" #정화공주
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110004
+	female = yes
+	1334.1.1 = { birth = yes }
+	1404.1.1 = { death = yes }
+}
+110028 = {
+	name = "Hwa" #의안대군 이화
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 110004
+	1348.1.1 = { birth = yes }
+	1408.10.6 = { death = yes }
+	1872.12.3 = { give_nickname = nick_uian_daegun }
+}
+#태조 자손#
+110029 = {
+	name = "Bang-u" #진안대군 이방우
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 801
+	1354.1.1 = { birth = yes }
+	1394.1.15 = { death = yes }
+	1400.1.1 = { give_nickname = nick_jinan_daegun }
+}
+110030 = {
+	name = "Bang-ui" #익안대군 이방의
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 801
+	1360.1.1 = { birth = yes }
+	1404.9.26 = { death = yes }
+	1401.2.8 = { give_nickname = nick_ikan_daegun }
+}
+110031 = {
+	name = "Bang-gan" #회안대군 이방간
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 801
+	1364.7.2 = { birth = yes }
+	1421.4.10 = { death = yes }
+	1401.2.8 = { give_nickname = nick_hoean_daegun }
+}
+110032 = {
+	name = "Bang-yeon" #덕안대군 이방연
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 801
+	1370.1.1 = { birth = yes }
+	1387.1.1 = { death = yes }
+	1872.12.4 = { give_nickname = nick_deokan_daegun }
+}
+110033 = {
+	name = "Bang-beon" #무안대군 이방번
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 801
+	1381.1.1 = { birth = yes }
+	1398.10.6 = {
+		death = {
+			death_reason = death_murder_arrow
+			killer = 803
+		}
+	}
+	1680.8.21 = { give_nickname = nick_muan_daegun }
+}
+110034 = {
+	name = "Bang-seok" #의안대군 이방석
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 801
+	1382.1.1 = { birth = yes }
+	1398.10.6 = {
+		death = {
+			death_reason = death_murder_arrow
+			killer = 803
+		}
+	}
+	1680.8.21 = { give_nickname = nick_uian_daegun }
+}
+#태종 자손#양녕대군#842은 800yidynasty
+110035 = {
+	name = "Bo" #효령대군 이보
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 803
+	give_nickname = nick_hyoryeong_daegun
+	1396.1.6 = { birth = yes }
+	1486.6.12 = { death = yes }
+}
+110036 = {
+	name = "Jong" #성녕대군 이종
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 803
+	give_nickname = nick_seongnyeong_daegun
+	1405.8.3 = { birth = yes }
+	1418.3.11 = { death = yes }
+}
+#세종804 자손#
+110037 = {
+	name = "Yong" #안평대군 이용
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 804
+	give_nickname = nick_anpyeong_daegun
+	1418.10.18 = { birth = yes }
+	1453.11.18 = {
+	death = { death_reason = death_execution killer = 807 }
+	}
+}
+110038 = {
+	name = "Gu" #임영대군 이구
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 804
+	give_nickname = nick_imyeong_daegun
+	1420.1.6 = { birth = yes }
+	1469.1.21 = { death = yes }
+}
+110039 = {
+	name = "Yeo" #광평대군 이여
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 804
+	give_nickname = nick_gwangpyeong_daegun
+	1425.5.2 = { birth = yes }
+	1444.12.7 = { death = yes }
+}
+110040 = {
+	name = "Yu" #금성대군 이유
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 804
+	give_nickname = nick_geumseong_daegun
+	1426.5.5 = { birth = yes }	
+	1457.11.7 = {
+	death = { death_reason = death_execution killer = 807 }
+	}
+}
+110041 = {
+	name = "Im" #평원대군 이임
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 804
+	give_nickname = nick_pyeongwon_daegun
+	1427.11.18 = { birth = yes }
+	1445.1.16 = { death = yes }
+}
+
+110042 = {
+	name = "Yeom" #영응대군 이염
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 804
+	give_nickname = nick_yeongeung_daegun
+	1434.5.23 = { birth = yes }
+	1467.2.2 = { death = yes }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
