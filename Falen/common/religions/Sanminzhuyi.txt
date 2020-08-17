@@ -27,20 +27,20 @@ rpe_group = {
 		scripture_name = THE_LEGEND
 		priest_title = PRIEST
 		
-		high_god_name = GOD_SURYONG
+		high_god_name = GOD_SUNWEN
 		
 		god_names = {
-			GOD_SURYONG GOD_JANGGUN
+			GOD_MINZU GOD_MINQUAN GOD_MINSHENG
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST CAPITALIST
+			GONGCHANDANG MAO
 		}
 		
-		can_excommunicate = yes
-		can_grant_divorce = yes
+		can_excommunicate = no
+		can_grant_divorce = no
 		can_grant_invasion_cb = invasion
-		can_call_crusade = yes
+		can_call_crusade = no
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
