@@ -219,7 +219,7 @@
         }
 }
 770 = {
-	name = "Jeongsu
+	name = "Jeongsu"
 	dynasty = 4000770 # 오
 	culture = yeongnam
 	religion = populist
