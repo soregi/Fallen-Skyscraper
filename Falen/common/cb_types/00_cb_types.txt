@@ -5837,8 +5837,19 @@ religious = {
 	can_use_gui = {
 		ROOT = {
 			OR = {
-				NOT = { religion = buddhist }
-				piety = 250
+				NOT = { religion = mahayana }
+			}
+			OR = {
+				NOT = { has_character_modifier = holy_war_cooldown }
+#				has_game_rule = { name = holy_war_cooldown_rule value = off }
+			}
+			OR = {
+				religion = juche
+				piety = 200
+			}
+			OR = {
+				NOT = { religion = imperial }
+				prestige = 100
 			}
 		}
 	}
@@ -5848,9 +5859,41 @@ religious = {
 			show_scope_change = no
 			if = {
 				limit = {
-					religion = buddhist
+					NOT = { religion = juche }
 				}
-				piety = -250
+				piety = -100
+			}
+			if = {
+				limit = {
+					religion = imperial
+				}
+				prestige = -100
+			}
+			if = {
+				limit = {
+					NOT = { religion = juche }
+					NOR = {
+						FROM = { is_heresy_of = ROOT }
+						ROOT = { is_heresy_of = FROM }
+					}
+				}
+				piety = -100
+			}
+		}
+		ROOT = {
+			if = {
+				limit = {
+#					has_game_rule = { name = holy_war_cooldown_rule value = on }
+				}
+				custom_tooltip = {
+					text = holy_war_cooldown_ctt
+					hidden_tooltip = {
+						add_character_modifier = {
+							name = holy_war_cooldown
+							duration = 1825
+						}
+					}
+				}
 			}
 		}
 		hidden_tooltip = { fire_haruspicy_event_effect = yes }

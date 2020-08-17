@@ -1,5 +1,7 @@
 2317.1.1 = {
 	holder = 90
+	law = succ_hre_elective
+	law = agnatic_succession
 }
 2325.11.22 = {
 	holder = 91

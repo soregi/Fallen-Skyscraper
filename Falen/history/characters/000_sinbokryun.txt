@@ -437,7 +437,7 @@
 	dynasty = 4000019
 	culture = hoseo
 	religion = imperial
-	2422.22.22 = {
+	2422.2.22 = {
 		birth = yes
 	}
 	2500.1.1 = {

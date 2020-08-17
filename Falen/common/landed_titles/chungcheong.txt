@@ -216,6 +216,16 @@ k_chungcheong = {
 			b_iin_gongju = {}
 			b_tancheon_gongju = {}
 		}
+		c_yugu = {
+			color = { 136 214 0 }
+			b_yugu = {}
+			b_gugye_yugu = {}
+			b_sagok_yugu = {}
+			b_useong_yugu = {}
+			b_sinpung_yugu = {}
+			b_jeongan_yugu = {}
+			b_uidang_yugu = {}
+		}
 		c_sejong = {
 			color = { 0 166 0 }
 			b_sejong = {}
@@ -228,6 +238,7 @@ k_chungcheong = {
 		}
 		c_buyeo = {
 			color = { 0 89 0 }
+			honam = "Buyeo"
 			b_buyeo = {}
 			b_gua_buyeo = {}
 			b_ssangbuk_buyeo = {}
@@ -272,16 +283,6 @@ k_chungcheong = {
 			b_bibong_cheongyang = {}
 			b_ungok_cheongyang = {}
 			b_cheongnam_cheongyang = {}
-		}
-		c_yugu = {
-			color = { 136 214 0 }
-			b_yugu = {}
-			b_gugye_yugu = {}
-			b_sagok_yugu = {}
-			b_useong_yugu = {}
-			b_sinpung_yugu = {}
-			b_jeongan_yugu = {}
-			b_uidang_yugu = {}
 		}
 	}
 	

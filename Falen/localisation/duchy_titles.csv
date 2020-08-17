@@ -16,6 +16,8 @@ d_haenam;Haenam;;;;;;;;;;;;;x
 d_haenam_adj;Haenam;;;;;;;;;;;;;x
 d_jeju;Jeju;;;;;;;;;;;;;x
 d_jeju_adj;Jeju;;;;;;;;;;;;;x
+d_cheondo;The Cheondo Church;;;;;;;;;;;;;x
+d_cheondo_adj;Cheondo;;;;;;;;;;;;;x
 d_incheon;Incheon;;;;;;;;;;;;;x
 d_incheon_adj;Incheon;;;;;;;;;;;;;x
 d_yeosu;Yeosu;;;;;;;;;;;;;x
@@ -48,3 +50,7 @@ d_daegu;Daegu;;;;;;;;;;;;;x
 d_daegu_adj;Daegu;;;;;;;;;;;;;x
 d_gwangju;Gwangju;;;;;;;;;;;;;x
 d_gwangju_adj;Gwangju;;;;;;;;;;;;;x
+d_paektu_guard;Paektu Guard;;;;;;;;;;;;;x
+d_paektu_guard_adj;Paektu Guard;;;;;;;;;;;;;x
+d_unitary;The Unitary Church;;;;;;;;;;;;;x
+d_unitary_adj;Unitary;;;;;;;;;;;;;x

@@ -259,6 +259,144 @@ k_jeolla = {
 		}
 	}
 	
+	d_namwon = {
+		color = { 255 176 30 }
+
+		capital = 84
+
+		c_namwon = {
+			color = { 127 26 26 }
+			holy_site = mu_pagan
+			holy_site = mu_pagan_reformed
+			b_namwon = {}
+			b_dotong = {}
+				
+			b_dongchung = {}
+			b_wangjeong = {}
+			b_hyanggyo = {}
+			b_geumji = {}
+			b_daegang = {}
+		}
+		c_jiri = {
+			color = { 255 32 9 }
+			holy_site = confucian
+			holy_site = mu_pagan
+			holy_site = mu_pagan_reformed
+			b_jiri = {}
+			b_cheonghak = {}
+			b_banya = {}
+			b_nogo = {}
+			b_samdo = {}
+			b_dokki = {}
+			b_chotdae = {}
+		}
+		c_gokseong = {
+			color = { 255 64 0 }
+			b_gokseong = {}
+			b_ogok = {}
+			b_samgi = {}
+			b_seokgok = {}
+			b_jukgok = {}
+			b_godal = {}
+			b_angma = {}
+		}
+		c_gurye = {
+			color = { 127 0 0 }
+			b_gurye = {}
+			b_muncheok = {}
+			b_ganjeon = {}
+			b_toji = {}
+			b_masan_gurye = {}
+			b_yongbang = {}
+			b_gwangui = {}
+		}
+	}
+}
+
+	k_naju = {
+		color = { 227 90 9 }
+
+		capital = 58
+		d_naju = {
+			color = { 227 90 9 }
+
+			capital = 58
+
+			c_yeonggwang = {
+				color = { 191 127 127 }
+				holy_site = atomicist
+				holy_site = atomicist_reformed
+				b_yeonggwang = {}
+				b_hanbit_yeonggwang = {}
+				b_beopseong = {}
+				b_daema_yeonggwang = {}
+				b_yeongyang_yeonggwang = {}
+				b_yeomsan = {}
+				b_nagwol = {}
+			}
+			c_naju = {
+				color = { 255 127 64 }
+				b_naju = {}
+				b_seongbuk_naju = {}
+				b_geumnam_naju = {}
+				b_songwol_naju = {}
+				b_yeonggang = {}
+				b_ichang = {}
+				b_yeongsan_naju = {}
+			}
+			c_hampyeong = {
+				color = { 255 127 127 }
+				b_hampyeong = {}
+				b_sonbul = {}
+				b_haebo = {}
+				b_worya = {}
+				b_nasan_hampyeong = {}
+				b_daedong_hampyeong = {}
+				b_hakgyo = {}
+			}
+		}
+	
+		d_haenam = {
+			color = { 255 76 0 }
+
+			capital = 72
+
+			c_haenam = {
+				color = { 166 66 0 }
+				b_haenam = {}
+				b_godo = {}
+				b_okcheon_haenam = {}
+				b_gyegok = {}
+				b_hwanae = {}
+				b_hwawon = {}
+				b_usuyeong = {}
+			}
+			c_yeongam = {
+				color = { 153 0 0 }
+				b_yeongam = {}
+				b_deokjin_yeongam = {}
+				b_hanbit_yeongam = {}
+				b_sinbuk = {}
+				b_sijong = {}
+				b_dopo = {}
+				b_gunseo = {}
+			}
+			c_muan = {
+				color = { 240 5 5 }
+				b_muan = {}
+				b_cheonggye_muan = {}
+				b_sanghyang = {}
+				b_ilro = {}
+				b_hyeongyeong = {}
+				b_haeje = {}
+				b_ilro_muan = {}
+			}
+		}
+	}
+k_gwangju = {
+	color = { 255 110 91 }
+
+	capital = 57
 	d_gwangju = {
 		color = { 255 110 91 }
 
@@ -295,82 +433,11 @@ k_jeolla = {
 			b_sinchang_gwangsan = {}
 		}
 	}
+}
+k_suncheon = {
+	color = { 160 11 56 }
+	capital = 59
 	
-	d_naju = {
-		color = { 227 90 9 }
-
-		capital = 58
-
-		c_yeonggwang = {
-			color = { 191 127 127 }
-			b_yeonggwang = {}
-			b_hanbit_yeonggwang = {}
-				holy_site = atomicist
-				holy_site = atomicist_reformed
-			b_beopseong = {}
-			b_daema_yeonggwang = {}
-			b_yeongyang_yeonggwang = {}
-			b_yeomsan = {}
-			b_nagwol = {}
-		}
-		c_naju = {
-			color = { 255 127 64 }
-			b_naju = {}
-			b_seongbuk_naju = {}
-			b_geumnam_naju = {}
-			b_songwol_naju = {}
-			b_yeonggang = {}
-			b_ichang = {}
-			b_yeongsan_naju = {}
-		}
-		c_hampyeong = {
-			color = { 255 127 127 }
-			b_hampyeong = {}
-			b_sonbul = {}
-			b_haebo = {}
-			b_worya = {}
-			b_nasan_hampyeong = {}
-			b_daedong_hampyeong = {}
-			b_hakgyo = {}
-		}
-	}
-	
-	d_haenam = {
-		color = { 255 76 0 }
-
-		capital = 72
-
-		c_haenam = {
-			color = { 166 66 0 }
-			b_haenam = {}
-			b_godo = {}
-			b_okcheon_haenam = {}
-			b_gyegok = {}
-			b_hwanae = {}
-			b_hwawon = {}
-			b_usuyeong = {}
-		}
-		c_yeongam = {
-			color = { 153 0 0 }
-			b_yeongam = {}
-			b_deokjin_yeongam = {}
-			b_hanbit_yeongam = {}
-			b_sinbuk = {}
-			b_sijong = {}
-			b_dopo = {}
-			b_gunseo = {}
-		}
-		c_muan = {
-			color = { 240 5 5 }
-			b_muan = {}
-			b_cheonggye_muan = {}
-			b_sanghyang = {}
-			b_ilro = {}
-			b_hyeongyeong = {}
-			b_haeje = {}
-			b_ilro_muan = {}
-		}
-	}
 	d_gangjin = {
 		color = { 164 13 24 }
 
@@ -477,63 +544,12 @@ k_jeolla = {
 			b_gosa = {}
 		}
 	}
-	
-	d_namwon = {
-		color = { 255 176 30 }
-
-		capital = 84
-
-		c_namwon = {
-			color = { 127 26 26 }
-			b_namwon = {}
-			b_dotong = {}
-				holy_site = mu_pagan
-				holy_site = mu_pagan_reformed
-			b_dongchung = {}
-			b_wangjeong = {}
-			b_hyanggyo = {}
-			b_geumji = {}
-			b_daegang = {}
-		}
-		c_jiri = {
-			color = { 255 32 9 }
-			b_jiri = {}
-			b_Cheonghak = {}
-				holy_site = confucian
-				holy_site = mu_pagan
-				holy_site = mu_pagan_reformed
-			b_banya = {}
-			b_nogo = {}
-			b_samdo = {}
-			b_dokki = {}
-			b_chotdae = {}
-		}
-		c_gokseong = {
-			color = { 255 64 0 }
-			b_gokseong = {}
-			b_ogok = {}
-			b_samgi = {}
-			b_seokgok = {}
-			b_jukgok = {}
-			b_godal = {}
-			b_angma = {}
-		}
-		c_gurye = {
-			color = { 127 0 0 }
-			b_gurye = {}
-			b_muncheok = {}
-			b_ganjeon = {}
-			b_toji = {}
-			b_masan_gurye = {}
-			b_yongbang = {}
-			b_gwangui = {}
-		}
-	}
 }
 e_sinan = {
 	color = { 155 0 249 }
 
-		capital = 62
+	capital = 62
+	
 	k_sinan = {
 		color = { 155 0 189 }
 
