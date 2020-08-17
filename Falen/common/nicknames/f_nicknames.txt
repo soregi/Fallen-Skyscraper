@@ -31,7 +31,7 @@ nick_cheoljong = {}
 nick_gojong = {}
 nick_sunjong = {}
 nick_prince_jeongwon = {}
-nick_crown_prince_uigyeong = {}
+nick_deokjong = {}
 nick_crown_prince_hyomyeong = {}
 nick_jeongye_daewongun = {}
 nick_prince_euneon = {}
@@ -167,3 +167,7 @@ nick_gwangpyeong_daegun = {}
 nick_geumseong_daegun = {}
 nick_pyeongwon_daegun = {}
 nick_yeongeung_daegun = {}
+#
+nick_weolsan_daegun = {}
+nick_jean_daegun = {}
+nick_inseong_daegun = {}
