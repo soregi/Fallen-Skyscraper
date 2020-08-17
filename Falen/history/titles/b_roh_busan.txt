@@ -1,5 +1,5 @@
 2419.3.28 = {
-    liege = k_busan
+    liege = c_gangseo
     holding_dynasty = 4000790
     holder = 790
 }
