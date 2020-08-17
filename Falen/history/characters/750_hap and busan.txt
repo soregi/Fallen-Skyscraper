@@ -357,10 +357,10 @@
 }
 780 = {
 	name = "jeim"
-	dynasty = 40007
+	dynasty = 4000780 # 
 	culture = yeongnam
 	religion = populist
-	 = {
+	2381.6.14 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -369,10 +369,10 @@
 }
 781 = {
 	name = "hwaseon"
-	dynasty = 40007
+	dynasty = 4000780
 	culture = yeongnam
 	religion = populist
-	 = {
+	2399.8.15 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -382,10 +382,10 @@
 }
 782 = {
 	name = "hamin"
-	dynasty = 40007
+	dynasty = 4000780
 	culture = yeongnam
 	religion = populist
-	 = {
+	2401.5.13 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -396,10 +396,10 @@
 }
 783 = {
 	name = "misong"
-	dynasty = 40007
+	dynasty = 4000780
 	culture = yeongnam
 	religion = populist
-	 = {
+	2409.4.4 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -410,10 +410,10 @@
 }
 784 = {
 	name = "insu"
-	dynasty = 40007
+	dynasty = 4000784 # 나
 	culture = yeongnam
 	religion = populist
-	 = {
+	2395.8.15 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -422,10 +422,10 @@
 }
 785 = {
 	name = "inhui"
-	dynasty = 40007
+	dynasty = 4000784
 	culture = yeongnam
 	religion = populist
-	 = {
+	2316.9.2 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -436,10 +436,10 @@
 }
 786 = {
 	name = "yeosu"
-	dynasty = 40007
+	dynasty = 4000784
 	culture = yeongnam
 	religion = populist
-	 = {
+	2319.7.10 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -449,10 +449,10 @@
 }
 787 = {
 	name = "danjeon"
-	dynasty = 40007
+	dynasty = 4000787 # 명
 	culture = yeongnam
 	religion = populist
-	 = {
+	2394.5.1 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -461,10 +461,10 @@
 }
 788 = {
 	name = "owon"
-	dynasty = 40007
+	dynasty = 4000787
 	culture = yeongnam
 	religion = populist
-	 = {
+	2411.8.9 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -474,10 +474,10 @@
 }
 789 = {
 	name = "jeongsu"
-	dynasty = 40007
+	dynasty = 4000787
 	culture = yeongnam
 	religion = populist
-	 = {
+	2415.9.7 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -487,10 +487,10 @@
 }
 790 = {
 	name = "owon"
-	dynasty = 40007
+	dynasty = 4000790 # 노
 	culture = yeongnam
 	religion = populist
-	 = {
+	2388.9.24 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -499,10 +499,10 @@
 }
 791 = {
 	name = "gwonmin"
-	dynasty = 40007
+	dynasty = 4000790
 	culture = yeongnam
 	religion = populist
-	 = {
+	2407.1.18 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -512,10 +512,10 @@
 }
 792 = {
 	name = "jeongmin"
-	dynasty = 40007
+	dynasty = 4000790
 	culture = yeongnam
 	religion = populist
-	 = {
+	2410.3.25 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -526,10 +526,10 @@
 }
 793 = {
 	name = "cheolsu"
-	dynasty = 40007
+	dynasty = 4000793 # 김
 	culture = yeongnam
 	religion = populist
-	 = {
+	2401.6.18 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -538,10 +538,10 @@
 }
 794 = {
 	name = "yeonghui"
-	dynasty = 40007
+	dynasty = 4000793
 	culture = yeongnam
 	religion = populist
-	 = {
+	2426.7.8 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -552,10 +552,10 @@
 }
 795 = {
 	name = "minsu"
-	dynasty = 40007
+	dynasty = 4000793
 	culture = yeongnam
 	religion = populist
-	 = {
+	2427.9.14 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -565,10 +565,10 @@
 }
 796 = {
 	name = "jaesu"
-	dynasty = 40007
+	dynasty = 4000796 # 정
 	culture = yeongnam
 	religion = populist
-	 = {
+	2397.8.31 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -577,10 +577,10 @@
 }
 797 = {
 	name = "jiwon"
-	dynasty = 40007
+	dynasty = 4000796
 	culture = yeongnam
 	religion = populist
-	 = {
+	2419.8.14 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -591,10 +591,10 @@
 }
 798 = {
 	name = "jisun"
-	dynasty = 40007
+	dynasty = 4000796
 	culture = yeongnam
 	religion = populist
-	 = {
+	2422.7.9 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -605,10 +605,10 @@
 }
 799 = {
 	name = "gwangsu"
-	dynasty = 40007
+	dynasty = 4000799 # 이
 	culture = yeongnam
 	religion = populist
-	 = {
+	2415.6.7 = {
 		birth = yes
 	}
 	2500.1.1 = {
