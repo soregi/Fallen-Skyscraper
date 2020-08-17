@@ -189,7 +189,7 @@
 	}
 }
 806 = {
-	name = "Hongwi"
+	name = "Hongwi" #단종
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
@@ -205,7 +205,7 @@
 	}
 }
 807 = {
-	name = "Yu"
+	name = "Yu" #세조
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
@@ -245,7 +245,7 @@
 	}
 }
 808 = {
-	name = "Hwang"
+	name = "Hwang" #예종
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
@@ -659,12 +659,12 @@
 	}
 }
 830 = {
-	name = "Jang"
+	name = "Jang" #덕종
 	dynasty = 4000801 # 전주이씨
 	culture = old_korean
 	religion = confucian
 	trait = ancient
-	give_nickname = nick_crown_prince_uigyeong
+	give_nickname = nick_deokjong
 	father = 807
 	1438.9.15 = {
 		birth = yes

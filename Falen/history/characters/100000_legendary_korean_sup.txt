@@ -1,4 +1,4 @@
-##100000 109999 타가문 할당##
+﻿##100000 109999 타가문 할당##
 ##전주이씨 가문번호4000801목조부터 환조##
 110001 = {
 	name = "An-sa" #목조 이안사 이성계 고조부
@@ -486,6 +486,41 @@
 	give_nickname = nick_yeongeung_daegun
 	1434.5.23 = { birth = yes }
 	1467.2.2 = { death = yes }
+}
+#덕종 자손#
+110043 = {
+	name = "Jeong" #월산대군 이정
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 830
+	give_nickname = nick_weolsan_daegun
+	1455.1.5 = { birth = yes }
+	1489.1.22 = { death = yes }
+}
+#예종 자손#
+110044 = {
+	name = "Hyeon" #제안대군 이현
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 808
+	give_nickname = nick_jean_daegun
+	1466.2.27 = { birth = yes }
+	1525.12.27 = { death = yes }
+}
+110045 = {
+	name = "Bon" #인성대군 이본
+	dynasty = 4000801
+	culture = old_korean
+	religion = confucian
+	disallow_random_traits = yes
+	father = 808
+	give_nickname = nick_inseong_daegun
+	1461.12.31 = { birth = yes }
+	1463.12.4 = { death = yes }
 }
 
 
