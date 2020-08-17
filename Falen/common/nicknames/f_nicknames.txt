@@ -114,3 +114,55 @@ nick_Yae_Wang = {}
 nick_Min_Wang = {}
 nick_Jung_Gong = {}
 nick_Myeol_Gong = {}
+
+
+#
+nick_mokwang = {}
+nick_ikwang = {}
+nick_dowang = {}
+nick_hwanwang = {}
+nick_mokjo = {}
+nick_ikjo = {}
+nick_dojo = {}
+nick_hwanjo = {}
+#
+nick_ancheon_daegun = {}
+nick_anwon_daegun = {}
+nick_anpung_daegun = {}
+nick_anchang_daegun = {}
+nick_anheung_daegun = {}
+#
+nick_hamneong_daegun = {}
+nick_hamchang_daegun = {}
+nick_hamwon_daegun = {}
+nick_hamcheon_daegun = {}
+nick_hamreung_daegun = {}
+nick_hamyang_daegun = {}
+nick_hamseong_daegun = {}
+#
+nick_wanchang_daegun = {}
+nick_wanwon_daegun = {}
+nick_wancheon_daegun = {}
+nick_wanseong_daegun = {}
+#
+nick_wanpung_daegun = {}
+nick_yeongseong_daegun = {}
+nick_uian_daegun = {}
+#
+nick_jinan_daegun = {}
+nick_ikan_daegun = {}
+nick_hoean_daegun = {}
+nick_deokan_daegun = {}
+nick_muan_daegun = {}
+nick_uian_daegun = {}
+#
+nick_yangnyeong_daegun = {}
+nick_hyoryeong_daegun = {}
+nick_seongnyeong_daegun = {}
+#
+nick_anpyeong_daegun = {}
+nick_imyeong_daegun = {}
+nick_gwangpyeong_daegun = {}
+nick_geumseong_daegun = {}
+nick_pyeongwon_daegun = {}
+nick_yeongeung_daegun = {}
