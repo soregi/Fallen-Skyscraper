@@ -366,9 +366,6 @@
 	2500.1.1 = {
         death = yes
     }
-        female =
-	father =
-	mother =
 }
 781 = {
 	name = "hwaseon"
@@ -381,9 +378,7 @@
 	2500.1.1 = {
         death = yes
     }
-        female =
-	father =
-	mother =
+	father = 780
 }
 782 = {
 	name = "hamin"
@@ -396,9 +391,8 @@
 	2500.1.1 = {
         death = yes
     }
-        female =
+        female = yes
 	father =
-	mother =
 }
 783 = {
 	name = "misong"
@@ -411,9 +405,8 @@
 	2500.1.1 = {
         death = yes
     }
-        female =
+        female = yes
 	father =
-	mother =
 }
 784 = {
 	name = "insu"
@@ -426,9 +419,7 @@
 	2500.1.1 = {
         death = yes
     }
-        female =
 	father =
-	mother =
 }
 785 = {
 	name = "inhui"
@@ -441,9 +432,8 @@
 	2500.1.1 = {
         death = yes
     }
-        female =
+        female = yes
 	father =
-	mother =
 }
 786 = {
 	name = "yeosu"
@@ -456,9 +446,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 787 = {
 	name = "danjeon"
@@ -471,9 +459,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 788 = {
 	name = "owon"
@@ -486,9 +472,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 789 = {
 	name = "jeongsu"
@@ -501,9 +485,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 790 = {
 	name = "owon"
@@ -516,9 +498,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 791 = {
 	name = "gwonmin"
@@ -531,9 +511,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 792 = {
 	name = "jeongmin"
@@ -546,9 +524,8 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
+        female = yes
 	father =
-	mother =
 }
 793 = {
 	name = "cheolsu"
@@ -561,9 +538,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 794 = {
 	name = "yeonghui"
@@ -576,9 +551,8 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
+        female = yes
 	father =
-	mother =
 }
 795 = {
 	name = "minsu"
@@ -591,9 +565,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 796 = {
 	name = "jaesu"
@@ -606,9 +578,7 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
 797 = {
 	name = "jiwon"
@@ -621,9 +591,8 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
+        female = yes
 	father =
-	mother =
 }
 798 = {
 	name = "jisun"
@@ -636,9 +605,8 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
+        female = yes
 	father =
-	mother =
 }
 799 = {
 	name = "gwangsu"
@@ -651,7 +619,5 @@
 	2500.1.1 = {
         death = yes
         }
-        female =
 	father =
-	mother =
 }
