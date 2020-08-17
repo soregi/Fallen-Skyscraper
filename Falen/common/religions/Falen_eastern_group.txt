@@ -48,7 +48,6 @@ indian_group = {
 		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
-		max_consorts = 3
 		castes = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
@@ -57,20 +56,17 @@ indian_group = {
 		religious_clothing_priest = 10
 
 		scripture_name = THE_BUDDHACAVANA
-		priest_title = BHIKKHU
+		priest_title = JUJI
 		piety_name = KARMA
 		
-		intermarry = jain
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = maitreya
+		intermarry = bailian
+		intermarry = vajrayana
+		intermarry = won_buddhist
+		intermarry = cheondo
 		intermarry = taoist
-		intermarry = zoroastrian_group
-		intermarry = bon
-		intermarry = bon_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
-		intermarry = nestorian
+		intermarry = confucian
+
 	}
 	maitreya = { #미륵종
 		has_coa_on_barony_only = yes
@@ -95,7 +91,7 @@ indian_group = {
 		}
 		
 		character_modifier = {
-			learning = 4
+			stewardship = 2
 		}
 		
 		has_heir_designation = yes
@@ -103,7 +99,6 @@ indian_group = {
 		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
-		max_consorts = 3
 		castes = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
@@ -112,20 +107,17 @@ indian_group = {
 		religious_clothing_priest = 10
 
 		scripture_name = THE_BUDDHACAVANA
-		priest_title = BHIKKHU
+		priest_title = JUJI
 		piety_name = KARMA
 		
-		intermarry = jain
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = mahayana
+		intermarry = bailian
+		intermarry = vajrayana
+		intermarry = won_buddhist
+		intermarry = cheondo
 		intermarry = taoist
-		intermarry = zoroastrian_group
-		intermarry = bon
-		intermarry = bon_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
-		intermarry = nestorian
+		intermarry = confucian
+
 	}
 	bailian = { #백련종
 		has_coa_on_barony_only = yes
@@ -150,7 +142,7 @@ indian_group = {
 		}
 		
 		character_modifier = {
-			learning = 4
+			diplomacy = 2
 		}
 		
 		has_heir_designation = yes
@@ -158,7 +150,6 @@ indian_group = {
 		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
-		max_consorts = 3
 		castes = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
@@ -167,20 +158,17 @@ indian_group = {
 		religious_clothing_priest = 10
 
 		scripture_name = THE_BUDDHACAVANA
-		priest_title = BHIKKHU
+		priest_title = JUJI
 		piety_name = KARMA
 		
-		intermarry = jain
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = mahayana
+		intermarry = maitreya
+		intermarry = vajrayana
+		intermarry = won_buddhist
+		intermarry = cheondo
 		intermarry = taoist
-		intermarry = zoroastrian_group
-		intermarry = bon
-		intermarry = bon_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
-		intermarry = nestorian
+		intermarry = confucian
+
 	}
 	vajrayana = { #밀교
 		has_coa_on_barony_only = yes
@@ -213,7 +201,6 @@ indian_group = {
 		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
-		max_consorts = 3
 		can_grant_claim = yes
 		can_call_crusade = yes
 		can_retire_to_monastery = yes
@@ -229,8 +216,10 @@ indian_group = {
 		intermarry = mahayana
 		intermarry = maitreya
 		intermarry = bailian
-		intermarry = taoist
+		intermarry = won_buddhist
 		intermarry = cheondo
+		intermarry = taoist
+		intermarry = confucian
 	}
 	won_buddhist = { #원불교
 		has_coa_on_barony_only = yes
@@ -253,7 +242,8 @@ indian_group = {
 		}
 		
 		character_modifier = {
-			learning = 4
+			diplomacy = 1
+			learning = 2
 		}
 		
 		has_heir_designation = yes
@@ -263,7 +253,6 @@ indian_group = {
 		priests_can_inherit = no
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
-		max_consorts = 3
 		castes = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
@@ -272,20 +261,17 @@ indian_group = {
 		religious_clothing_priest = 10
 
 		scripture_name = THE_BUDDHACAVANA
-		priest_title = BHIKKHU
+		priest_title = JUJI
 		piety_name = KARMA
 		
-		intermarry = jain
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = mahayana
+		intermarry = maitreya
+		intermarry = bailian
+		intermarry = vajrayana
+		intermarry = cheondo
 		intermarry = taoist
-		intermarry = zoroastrian_group
-		intermarry = bon
-		intermarry = bon_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
-		intermarry = nestorian
+		intermarry = confucian
+
 	}
 	cheondo = { #천도교
 		has_coa_on_barony_only = yes
@@ -324,20 +310,17 @@ indian_group = {
 		religious_clothing_priest = 10
 
 		scripture_name = NONHAKMUN #논학문
-		priest_title = BHIKKHU
+		priest_title = KYOMU
 		piety_name = KARMA
 		
-		intermarry = jain
-		intermarry = hindu
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = mahayana
+		intermarry = maitreya
+		intermarry = bailian
+		intermarry = vajrayana
+		intermarry = won_buddhist
 		intermarry = taoist
-		intermarry = zoroastrian_group
-		intermarry = bon
-		intermarry = bon_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
-		intermarry = nestorian
+		intermarry = confucian
+
 	}
 	taoist = { #도교
 		graphical_culture = chinesegfx
@@ -380,9 +363,14 @@ indian_group = {
 		priest_title = DAOSHI
 		piety_name = PIETY_TE
 		
-		intermarry = buddhist
-		intermarry = nestorian
-		intermarry = manichean
+		intermarry = mahayana
+		intermarry = maitreya
+		intermarry = bailian
+		intermarry = vajrayana
+		intermarry = won_buddhist
+		intermarry = cheondo
+		intermarry = nightglow
+		intermarry = confucian
 	}
 	nightglow = {
 		graphical_culture = chinesegfx
@@ -410,7 +398,7 @@ indian_group = {
 		}
 
 		character_modifier = {
-			stewardship = 2
+			intrigue = 2
 		}
 
 		has_heir_designation = yes
@@ -427,9 +415,7 @@ indian_group = {
 		priest_title = DAOSHI
 		piety_name = PIETY_TE
 		
-		intermarry = buddhist
-		intermarry = nestorian
-		intermarry = manichean
+		intermarry = taoist
 	}
 	confucian = { #유교
 		graphical_culture = chinesegfx
@@ -447,11 +433,11 @@ indian_group = {
 		high_god_name = GOD_HEAVENLY_ORDER
 		
 		god_names = {
-			THE_THREE_PURITIES THE_ANCESTORS GOD_YANSHIH_TIENTSUN
+			THE_CONFUCIUS THE_MENCIUS GOD_SUNJA GOD_WANGYANGMYEONG
 		}
 		
 		evil_god_names = {
-			KING_YAN YANLUO
+			SAMUNNANJEOK HONGWIBYEONG
 		}
 
 		character_modifier = {
@@ -470,12 +456,16 @@ indian_group = {
 		religious_clothing_priest = 10
 
 		scripture_name = TAO_TE_CHING
-		priest_title = DAOSHI
-		piety_name = PIETY_TE
+		priest_title = YOUHAKJA
+		piety_name = PIETY_DEOK
 		
-		intermarry = buddhist
-		intermarry = nestorian
-		intermarry = manichean
+		intermarry = mahayana
+		intermarry = maitreya
+		intermarry = bailian
+		intermarry = vajrayana
+		intermarry = won_buddhist
+		intermarry = cheondo
+		intermarry = taoist
 	}
 	
 }
