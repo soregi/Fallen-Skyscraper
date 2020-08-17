@@ -1,5 +1,5 @@
 2432.6.31 = {
-    liege = k_busan
+    liege = c_gangseo
     holding_dynasty = 4000796
     holder = 796
 }
