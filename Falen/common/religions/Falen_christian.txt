@@ -61,11 +61,11 @@ christian = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 
-		#intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
 		intermarry = protestant
 		intermarry = monophysite
+		intermarry = imperial
 	}
 	orthodox = {
 		graphical_culture = westerngfx
@@ -103,10 +103,10 @@ christian = {
 		religious_clothing_priest = 2
 		
 		intermarry = catholic
-		#intermarry = orthodox
 		intermarry = miaphysite
 		intermarry = protestant
 		intermarry = monophysite
+		intermarry = imperial
 	}
 	miaphysite = {
 		graphical_culture = westerngfx
@@ -145,6 +145,7 @@ christian = {
 		intermarry = orthodox
 		intermarry = protestant
 		intermarry = monophysite
+		intermarry = imperial
 	}
 	protestant = {
 		graphical_culture = westerngfx
@@ -180,8 +181,8 @@ christian = {
 		intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
-		#intermarry = protestant
 		intermarry = monophysite
+		intermarry = imperial
 	}
 	imperial = {
 		graphical_culture = westerngfx
@@ -258,23 +259,8 @@ christian = {
 		intermarry = orthodox
 		intermarry = miaphysite
 		intermarry = nestorian
-
-		intermarry = cathar
-		intermarry = fraticelli
-		intermarry = waldensian
-		intermarry = lollard
-		intermarry = monophysite
-		intermarry = bogomilist
-		intermarry = monothelite
-		intermarry = iconoclast
-		intermarry = paulician
-		intermarry = messalian
-		
+		intermarry = imperial
 		intermarry = taoist
-		intermarry = bon
-		intermarry = bon_reformed
-		intermarry = buddhist
-		intermarry = zoroastrian_group
 	}
 	
 }

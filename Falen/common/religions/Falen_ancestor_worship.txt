@@ -49,7 +49,7 @@ ancestor_worship_group = {
 	}
 
 	wanyan = {     # 임시 선언, 추후 수정
-		graphical_culture = chinesegfx
+		graphical_culture = pagangfx
 
 		icon = 20
 		heresy_icon = 73
