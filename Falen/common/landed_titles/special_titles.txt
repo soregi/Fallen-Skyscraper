@@ -284,64 +284,64 @@ k_samsung = { #강철 조합국
 #개성
 b_wang = {
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 b_san = {
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 b_nae = {
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 b_lee = {
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 b_jeon = {
 	culture = hwanghae
-	religion = koreanist
+	religion = populist
 }
 #부산
 b_oh = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_gwon = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_choi = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_do = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_na = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_myeong = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_roh = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_gim = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_jeong = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 b_lee = {
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 #얄루내 상공봉신
 b_kim = {
