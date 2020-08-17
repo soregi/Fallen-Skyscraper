@@ -105,6 +105,9 @@
 	2425.8.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1357 = {
 	name = "Pingjin"
@@ -113,6 +116,9 @@
 	religion = maoist
 	2419.7.16 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1358 = {
@@ -123,6 +129,9 @@
 	2408.5.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1359 = {
 	name = "Kang"
@@ -131,6 +140,9 @@
 	religion = maoist
 	2423.6.8 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1360 = {
@@ -147,6 +159,9 @@
 		birth = yes
 	}
 	2327.6.3 = { add_spouse=1361 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 1361 = {
 	name = "Ji"
@@ -154,6 +169,9 @@
 	religion = maoist
 	2401.10.8 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1371 = {
@@ -176,5 +194,8 @@
 	father = 1371
 	2392.7.14 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

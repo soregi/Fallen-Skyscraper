@@ -41,6 +41,9 @@
 	2408.5.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 103 = {
 	name = "Nikita"
@@ -54,6 +57,9 @@
 	}
 	2439.4.28 = {
 		add_spouse = 133
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 104 = {
@@ -75,6 +81,9 @@
 	}
 	2431.12.7 = {
 		add_spouse = 105
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 105 = {
@@ -118,6 +127,9 @@
 	2416.12.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 108 = {
 	name = "Georgy"
@@ -132,6 +144,9 @@
 	2424.1.19 = {
 		add_spouse = 134
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 109 = {
 	name = "Viktor"
@@ -143,6 +158,9 @@
 	}
 	2438.9.9 = {
 		add_spouse = 135
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 110 = {
@@ -156,6 +174,9 @@
 	2404.12.3 = {
 		add_spouse = 136
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 111 = {
 	name = "Mila"
@@ -167,6 +188,9 @@
 	mother = 136
 	2410.3.5 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 112 = {
@@ -182,6 +206,9 @@
 	2442.12.27 = {
 		add_spouse = 137
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 113 = {
 	name = "Viktor"
@@ -194,6 +221,9 @@
 	2415.4.2 = {
 		add_spouse = 138
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 114 = {
 	name = "Yena"
@@ -203,6 +233,9 @@
 	religion = marxist
 	2433.9.24 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 115 = {
@@ -216,6 +249,9 @@
 	2419.8.8 = {
 		add_spouse = 139
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 116 = {
 	name = "Ivan"
@@ -227,6 +263,9 @@
 	}
 	2439.10.13 = {
 		add_spouse = 140
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 117 = {
@@ -240,6 +279,9 @@
 	2421.6.5 = {
 		add_spouse = 141
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 118 = {
 	name = "Nicholas"
@@ -251,6 +293,9 @@
 	}
 	2441.3.18 = {
 		add_spouse = 142
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 119 = {
@@ -264,6 +309,9 @@
 	2427.11.4 = {
 		add_spouse = 143
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 120 = {
 	name = "Viktor"
@@ -275,6 +323,9 @@
 	}
 	2442.1.30 = {
 		add_spouse = 144
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 121 = {
@@ -288,6 +339,9 @@
 	2418.7.22 = {
 		add_spouse = 145
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 122 = {
 	name = "Roza"
@@ -297,6 +351,9 @@
 	religion = orthodox
 	2423.7.18 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 123 = {
@@ -310,6 +367,9 @@
 	2443.12.29 = {
 		add_spouse = 147
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 124 = {
 	name = "Mu Hyon"
@@ -321,6 +381,9 @@
 	}
 	2443.12.30 = {
 		add_spouse = 146
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 125 = {
@@ -334,6 +397,9 @@
 	2434.9.20 = {
 		add_spouse = 148
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 126 = {
 	name = "Pyotr"
@@ -345,6 +411,9 @@
 	}
 	2441.1.15 = {
 		add_spouse = 149
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 127 = {
@@ -358,6 +427,9 @@
 	2397.10.4 = {
 		add_spouse = 150
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 128 = {
 	name = "Vladimir"
@@ -369,6 +441,9 @@
 	}
 	2443.5.14 = {
 		add_spouse = 151
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 129 = {
@@ -384,6 +459,9 @@
 	2420.6.15 = {
 		add_spouse = 152
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 130 = {
 	name = "Konstantinov" 
@@ -396,6 +474,9 @@
 	2361.11.6 = {
 		add_spouse = 153
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 131 = {
 	name = "Leonid"
@@ -407,6 +488,9 @@
 	}
 	2409.12.4 = {
 		add_spouse = 154
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 132 = {
@@ -431,6 +515,9 @@
 	2412.9.21 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 134 = {
 	name = "Dominika"
@@ -439,6 +526,9 @@
 	religion = orthodox
 	2401.3.31 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 135 = {
@@ -449,6 +539,9 @@
 	2420.4.15 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 136 = {
 	name = "Klara"
@@ -457,6 +550,9 @@
 	religion = orthodox
 	2391.10.8 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 137 = {
@@ -467,6 +563,9 @@
 	2419.3.11 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 138 = {
 	name = "Yena"
@@ -475,6 +574,9 @@
 	religion = orthodox
 	2402.4.26 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 139 = {
@@ -485,6 +587,9 @@
 	2399.8.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 140 = {
 	name = "Eva"
@@ -493,6 +598,9 @@
 	religion = orthodox
 	2421.1.30 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 141 = {
@@ -503,6 +611,9 @@
 	2404.12.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 142 = {
 	name = "Eva"
@@ -511,6 +622,9 @@
 	religion = orthodox
 	2419.8.17 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 143 = {
@@ -521,6 +635,9 @@
 	2407.12.10 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 144 = {
 	name = "Elizaveta"
@@ -529,6 +646,9 @@
 	religion = orthodox
 	2420.1.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 145 = {
@@ -539,6 +659,9 @@
 	2401.8.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 146 = {
 	name = "Masha"
@@ -547,6 +670,9 @@
 	religion = orthodox
 	2420.9.15 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 147 = {
@@ -557,6 +683,9 @@
 	2421.6.20 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 148 = {
 	name = "Anna"
@@ -565,6 +694,9 @@
 	religion = orthodox
 	2416.5.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 149 = {
@@ -575,6 +707,9 @@
 	2425.4.16 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 150 = {
 	name = "Anastasia"
@@ -583,6 +718,9 @@
 	religion = orthodox
 	2376.1.17 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 151 = {
@@ -593,6 +731,9 @@
 	2422.11.4 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 152 = {
 	name = "Natasha"
@@ -601,6 +742,9 @@
 	religion = orthodox
 	2398.2.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 153 = {
@@ -622,6 +766,9 @@
 	religion = orthodox
 	2392.12.31 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 155 = {
@@ -646,6 +793,9 @@
 	2436.4.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 157 = {
 	name = "Viktor" 
@@ -657,6 +807,9 @@
 	2419.8.21 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 158 = {
 	name = "Maxim" 
@@ -667,6 +820,9 @@
 	mother = 139
 	2421.1.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 159 = {
@@ -680,6 +836,9 @@
 	2441.3.20 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 160 = {
 	name = "Veronika"
@@ -691,6 +850,9 @@
 	mother = 150
 	2426.7.18 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 161 = {
@@ -781,6 +943,9 @@
 	2418.1.2 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 185 = {
 	name = "Semyon" 
@@ -822,6 +987,9 @@
 	2377.4.11 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 188 = {
 	name = "Chong" 
@@ -862,6 +1030,9 @@
 	2392.3.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 191 = {
 	name = "Man Hyong" 
@@ -886,5 +1057,8 @@
 	trait = just
 	2394.5.20 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

@@ -11,6 +11,9 @@
 			add_friend = 1102
 		} # 얘는 뭘했길래 이나이에 친구가 있냐
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1102 = {
 	name = "Hans"
@@ -19,6 +22,9 @@
 	religion = protestant
 	2415.8.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1103 = {
@@ -32,6 +38,9 @@
 	2440.8.12 = {
 		add_spouse = 1104
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1104 = {
 	name = "Sophie"
@@ -41,6 +50,9 @@
 	female = yes
 	2422.7.7 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1105 = {
@@ -52,5 +64,8 @@
 	mother = 1104
 	2439.8.25 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

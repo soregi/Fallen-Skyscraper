@@ -20,6 +20,9 @@
 	2423.7.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1702 = {
 	name = "Yeonju"
@@ -101,6 +104,9 @@
 	2395.7.11 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1776 = {
 	name = "Johan"
@@ -138,6 +144,9 @@
 	2358.1.22 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1779 = {
 	name = "Pedro"
@@ -147,6 +156,9 @@
 	father = 1778
 	2377.5.27 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1780 = {
@@ -183,6 +195,9 @@
 	2375.6.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1783 = {
 	name = "Inwook"
@@ -191,6 +206,9 @@
 	religion = catholic
 	2396.9.11 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1784 = {
@@ -202,6 +220,9 @@
 	2418.1.11 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1785 = {
 	name = "Joshua"
@@ -211,6 +232,9 @@
 	father = 1779
 	2401.11.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1786 = {
@@ -222,6 +246,9 @@
 	2399.4.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1787 = {
 	name = "Taesu"
@@ -232,6 +259,9 @@
 	2427.8.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1788 = {
 	name = "James"
@@ -241,5 +271,8 @@
 	father = 1786
 	2424.11.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

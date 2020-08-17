@@ -10,6 +10,9 @@
 	2422.7.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1802 = {
 	name = "Wonil"
@@ -23,6 +26,9 @@
 	2411.6.22 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1803 = {
 	name = "Ilgyeong"
@@ -35,6 +41,9 @@
 	2417.1.17 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1804 = {
 	name = "Gangpil"
@@ -46,6 +55,9 @@
 	2424.1.4 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1805 = {
 	name = "Youngkyu"
@@ -55,6 +67,9 @@
 	trait = underhanded_rogue
 	2417.6.16 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1806 = {
@@ -66,6 +81,9 @@
 	2419.12.11 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1807 = {
 	name = "Youngil"
@@ -76,6 +94,9 @@
 	2414.9.26 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1808 = {
 	name = "Jaesuk"
@@ -85,6 +106,9 @@
 	trait = flamboyant_schemer
 	2409.3.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1809 = {
@@ -109,6 +133,9 @@
 	2408.4.29 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1811 = {
 	name = "Sangwook"
@@ -118,5 +145,8 @@
 	trait = tough_soldier
 	2413.8.18 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

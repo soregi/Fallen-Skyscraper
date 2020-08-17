@@ -9,6 +9,9 @@
 	2405.6.21 = {
 		add_spouse = 2102
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2102 = {
 	name = "Hanna"
@@ -17,6 +20,9 @@
 	religion = atomicist
 	2387.1.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2103 = {
@@ -29,6 +35,9 @@
 	2411.2.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2104 = {
 	name = "Seokyoung"
@@ -39,6 +48,9 @@
 	mother = 2102
 	2415.6.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2109 = {
@@ -94,6 +106,9 @@
 	2418.2.13 = {
 		add_spouse = 2112
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2112 = {
 	name = "Hyeon"
@@ -105,6 +120,9 @@
 	trait = lustful
 	2397.6.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2113 = {
@@ -124,6 +142,9 @@
 	2441.12.24 = {
 		add_spouse = 2116
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2114 = {
 	name = "Uhyeon"
@@ -142,6 +163,9 @@
 	2442.12.26 = {
 		add_spouse = 2117
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2115 = {
 	name = "Dugyeong"
@@ -154,6 +178,9 @@
 	trait = ambitious
 	2416.7.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2116 = {
@@ -168,6 +195,9 @@
 	2427.5.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2117 = {
 	name = "Hyeseon"
@@ -180,6 +210,9 @@
 	trait = paranoid
 	2421.9.2 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2118 = {
@@ -282,6 +315,9 @@
 	2394.9.14 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2131 = {
 	name = "Jeonghwa"
@@ -333,6 +369,9 @@
 	2421.12.10={
 		effect = {add_friend = 2134}
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2133 = {
 	name = "Sanna"
@@ -370,6 +409,9 @@
 	2417.8.21 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2135 = {
 	name = "Young"
@@ -387,6 +429,9 @@
 	disallow_random_traits = yes
 	2421.12.31 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2136 = {
@@ -406,6 +451,9 @@
 	disallow_random_traits = yes
 	2412.1.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2151 = {
@@ -437,6 +485,9 @@
 	2411.6.13 = {
 		add_spouse = 2158
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2152 = {
 	name = "Jaju"
@@ -464,6 +515,9 @@
 			add_rival = 2154
 		}
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2153 = {
 	name = "Kigu"
@@ -483,6 +537,9 @@
 	disallow_random_traits = yes
 	2409.3.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2154 = {
@@ -504,6 +561,9 @@
 	2419.4.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2155 = {
 	name = "Yiju"
@@ -517,6 +577,9 @@
 	disallow_random_traits = yes
 	2439.1.3 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2156 = {
@@ -556,6 +619,9 @@
 	2386.4.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2159 = {
 	name = "Jeonggu"
@@ -584,24 +650,3 @@
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-1018.1.1 = {
-		effect={
-			add_rival = 220846
-		}
-	}
-
-952.1.1={
-		effect = {add_friend = 900}
-	}

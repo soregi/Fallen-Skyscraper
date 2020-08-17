@@ -22,6 +22,9 @@
 			has_dlc = "Holy Fury"
 		}
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 302 = {
 	name = "Hyeonggi"
@@ -32,6 +35,9 @@
 	trait = sturdy
 	2402.7.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 303 = {
@@ -44,6 +50,9 @@
 	2405.1.23 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 304 = {
 	name = "Mangi"
@@ -55,6 +64,9 @@
 	2408.9.30 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 305 = {
 	name = "Seongdea"
@@ -63,6 +75,9 @@
 	religion = tengri_pagan
 	2412.7.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 306 = {
@@ -75,6 +90,9 @@
 	2398.8.24 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 307 = {
 	name = "Honggu"
@@ -84,6 +102,9 @@
 	2421.4.30 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 308 = {
 	name = "Minhea"
@@ -92,6 +113,9 @@
 	religion = holy_spirit_pagan
 	2414.2.14 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 309 = {
@@ -104,6 +128,9 @@
 	2410.5.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 310 = {
 	name = "Han Pyol"
@@ -112,6 +139,9 @@
 	religion = cheondo
 	2388.8.8 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 311 = {
@@ -122,6 +152,9 @@
 	2422.1.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 312 = {
 	name = "Ji Ryong"
@@ -130,6 +163,9 @@
 	religion = cheondo
 	2415.6.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 313 = {
@@ -140,6 +176,9 @@
 	2419.12.20 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 314 = {
 	name = "Song Ki"
@@ -148,6 +187,9 @@
 	religion = cheondo 
 	2398.9.8 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 315 = {
@@ -158,6 +200,9 @@
 	2410.2.25 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 316 = {
 	name = "Bicheon"
@@ -166,6 +211,9 @@
 	religion = tengri_pagan
 	2425.6.26 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 317 = {
@@ -176,6 +224,9 @@
 	2377.7.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 318 = {
 	name = "Sibi"
@@ -184,6 +235,9 @@
 	religion = cheondo
 	2412.3.15 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 319 = {
@@ -196,6 +250,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=302 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 320 = {
 	name = "Hearyong"
@@ -206,6 +263,9 @@
 	mother = 318
 	2422.3.5 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 321 = {
@@ -218,6 +278,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=303 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 322 = {
 	name = "Sinji"
@@ -228,6 +291,9 @@
 	mother = 321
 	2424.2.24 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 323 = {
@@ -240,6 +306,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=304 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 324 = {
 	name = "Maknam"
@@ -250,6 +319,9 @@
 	mother = 323
 	2427.7.18 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 325 = {
@@ -262,6 +334,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=305 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 326 = {
 	name = "Cheaeun"
@@ -273,6 +348,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=306 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 327 = {
 	name = "Sanggu"
@@ -283,6 +361,9 @@
 	mother = 326
 	2428.4.16 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 328 = {
@@ -295,6 +376,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=307 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 329 = {
 	name = "Chunja"
@@ -306,6 +390,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=308 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 330 = {
 	name = "Okja"
@@ -317,6 +404,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=309 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 331 = {
 	name = "Sun Ja"
@@ -328,6 +418,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=310 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 332 = {
 	name = "Chon Ja"
@@ -338,6 +431,9 @@
 	mother = 331
 	2432.10.11 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 333 = {
@@ -350,6 +446,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=311 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 334 = {
 	name = "Hae Yong"
@@ -361,6 +460,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=312 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 335 = {
 	name = "Miseon"
@@ -372,6 +474,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=313 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 336 = {
 	name = "UnJu"
@@ -383,6 +488,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=314 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 337 = {
 	name = "Ryong Thaek"
@@ -393,6 +501,9 @@
 	mother = 336
 	2441.2.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 338 = {
@@ -405,6 +516,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=315 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 339 = {
 	name = "Seeun"
@@ -416,6 +530,9 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=316 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 340 = {
 	name = "Seryeong"
@@ -427,6 +544,9 @@
 		birth = yes
 	}
 	2432.1.15 = { add_spouse=317 }
+	2500.1.1 = {
+		death = yes
+	}
 }
 341 = {
 	name = "Ran"
@@ -437,6 +557,9 @@
 	mother = 340
 	2332.2.15 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 342 = {
@@ -449,4 +572,7 @@
 		birth = yes
 	}
 	2432.3.15 = { add_spouse=318 }
+	2500.1.1 = {
+		death = yes
+	}
 }

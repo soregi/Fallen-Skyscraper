@@ -8,6 +8,9 @@
 	2424.3.25 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1602 = {
 	name = "Hitoshi"
@@ -34,6 +37,9 @@
 	2417.2.13 = {
 		add_spouse = 1641
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1632 = {
 	name = "Jeonghui"
@@ -45,6 +51,9 @@
 	mother = 1641
 	2425.7.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1633 = {
@@ -58,6 +67,9 @@
 	2428.4.30 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1634 = {
 	name = "Chaemin"
@@ -70,6 +82,9 @@
 	2431.3.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1635 = {
 	name = "Pyeongwoo"
@@ -80,6 +95,9 @@
 	mother = 1641
 	2434.9.14 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1636 = {
@@ -104,6 +122,9 @@
 	2399.12.31 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1638 = {
 	name = "Hosu"
@@ -117,6 +138,9 @@
 	2423.2.13 = {
 		add_spouse = 1640
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1639 = {
 	name = "Jumyeong"
@@ -129,6 +153,9 @@
 	2426.7.2 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1640 = {
 	name = "Seonghwa"
@@ -138,6 +165,9 @@
 	religion = authoritarian
 	2401.8.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1641 = {
@@ -149,6 +179,9 @@
 	father = 1636
 	2397.6.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #진해
@@ -163,6 +196,9 @@
 	2408.3.8 = {
 		add_spouse = 1683
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1672 = {
 	name = "Malyoung"
@@ -174,6 +210,9 @@
 	mother = 1683
 	2415.8.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1673 = {
@@ -187,6 +226,9 @@
 	2418.6.17 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1674 = {
 	name = "Myeongin"
@@ -199,6 +241,9 @@
 	2421.9.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1675 = {
 	name = "Kwonwu"
@@ -209,6 +254,9 @@
 	mother = 1683
 	2430.1.7 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1676 = {
@@ -232,6 +280,9 @@
 	2408.8.17 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1678 = {
 	name = "Donghyeok"
@@ -241,6 +292,9 @@
 	father = 1676
 	2412.4.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1679 = {
@@ -254,6 +308,9 @@
 	2422.7.10 = {
 		add_spouse = 1682
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1680 = {
 	name = "Youngdal"
@@ -264,6 +321,9 @@
 	mother = 1682
 	2427.1.2 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1681 = {
@@ -276,6 +336,9 @@
 	2430.2.9 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1682 = {
 	name = "Jeonghye"
@@ -285,6 +348,9 @@
 	religion = authoritarian
 	2399.5.20 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1683 = {
@@ -296,15 +362,7 @@
 	2389.11.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
-
-
-
-
-
-
-
-
-
-
-

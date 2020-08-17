@@ -6,6 +6,9 @@
 	2412.10.12 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1935 = {
 	name = "Giltaek"
@@ -14,6 +17,9 @@
 	religion = confucian
 	2390.1.7 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1937 = {
@@ -24,6 +30,9 @@
 	2375.2.4 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1941 = {
 	name = "Soogeun"
@@ -32,6 +41,9 @@
 	religion = confucian
 	2378.1.30 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1945 = {
@@ -42,6 +54,9 @@
 	2370.4.12 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1949 = {
 	name = "Chitaek"
@@ -50,6 +65,9 @@
 	religion = confucian
 	2380.1.2 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1954 = {
@@ -60,6 +78,9 @@
 	2369.2.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1960 = {
 	name = "Youngil"
@@ -68,5 +89,8 @@
 	religion = confucian
 	2404.6.16 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

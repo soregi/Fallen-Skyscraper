@@ -11,6 +11,9 @@
 	2423.4.29 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 902 = {
 	name = "omgum"
@@ -23,6 +26,9 @@
 	2442.4.16 = {
 		add_spouse = 903
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 903 = {
 	name = "Suyong"
@@ -32,6 +38,9 @@
 	religion = juche
 	2424.9.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 904 = {
@@ -44,6 +53,9 @@
 	2443.11.27 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 905 = {
 	name = "Choguk"
@@ -52,6 +64,9 @@
 	religion = marxist
 	2428.8.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 906 = {
@@ -65,6 +80,9 @@
 	2432.1.6 = {
 		add_spouse = 907
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 907 = {
 	name = "Hyonso"
@@ -74,6 +92,9 @@
 	religion = cheondo
 	2414.4.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 908 = {
@@ -86,6 +107,9 @@
 	2438.2.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 909 = {
 	name = "Hanna"
@@ -95,6 +119,9 @@
 	religion = juche
 	2425.1.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 920 = {
@@ -112,6 +139,9 @@
 	2438.12.23 = {
 		add_spouse = 921
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 921 = {
 	name = "Miae"
@@ -125,6 +155,9 @@
 	2422.9.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 922 = {
 	name = "Pilseung"
@@ -134,6 +167,9 @@
 	2425.3.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 923 = {
 	name = "Suho"
@@ -142,6 +178,9 @@
 	religion = koreanist
 	2423.7.18 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 924 = {
@@ -155,6 +194,9 @@
 	2426.2.10 = {
 		add_spouse = 925
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 925 = {
 	name = "Miyoung"
@@ -164,6 +206,9 @@
 	religion = maitreya
 	2407.9.18 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 926 = {
@@ -175,6 +220,9 @@
 	mother = 925
 	2432.10.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 927 = {
@@ -188,6 +236,9 @@
 	2439.8.1 = {
 		add_spouse = 928
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 928 = {
 	name = "Sujin"
@@ -197,6 +248,9 @@
 	religion = maitreya
 	2409.4.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 929 = {
@@ -209,6 +263,9 @@
 	2441.5.16 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 930 = {
 	name = "Minjae"
@@ -220,6 +277,9 @@
 	2443.1.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 931 = {
 	name = "Jiseung"
@@ -228,6 +288,9 @@
 	religion = maitreya
 	2419.8.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 932 = {
@@ -241,6 +304,9 @@
 	2410.4.24 = {
 		add_spouse = 933
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 933 = {
 	name = "Chunja"
@@ -250,6 +316,9 @@
 	religion = maitreya
 	2387.5.18 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 934 = {
@@ -261,6 +330,9 @@
 	mother = 933
 	2419.8.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 935 = {
@@ -274,6 +346,9 @@
 	2423.3.15 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 936 = {
 	name = "Mirae"
@@ -284,6 +359,9 @@
 	mother = 933
 	2429.10.11 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 950 = {
@@ -314,6 +392,9 @@
 	2386.5.8 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 952 = {
 	name = "Sanghong"
@@ -332,6 +413,9 @@
 	2436.1.13 = {
 		add_spouse = 953
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 953 = {
 	name = "Youngseo"
@@ -341,6 +425,9 @@
 	religion = mu_pagan
 	2414.6.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 954 = {
@@ -361,6 +448,9 @@
 	2439.9.22 = {
 		add_spouse = 955
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 955 = {
 	name = "Jiwoo"
@@ -376,6 +466,9 @@
 	trait = erudite
 	2418.9.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 956 = {
@@ -393,6 +486,9 @@
 	2422.9.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 957 = {
 	name = "Riwon"
@@ -402,6 +498,9 @@
 	2422.4.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 958 = {
 	name = "Woosung"
@@ -410,5 +509,8 @@
 	religion = familiar
 	2431.7.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

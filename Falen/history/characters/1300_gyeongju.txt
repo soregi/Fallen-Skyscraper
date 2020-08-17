@@ -158,6 +158,9 @@
 	2428.1.1 = {
 	add_spouse = 1312
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1312 = {
 	name = "Kyeonghye"
@@ -167,6 +170,9 @@
 	religion = mahayana
 	2412.12.8 = {
 	birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1313 = {
@@ -178,6 +184,9 @@
 	mother = 1312
 	2436.11.7 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1314 = {
@@ -193,6 +202,9 @@
 	2430.1.1 = {
 	add_spouse = 1315
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1315 = {
 	name = "Kyeonga"
@@ -202,6 +214,9 @@
 	religion = mahayana
 	2412.5.28 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1316 = {
@@ -214,6 +229,9 @@
 	2433.6.9 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1317 = {
 	name = "Jaeo"
@@ -222,6 +240,9 @@
 	religion = maitreya #여기부터 미륵종
 	2418.3.2 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1318 = {
@@ -250,6 +271,9 @@
 	2405.3.7 = {
 		add_spouse = 1319
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1319 = {
 	name = "Siyeon"
@@ -259,6 +283,9 @@
 	religion = maitreya
 	2380.4.19 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1320 = {
@@ -274,7 +301,9 @@
 	2430.4.12 = {
 		add_spouse = 1321
 	}
-
+	2500.1.1 = {
+		death = yes
+	}
 }
 1321 = {
 	name = "Dohui"
@@ -284,6 +313,9 @@
 	religion = maitreya
 	2414.5.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1322 = {
@@ -296,6 +328,9 @@
 	2442.7.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1323 = {
 	name = "Jinwoo"
@@ -304,6 +339,9 @@
 	religion = maitreya
 	2414.4.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1324 = {
@@ -331,6 +369,9 @@
 	2430.1.16 = {
 		add_spouse = 1325
 	}
+	2500.1.1 = {
+		death = yes
+	}
 	
 }
 1325 = {
@@ -342,6 +383,9 @@
 	2404.10.15 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1326 = {
 	name = "Jihwan"
@@ -352,6 +396,9 @@
 	mother = 1325
 	2432.8.30 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1327 = {
@@ -365,6 +412,9 @@
 	2437.6.28 = {
 		add_spouse = 1328
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1328 = {
 	name = "Juyeon"
@@ -374,6 +424,9 @@
 	religion = bailian
 	2417.6.2 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1329 = {
@@ -385,5 +438,8 @@
 	mother = 1328
 	2439.1.5 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

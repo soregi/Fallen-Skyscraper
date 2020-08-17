@@ -183,6 +183,9 @@
 	2366.2.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2311 = {
 	name = "Mose"
@@ -193,6 +196,9 @@
 	mother = 2310
 	2421.9.16 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2312 = {
@@ -247,6 +253,9 @@
 	2400.1.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2316 = {
 	name = "Yo Jong"
@@ -257,6 +266,9 @@
 	2375.8.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2317 = {
 	name = "U Jin"
@@ -266,6 +278,9 @@
 	2418.5.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2318 = {
 	name = "Philip"
@@ -274,6 +289,9 @@
 	religion = holy_spirit_pagan
 	2410.9.22 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #백두수도회
@@ -335,6 +353,9 @@
 	2408.9.22 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2355 = {
 	name = "Min U"
@@ -358,6 +379,9 @@
 	2392.4.19 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2357 = {
 	name = "Cha Sim"
@@ -369,6 +393,9 @@
 	trait = genius
 	2431.1.5 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2358 = {
@@ -384,6 +411,9 @@
 	2428.11.25 = {
 		add_spouse = 2359
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2359 = {
 	name = "Kwak Sun"
@@ -395,6 +425,9 @@
 	mother = 1316
 	2411.5.9 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2360 = {
@@ -408,6 +441,9 @@
 	2443.8.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2361 = {
 	name = "Man Sik"
@@ -420,6 +456,9 @@
 	2443.8.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2362 = {
 	name = "Wuhyo"
@@ -430,6 +469,9 @@
 	secret_religion = mu_pagan
 	2421.5.31 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2363 = {
@@ -454,6 +496,9 @@
 	2421.5.28 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2365 = {
 	name = "Kwang Hui"
@@ -463,6 +508,9 @@
 	father = 2363
 	2427.5.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #육진
@@ -499,6 +547,9 @@
 	}
 	2402.12.23 = {
 		add_matrilineal_spouse = 2407
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2403 = {
@@ -538,6 +589,9 @@
 	2392.5.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2406 = {
 	name = "Jong Thae"
@@ -550,6 +604,9 @@
 	2398.12.6 = {
 		add_spouse = 2412
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2407 = {
 	name = "Song"
@@ -561,6 +618,9 @@
 	trait = feeble
 	2376.5.24 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2408 = {
@@ -577,6 +637,9 @@
 	2421.3.26 = {
 		add_spouse = 2410
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2409 = {
 	name = "Sin Uk"
@@ -587,6 +650,9 @@
 	mother = 2402
 	2407.12.20 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2410 = {
@@ -600,6 +666,9 @@
 	2405.3.16 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2411 = {
 	name = "Chae Un"
@@ -612,6 +681,9 @@
 	2438.3.28 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2412 = {
 	name = "Sasha"
@@ -621,6 +693,9 @@
 	religion = holy_spirit_pagan
 	2386.1.20 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2413 = {
@@ -638,6 +713,9 @@
 	father = 2404
 	2376.2.3 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2414 = {
@@ -658,6 +736,9 @@
 	2421.5.15 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2415 = {
 	name = "Son Jong"
@@ -675,6 +756,9 @@
 	mother = 2412
 	2421.5.15 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2416 = {
@@ -696,6 +780,9 @@
 	2443.12.6 = {
 		add_spouse = 2414
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2417 = {
 	name = "Son Su"
@@ -715,6 +802,9 @@
 	}
 	2443.12.6 = {
 		add_spouse = 2415
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2418 = {
@@ -754,6 +844,9 @@
 	2414.8.17 = {
 		add_spouse = 2418
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2420 = {
 	name = "Min Su"
@@ -768,6 +861,9 @@
 	mother = 2418
 	2436.2.8 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2421 = {
@@ -784,6 +880,9 @@
 	mother = 2418
 	2439.2.21 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #헤이룽장
@@ -883,6 +982,9 @@
 		add_trait = infirm
 		add_trait = in_hiding
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2435 = {
 	name = "Maxim"
@@ -901,5 +1003,8 @@
 	}
 	2403.6.20 = {
 		religion = red_solar_pagan
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }

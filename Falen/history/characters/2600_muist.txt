@@ -7,6 +7,9 @@
 	2379.2.21 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2602 = {
 	name = "Jiwon"
@@ -16,6 +19,9 @@
 	father = 2601
 	2408.6.14 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2603 = {
@@ -27,6 +33,9 @@
 	2410.8.1 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2604 = {
 	name = "Bangwon"
@@ -36,6 +45,9 @@
 	father = 2605
 	2422.3.16 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2605 = {
@@ -154,6 +166,9 @@
 	2401.4.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 #무주
 2621 = {
@@ -180,6 +195,9 @@
 	2428.7.16 = {
 		add_spouse = 2625
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2623 = {
 	name = "Minwoo"
@@ -190,6 +208,9 @@
 	mother = 2625
 	2429.7.2 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2624 = {
@@ -203,6 +224,9 @@
 	2432.3.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2625 = {
 	name = "Inju"
@@ -213,6 +237,9 @@
 	father = 2632
 	2412.6.15 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #구미
@@ -237,6 +264,9 @@
 	2393.9.17 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2633 = {
 	name = "Museung"
@@ -246,6 +276,9 @@
 	father = 2632
 	2413.5.4 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2634 = {
@@ -260,6 +293,9 @@
 	2438.12.6 = {
 		add_spouse = 2635
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2635 = {
 	name = "Mina"
@@ -269,6 +305,9 @@
 	religion = mu_pagan
 	2421.11.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2636 = {
@@ -281,6 +320,9 @@
 	mother = 2635
 	2439.12.6 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #문경 북쪽
@@ -306,6 +348,9 @@
 	2386.2.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2643 = {
 	name = "Yuyoung"
@@ -316,6 +361,9 @@
 	father = 2641
 	2389.11.23 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2644 = {
@@ -330,6 +378,9 @@
 	2419.4.27 = {
 		add_spouse = 2645
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2645 = {
 	name = "Jieun"
@@ -339,6 +390,9 @@
 	religion = mu_pagan
 	2398.7.21 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 2646 = {
@@ -351,6 +405,9 @@
 	2426.6.2 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2647 = {
 	name = "Jina"
@@ -362,6 +419,9 @@
 	mother = 2645
 	2424.11.5 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #전라도쪽
@@ -389,6 +449,9 @@
 	2419.3.16 = {
 		add_spouse = 2654
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2653 = {
 	name = "Daniel"
@@ -400,6 +463,9 @@
 	2420.6.18 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2654 = {
 	name = "Cheong"
@@ -409,6 +475,9 @@
 	religion = imperial
 	2402.1.10 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 #두칸
@@ -446,6 +515,9 @@
 	2416.9.14 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 2664 = {
 	name = "Jeongwon"
@@ -468,6 +540,9 @@
 	2421.3.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 #영월
 2671 = {
@@ -477,6 +552,9 @@
 	religion = confucian
 	2402.9.17 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 

@@ -391,6 +391,9 @@
 	culture = sinan
 	religion = protestant
 	2421.5.3 = { birth = yes }
+	2500.1.1 = {
+		death = yes
+	}
 }
 1535 = {
 	name = "Seonhee"
@@ -401,6 +404,9 @@
 	culture = sinan
 	religion = protestant
 	2423.4.5 = { birth = yes }
+	2500.1.1 = {
+		death = yes
+	}
 }
 1536 = {
 	name = "Seonyeop"
@@ -410,6 +416,9 @@
 	culture = sinan
 	religion = protestant
 	2428.5.2 = { birth = yes }
+	2500.1.1 = {
+		death = yes
+	}
 }
 1537 = {
 	name = "Okryeon"
@@ -417,6 +426,9 @@
 	culture = sinan
 	religion = protestant
 	2404.2.1 = { birth = yes }
+	2500.1.1 = {
+		death = yes
+	}
 }
 1538 = {
 	name = "Dahee"

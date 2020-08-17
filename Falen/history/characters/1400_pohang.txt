@@ -197,6 +197,9 @@
 	2406.10.31 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1413 = {
 	name = "Moonye"
@@ -222,6 +225,9 @@
 	mother = 1417
 	2411.5.13 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1414 = {
@@ -264,6 +270,9 @@
 	2397.3.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1417 = {
 	name = "Suhee"
@@ -274,6 +283,9 @@
 	father = 1414
 	2384.5.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1418 = {
@@ -287,6 +299,9 @@
 	}
 	2412.1.5 = {
 		add_spouse = 1428
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1419 = {
@@ -313,6 +328,9 @@
 	2384.7.7 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1421 = {
 	name = "Wonryong"
@@ -321,6 +339,9 @@
 	religion = steel_pagan
 	2385.12.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1422 = {
@@ -401,6 +422,9 @@
 	2384.1.5 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1427 = {
 	name = "Seungri"
@@ -410,6 +434,9 @@
 	father = 1425
 	2388.8.1 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1428 = {
@@ -422,6 +449,9 @@
 	2392.4.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 #한울국
 1460 = {
@@ -432,6 +462,9 @@
 	2410.1.22 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1461 = {
 	name = "Youngho"
@@ -441,6 +474,9 @@
 	father = 1460
 	2438.1.6 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1462 = {
@@ -453,6 +489,9 @@
 	2441.6.13 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1463 = {
 	name = "Jehee"
@@ -463,6 +502,9 @@
 	2443.1.6 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1464 = {
 	name = "Cheolso"
@@ -471,6 +513,9 @@
 	religion = steel_pagan
 	2404.6.10 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
 1465 = {
@@ -483,6 +528,9 @@
 	2422.5.3 = {
 		birth = yes
 	}
+	2500.1.1 = {
+		death = yes
+	}
 }
 1466 = {
 	name = "Hoyoung"
@@ -493,5 +541,8 @@
 	father = 1464
 	2425.3.12 = {
 		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
 	}
 }
