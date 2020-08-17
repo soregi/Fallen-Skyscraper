@@ -1,4 +1,5 @@
 2422.1.1 = {
+    liege = d_gangseo
     holding_dynasty = 4000787
     holder = 787
 }

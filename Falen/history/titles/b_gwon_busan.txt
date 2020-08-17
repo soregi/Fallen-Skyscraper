@@ -1,5 +1,5 @@
 2440.8.9 = {
-    liege = k_busan
+    liege = d_busan
     holding_dynasty = 4000774
     holder = 774
 }
