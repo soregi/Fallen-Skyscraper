@@ -64,7 +64,7 @@ nick_wonmyeong;Wonmyeong;;;;;;;;;;;;;x #원명
 nick_jeongsim;Jeongsim;;;;;;;;;;;;;x #정심
 #이하 포항왕국 별명
 nick_king_of_steel;the Steel;;;;;;;;;;;;;x #강철왕
-nick_king_of_pabul;Disaster of Buddhists;;;;;;;;;;;;;x #파불왕
+nick_king_of_pabul;Pabul;;;;;;;;;;;;;x #파불왕
 nick_the_revenger;the Revenger;;;;;;;;;;;;;x #복수자
 nick_king_of_zealous;the Zeal;;;;;;;;;;;;;x #독실왕
 nick_king_of_jangsu;the Old;;;;;;;;;;;;;x #장수왕
@@ -92,3 +92,56 @@ nick_ryongdoja_of_the_gentiles;the Gentile Leader;;;;;;;;;;;;;x
 #산동
 nick_no_jugong;the Lord;;;;;;;;;;;;;x
 nick_gaegogi_jang_gun;Dogmeat General;;;;;;;;;;;;;x
+
+
+
+#
+nick_mokwang;Mokwang;;;;;;;;;;;;;x
+nick_ikwang;Ikwang;;;;;;;;;;;;;x
+nick_dowang;Dowang;;;;;;;;;;;;;x
+nick_hwanwang;Hwanwang;;;;;;;;;;;;;x
+nick_mokjo;Mokjo;;;;;;;;;;;;;x
+nick_ikjo;Ikjo;;;;;;;;;;;;;x
+nick_dojo;Dojo;;;;;;;;;;;;;x
+nick_hwanjo;Hwanjo;;;;;;;;;;;;;x
+#목조 자손
+nick_ancheon_daegun;Ancheon Daegun;;;;;;;;;;;;;x
+nick_anwon_daegun;Anwon Daegun;;;;;;;;;;;;;x
+nick_anpung_daegun;Anpung Daegun;;;;;;;;;;;;;x
+nick_anchang_daegun;Anchang Daegun;;;;;;;;;;;;;x
+nick_anheung_daegun;Anheung Daegun;;;;;;;;;;;;;x
+#익조 자손
+nick_hamneong_daegun;Hamneong Daegun;;;;;;;;;;;;;x
+nick_hamchang_daegun;Hamchang Daegun;;;;;;;;;;;;;x
+nick_hamwon_daegun;Hamwon Daegun;;;;;;;;;;;;;x
+nick_hamcheon_daegun;Hamcheon Daegun;;;;;;;;;;;;;x
+nick_hamreung_daegun;Hamreung Daegun;;;;;;;;;;;;;x
+nick_hamyang_daegun;Hamyang Daegun;;;;;;;;;;;;;x
+nick_hamseong_daegun;Hamseong Daegun;;;;;;;;;;;;;x
+#도조 자손
+nick_wanchang_daegun;Wanchang Daegun;;;;;;;;;;;;;x
+nick_wanwon_daegun;Wanwon Daegun;;;;;;;;;;;;;x
+nick_wancheon_daegun;Wancheon Daegun;;;;;;;;;;;;;x
+nick_wanseong_daegun;Wanseong Daegun;;;;;;;;;;;;;x
+#환조 자손
+nick_wanpung_daegun;Wanpung Daegun;;;;;;;;;;;;;x
+nick_yeongseong_daegun;Yeongseong Daegun;;;;;;;;;;;;;x
+nick_uian_daegun;Uian Daegun;;;;;;;;;;;;;x
+#태조 자손
+nick_jinan_daegun;Jin'an Daegun;;;;;;;;;;;;;x
+nick_ikan_daegun;Ik'an Daegun;;;;;;;;;;;;;x
+nick_hoean_daegun;Hoe'an Daegun;;;;;;;;;;;;;x
+nick_deokan_daegun;Deok'an Daegun;;;;;;;;;;;;;x
+nick_muan_daegun;Mu'an Daegun;;;;;;;;;;;;;x
+#태종 자손
+nick_yangnyeong_daegun;Yangnyeong Daegun;;;;;;;;;;;;;x
+nick_hyoryeong_daegun;Hyoreong Daegun;;;;;;;;;;;;;x
+nick_seongnyeong_daegun;Seongnyeong Daegun;;;;;;;;;;;;;x
+#세종 자손
+nick_anpyeong_daegun;Anpyeong Daegun;;;;;;;;;;;;;x
+nick_imyeong_daegun;Im'yeong Daegun;;;;;;;;;;;;;x
+nick_gwangpyeong_daegun;Gwangpyeong Daegun;;;;;;;;;;;;;x
+nick_geumseong_daegun;Geumseong Daegun;;;;;;;;;;;;;x
+nick_pyeongwon_daegun;Pyeong'won Daegun;;;;;;;;;;;;;x
+nick_yeongeung_daegun;Yeong'eung Daegun;;;;;;;;;;;;;x
+
