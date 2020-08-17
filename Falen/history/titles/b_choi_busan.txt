@@ -1,0 +1,5 @@
+2409.9.21 = {
+    liege = k_busan
+    holding_dynasty = 4000777
+    holder = 777
+}
