@@ -1,5 +1,5 @@
 ###MONASTIC ORDER###
-monastic_order_juche = {
+monastic_order_juche = {################
 	primary_attribute = stewardship
 	is_religious = yes
 	opinion_to_other_members = +10
@@ -21,7 +21,7 @@ monastic_order_juche = {
 			NAND = {
 				ai = yes
 				is_society_rank_full = { 
-					society = monastic_order_juche
+					society = monastic_order_juche###############
 					rank = 1
 				}
 			}
@@ -35,7 +35,7 @@ monastic_order_juche = {
 		}
 		custom_tooltip = {
 			text = did_not_betray_society
-			NOT = { has_character_flag = betrayed_monastic_order_juche }
+			NOT = { has_character_flag = betrayed_monastic_order_juche }########
 		}
 		scaled_wealth = 0.25
 		hidden_trigger = {
@@ -48,8 +48,8 @@ monastic_order_juche = {
 	}
 	
 	show_society = {
-		OR = {
-			religion = catholic
+		AND = {
+			religion = juche################################
 			AND = {
 				is_heretic = no
 			}
@@ -58,8 +58,8 @@ monastic_order_juche = {
 	}
 	
 	potential = {
-		OR = {
-			religion = juche
+		AND = {
+			religion = juche#######################
 			AND = {
 				is_heretic = no
 			}
@@ -126,7 +126,7 @@ monastic_order_juche = {
 	}
 
 	monthly_currency_gain = {
-		name = currency_name_monastic_order_juche
+		name = currency_name_monastic_order_juche###########################
     	
     	per_attribute = {
     		name = stewardship
@@ -294,7 +294,7 @@ monastic_order_juche = {
 	    trigger = {
 			ai = yes
 	    	controls_religion = no
-		   	religion = catholic
+		   	religion = juche##################
 			age = 16
 			is_in_society = no
 			NOT = { higher_tier_than = DUKE }
