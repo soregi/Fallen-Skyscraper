@@ -33,6 +33,11 @@
 	culture = yeongnam
 	religion = populist
 }
+4000773 = {
+	name = "Namgung"
+	culture = yeongnam
+	religion = populist
+}
 4000774 = {
 	name = "Gwon"
 	culture = yeongnam
@@ -46,10 +51,15 @@
 4000780 = {
 	name = "Do"
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 4000784 = {
 	name = "Na"
+	culture = yeongnam
+	religion = populist
+}
+4000786 = {
+	name = "Jo"
 	culture = yeongnam
 	religion = populist
 }
@@ -61,7 +71,7 @@
 4000790 = {
 	name = "Roh"
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 }
 4000793 = {
@@ -72,7 +82,7 @@
 4000796 = {
 	name = "Jeong"
 	culture = yeongnam
-	religion = koreanist
+	religion = populist
 }
 }
 4000799 = {

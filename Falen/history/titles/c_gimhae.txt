@@ -1,0 +1,4 @@
+2441.5.26 = {
+	liege = k_busan
+	holder = 773
+}
