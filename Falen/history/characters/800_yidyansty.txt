@@ -921,3 +921,4 @@
 	give_nickname = nick_deokheung_daewongun
 	1530.4.2 = { birth = yes }
 	1559.6.4 = { death = yes }
+}
