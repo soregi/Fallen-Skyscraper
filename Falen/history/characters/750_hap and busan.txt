@@ -181,7 +181,7 @@
 }
 770 = {
 	name = "Jeongsu
-	dynasty = 4000770
+	dynasty = 4000770 # 오
 	culture = yeongnam
 	religion = populist
 	2390.12.12 = {
@@ -224,4 +224,304 @@
 	female = yes
 	father = 770
 	mother = 774
+}
+
+774 = {
+	name = "yeonsuk" # 권
+	dynasty = 4000774
+	culture = yeongnam
+	religion = populist
+	2392.08.09 = {
+		birth = yes
+	}
+	female = yes
+	father = 775
+}
+775 = {
+	name = "ilkang"
+	dynasty = 4000774
+	culture = yeongnam
+	religion = populist
+	2365.06.15 = {
+		birth = yes
+	}
+}
+776 = {
+	name = "yeoncheol"
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	2388.06.08 = {
+		birth = yes
+	}
+	father = 775
+}
+777 = {
+	name = "myeongun"
+	dynasty = 4000777 # 최
+	culture = yeongnam
+	religion = populist
+	2379.10.30 = {
+		birth = yes
+	}
+}
+778 = {
+	name = "hosik"
+	dynasty = 4000777
+	culture = yeongnam
+	religion = populist
+	2399.04.11 = {
+		birth = yes
+	}
+	father = 777
+}
+779 = {
+	name = "buyeong"
+	dynasty = 4000777
+	culture = yeongnam
+	religion = populist
+	2399.04.11 = {
+		birth = yes
+	}
+	female = yes
+	father = 777
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
+}
+7 = {
+	name = ""
+	dynasty = 40007
+	culture = yeongnam
+	religion = populist
+	 = {
+		birth = yes
+	}
+        female =
+	father =
+	mother =
 }
