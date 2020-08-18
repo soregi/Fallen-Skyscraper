@@ -1,4 +1,3 @@
 2441.10.1 = {
-	liege = k_mountain_league
 	holder = 956
 }

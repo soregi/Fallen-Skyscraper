@@ -1,4 +1,9 @@
 #평택
+4001755 = {
+	name = "Eden"
+	culture = american
+	religion = protestant
+}
 #군산
 #대구
 4001771 = {

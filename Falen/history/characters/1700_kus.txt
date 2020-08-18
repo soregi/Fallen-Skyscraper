@@ -41,7 +41,68 @@
 		death = yes
 	}
 }
-#미군
+#평택미군
+1755 = {
+	name = "Herbert"
+	dynasty = 4001755
+	culture = american
+	religion = protestant
+	2378.2.12 = {
+		birth = yes
+	}
+	2408.6.23 = {
+		add_claim = c_pyeongtaek
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+1756 = {
+	name = "Karl"
+	dynasty = 4001755
+	culture = american
+	religion = protestant
+	father = 1755
+	2397.6.28 = {
+		birth = yes
+	}
+	2408.6.23 = {
+		add_claim = c_pyeongtaek
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+1757 = {
+	name = "Andrew"
+	dynasty = 4001755
+	culture = american
+	religion = protestant
+	father = 1755
+	2400.2.5 = {
+		birth = yes
+	}
+	2408.6.23 = {
+		add_claim = c_pyeongtaek
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+1758 = {
+	name = "Pius"
+	dynasty = 4001755
+	culture = american
+	religion = protestant
+	father = 1756
+	2419.5.26 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+#대구미군
 1771 = {
 	name = "Alfred"
 	dynasty = 4001771
@@ -257,19 +318,6 @@
 	religion = catholic
 	father = 1783
 	2427.8.13 = {
-		birth = yes
-	}
-	2500.1.1 = {
-		death = yes
-	}
-}
-1788 = {
-	name = "James"
-	dynasty = 4001773
-	culture = american
-	religion = catholic
-	father = 1786
-	2424.11.9 = {
 		birth = yes
 	}
 	2500.1.1 = {
