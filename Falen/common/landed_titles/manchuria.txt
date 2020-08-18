@@ -284,7 +284,7 @@ k_haixi = { #해서
 k_yanbian = { #연변
 	color={ 199 55 95 }
 	color2={ 30 120 230 }
-	capital = 446
+	capital = 451
 	d_heilongjiang = {
 		color = { 183 33 209 }
 		capital = 490
@@ -331,7 +331,7 @@ k_yanbian = { #연변
 	}
 	d_yanbian = {
 		color = { 199 5 95 }
-		capital = 446
+		capital = 451
 		c_hunchun = {
 			color = { 0 107 132 }
 			b_hunchun_b0 = {}

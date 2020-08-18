@@ -120,7 +120,7 @@ d_rus_police = { #경찰
 	color2={ 1 17 12 }
 
 }
-d_mapia = { #마피아
+d_mafia = { #마피아
 	color={ 20 10 5 }
 	color2={ 190 230 152 }
 
