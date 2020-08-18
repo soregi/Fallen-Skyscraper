@@ -15,7 +15,7 @@
 	2403.7.2 = {
 		birth = yes
 	}
-	2500.1.1 = {
+	2446.1.1 = {
 		death = yes
 	}
 }
@@ -192,8 +192,8 @@
 
 }
 11 = {
-	name = "Munhyang"
-	dynasty = 4000001
+	name = "Yujin"
+	dynasty = 4000801
 	culture = honam
 	religion = imperial
 	trait = foutune_builder
@@ -205,6 +205,7 @@
 	trait = administrator
 	trait = erudite
 	disallow_random_traits = yes
+	father = 24
 	female = yes
 	2416.3.26 = {
 		birth = yes
@@ -212,7 +213,7 @@
 	2436.1.1 = {
 		add_spouse = 25
 	}
-	2500.1.1 = {
+	2470.1.1 = {
 		death = yes
 	}
 
@@ -405,13 +406,14 @@
 }
 24 = {
 	name = "Wonil"
-	dynasty = 4000010
+	dynasty = 4000801
 	culture = honam
 	religion = imperial
+	father = 94
 	2386.7.4 = {
 		birth = yes
 	}
-	2500.1.1 = {
+	2446.1.1 = {
 		death = yes
 	}
 }
@@ -497,6 +499,218 @@
 		death = yes
 	}
 }
+##신복련 이씨 추가인물 55부터69까지##
+55 = {
+	name = "Yeonhee" #이연희#이한월 장녀
+	dynasty = 4000801
+	culture = honam
+	religion = imperial
+	trait = just
+	trait = patient
+	trait = socializer
+	disallow_random_traits = yes
+	father = 1
+	female = yes
+	2432.4.2 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+56 = {
+	name = "Han'o" #이한오#이우 차남
+	dynasty = 4000801
+	culture = honam
+	trait = brilliant_strategist
+	religion = imperial
+	trait = just
+	trait = brave
+	disallow_random_traits = yes
+	father = 94
+	2405.8.6 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+57 = {
+	name = "Hanchul" #이한철#이우 삼남
+	dynasty = 4000801
+	culture = honam
+	trait = fortune_builder
+	religion = imperial
+	trait = just
+	trait = diligent
+	trait = brave
+	disallow_random_traits = yes
+	father = 94
+	2406.10.3 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+58 = {
+	name = "Yeon" #이연#이재영 차남
+	dynasty = 4000801
+	culture = honam
+	trait = tough_soldier
+	religion = imperial
+	trait = just
+	trait = brave
+	trait = hunter
+	disallow_random_traits = yes
+	father = 92
+	2361.3.5 = {
+		birth = yes
+	}
+	2432.5.3 = {
+		death = yes
+	}
+}
+59 = {
+	name = "Jeong" #이정#이재영 삼남
+	dynasty = 4000801
+	culture = honam
+	religion = imperial
+	trait = skilled_tactician
+	trait = strong
+	trait = arbitrary
+	trait = stubborn	
+	trait = brave
+	trait = hunter
+	disallow_random_traits = yes
+	father = 92
+	2365.12.15 = {
+		birth = yes
+	}
+	2441.1.4 = {
+		death = yes
+	}
+}
+60 = {
+	name = "Han'ui" #이한의#이연 장남
+	dynasty = 4000801
+	culture = honam
+	trait = tough_soldier
+	religion = imperial
+	trait = hunter
+	trait = wroth
+	disallow_random_traits = yes
+	father = 58
+	2385.2.5 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+61 = {
+	name = "Hanbok" #이한복#이정 장남
+	dynasty = 4000801
+	culture = honam
+	trait = tough_soldier
+	religion = imperial
+	trait = wroth
+	disallow_random_traits = yes
+	father = 59
+	2404.5.4 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+62 = {
+	name = "Hanjin" #이한진#이정 차남
+	dynasty = 4000801
+	culture = honam
+	trait = tough_soldier
+	religion = imperial
+	trait = wroth
+ 	trait = temperate
+ 	trait = just
+	disallow_random_traits = yes
+	father = 59
+	2419.2.5 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+63 = {
+	name = "Yeonjeong" #이연정#이한오 장녀
+	dynasty = 4000801
+	culture = honam
+	female = yes
+	religion = imperial
+	father = 56
+	2435.3.2 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+64 = {
+	name = "Yujin" #이유진#이한오 장남
+	dynasty = 4000801
+	culture = honam
+	religion = imperial
+	father = 56
+	2437.6.10 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+65 = {
+	name = "Yugeun" #이유근#이한복 장남
+	dynasty = 4000801
+	culture = honam
+	religion = imperial
+	father = 61
+	2439.11.15 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+66 = {
+	name = "Seonyeong" #이선영#이정 장녀
+	dynasty = 4000801
+	culture = honam
+	religion = imperial
+	female = yes
+	father = 59
+	2415.9.23 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+67 = {
+	name = "Seonjeong" #이선정#이정 차녀
+	dynasty = 4000801
+	culture = honam
+	religion = imperial
+	female = yes
+	father = 59
+	2420.3.8 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+##
 70 = {
 	name = "Yohan"
 	dynasty = 4000047

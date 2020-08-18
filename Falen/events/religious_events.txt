@@ -5667,7 +5667,7 @@ narrative_event = {
 		year = 900
 		controls_religion = yes
 		NOT = { has_global_flag = christian_crusades_unlocked }
-		
+		has_global_flag = contact_pope
 		OR = {
 			221 = { # Provence
 				NOT = { owner = { top_liege = { religion_group = christian } } }
@@ -5734,7 +5734,7 @@ narrative_event = {
 			has_alternate_start_parameter = { key = religion_names value = random }
 		}
 		controls_religion = yes
-		year = 1187
+		year = 51187
 		
 		NOT = { has_global_flag = muslim_jihads_unlocked }
 	}

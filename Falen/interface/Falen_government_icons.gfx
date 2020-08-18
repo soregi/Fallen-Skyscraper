@@ -1,0 +1,12 @@
+spriteTypes = {
+
+	### government icons
+	spriteType = {
+		name = "GFX_icon_military_government"
+		texturefile = "gfx\\interface\\government_icon_military.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_marxist_government"
+		texturefile = "gfx\\interface\\government_icon_marxist.dds"
+	}
+}

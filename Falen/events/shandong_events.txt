@@ -4,7 +4,7 @@ character_event = {
 	picture = GFX_evt_throne_room
 	
 	only_rulers = yes
-
+	
 	trigger = {
 		should_evolve_cultures_trigger = yes
 		year = 2444
@@ -23,7 +23,7 @@ character_event = {
 		}
 	
 	mean_time_to_happen = {
-		months = 120
+		months = 150
 		modifier = {
 			factor = 0.3
 			OR = {
