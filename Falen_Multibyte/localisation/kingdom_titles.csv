@@ -1,3 +1,5 @@
+k_seoul;Á¸Æ;;;;;;;;;;;;;x
+k_seoul_adj;Á¸Æ;;;;;;;;;;;;;x
 k_manchuria;Ì¹üÈ;;;;;;;;;;;;;x
 k_manchuria_adj;Ì¹üÈ;;;;;;;;;;;;;x
 k_liaoning;Ì¸U±;;;;;;;;;;;;;x
@@ -18,8 +20,8 @@ k_jeju;ÈüÈ;;;;;;;;;;;;;x
 k_jeju_adj;ÈüÈ;;;;;;;;;;;;;x
 k_primorsky;ğÅtÕüÈ;;;;;;;;;;;;;x
 k_primorsky_adj;ğÅtÕüÈ;;;;;;;;;;;;;x
-k_inner_mongolia;Ìºè¬;;;;;;;;;;;;;x
-k_inner_mongolia_adj;Ìºè¬;;;;;;;;;;;;;x
+k_mongolia;Ìºè¬;;;;;;;;;;;;;x
+k_mongolia_adj;Ìºè¬;;;;;;;;;;;;;x
 k_mil_seoul;Á¸Æ p­È;;;;;;;;;;;;;x
 k_mil_seoul_adj;Á¸Æ;;;;;;;;;;;;;x
 k_civil_seoul;Á¸Æ ü»È;;;;;;;;;;;;;x
@@ -72,3 +74,27 @@ k_east_navy;Ù³tÕ tÕp­;;;;;;;;;;;;;x
 k_east_navy_adj;tÕp­;;;;;;;;;;;;;x
 k_jinhae;ÄÉtÕ;;;;;;;;;;;;;x
 k_jinhae_adj;ÄÉtÕ;;;;;;;;;;;;;x
+k_busan;´°À;;;;;;;;;;;;;x
+k_busan_adj;´°À;;;;;;;;;;;;;x
+k_hebei;ÈÕ ¼tÇ;;;;;;;;;;;;;x
+k_hebei_adj;ÈÕ ¼tÇ;;;;;;;;;;;;;x
+k_ulleung;¸Æ‰¹;;;;;;;;;;;;;x
+k_ulleung_adj;¸Æ‰¹;;;;;;;;;;;;;x
+k_naju;˜°üÈ;;;;;;;;;;;;;x
+k_naju_adj;˜°üÈ;;;;;;;;;;;;;x
+k_suncheon;ÂœÌ;;;;;;;;;;;;;x
+k_suncheon_adj;ÂœÌ;;;;;;;;;;;;;x
+k_chungcheong;©Í­Ì;;;;;;;;;;;;;x
+k_chungcheong_adj;©Í­Ì;;;;;;;;;;;;;x
+k_busan;´°À;;;;;;;;;;;;;x
+k_busan_adj;´°À;;;;;;;;;;;;;x
+k_gangwon;¬ĞÆ;;;;;;;;;;;;;x
+k_gangwon_adj;¬ĞÆ;;;;;;;;;;;;;x
+k_hwanghae;iÖtÕ;;;;;;;;;;;;;x
+k_hwanghae_adj;iÖtÕ;;;;;;;;;;;;;x
+k_shandong;°Àe´;;;;;;;;;;;;;x
+k_shandong_adj;°Àe´;;;;;;;;;;;;;x
+k_gwangju;­üÈ;;;;;;;;;;;;;x
+k_gwangju_adj;­üÈ;;;;;;;;;;;;;x
+k_incheon;xÇœÌ;;;;;;;;;;;;;x
+k_incheon_adj;xÇœÌ;;;;;;;;;;;;;x
