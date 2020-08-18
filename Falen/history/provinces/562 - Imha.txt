@@ -6,8 +6,8 @@ title = c_imha
 # Settlements
 max_settlements = 3
 
-b_imha = castle
-b_songcheon = temple
+b_imha_imha = castle
+b_songcheon_imha = temple
 
 # Misc
 culture = yeongnam

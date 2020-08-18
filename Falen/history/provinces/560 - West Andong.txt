@@ -6,9 +6,9 @@ title = c_pungshan #풍산ㄴ
 # Settlements
 max_settlements = 4
 
-b_pungsan = castle
-b_pungcheon = temple
-b_docheong = city
+b_pungsan_pungshan = castle
+b_pungcheon_pungshan = temple
+b_docheong_pungshan = city
 
 # Misc
 culture = yeongnam

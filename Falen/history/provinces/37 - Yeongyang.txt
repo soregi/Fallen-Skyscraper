@@ -6,8 +6,8 @@ title = c_yeongyang
 # Settlements
 max_settlements = 5
 
-b_yeongyang = castle
-b_subi = temple
+b_yeongyang_yeongyang = castle
+b_subi_yeongyang = temple
 
 # Misc
 culture = yeongnam

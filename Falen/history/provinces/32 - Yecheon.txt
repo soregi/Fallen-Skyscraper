@@ -6,9 +6,9 @@ title = c_yecheon
 # Settlements
 max_settlements = 6
 
-b_yecheon = castle
-b_yongmun = city
-b_bomun = temple
+b_yecheon_yecheon = castle
+b_yongmun_yecheon = city
+b_bomun_yecheon = temple
 
 # Misc
 culture = yeongnam

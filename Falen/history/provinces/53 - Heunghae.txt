@@ -6,9 +6,9 @@ title = c_heunghae
 # Settlements
 max_settlements = 5
 
-b_heunghae = castle
-b_jangnyang = city
-b_jukjang = temple
+b_heunghae_heunghae = castle
+b_jangnyang_heunghae = city
+b_jukjang_heunghae = temple
 
 # Misc
 culture = yeongnam

@@ -6,9 +6,9 @@ title = c_bonghwa
 # Settlements
 max_settlements = 6
 
-b_bonghwa = castle
-b_bongseong = city
-b_sangun = city
+b_bonghwa_bonghwa = castle
+b_bongseong_bonghwa = city
+b_sangun_bonghwa = city
 
 # Misc
 culture = yeongnam

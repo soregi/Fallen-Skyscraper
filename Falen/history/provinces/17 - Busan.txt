@@ -6,12 +6,12 @@ title = c_busan
 # Settlements
 max_settlements = 6
 
-b_busan = city
-b_nampobusan = city
-b_beomil = castle
-b_daeyeon = temple
-b_yeongseon = city
-b_hadan = city
+b_busan_busan = city
+b_nampo_busan = city
+b_beomil_busan = castle
+b_daeyeon_busan = temple
+b_yeongseon_busan = city
+b_hadan_busan = city
 
 # Misc
 culture = yeongnam

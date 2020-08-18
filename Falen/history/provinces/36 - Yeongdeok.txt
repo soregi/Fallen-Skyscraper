@@ -6,9 +6,9 @@ title = c_yeongdeok
 # Settlements
 max_settlements = 5
 
-b_yeongdeok = castle
-b_ganggu = city
-b_namjeong = temple
+b_yeongdeok_yeongdeok = castle
+b_ganggu_yeongdeok = city
+b_namjeong_yeongdeok = temple
 
 
 # Misc

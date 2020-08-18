@@ -6,11 +6,11 @@ title = c_andong
 # Settlements
 max_settlements = 6
 
-b_andong = castle
-b_taehwa = castle
-b_ok = city
-b_songha = city
-b_myeongnyun = temple
+b_andong_andong = castle
+b_taehwa_andong = castle
+b_ok_andong = city
+b_songha_andong = city
+b_myeongnyun_andong = temple
 
 # Misc
 culture = yeongnam

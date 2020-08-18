@@ -6,8 +6,8 @@ title = c_uiryeong
 # Settlements
 max_settlements = 5
 
-c_uiryeong_uiryeong = castle
-c_dongdong_uiryeong = temple
+b_uiryeong_uiryeong = castle
+b_dongdong_uiryeong = temple
 
 # Misc
 culture = yeongnam

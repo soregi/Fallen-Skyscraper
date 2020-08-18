@@ -6,8 +6,8 @@ title = c_cheongsong
 # Settlements
 max_settlements = 3
 
-b_cheongsong = castle
-b_juwangsan = city
+b_cheongsong_cheongsong = castle
+b_juwangsan_cheongsong = city
 b_bunam_cheongsong = temple
 
 # Misc

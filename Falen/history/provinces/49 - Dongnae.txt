@@ -6,10 +6,10 @@ title = c_dongnae
 # Settlements
 max_settlements = 5
 
-b_dongnae = castle
-b_namcheon = city
-b_sumin = city
-b_boksan = temple
+b_dongnae_dongnae = castle
+b_namcheon_dongnae = city
+b_sumin_dongnae = city
+b_boksan_dongnae = temple
 
 # Misc
 culture = yeongnam

@@ -6,9 +6,9 @@ title = c_gampo
 # Settlements
 max_settlements = 5
 
-b_gampo = castle
-b_oedong = city
-b_wolseong = temple
+b_gampo_gampo = castle
+b_oedong_gampo = city
+b_wolseong_gampo = temple
 
 # Misc
 culture = yeongnam

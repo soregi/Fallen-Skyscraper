@@ -6,9 +6,9 @@ title = c_gijang
 # Settlements
 max_settlements = 5
 
-b_gijang = castle
-b_jangan = city
-b_gori = temple
+b_gijang_gijang = castle
+b_jangan_gijang = city
+b_gori_gijang = temple
 
 # Misc
 culture = yeongnam

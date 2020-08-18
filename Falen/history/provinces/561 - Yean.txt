@@ -6,8 +6,8 @@ title = c_yean
 # Settlements
 max_settlements = 3
 
-b_yean = castle
-b_dosan = temple
+b_yean_yean = castle
+b_dosan_yean = temple
 
 # Misc
 culture = yeongnam

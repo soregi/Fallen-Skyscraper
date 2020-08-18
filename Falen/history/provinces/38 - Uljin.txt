@@ -6,9 +6,9 @@ title = c_uljin
 # Settlements
 max_settlements = 4
 
-b_uljin = castle
-b_geunnam = city
-b_hanul = temple
+b_uljin_uljin = castle
+b_geunnam_uljin = city
+b_hanul_uljin = temple
 
 # Misc
 culture = yeongnam
