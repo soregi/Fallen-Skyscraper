@@ -1,7 +1,10 @@
-k_inner_mongolia = {
-	color = { 33 98 137 }
-	capital = 488
-	
+k_mongolia = {
+		color = { 100 100 250 }
+		
+		capital = 488
+		
+		culture = mongol
+		
 	d_tongliao = {
 		color = { 31 139 131 }
 		capital = 484
