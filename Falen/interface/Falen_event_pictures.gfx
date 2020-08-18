@@ -1,0 +1,13 @@
+spriteTypes = 
+{
+	#########################################################
+	# EVENT PICTURES
+	#########################################################
+	
+	spriteType = {
+		name = "GFX_sinan_salt_slavery"
+		texturefile = "gfx/event_pictures/sinan_salt_slavery.dds"
+	}
+
+}
+
