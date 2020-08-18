@@ -6,7 +6,7 @@ title = c_jilin
 # Settlements
 max_settlements = 7
 
-b_jilin = castle
+b_jilin = tribal
 b_fengman = temple
 b_ulakai = castle
 b_longtan = city
