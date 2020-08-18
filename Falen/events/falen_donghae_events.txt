@@ -1,0 +1,84 @@
+namespace = donghae
+character_event = {
+	id = donghae.1
+	title = donghae_1
+	desc = donghae_1_desc
+	picture = GFX_evt_feast
+	border = GFX_event_normal_frame_diplomacy
+
+	hide_from = yes
+
+	ai = no
+
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { has_global_flag = fal_rus_police_vs_mafia }
+	}
+	#mean_time_to_happen = {
+	#	years = 1
+	#}
+	immediate = {
+		set_global_flag = fal_rus_police_vs_mafia
+		d_rus_police = {
+			holder_scope = {
+				save_event_target_as = fal_rus_police
+			}
+		}
+	}
+	## if police
+	option = {
+		name = EVTOPTA_FAL_RUS_1
+		trigger = {
+			has_landed_title = d_rus_police
+		}
+		d_ussuriysk = {
+			any_direct_de_jure_vassal_title = {
+				add_claim = event_target:fal_rus_police
+			}
+		}
+	}
+	## if mafia
+	option = {
+		name = EVTOPTB_FAL_RUS_1
+		trigger = {
+			has_landed_title = d_mafia
+		}
+		d_ussuriysk = {
+			any_direct_de_jure_vassal_title = {
+				add_claim = event_target:fal_rus_police
+			}
+		}
+		d_mafia = {
+			holder_scope = {
+				reverse_war = {
+					target = event_target:fal_rus_police
+					casus_belli = claim_all
+					infamy = 0
+				}
+			}
+		}
+	}
+	## if else
+	option = {
+		name = EVTOPTC_FAL_RUS_1
+		trigger = {
+				NOT = { has_landed_title = d_mafia }
+				NOT = { has_landed_title = d_rus_police }
+		}
+		d_ussuriysk = {
+			any_direct_de_jure_vassal_title = {
+				add_claim = event_target:fal_rus_police
+			}
+		}
+		d_mafia = {
+			holder_scope = {
+				reverse_war = {
+					target = event_target:fal_rus_police
+					casus_belli = claim_all
+					infamy = 0
+				}
+			}
+		}
+	}
+}
