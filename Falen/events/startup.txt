@@ -12,8 +12,11 @@ character_event = {
 	}
 	immediate = {
 		set_global_flag = setup_complete
-		create_hospital = 127
 		127 = {
+			build_holding = {
+				type = hospital
+				holder = c_692
+			}
 			add_to_extra_holding = {
 				type = hospital
 				building = hospital_building_3
