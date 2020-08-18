@@ -392,8 +392,8 @@ pagan_group = {
 		secondary_event_pictures = finnish_pagan
 		alternate_start = { always = no }
 		
-		icon = 72
-		heresy_icon = 73
+		icon = 49
+		heresy_icon = 50
 		
 		ai_convert_other_group = 2 # always try to convert
 		ai_convert_same_group = 2 # always try to convert
@@ -440,8 +440,8 @@ pagan_group = {
 	steel_pagan = {
 		graphical_culture = norsegfx
 
-		icon = 20
-		heresy_icon = 73
+		icon = 48
+		heresy_icon = 50
 		
 		color = { 0.4 0.2 0.3 }
 		
