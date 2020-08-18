@@ -6,10 +6,10 @@ title = c_anyang
 # Settlements
 max_settlements = 5
 
-b_anyang = castle
-b_manan = city
+b_anyang_anyang = castle
+b_manan_anyang = city
 b_seoksu_anyang = temple
-b_bakdal = city
+b_bakdal_anyang = city
 
 # Misc
 culture = gyeonggi

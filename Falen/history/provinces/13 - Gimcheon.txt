@@ -6,7 +6,7 @@ title = c_gimcheon
 # Settlements
 max_settlements = 4
 
-b_gimcheon = tribal
+b_gimcheon_gimcheon = tribal
 
 # Misc
 culture = yeongnam

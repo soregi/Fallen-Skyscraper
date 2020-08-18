@@ -6,11 +6,11 @@ title = c_daegu
 # Settlements
 max_settlements = 6
 
-b_daegu = castle
-b_suseong = city
-b_daesin = temple
-b_dalseo = castle
-b_pyeongni = city
+b_daegu_daegu = castle
+b_suseong_daegu = city
+b_daesin_daegu = temple
+b_dalseo_daegu = castle
+b_pyeongni_daegu = city
 
 # Misc
 culture = yeongnam

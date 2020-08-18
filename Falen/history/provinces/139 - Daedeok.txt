@@ -6,7 +6,7 @@ title = c_daedeok
 # Settlements
 max_settlements = 5
 
-b_daedeok = castle
+b_daedeok_daedeok = castle
 b_deogam_daedeok = city
 b_moksang_daedeok = city
 b_seokbong_daedeok = temple

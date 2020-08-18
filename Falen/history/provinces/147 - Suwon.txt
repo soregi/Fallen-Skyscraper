@@ -5,10 +5,10 @@ title = c_suwon
 
 # Settlements
 max_settlements = 4
-b_hwasong = castle
-b_suwon = city
-b_paldal = city
-b_jang'an = temple
+b_hwasong_suwon = castle
+b_suwon_suwon = city
+b_paldal_suwon = city
+b_jangan_suwon = temple
 
 # Misc
 culture = gyeonggi

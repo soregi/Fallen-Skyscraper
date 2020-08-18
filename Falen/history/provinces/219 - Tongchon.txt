@@ -6,7 +6,7 @@ title = c_thongchon
 # Settlements
 max_settlements = 3
 
-b_thongchon = tribal
+b_thongchon_thongchon = tribal
 
 # Misc
 culture = yeongdong

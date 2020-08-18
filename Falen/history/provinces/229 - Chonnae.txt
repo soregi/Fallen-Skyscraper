@@ -6,7 +6,7 @@ title = c_chonnae
 # Settlements
 max_settlements = 4
 
-b_chonnae = castle
+b_chonnae_chonnae = castle
 b_kupho_chonnae = temple
 
 # Misc

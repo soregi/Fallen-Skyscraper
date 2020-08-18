@@ -6,9 +6,9 @@ title = c_namhae
 # Settlements
 max_settlements = 5
 
-b_namhae = castle
-b_gohyeon = city
-b_miho = temple
+b_namhae_namhae = castle
+b_gohyeon_namhae = city
+b_miho_namhae = temple
 
 
 # Misc

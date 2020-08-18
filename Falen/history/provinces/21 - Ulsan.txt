@@ -6,10 +6,10 @@ title = c_ulsan
 # Settlements
 max_settlements = 5
 
-b_ulsan = castle
+b_ulsan_ulsan = castle
 b_samsan_ulsan = city
-b_bangeo = temple
-b_sinjeong = castle
+b_bangeo_ulsan = temple
+b_sinjeong_ulsan = castle
 b_ilsan_ulsan = city
 
 # Misc

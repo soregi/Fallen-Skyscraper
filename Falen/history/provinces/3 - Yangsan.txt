@@ -6,9 +6,9 @@ title = c_yangsan
 # Settlements
 max_settlements = 4
 
-b_yangsan = castle
-b_yangju = city
-b_wondong = temple
+b_yangsan_yangsan = castle
+b_yangju_yangsan = city
+b_wondong_yangsan = temple
 
 # Misc
 culture = yeongnam

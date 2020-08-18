@@ -6,7 +6,7 @@ title = c_gowon
 # Settlements
 max_settlements = 4
 
-b_gowon = castle
+b_gowon_gowon = castle
 b_purae_gowon = city
 
 # Misc

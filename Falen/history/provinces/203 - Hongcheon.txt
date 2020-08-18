@@ -6,7 +6,7 @@ title = c_hongcheon
 # Settlements
 max_settlements = 3
 
-b_hongcheon = tribal
+b_hongcheon_hongcheon = tribal
 
 # Misc
 culture = yeongseo

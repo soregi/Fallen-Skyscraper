@@ -6,9 +6,9 @@ title = c_cheongdo
 # Settlements
 max_settlements = 4
 
-b_cheongdo = castle
-b_hoeyang = temple
-b_iseo = city
+b_cheongdo_cheongdo = castle
+b_hoeyang_cheongdo = temple
+b_iseo_cheongdo = city
 
 # Misc
 culture = yeongnam

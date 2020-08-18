@@ -6,9 +6,9 @@ title = c_uiseong
 # Settlements
 max_settlements = 6
 
-b_uiseong = castle
-b_danchon = city
-b_jeomgok = temple
+b_uiseong_uiseong = castle
+b_danchon_uiseong = city
+b_jeomgok_uiseong = temple
 
 # Misc
 culture = yeongnam

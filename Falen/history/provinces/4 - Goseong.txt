@@ -6,8 +6,8 @@ title = c_goseong
 # Settlements
 max_settlements = 3
 
-b_goseong = tribal
-b_gaecheon = temple
+b_goseong_goseong = tribal
+b_gaecheon_goseong = temple
 
 # Misc
 culture = yeongnam

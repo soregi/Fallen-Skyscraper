@@ -6,9 +6,9 @@ title = c_icheon
 # Settlements
 max_settlements = 5
 
-b_icheon = castle
-b_gwango = city
-b_jeungri = temple
+b_icheon_icheon = castle
+b_gwango_icheon = city
+b_jeungri_icheon = temple
 
 # Misc
 culture = gyeonggi

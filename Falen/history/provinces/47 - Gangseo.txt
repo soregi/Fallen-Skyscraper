@@ -6,11 +6,11 @@ title = c_gangseo
 # Settlements
 max_settlements = 6
 
-b_gangseobusan = city
-b_daejeo = city
-b_noksan = castle
-b_gangdongbusan = temple
-b_myeongji = city
+b_gangseo_gangseo = city
+b_daejeo_gangseo = city
+b_noksan_gangseo = castle
+b_gangdong_gangseo = temple
+b_myeongji_gangseo = city
 
 # Misc
 culture = yeongnam

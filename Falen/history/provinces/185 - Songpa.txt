@@ -6,10 +6,10 @@ title = c_songpa
 # Settlements
 max_settlements = 6
 
-b_songpa = castle
-b_jamsil = city
-b_garak_seoul = temple
-b_seokchon = castle
+b_songpa_songpa = castle
+b_jamsil_songpa = city
+b_garak_songpa = temple
+b_seokchon_songpa = castle
 
 # Misc
 culture = seoul
@@ -17,13 +17,13 @@ religion = koreanist
 
 2200.1.1 = {
 	religion = populist
-	b_songpa = ca_seoul_special_0
-	b_songpa = ca_keep_1
-	b_songpa = ca_militia_barracks_1
-	b_songpa = ca_wall_1
-	b_songpa = ca_town_1
-	b_songpa = ca_town_2
-	b_jamsil = ct_marketplace_1
-	b_jamsil = ct_marketplace_2
-	b_jamsil = ct_university_1
+	b_songpa_songpa = ca_seoul_special_0
+	b_songpa_songpa = ca_keep_1
+	b_songpa_songpa = ca_militia_barracks_1
+	b_songpa_songpa = ca_wall_1
+	b_songpa_songpa = ca_town_1
+	b_songpa_songpa = ca_town_2
+	b_jamsil_songpa = ct_marketplace_1
+	b_jamsil_songpa = ct_marketplace_2
+	b_jamsil_songpa = ct_university_1
 }

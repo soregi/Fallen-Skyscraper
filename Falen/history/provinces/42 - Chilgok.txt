@@ -6,9 +6,9 @@ title = c_chilgok
 # Settlements
 max_settlements = 4
 
-b_chilgok = castle
-b_waegwan = temple
-b_dongmyeongchilgok = city
+b_chilgok_chilgok = castle
+b_waegwan_chilgok = temple
+b_dongmyeong_chilgok = city
 
 # Misc
 culture = yeongnam

@@ -6,8 +6,8 @@ title = c_pocheon
 # Settlements
 max_settlements = 4
 
-b_pocheon = castle
-b_seondan = temple
+b_pocheon_pocheon = castle
+b_seondan_pocheon = temple
 
 # Misc
 culture = gyeonggi

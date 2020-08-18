@@ -6,10 +6,10 @@ title = c_yeongdeungpo
 # Settlements
 max_settlements = 6
 
-b_yeongdeungpo = castle
-b_yeouido = city
-b_gukhoe = temple
-b_daerim = castle
+b_yeongdeungpo_yeongdeungpo = castle
+b_yeouido_yeongdeungpo = city
+b_gukhoe_yeongdeungpo = temple
+b_daerim_yeongdeungpo = castle
 
 # Misc
 culture = seoul
@@ -17,17 +17,17 @@ religion = koreanist
 
 2200.1.1 = {
 	religion = populist
-	b_yeongdeungpo = ca_seoul_special_0
-	b_yeongdeungpo = ca_keep_1
-	b_yeongdeungpo = ca_militia_barracks_1
-	b_yeongdeungpo = ca_wall_1
-	b_yeongdeungpo = ca_town_1
-	b_yeongdeungpo = ca_town_2
-	b_yeouido = ct_marketplace_1
-	b_yeouido = ct_marketplace_2
-	b_yeouido = ct_guard_1
-	b_yeouido = ct_university_1
-	b_gukhoe = tp_wall_1
-	b_gukhoe = tp_wall_2
-	b_gukhoe = tp_barracks_1
+	b_yeongdeungpo_yeongdeungpo = ca_seoul_special_0
+	b_yeongdeungpo_yeongdeungpo = ca_keep_1
+	b_yeongdeungpo_yeongdeungpo = ca_militia_barracks_1
+	b_yeongdeungpo_yeongdeungpo = ca_wall_1
+	b_yeongdeungpo_yeongdeungpo = ca_town_1
+	b_yeongdeungpo_yeongdeungpo = ca_town_2
+	b_yeouido_yeongdeungpo = ct_marketplace_1
+	b_yeouido_yeongdeungpo = ct_marketplace_2
+	b_yeouido_yeongdeungpo = ct_guard_1
+	b_yeouido_yeongdeungpo = ct_university_1
+	b_gukhoe_yeongdeungpo = tp_wall_1
+	b_gukhoe_yeongdeungpo = tp_wall_2
+	b_gukhoe_yeongdeungpo = tp_barracks_1
 }

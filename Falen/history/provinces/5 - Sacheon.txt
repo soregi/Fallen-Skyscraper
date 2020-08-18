@@ -6,7 +6,7 @@ title = c_sacheon
 # Settlements
 max_settlements = 4
 
-b_sacheon = castle
+b_sacheon_sacheon = castle
 
 # Misc
 culture = sudsee

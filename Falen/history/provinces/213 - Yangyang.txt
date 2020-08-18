@@ -6,7 +6,7 @@ title = c_yangyang
 # Settlements
 max_settlements = 4
 
-b_yangyang = tribal
+b_yangyang_yangyang = tribal
 
 # Misc
 culture = yeongdong

@@ -6,9 +6,9 @@ title = c_dasa
 # Settlements
 max_settlements = 5
 
-b_dasa = castle
-b_habin = temple
-b_maegok = city
+b_dasa_dasa = castle
+b_habin_dasa = temple
+b_maegok_dasa = city
 
 # Misc
 culture = yeongnam

@@ -6,7 +6,7 @@ title = c_munsan
 # Settlements
 max_settlements = 5
 
-b_munsan = tribal
+b_munsan_munsan = tribal
 
 # Misc
 culture = gyeonggi

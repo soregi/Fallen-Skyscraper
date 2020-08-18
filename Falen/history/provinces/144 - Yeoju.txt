@@ -6,7 +6,7 @@ title = c_yeoju
 # Settlements
 max_settlements = 5
 
-b_yeoju = tribal
+b_yeoju_yeoju = tribal
 
 # Misc
 culture = gyeonggi

@@ -6,10 +6,10 @@ title = c_bucheon
 # Settlements
 max_settlements = 4
 
-b_bucheon = castle
-b_ojeong = temple
-b_simgok = city
+b_bucheon_bucheon = castle
+b_ojeong_bucheon = temple
+b_simgok_bucheon = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

@@ -6,9 +6,9 @@ title = c_masan
 # Settlements
 max_settlements = 5
 
-b_masan = castle
-b_nosan = city
-b_wanwol = temple
+b_masan_masan = castle
+b_nosan_masan = city
+b_wanwol_masan = temple
 
 # Misc
 culture = yeongnam

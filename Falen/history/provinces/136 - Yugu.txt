@@ -6,7 +6,7 @@ title = c_yugu
 # Settlements
 max_settlements = 5
 
-b_yugu = castle
+b_yugu_yugu = castle
 b_gugye_yugu = city
 b_sagok_yugu = temple
 

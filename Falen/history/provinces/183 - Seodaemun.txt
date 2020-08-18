@@ -6,11 +6,11 @@ title = c_seodaemun
 # Settlements
 max_settlements = 5
 
-b_seodaemun = castle
-b_eunpyeong = city
-b_sinchon = temple
-b_yeonhuiseoul = castle
-b_yeokdong = temple
+b_seodaemun_seodaemun = castle
+b_eunpyeong_seodaemun = city
+b_sinchon_seodaemun = temple
+b_yeonhui_seodaemun = castle
+b_yeokdong_seodaemun = temple
 
 # Misc
 culture = seoul
@@ -18,13 +18,13 @@ religion = koreanist
 
 2200.1.1 = {
 	religion = authoritarian
-	b_seodaemun = ca_seoul_special_0
-	b_seodaemun = ca_keep_1
-	b_seodaemun = ca_militia_barracks_1
-	b_seodaemun = ca_wall_1
-	b_seodaemun = ca_town_1
-	b_seodaemun = ca_town_2
-	b_eunpyeong = ct_marketplace_1
-	b_eunpyeong = ct_marketplace_2
-	b_eunpyeong = ct_university_1
+	b_seodaemun_seodaemun = ca_seoul_special_0
+	b_seodaemun_seodaemun = ca_keep_1
+	b_seodaemun_seodaemun = ca_militia_barracks_1
+	b_seodaemun_seodaemun = ca_wall_1
+	b_seodaemun_seodaemun = ca_town_1
+	b_seodaemun_seodaemun = ca_town_2
+	b_eunpyeong_seodaemun = ct_marketplace_1
+	b_eunpyeong_seodaemun = ct_marketplace_2
+	b_eunpyeong_seodaemun = ct_university_1
 }

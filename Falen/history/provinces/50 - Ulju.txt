@@ -6,9 +6,9 @@ title = c_ulju
 # Settlements
 max_settlements = 5
 
-b_ulju = castle
-b_bemseo = city
-b_dudong = temple
+b_ulju_ulju = castle
+b_bemseo_ulju = city
+b_dudong_ulju = temple
 b_onyang_ulju = castle
 
 # Misc

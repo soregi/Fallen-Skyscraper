@@ -5,8 +5,8 @@ title = c_yongsan
 # Settlements
 max_settlements = 5
 
-b_yongsan = castle
-b_itaewon = temple
+b_yongsan_yongsan = castle
+b_itaewon_yongsan = temple
 
 # Misc
 culture = seoul
@@ -14,16 +14,16 @@ religion = koreanist
 
 2200.1.1 = {
 	religion = authoritarian
-	b_yongsan = ca_seoul_special_0
-	b_yongsan = ca_keep_1
-	b_yongsan = ca_militia_barracks_1
-	b_yongsan = ca_wall_1
-	b_yongsan = ca_town_1
-	b_yongsan = ca_town_2
-	b_itaewon = tp_monastery_1
-	b_itaewon = tp_monastery_2
-	b_itaewon = tp_monastery_3
-	b_itaewon = tp_school_1
-	b_itaewon = tp_barracks_1
-	b_itaewon = tp_town_1
+	b_yongsan_yongsan = ca_seoul_special_0
+	b_yongsan_yongsan = ca_keep_1
+	b_yongsan_yongsan = ca_militia_barracks_1
+	b_yongsan_yongsan = ca_wall_1
+	b_yongsan_yongsan = ca_town_1
+	b_yongsan_yongsan = ca_town_2
+	b_itaewon_yongsan = tp_monastery_1
+	b_itaewon_yongsan = tp_monastery_2
+	b_itaewon_yongsan = tp_monastery_3
+	b_itaewon_yongsan = tp_school_1
+	b_itaewon_yongsan = tp_barracks_1
+	b_itaewon_yongsan = tp_town_1
 }

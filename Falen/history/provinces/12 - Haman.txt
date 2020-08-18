@@ -6,9 +6,9 @@ title = c_haman
 # Settlements
 max_settlements = 5
 
-b_haman = castle
-b_gaya = city
-b_gunbuk = temple
+b_haman_haman = castle
+b_gaya_haman = city
+b_gunbuk_haman = temple
 
 # Misc
 culture = yeongnam

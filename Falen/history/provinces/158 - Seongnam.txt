@@ -6,9 +6,9 @@ title = c_seongnam
 # Settlements
 max_settlements = 5
 
-b_seongnam = castle
-b_pangyo = city
-b_sujeong = temple
+b_seongnam_seongnam = castle
+b_pangyo_seongnam = city
+b_sujeong_seongnam = temple
 b_jungwon_seongnam = castle
 
 # Misc

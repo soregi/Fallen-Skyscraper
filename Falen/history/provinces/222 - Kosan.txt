@@ -6,7 +6,7 @@ title = c_kosan
 # Settlements
 max_settlements = 4
 
-b_kosan = temple
+b_kosan_kosan = temple
 b_kuup_kosan = castle
 
 # Misc

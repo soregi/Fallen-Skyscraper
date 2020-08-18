@@ -6,7 +6,7 @@ title = c_kangneng
 # Settlements
 max_settlements = 7
 
-b_kangneng = tribal
+b_kangneng_kangneng = tribal
 b_ponam_kangneng = temple
 
 # Misc

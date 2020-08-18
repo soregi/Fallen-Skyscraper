@@ -6,7 +6,7 @@ title = c_seosan
 # Settlements
 max_settlements = 5
 
-b_seosan = castle
+b_seosan_seosan = castle
 b_dongmun_seosan = city
 b_buchun_seosan = temple
 

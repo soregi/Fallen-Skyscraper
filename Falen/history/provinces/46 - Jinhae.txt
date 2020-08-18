@@ -6,10 +6,10 @@ title = c_jinhae
 # Settlements
 max_settlements = 5
 
-b_jinhae = castle
-b_taepyeong = castle
-b_yeojwa = city
-b_gyeonghwa = temple
+b_jinhae_jinhae = castle
+b_taepyeong_jinhae = castle
+b_yeojwa_jinhae = city
+b_gyeonghwa_jinhae = temple
 
 # Misc
 culture = yeongnam

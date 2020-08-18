@@ -6,7 +6,7 @@ title = c_cheongpyeong
 # Settlements
 max_settlements = 3
 
-b_cheongpyeong = castle
+b_cheongpyeong_cheongpyeong = castle
 b_goseong_cheongpyeong = temple
 b_daeseong_cheongpyeong = city
 

@@ -6,7 +6,7 @@ title = c_gunwi
 # Settlements
 max_settlements = 5
 
-b_gunwi = tribal
+b_gunwi_gunwi = tribal
 
 # Misc
 culture = yeongnam

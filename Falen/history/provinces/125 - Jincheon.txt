@@ -6,7 +6,7 @@ title = c_jincheon
 # Settlements
 max_settlements = 5
 
-b_jincheon = castle
+b_jincheon_jincheon = castle
 b_iwol_jincheon = city
 b_gwanghyewon_jincheon = temple
 

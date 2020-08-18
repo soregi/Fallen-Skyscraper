@@ -6,9 +6,9 @@ title = c_hanam
 # Settlements
 max_settlements = 5
 
-b_hanam = castle
+b_hanam_hanam = castle
 b_sinjang_hanam = city
-b_deokpung = temple
+b_deokpung_hanam = temple
 b_misa_hanam = castle
 
 # Misc

@@ -6,9 +6,9 @@ title = c_osan
 # Settlements
 max_settlements = 4
 
-b_osan = castle
-b_namchon = city
-b_sema = city
+b_osan_osan = castle
+b_namchon_osan = city
+b_sema_osan = city
 
 # Misc
 culture = gyeonggi

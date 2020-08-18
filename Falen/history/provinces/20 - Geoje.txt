@@ -6,9 +6,9 @@ title = c_geoje
 # Settlements
 max_settlements = 5
 
-b_geoje = castle
-b_gohyeongeoje = city
-b_sangmun = temple
+b_geoje_geoje = castle
+b_gohyeon_geoje = city
+b_sangmun_geoje = temple
 
 
 # Misc

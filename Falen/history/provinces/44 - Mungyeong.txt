@@ -6,9 +6,9 @@ title = c_mungyeong
 # Settlements
 max_settlements = 5
 
-b_mungyeong = castle
-b_jeomchon = temple
-b_gaeun = city
+b_mungyeong_mungyeong = castle
+b_jeomchon_mungyeong = temple
+b_gaeun_mungyeong = city
 			
 # Misc
 culture = yeongnam

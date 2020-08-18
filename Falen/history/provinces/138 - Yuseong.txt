@@ -6,7 +6,7 @@ title = c_yuseong
 # Settlements
 max_settlements = 5
 
-b_yuseong = castle
+b_yuseong_yuseong = castle
 b_wonsinheung_yuseong = city
 b_noeun_yuseong = city
 b_sinseong_yuseong = temple

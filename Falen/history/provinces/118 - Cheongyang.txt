@@ -6,7 +6,7 @@ title = c_cheongyang
 # Settlements
 max_settlements = 5
 
-b_cheongyang = castle
+b_cheongyang_cheongyang = castle
 b_namyang_cheongyang = city
 b_daechi_cheongyang = temple
 
