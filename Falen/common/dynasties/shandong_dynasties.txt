@@ -1,0 +1,115 @@
+4001201 = {
+	name = "Nu"
+	culture = old_chinese
+	religion = confucian
+}
+4001202 = {
+	name = "Tian"
+	culture = old_chinese
+	religion = confucian
+}
+4001203 = {
+	name = "Jiang"
+	culture = old_chinese
+	religion = confucian
+}
+4001204 = {
+	name = "Han"
+	culture = old_chinese
+	religion = confucian
+}
+4001205 = {
+	name = "Zhang"
+	culture = yantai
+	religion = taoist
+}
+4001207 = {
+	name = "Deng"
+	culture = weihai
+	religion = confucian
+}
+4001208 = {
+	name = "von kiautschou"
+	culture = tsingtao
+	religion = protestant
+}
+4001209 = {
+	name = "von eunjung"
+	culture = tsingtao
+	religion = protestant
+}
+4001210 = {
+	name = "werner"
+	culture = tsingtao
+	religion = protestant
+}
+4001211 = {
+	name = "von moltke"
+	culture = tsingtao
+	religion = protestant
+}
+4001212 = {
+	name = "Xi"
+	culture = yantai
+	religion = confucian
+}
+4001213 = {
+	name = "Deng"
+	culture = qingdao
+	religion = confucian
+}
+4001214 = {
+	name = "Roza"
+	culture = tsingtao
+	religion = protestant
+}
+4001215 = {
+	name = "Song"
+	culture = qingdao
+	religion = taoist
+}
+4001216 = {
+	name = "Xun"
+	culture = weihai
+	religion = confucian
+}
+4001217 = {
+	name = "Jiang"
+	culture = yantai
+	religion = taoist
+}
+4001218 = {
+	name = "Liu"
+	culture = yantai
+	religion = taoist
+}
+4001219 = {
+	name = "Guan"
+	culture = qingdao
+	religion = taoist
+}
+4001220 = {
+	name = "Kong"
+	culture = weihai
+	religion = confucian
+}
+4001221 = {
+	name = "Liao"
+	culture = weihai
+	religion = confucian
+}
+4001222 = {
+	name = "Song"
+	culture = weihai
+	religion = confucian
+}
+4001223 = {
+	name = "Jin"
+	culture = yantai
+	religion = confucian
+}
+4001224 = {
+	name = "Biao"
+	culture = yantai
+	religion = confucian
+}

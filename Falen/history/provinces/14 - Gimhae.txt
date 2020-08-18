@@ -8,9 +8,9 @@ max_settlements = 7
 
 b_gimhae = city
 b_jinyeong = castle
-b_dongsang = city
+b_dongsang = temple
 b_hoehyeon = temple
-b_buwon = castle
+b_buwon = city
 
 # Misc
 culture = yeongnam

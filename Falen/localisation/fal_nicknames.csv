@@ -30,7 +30,7 @@ nick_cheoljong;Cheoljong;;;;;;;;;;;;;x
 nick_gojong;Gwangmu;;;;;;;;;;;;;x
 nick_sunjong;Yunghui;;;;;;;;;;;;;x
 nick_prince_jeongwon;Prince Jeongwon;;;;;;;;;;;;;x
-nick_crown_prince_uigyeong;Crown Prince Uigyeong;;;;;;;;;;;;;x
+nick_deokjong;Deokjong;;;;;;;;;;;;;x
 nick_crown_prince_hyomyeong;Crown Prince Hyomyeong;;;;;;;;;;;;;x
 nick_jeongye_daewongun;Jeon'gye;;;;;;;;;;;;;x
 nick_prince_euneon;Eun'eon;;;;;;;;;;;;;x
@@ -145,4 +145,7 @@ nick_gwangpyeong_daegun;Gwangpyeong Daegun;;;;;;;;;;;;;x
 nick_geumseong_daegun;Geumseong Daegun;;;;;;;;;;;;;x
 nick_pyeongwon_daegun;Pyeong'won Daegun;;;;;;;;;;;;;x
 nick_yeongeung_daegun;Yeong'eung Daegun;;;;;;;;;;;;;x
-
+#덕종예종 자손
+nick_weolsan_daegun;Weolsan Daegun;;;;;;;;;;;;;x
+nick_jean_daegun;Je'an Daegun;;;;;;;;;;;;;x
+nick_inseong_daegun;Inseong Daegun;;;;;;;;;;;;;x

@@ -278,6 +278,10 @@ k_samsung = { #강철 조합국
 	color2 = { 25 25 112 }
 	short_name = yes
 }
+d_gangseo = { #r강서공
+	color = { 132 0 201 }
+	color2= { 86 110 22 }
+}
 ######################################
 # 상인공화국 가문들의 자리. 이 아래에 가문말고 넣지말것  #
 ######################################
@@ -303,47 +307,43 @@ b_jeon = {
 	religion = populist
 }
 #부산
-k_busan = {
-    culture = yeongnam
-    religion = populist
-}
-b_oh = {
+b_oh_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_gwon = {
+b_gwon_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_choi = {
+b_choi_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_do = {
+b_do_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_na = {
+b_na_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_myeong = {
+b_myeong_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_roh = {
+b_roh_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_gim = {
+b_gim_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_jeong = {
+b_jeong_busan = {
 	culture = yeongnam
 	religion = populist
 }
-b_lee = {
+b_lee_busan = {
 	culture = yeongnam
 	religion = populist
 }

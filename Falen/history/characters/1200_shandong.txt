@@ -9,7 +9,7 @@
 	trait = kind
 	trait = patient
 	trait = just
-  trait = honest
+	trait = honest
 	give_nickname = nick_no_jugong
 	2101.1.1 = {
 		birth = yes
@@ -23,7 +23,7 @@
 	dynasty = 4001202 # 톈
 	culture = old_chinese
 	religion = confucian
-  trait = ancient
+	trait = ancient
 	1870.1.1 = {
 		birth = yes
 	}
@@ -36,16 +36,16 @@
 	dynasty = 4001203 # 장
 	culture = old_chinese
 	religion = confucian
-  trait = ancient
-  trait = skilled_tactician
-  trait = lustful
-  trait = greedy
-  give_nickname = nick_gaegogi_jang_gun
+	trait = ancient
+	trait = skilled_tactician
+	trait = lustful
+	trait = greedy
+	give_nickname = nick_gaegogi_jang_gun
 	1881.2.13 = {
 		birth = yes
 	}
 	1932.9.3 = {
-	death = yes
+		death = yes
 	}
 }
 1203 = {
@@ -53,14 +53,14 @@
 	dynasty = 4001204 # 한
 	culture = old_chinese
 	religion = confucian
-  trait = ancient
-  trait = misguided_warriorcraven
-  trait = craven
+	trait = ancient
+	trait = misguided_warriorcraven
+	trait = craven
 	1890.1.25 = {
 		birth = yes
 	}
 	1938.1.24 = {
-	death = yes
+		death = yes
 	}
 }
 1204 = {
@@ -68,72 +68,72 @@
 	dynasty = 4001205 # 장
 	culture = shandong
 	religion = taoist
-  trait = mastermind_theologian
-  trait = quick
-  trait = physician
-  trait = mystic
-  trait = charitable
-  trait = is_malnourished
-  trait = celibate
-  trait = cancer
-  give_nickname = nick_Tian_gong
+	trait = mastermind_theologian
+	trait = quick
+	trait = physician
+	trait = mystic
+	trait = charitable
+	trait = is_malnourished
+	trait = celibate
+	trait = cancer
+	give_nickname = nick_Tian_gong
 	2400.2.13 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+				death = yes
+				}
 }
 1205 = {
 	name = "Dekong"
-	dynasty = 4001206 # 쿵
-	culture = shandong
+	dynasty = 4001220
+	culture = weihai
 	religion = confucian
-  trait = scholarly_theologian
-  trait = feeble
-  trait = craven
-  trait = zealous
-  trait = deceitful
-  give_nickname = nick_Seong_Gong
+	trait = scholarly_theologian
+	trait = feeble
+	trait = craven
+	trait = zealous
+	trait = deceitful
+	give_nickname = nick_Seong_Gong
 	2410.2.12 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+				death = yes
+				}
 }
 1206 = {
 	name = "Dekong"
 	dynasty = 4001207 # 덩
-	culture = shandong
+	culture = weihai
 	religion = confucian
-  trait = brilliant_strategist
-  trait = brawny
-  trait = duelist
-  trait = brave
-  trait = zealous
-  trait = honest
+	trait = brilliant_strategist
+	trait = brawny
+	trait = duelist
+	trait = brave
+	trait = zealous
+	trait = honest
 	2404.2.14 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+				death = yes
+				}
 }
 1207 = {
 	name = "Friedrich"
 	dynasty = 4001208 # 폰 키아우초우
 	culture = tsingtao
 	religion = protestant
-  trait = fortune_builder
-  trait = administrator
-  trait = diligent
+	trait = fortune_builder
+	trait = administrator
+	trait = diligent
 	2416.4.16 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+				death = yes
+				}
 }
 1208 = {
 	name = "Albrecht"
@@ -145,97 +145,97 @@
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+				death = yes
+				}
 }
 1209 = {
 	name = "Kuang"
-	dynasty = 4001206 # 쿵
-	culture = shandong
+	dynasty = 4001220 # 쿵
+	culture = weihai
 	religion = confucian
-  trait = amateurish_plotter
-  trait = slothful
+	trait = amateurish_plotter
+	trait = slothful
 	2412.9.4 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+				death = yes
+				}
 }
 1210 = {
 	name = "Yan"
 	dynasty = 4001205 # 장
-	culture = shandong
+	culture = yantai
 	religion = taoist
-  trait = fortune_builder
-  trait = humble
-  trait = poet
-  trait = just
-  trait = greedy
-  trait = twin
+	trait = fortune_builder
+	trait = humble
+	trait = poet
+	trait = just
+	trait = greedy
+	trait = twin
 	give_nickname = nick_Di_Gong
 	2407.8.7 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+				death = yes
+				}
 }
 1211 = {
 	name = "Hanna"
 	dynasty = 4001208 # 폰 키아우초우
 	culture = tsingtao
 	religion = protestant
-  trait = underhanded_rogue
-  trait = fair
-  trait = lustful
-  trait = groomed
-  trait = kind
-	2440.12.8 = {
-        add_spouse = 1207
-        }
+	female = yes
+	trait = underhanded_rogue
+	trait = fair
+	trait = lustful
+	trait = groomed
+	trait = kind
 	2420.12.6 = {
 		birth = yes
 	}
+	2440.12.8 = {
+		add_spouse = 1207
+	}
 	2500.1.1 = {
-        death = yes
-        }
-	female = yes
+		death = yes
+	}
 }
 1212 = {
 	name = "Liang"
 	dynasty = 4001205 # 장
-	culture = shandong
+	culture = yantai
 	religion = taoist
-  trait = skilled_tactician
-  trait = patient
-  trait = falconer
-  trait = stubborn
-  trait = proud
-  trait = ambitious
-  trait = twin
+	trait = skilled_tactician
+	trait = patient
+	trait = falconer
+	trait = stubborn
+	trait = proud
+	trait = ambitious
+	trait = twin
 	give_nickname = nick_Lian_Gong
 	2407.8.7 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1213 = {
 	name = "Silverstein"
 	dynasty = 4001209 # 폰 은정
 	culture = tsingtao
 	religion = protestant
-  trait = elusive_shadow
-  trait = lunatic
-  trait = schemer
+	trait = elusive_shadow
+	trait = lunatic
+	trait = schemer
 	2417.3.4 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1214 = {
 	name = "Heinrich"
@@ -246,8 +246,8 @@
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1215 = {
 	name = "Helmuth"
@@ -258,109 +258,109 @@
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1216 = {
 	name = "Meifeng"
 	dynasty = 4001212 # 시
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	2420.7.6 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1217 = {
 	name = "Xiaoming"
 	dynasty = 4001213 # 멍
-	culture = shandong
+	culture = qingdao
 	religion = confucian
 	2416.4.6 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1218 = {
 	name = "Roza"
 	dynasty = 4001214 # 티테
-	culture = central_germanic
+	culture = tsingtao
 	religion = protestant
-  trait = charismatic_negotiator
-  trait = fair
-  trait = seductress
+	trait = charismatic_negotiator
+	trait = fair
+	trait = seductress
 	2426.6.4 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1219 = {
 	name = "Qiang"
 	dynasty = 4001215 # 쑹
-	culture = shandong
+	culture = qingdao
 	religion = taoist
 	2380.9.7 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1220 = {
 	name = "Kongji" 
-	dynasty = 4001206 # 쿵
-	culture = shandong
+	dynasty = 4001220 # 쿵
+	culture = weihai
 	religion = confucian
 	father = 1205
 	2440.6.7 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1221 = {
 	name = "Meng"
 	dynasty = 4001213 # 멍
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	2406.1.16 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1222 = {
 	name = "Lu"
 	dynasty = 4001216 # 쉰
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	2405.7.8 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1223 = {
 	name = "E"
 	dynasty = 4001215 # 쑹
-	culture = shandong
+	culture = qingdao
 	religion = confucian
 	father = 1209
 	2406.7.8 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1224 = {
 	name = "Rundburg"
@@ -372,62 +372,62 @@
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1225 = {
 	name = "Xuan"
 	dynasty = 4001217 # 장
-	culture = shandong
+	culture = yantai
 	religion = taoist
 	2423.3.16 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1226 = {
 	name = "Leifeng"
 	dynasty = 4001218 # 류
-	culture = shandong
+	culture = yantai
 	religion = taoist
 	2419.8.15 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1227 = {
 	name = "Yu"
 	dynasty = 4001219 # 관
-	culture = shandong
+	culture = qingdao
 	religion = taoist
 	2418.9.9 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1228 = {
 	name = "Zilin"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	give_nickname = nick_Chang_Wang
 	2120.3.26 = {
 		birth = yes
 	}
 	2200.6.8 = {
-	death = yes
+		death = yes
 	}
 }
 1229 = {
 	name = "Sengji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1228
 	give_nickname = nick_Mu_Wang
@@ -435,13 +435,13 @@
 		birth = yes
 	}
 	2222.2.2 = {
-	death = yes
+		death = yes
 	}
 }
 1230 = {
 	name = "Liongji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1229
 	give_nickname = nick_Go_Wang
@@ -449,13 +449,13 @@
 		birth = yes
 	}
 	2249.7.9 = {
-	death = yes
+		death = yes
 	}
 }
 1231 = {
 	name = "Miaoji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1230
 	give_nickname = nick_Myeong_Wang
@@ -463,13 +463,13 @@
 		birth = yes
 	}
 	2250.1.2 = {
-	death = yes
+		death = yes
 	}
 }
 1232 = {
 	name = "Suji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1231
 	give_nickname = nick_Sung_Wang
@@ -477,13 +477,13 @@
 		birth = yes
 	}
 	2268.4.24 = {
-	death = yes
+		death = yes
 	}
 }
 1233 = {
 	name = "Duji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1232
 	give_nickname = nick_Wun_Wang
@@ -491,13 +491,13 @@
 		birth = yes
 	}
 	2279.1.5 = {
-	death = yes
+		death = yes
 	}
 }
 1234 = {
 	name = "Rede"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1232
 	give_nickname = nick_Gang_Wang
@@ -505,13 +505,13 @@
 		birth = yes
 	}
 	2304.1.5 = {
-	death = yes
+		death = yes
 	}
 }
 1235 = {
 	name = "Liuji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1233
 	give_nickname = nick_Mok_Wang
@@ -519,13 +519,13 @@
 		birth = yes
 	}
 	2301.1.2 = {
-	death = yes
+		death = yes
 	}
 }
 1236 = {
 	name = "Biaolin"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1234
 	give_nickname = nick_Wung_Wang
@@ -533,13 +533,13 @@
 		birth = yes
 	}
 	2304.4.6 = {
-	death = yes
+		death = yes
 	}
 }
 1237 = {
 	name = "Likong"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1234
 	give_nickname = nick_Hye_Wang
@@ -547,39 +547,39 @@
 		birth = yes
 	}
 	2307.1.4 = {
-	death = yes
+		death = yes
 	}
 }
 1238 = {
 	name = "Shude"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1231
 	2232.7.30 = {
 		birth = yes
 	}
 	2292.12.8 = {
-	death = yes
+		death = yes
 	}
 }
 1239 = {
 	name = "Zhisou"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1238
 	2263.5.14 = {
 		birth = yes
 	}
 	2300.3.4 = {
-	death = yes
+		death = yes
 	}
 }
 1240 = {
 	name = "Wusi"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1232
 	2241.7.12 = {
@@ -592,20 +592,20 @@
 1241 = {
 	name = "Zhiyang"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1240
 	2260.1.2 = {
 		birth = yes
 	}
 	2301.8.8 = {
-	death = yes
+		death = yes
 	}
 }
 1242 = {
 	name = "Denghua"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1239
 	give_nickname = nick_Ae_Wang
@@ -613,13 +613,13 @@
 		birth = yes
 	}
 	2321.7.2 = {
-	death = yes
+		death = yes
 	}
 }
 1243 = {
 	name = "Rekong"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1241
 	give_nickname = nick_Huan_Wang
@@ -627,13 +627,13 @@
 		birth = yes
 	}
 	2347.6.27 = {
-	death = yes
+		death = yes
 	}
 }
 1244 = {
 	name = "Kangji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1242
 	give_nickname = nick_Jung_Wang
@@ -641,13 +641,13 @@
 		birth = yes
 	}
 	2356.7.8 = {
-	death = yes
+		death = yes
 	}
 }
 1245 = {
 	name = "Liaoji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1244
 	give_nickname = nick_Yae_Wang
@@ -655,13 +655,13 @@
 		birth = yes
 	}
 	2369.9.9 = {
-	death = yes
+		death = yes
 	}
 }
 1246 = {
 	name = "Diaoli"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1245
 	give_nickname = nick_Min_Wang
@@ -669,13 +669,13 @@
 		birth = yes
 	}
 	2400.1.2 = {
-	death = yes
+		death = yes
 	}
 }
 1247 = {
 	name = "Toji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1246
 	give_nickname = nick_Jung_Gong
@@ -683,13 +683,13 @@
 		birth = yes
 	}
 	2442.3.8 = {
-	death = yes
+		death = yes
 	}
 }
 1248 = {
 	name = "Paji"
 	dynasty = 4001220 # 쿵
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1247
 	give_nickname = nick_Myeol_Gong
@@ -697,137 +697,137 @@
 		birth = yes
 	}
 	2443.11.7 = {
-	death = yes
+		death = yes
 	}
 }
 1249 = {
 	name = "Bing"
 	dynasty = 4001219 # 랴오
-	culture = shandong
+	female = yes
+	culture = weihai
 	religion = confucian
-	2428.6.9 = {
-        add_spouse = 1205
-        }
 	2413.3.27 = {
 		birth = yes
 	}
+	2428.6.9 = {
+		add_spouse = 1205
+	}
 	2500.1.1 = {
-        death = yes
-        }
-	female = yes
+		death = yes
+	}
 }
 1250 = {
 	name = "Peiling"
 	dynasty = 4001222 # 쑹
-	culture = shandong
+	culture = weihai
 	religion = confucian
-  trait = elusive_shadow
-	2425.8.19 = {
-        add_spouse = 1206
-        }
+	female = yes
+	trait = elusive_shadow
 	2409.6.25 = {
 		birth = yes
 	}
+	2425.8.19 = {
+		add_spouse = 1206
+	}
 	2500.1.1 = {
-        death = yes
-        }
-	female = yes
+		death = yes
+	}
 }
 1251 = {
 	name = "Chuanlin"
 	dynasty = 4001207 # 덩
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1206
 	2432.9.8 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1252 = {
 	name = "Jilin"
 	dynasty = 4001207 # 덩
-	culture = shandong
+	culture = weihai
 	religion = confucian
 	father = 1206
 	2434.9.7 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1253 = {
 	name = "Bingdi"
 	dynasty = 4001223 # 찐
-	culture = shandong
+	culture = yantai
 	religion = taoist
-	2430.1.12 = {
-        add_spouse = 1210
-        }
+	female = yes
 	2409.1.12 = {
 		birth = yes
 	}
+	2430.1.12 = {
+		add_spouse = 1210
+	}
 	2500.1.1 = {
-        death = yes
-        }
-	female = yes
+		death = yes
+	}
 }
 1254 = {
 	name = "Ziyi"
 	dynasty = 4001224 # 뱌오
-	culture = shandong
+	culture = yantai
 	religion = taoist
-	2429.4.4 = {
-        add_spouse = 1212
-        }
+	female = yes
 	2411.4.3 = {
 		birth = yes
 	}
+	2429.4.4 = {
+		add_spouse = 1212
+	}
 	2500.1.1 = {
-        death = yes
-        }
-	female = yes
+		death = yes
+	}
 }
 1255 = {
 	name = "Tianlin"
 	dynasty = 4001205 # 장
-	culture = shandong
+	culture = yantai
 	religion = taoist
 	father = 1210
 	2430.9.4 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }
 1256 = {
 	name = "Xu'a"
 	dynasty = 4001205 # 장
-	culture = shandong
+	culture = yantai
 	religion = taoist
 	father = 1210
+	female = yes
 	2433.12.21 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
-	female = yes
+		death = yes
+	}
 }
 1257 = {
 	name = "Fuzhe"
 	dynasty = 4001205 # 장
-	culture = shandong
+	culture = yantai
 	religion = taoist
 	father = 1210
 	2436.1.3 = {
 		birth = yes
 	}
 	2500.1.1 = {
-        death = yes
-        }
+		death = yes
+	}
 }

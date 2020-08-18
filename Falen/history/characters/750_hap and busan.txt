@@ -263,7 +263,7 @@
 }
 773 = {
 	name = "Sugguk"
-	dynasty = 4000770
+	dynasty = 4000773
 	culture = yeongnam
 	religion = populist
 	2416.3.7 = {
@@ -273,8 +273,6 @@
         death = yes
     }
 	female = yes
-	father = 770
-	mother = 774
 }
 
 774 = {
@@ -436,7 +434,7 @@
 }
 786 = {
 	name = "yeosu"
-	dynasty = 4000784
+	dynasty = 4000786
 	culture = yeongnam
 	religion = populist
 	2319.7.10 = {
@@ -445,7 +443,6 @@
 	2500.1.1 = {
         death = yes
         }
-	father = 784
 }
 787 = {
 	name = "danjeon"
