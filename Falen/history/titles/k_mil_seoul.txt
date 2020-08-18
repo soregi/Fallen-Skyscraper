@@ -1,5 +1,6 @@
 2198.7.15 = {
 	holder = 2001
+	law = succ_mil_elective
 }
 2267.8.19 = {
 	holder = 2002

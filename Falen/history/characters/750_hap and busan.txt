@@ -219,7 +219,7 @@
         }
 }
 770 = {
-	name = "Jeongsu
+	name = "Jeongsu"
 	dynasty = 4000770 # 오
 	culture = yeongnam
 	religion = populist
@@ -278,7 +278,7 @@
 }
 
 774 = {
-	name = "yeonsuk"
+	name = "Yeonsuk"
 	dynasty = 4000774  # 권
 	culture = yeongnam
 	religion = populist
@@ -292,7 +292,7 @@
 	father = 775
 }
 775 = {
-	name = "ilkang"
+	name = "Ilkang"
 	dynasty = 4000774
 	culture = yeongnam
 	religion = populist
@@ -304,7 +304,7 @@
     }
 }
 776 = {
-	name = "yeoncheol"
+	name = "Yeoncheol"
 	dynasty = 4000774
 	culture = yeongnam
 	religion = populist
@@ -317,7 +317,7 @@
 	father = 775
 }
 777 = {
-	name = "myeongun"
+	name = "Myeongun"
 	dynasty = 4000777 # 최
 	culture = yeongnam
 	religion = populist
@@ -329,7 +329,7 @@
     }
 }
 778 = {
-	name = "hosik"
+	name = "Hosik"
 	dynasty = 4000777
 	culture = yeongnam
 	religion = populist
@@ -342,7 +342,7 @@
 	father = 777
 }
 779 = {
-	name = "buyeong"
+	name = "Buyeong"
 	dynasty = 4000777
 	culture = yeongnam
 	religion = populist
@@ -356,7 +356,7 @@
 	father = 777
 }
 780 = {
-	name = "jeim"
+	name = "Jeim"
 	dynasty = 4000780 # 
 	culture = yeongnam
 	religion = authoritarian
@@ -368,7 +368,7 @@
     }
 }
 781 = {
-	name = "hwaseon"
+	name = "Hwaseon"
 	dynasty = 4000780
 	culture = yeongnam
 	religion = authoritarian
@@ -381,7 +381,7 @@
 	father = 780
 }
 782 = {
-	name = "hamin"
+	name = "Hamin"
 	dynasty = 4000780
 	culture = yeongnam
 	religion = authoritarian
@@ -395,7 +395,7 @@
 	father = 780
 }
 783 = {
-	name = "misong"
+	name = "Misong"
 	dynasty = 4000780
 	culture = yeongnam
 	religion = authoritarian
@@ -409,7 +409,7 @@
 	father = 780
 }
 784 = {
-	name = "insu"
+	name = "Insu"
 	dynasty = 4000784 # 나
 	culture = yeongnam
 	religion = populist

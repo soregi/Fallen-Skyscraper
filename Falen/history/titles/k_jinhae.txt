@@ -1,3 +1,4 @@
 2432.8.26 = {
 	holder = 1671
+	law = succ_mil_elective
 }

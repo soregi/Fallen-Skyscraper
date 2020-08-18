@@ -965,7 +965,7 @@ succession_laws = {
 		dynasty_opinion = -5
 		feudal_opinion = -5
 		potential = {
-			holder_scope = {
+			
 				OR = {
 					title = e_donghae
 					title = k_mil_seoul
@@ -975,34 +975,15 @@ succession_laws = {
 					title = k_jinhae
 					title = k_east_navy
 				}
+			holder_scope = {
 				is_nomadic = no
 				is_merchant_republic = no
 				is_patrician = no
-			#	OR = {
-			#		culture_group = byzantine
-			#		culture = roman
-			#		religion = orthodox
-			#		religion = hellenic_pagan
-			#		religion = hellenic_pagan_reformed
-			#	}
-			#	OR = {
-			#		independent = yes
-			#		NOT = {
-			#			any_demesne_title = {
-			#				is_vice_royalty = yes
-			#			}
-			#		}
-			#	}
 			}
-			#OR = {
-			#	is_landless_type_title = no
-			#	is_tribal_type_title = yes
-			#	temporary = yes
-			#}
 			#is_primary_type_title = no
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
-
+			
 		}
 		allow = {
 			custom_tooltip = {

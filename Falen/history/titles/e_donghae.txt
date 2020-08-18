@@ -1,5 +1,6 @@
 2396.12.25 = {
 	holder = 101
+	law = succ_mil_elective
 }
 2424.8.30 = {
 	holder = 102
