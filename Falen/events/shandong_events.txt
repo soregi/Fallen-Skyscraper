@@ -4,14 +4,7 @@ character_event = {
 	picture = GFX_evt_throne_room
 	
 	only_rulers = yes
-	any_courtier = {
-			OR = {
-				culture = weihai
-				culture = yantai
-				culture = qingdao
-				culture = shandong
-			}
-		
+	
 	trigger = {
 		should_evolve_cultures_trigger = yes
 		year = 2444
