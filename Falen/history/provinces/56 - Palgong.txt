@@ -6,10 +6,10 @@ title = c_palgong
 # Settlements
 max_settlements = 6
 
-b_palgong = castle
-b_chilseong = city
-b_dalseongpalgong = temple
-b_sinam = castle
+b_palgong_palgong = castle
+b_chilseong_palgong = city
+b_dalseong_palgong = temple
+b_sinam_palgong = castle
 
 
 # Misc

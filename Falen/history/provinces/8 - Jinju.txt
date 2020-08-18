@@ -6,9 +6,9 @@ title = c_jinju
 # Settlements
 max_settlements = 5
 
-b_jinju = castle
-b_cheonjeon = city
-b_pyeonggeo = temple
+b_jinju_jinju = castle
+b_cheonjeon_jinju = city
+b_pyeonggeo_jinju = temple
 
 # Misc
 culture = yeongnam

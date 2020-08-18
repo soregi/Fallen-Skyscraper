@@ -6,7 +6,7 @@ title = c_seongju
 # Settlements
 max_settlements = 5
 
-b_seongju = tribal
+b_seongju_seongju = tribal
 
 
 # Misc

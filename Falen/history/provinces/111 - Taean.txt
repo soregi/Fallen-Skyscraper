@@ -6,7 +6,7 @@ title = c_taean
 # Settlements
 max_settlements = 5
 
-b_taean = castle
+b_taean_taean = castle
 b_wonbuk_taean = city
 b_sowon_taean = temple
 

@@ -6,7 +6,7 @@ title = c_hoeyang
 # Settlements
 max_settlements = 2
 
-b_hoeyang = castle
+b_hoeyang_hoeyang = castle
 b_kangdon_hoeyang = city
 
 # Misc

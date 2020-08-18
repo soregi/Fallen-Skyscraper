@@ -6,7 +6,7 @@ title = c_gumi
 # Settlements
 max_settlements = 5
 
-b_gumi = tribal
+b_gumi_gumi = tribal
 
 # Misc
 culture = yeongnam

@@ -6,9 +6,9 @@ title = c_mapo
 # Settlements
 max_settlements = 6
 
-b_mapo = castle
-b_hapjeong = city
-b_donggyo = temple
+b_mapo_mapo = castle
+b_hapjeong_mapo = city
+b_donggyo_mapo = temple
 
 # Misc
 culture = seoul
@@ -16,12 +16,12 @@ religion = koreanist
 
 2200.1.1 = {
 	religion = populist
-	b_mapo = ca_seoul_special_0
-	b_mapo = ca_keep_1
-	b_mapo = ca_militia_barracks_1
-	b_mapo = ca_wall_1
-	b_mapo = ca_town_1
-	b_mapo = ca_town_2
-	b_hapjeong = ct_marketplace_1
-	b_hapjeong = ct_marketplace_2
+	b_mapo_mapo = ca_seoul_special_0
+	b_mapo_mapo = ca_keep_1
+	b_mapo_mapo = ca_militia_barracks_1
+	b_mapo_mapo = ca_wall_1
+	b_mapo_mapo = ca_town_1
+	b_mapo_mapo = ca_town_2
+	b_hapjeong_mapo = ct_marketplace_1
+	b_hapjeong_mapo = ct_marketplace_2
 }

@@ -6,7 +6,7 @@ title = c_hamyang
 # Settlements
 max_settlements = 3
 
-b_hamyang = tribal
+b_hamyang_hamyang = tribal
 
 # Misc
 culture = yeongnam

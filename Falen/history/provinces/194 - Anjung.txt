@@ -6,9 +6,9 @@ title = c_anjung
 # Settlements
 max_settlements = 5
 
-b_anjung = castle
-b_hakyeon = city
-b_geumgok = temple
+b_anjung_anjung = castle
+b_hakyeon_anjung = city
+b_geumgok_anjung = temple
 
 # Misc
 culture = gyeonggi

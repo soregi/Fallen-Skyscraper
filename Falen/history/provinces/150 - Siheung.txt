@@ -6,8 +6,8 @@ title = c_siheung
 # Settlements
 max_settlements = 5
 
-b_siheung = castle
-b_eunhaeng = city
+b_siheung_siheung = castle
+b_eunhaeng_siheung = city
 
 # Misc
 culture = gyeonggi

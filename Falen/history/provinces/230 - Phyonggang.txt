@@ -6,7 +6,7 @@ title = c_phyonggang
 # Settlements
 max_settlements = 4
 
-b_phyonggang = castle
+b_phyonggang_phyonggang = castle
 b_pokkye_phyonggang = temple
 b_kagok_phyonggang = city
 

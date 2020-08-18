@@ -6,7 +6,7 @@ title = c_geumya
 # Settlements
 max_settlements = 4
 
-b_geumya = castle
+b_geumya_geumya = castle
 b_kwangmyongsong_geumya = city
 b_kaljon_geumya = temple
 

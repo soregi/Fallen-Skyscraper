@@ -6,10 +6,10 @@ title = c_sangju
 # Settlements
 max_settlements = 6
 
-b_sangju = castle
-b_gyerim = city
-b_sinheung = temple
-b_hamchang = city
+b_sangju_sangju = castle
+b_gyerim_sangju = city
+b_sinheung_sangju = temple
+b_hamchang_sangju = city
 
 # Misc
 culture = yeongnam

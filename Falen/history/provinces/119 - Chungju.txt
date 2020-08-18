@@ -6,7 +6,7 @@ title = c_chungju
 # Settlements
 max_settlements = 7
 
-b_chungju = castle
+b_chungju_chungju = castle
 b_yeonsu_chungju = city 
 b_judeok_chungju = temple
 b_bongbang_chungju = castle

@@ -6,11 +6,11 @@ title = c_gyeongju
 # Settlements
 max_settlements = 6
 
-b_gyeongju = castle
-b_angang = city
-b_bodeok = temple
-b_bulguksa = temple
-b_geoncheon = castle
+b_gyeongju_gyeongju = castle
+b_angang_gyeongju = city
+b_bodeok_gyeongju = temple
+b_bulguksa_gyeongju = temple
+b_geoncheon_gyeongju = castle
 
 # Misc
 culture = yeongnam

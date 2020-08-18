@@ -10,7 +10,7 @@ k_chungcheong = {
 
 		c_cheonan = {
 			color = { 26 70 26 }
-			b_cheonan = {} # 천안
+			b_cheonan_cheonan = {} # 천안
 			b_seongjeong_cheonan = {} # 성정
 			b_ssangyong_cheonan = {} # 쌍용
 			b_buldang_cheonan = {}
@@ -20,7 +20,7 @@ k_chungcheong = {
 		}
 		c_asan = {
 			color = { 0 204 0 }
-			b_asan = {}
+			b_asan_asan = {}
 			b_onyang_asan = {}
 			b_yeomchi_asan = {}
 			b_sinchang_asan = {}
@@ -30,7 +30,7 @@ k_chungcheong = {
 		}
 		c_jochiwon = {
 			color = { 103 166 0 }
-			b_jochiwon = {}
+			b_jochiwon_jochiwon = {}
 			b_beonam_jochiwon = {}
 			b_juklim_jochiwon = {}
 			b_sinheung_jochiwon = {}
@@ -47,7 +47,7 @@ k_chungcheong = {
 
 		c_cheongju  = {
 			color = { 64 217 64 }
-			b_cheongju = {}
+			b_cheongju_cheongju = {}
 			b_seowon_cheongju = {}
 			b_sangdang_cheongju = {}
 			b_cheongwon_cheongju = {}
@@ -57,7 +57,7 @@ k_chungcheong = {
 		}
 		c_jincheon = {
 			color = { 127 217 0 }
-			b_jincheon = {}
+			b_jincheon_jincheon = {}
 			b_iwol_jincheon = {}
 			b_gwanghyewon_jincheon = {}
 			b_deoksan_jincheon = {}
@@ -67,7 +67,7 @@ k_chungcheong = {
 		}
 		c_boeun = {
 			color = { 127 217 64 }
-			b_boeun = {}
+			b_boeun_boeun = {}
 			b_maro_boeun = {}
 			b_tanbu_boeun = {}
 			b_samseung_boeun = {}
@@ -77,7 +77,7 @@ k_chungcheong = {
 		}
 		c_jeungpyeong = {
 			color = { 4 76 4 }
-			b_jeungpyeong = {}
+			b_jeungpyeong_jeungpyeong = {}
 			b_doan_jeungpyeong = {}
 			b_songsan_jeungpyeong = {}
 			b_yeontan_jeungpyeong = {}
@@ -94,7 +94,7 @@ k_chungcheong = {
 
 		c_chungju = {
 			color = { 0 191 64 }
-			b_chungju = {}
+			b_chungju_chungju = {}
 			b_yeonsu_chungju = {}
 			b_judeok_chungju = {}
 			b_bongbang_chungju = {}
@@ -104,7 +104,7 @@ k_chungcheong = {
 		}
 		c_jecheon = {
 			color = { 45 190 5 }
-			b_jecheon = {}
+			b_jecheon_jecheon = {}
 			b_namhyeon_jecheon = {}
 			b_sinbaek_jecheon = {}
 			b_yangsa_jecheon = {}
@@ -114,7 +114,7 @@ k_chungcheong = {
 		}
 		c_eumseong = {
 			color = { 64 127 0 }
-			b_eumseong = {}
+			b_eumseong_eumseong = {}
 			b_samseong_eumseong = {}
 			b_mugeuk_eumseong = {}
 			b_daeso_eumseong = {}
@@ -124,7 +124,7 @@ k_chungcheong = {
 		}
 		c_goesan = {
 			color = { 64 255 0 }
-			b_goesan = {}
+			b_goesan_goesan = {}
 			b_gammul_goesan = {}
 			b_jangyeon_goesan = {}
 			b_yeonpung_goesan = {}
@@ -134,7 +134,7 @@ k_chungcheong = {
 		}
 		c_danyang = {
 			color = { 13 204 13 }
-			b_danyang = {}
+			b_danyang_danyang = {}
 			b_maepo_danyang = {}
 			b_gagok_danyang = {}
 			b_danseong_danyang = {}
@@ -151,7 +151,7 @@ k_chungcheong = {
 
 		c_daejeon = {
 			color = { 0 191 0 }
-			b_daejeon = {}
+			b_daejeon_daejeon = {}
 			b_busa_daejeon = {}
 			b_gijang_daejeon = {}
 			b_goejeong_daejeon = {}
@@ -161,7 +161,7 @@ k_chungcheong = {
 		}
 		c_daedeok = {
 			color = { 122 255 97 }
-			b_daedeok = {}
+			b_daedeok_daedeok = {}
 			b_deogam_daedeok = {}
 			b_moksang_daedeok = {}
 			b_seokbong_daedeok = {}
@@ -171,7 +171,7 @@ k_chungcheong = {
 		}
 		c_yuseong = {
 			color = { 59 141 72 }
-			b_yuseong = {}
+			b_yuseong_yuseong = {}
 			b_wonsinheung_yuseong = {}
 			b_noeun_yuseong = {}
 			b_sinseong_yuseong = {}
@@ -181,7 +181,7 @@ k_chungcheong = {
 		}
 		c_gyeryong = {
 			color = { 0 140 0 }
-			b_gyeryong = {}
+			b_gyeryong_gyeryong = {}
 			b_geumam_gyeryong = {}
 			b_duma_gyeryong = {}
 			b_sindoan_gyeryong = {}
@@ -208,7 +208,7 @@ k_chungcheong = {
 
 		c_gongju = {
 			color = { 0 77 0 }
-			b_gongju = {}
+			b_gongju_gongju = {}
 			b_junghak_gongju = {}
 			b_ungjin_gongju = {}
 			b_singwan_gongju = {}
@@ -218,7 +218,7 @@ k_chungcheong = {
 		}
 		c_yugu = {
 			color = { 136 214 0 }
-			b_yugu = {}
+			b_yugu_yugu = {}
 			b_gugye_yugu = {}
 			b_sagok_yugu = {}
 			b_useong_yugu = {}
@@ -228,7 +228,7 @@ k_chungcheong = {
 		}
 		c_sejong = {
 			color = { 0 166 0 }
-			b_sejong = {}
+			b_sejong_sejong = {}
 			b_dodam_sejong = {}
 			b_areum_sejong = {}
 			b_jungchon_sejong = {}
@@ -239,7 +239,7 @@ k_chungcheong = {
 		c_buyeo = {
 			color = { 0 89 0 }
 			honam = "Buyeo"
-			b_buyeo = {}
+			b_buyeo_buyeo = {}
 			b_gua_buyeo = {}
 			b_ssangbuk_buyeo = {}
 			b_gugyo_buyeo = {}
@@ -256,7 +256,7 @@ k_chungcheong = {
 
 		c_seocheon = {
 			color = { 0 38 0 }
-			b_seocheon = {}
+			b_seocheon_seocheon = {}
 			b_janghang_seocheon = {}
 			b_gisan_seocheon = {}
 			b_maseo_seocheon = {}
@@ -266,7 +266,7 @@ k_chungcheong = {
 		}
 		c_gyuam = {
 			color = { 66 129 47 }
-			b_gyuam = {}
+			b_gyuam_gyuam = {}
 			b_bansan_gyuam = {}
 			b_hapsong_gyuam = {}
 			b_nohwa_gyuam = {}
@@ -276,7 +276,7 @@ k_chungcheong = {
 		}
 		c_cheongyang = {
 			color = { 59 204 0 }
-			b_cheongyang = {}
+			b_cheongyang_cheongyang = {}
 			b_namyang_cheongyang = {}
 			b_daechi_cheongyang = {}
 			b_mok_cheongyang = {}
@@ -293,7 +293,7 @@ k_chungcheong = {
 
 		c_hongju = {
 			color = { 0 102 0 }
-			b_hongju = {}
+			b_hongju_hongju = {}
 			b_hongbuk_hongju = {}
 			b_hongseong_hongju = {}
 			b_galsan_hongju = {}
@@ -303,7 +303,7 @@ k_chungcheong = {
 		}
 		c_gwangcheon = {
 			color = { 122 198 104 }
-			b_gwangcheon = {}
+			b_gwangcheon_gwangcheon = {}
 			b_naejuk_gwangcheon = {}
 			b_damsan_gwangcheon = {}
 			b_maehyeon_gwangcheon = {}
@@ -313,7 +313,7 @@ k_chungcheong = {
 		}
 		c_boryeong = {
 			color = { 0 51 0 }
-			b_boryeong = {}
+			b_boryeong_boryeong = {}
 			b_daecheon_boryeong = {}
 			b_jugyo_boryeong = {}
 			b_jupo_boryeong = {}
@@ -330,7 +330,7 @@ k_chungcheong = {
 
 		c_seosan = {
 			color = { 0 127 0 }
-			b_seosan = {}
+			b_seosan_seosan = {}
 			b_dongmun_seosan = {}
 			b_buchun_seosan = {}
 			b_seongnam_seosan = {}
@@ -340,7 +340,7 @@ k_chungcheong = {
 		}
 		c_taean = {
 			color = { 0 178 0 }
-			b_taean = {}
+			b_taean_taean = {}
 			b_wonbuk_taean = {}
 			b_sowon_taean = {}
 			b_geunheung_taean = {}
@@ -350,7 +350,7 @@ k_chungcheong = {
 		}
 		c_dangjin = {
 			color = { 0 153 0 }
-			b_dangjin = {}
+			b_dangjin_dangjin = {}
 			b_songak_dangjin = {}
 			b_myeoncheon_dangjin = {}
 			b_songsan_dangjin = {}
@@ -360,7 +360,7 @@ k_chungcheong = {
 		}
 		c_yesan = {
 			color = { 0 242 0 }
-			b_yesan = {}
+			b_yesan_yesan = {}
 			b_samgyo_yesan = {}
 			b_imseong_yesan = {}
 			b_daesul_yesan = {}
@@ -370,7 +370,7 @@ k_chungcheong = {
 		}
 		c_ongjin_islands = {
 			color = { 255 110 97 }
-			b_jangbong = {}
+			b_jangbong_jangbong = {}
 			b_modo_jangbong = {}
 			b_sido_jangbong = {}
 			b_shindo_jangbong = {}

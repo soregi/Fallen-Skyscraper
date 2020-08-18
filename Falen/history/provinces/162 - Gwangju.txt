@@ -6,9 +6,9 @@ title = c_k_gwangju
 # Settlements
 max_settlements = 5
 
-b_gwangju_gyeonggi = castle
-b_nongseong = city
-b_hwajeong_gwangju = temple
+b_gwangju_k_gwangju = castle
+b_nongseong_k_gwangju = city
+b_hwajeong_k_gwangju = temple
 
 # Misc
 culture = gyeonggi

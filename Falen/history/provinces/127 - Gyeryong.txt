@@ -6,8 +6,8 @@ title = c_gyeryong
 # Settlements
 max_settlements = 4
 
-b_geumam = tribal
-b_gyeryong = temple
+b_gyeryong_gyeryong = tribal
+b_geumam_gyeryong = temple
 
 # Misc
 culture = hoseo

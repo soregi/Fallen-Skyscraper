@@ -6,7 +6,7 @@ title = c_uiryeong
 # Settlements
 max_settlements = 5
 
-c_uiryeong = castle
+c_uiryeong_uiryeong = castle
 c_dongdong_uiryeong = temple
 
 # Misc

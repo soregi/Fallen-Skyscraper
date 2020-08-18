@@ -6,9 +6,9 @@ title = c_uiwang
 # Settlements
 max_settlements = 4
 
-b_uiwang = castle
-b_naeson = temple
-b_cheonggye = city
+b_uiwang_uiwang = castle
+b_naeson_uiwang = temple
+b_cheonggye_uiwang = city
 
 # Misc
 culture = gyeonggi

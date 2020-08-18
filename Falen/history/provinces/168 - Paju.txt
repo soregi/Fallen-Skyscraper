@@ -6,7 +6,7 @@ title = c_paju
 # Settlements
 max_settlements = 5
 
-b_paju = tribal
+b_paju_paju = tribal
 b_geumchon_paju = temple
 
 # Misc

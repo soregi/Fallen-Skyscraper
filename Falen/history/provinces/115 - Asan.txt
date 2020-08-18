@@ -6,7 +6,7 @@ title = c_asan
 # Settlements
 max_settlements = 5
 
-b_asan = castle
+b_asan_asan = castle
 b_onyang_asan = city
 b_yeomchi_asan = temple
 

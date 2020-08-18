@@ -6,9 +6,9 @@ title = c_guro
 # Settlements
 max_settlements = 6
 
-b_guro = castle
-b_sindorim = city
-b_yangcheon = temple
+b_guro_guro = castle
+b_sindorim_guro = city
+b_yangcheon_guro = temple
 
 # Misc
 culture = seoul
@@ -16,12 +16,12 @@ religion = koreanist
 
 2200.1.1 = {
 	religion = populist
-	b_guro = ca_seoul_special_0
-	b_guro = ca_keep_1
-	b_guro = ca_militia_barracks_1
-	b_guro = ca_wall_1
-	b_guro = ca_town_1
-	b_guro = ca_town_2
-	b_sindorim = ct_marketplace_1
-	b_sindorim = ct_marketplace_2
+	b_guro_guro = ca_seoul_special_0
+	b_guro_guro = ca_keep_1
+	b_guro_guro = ca_militia_barracks_1
+	b_guro_guro = ca_wall_1
+	b_guro_guro = ca_town_1
+	b_guro_guro = ca_town_2
+	b_sindorim_guro = ct_marketplace_1
+	b_sindorim_guro = ct_marketplace_2
 }

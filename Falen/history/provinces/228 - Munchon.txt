@@ -6,7 +6,7 @@ title = c_munchon
 # Settlements
 max_settlements = 3
 
-b_munchon = temple
+b_munchon_munchon = temple
 b_songmun_munchon = castle
 
 # Misc

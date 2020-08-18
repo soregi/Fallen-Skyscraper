@@ -6,7 +6,7 @@ title = c_taebek
 # Settlements
 max_settlements = 4
 
-b_taebak = tribal
+b_taebak_taebak = tribal
 
 # Misc
 culture = yeongseo

@@ -6,7 +6,7 @@ title = c_pyeongchang
 # Settlements
 max_settlements = 2
 
-b_pyeongchang = tribal
+b_pyeongchang_pyeongchang = tribal
 
 # Misc
 culture = yeongseo

@@ -6,9 +6,9 @@ title = c_cheoin
 # Settlements
 max_settlements = 5
 
-b_cheoin = castle
-b_pogok = city
-b_mohyeon = temple
+b_cheoin_cheoin = castle
+b_pogok_cheoin = city
+b_mohyeon_cheoin = temple
 
 # Misc
 culture = gyeonggi

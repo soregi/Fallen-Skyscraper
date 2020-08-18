@@ -6,9 +6,9 @@ title = c_kaephung
 # Settlements
 max_settlements = 5
 
-b_kaephung = tribal
-b_chaha = temple
-b_kuhwa = tribal
+b_kaephung_kaephung = tribal
+b_chaha_kaephung = temple
+b_kuhwa_kaephung = tribal
 
 # Misc
 culture = hwanghae

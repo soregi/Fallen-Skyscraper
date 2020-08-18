@@ -6,9 +6,9 @@ title = c_eonyang
 # Settlements
 max_settlements = 5
 
-b_eonyang = castle
-b_samnam = temple
-b_samdongeonyang = city
+b_eonyang_eonyang = castle
+b_samnam_eonyang = temple
+b_samdong_eonyang = city
 
 # Misc
 culture = yeongnam

@@ -6,11 +6,11 @@ title = c_dongdaemun
 # Settlements
 max_settlements = 6
 
-b_dongdaemun = castle
-b_gwangjin = city
-b_jungrang = temple
-b_majang = city
-b_jayang = temple
+b_dongdaemun_dongdaemun = castle
+b_gwangjin_dongdaemun = city
+b_jungrang_dongdaemun = temple
+b_majang_dongdaemun = city
+b_jayang_dongdaemun = temple
 
 # Misc
 culture = seoul
@@ -18,12 +18,12 @@ religion = koreanist
 
 2200.1.1 = {
 	religion = authoritarian
-	b_dongdaemun = ca_seoul_special_0
-	b_dongdaemun = ca_keep_1
-	b_dongdaemun = ca_militia_barracks_1
-	b_dongdaemun = ca_wall_1
-	b_dongdaemun = ca_town_1
-	b_dongdaemun = ca_town_2
-	b_majang = ct_marketplace_1
-	b_majang = ct_marketplace_2
+	b_dongdaemun_dongdaemun = ca_seoul_special_0
+	b_dongdaemun_dongdaemun = ca_keep_1
+	b_dongdaemun_dongdaemun = ca_militia_barracks_1
+	b_dongdaemun_dongdaemun = ca_wall_1
+	b_dongdaemun_dongdaemun = ca_town_1
+	b_dongdaemun_dongdaemun = ca_town_2
+	b_majang_dongdaemun = ct_marketplace_1
+	b_majang_dongdaemun = ct_marketplace_2
 }

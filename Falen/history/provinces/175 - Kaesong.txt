@@ -6,10 +6,10 @@ title = c_kaesong
 # Settlements
 max_settlements = 6
 
-b_kaesong = city #왕씨용
-b_koryo = city #산씨용
-b_unhak = city #내씨용
-b_kwanhun = temple
+b_kaesong_kaesong = city #왕씨용
+b_koryo_kaesong = city #산씨용
+b_unhak_kaesong = city #내씨용
+b_kwanhun_kaesong = temple
 
 
 # Misc
@@ -18,5 +18,5 @@ religion = populist
 
 # History
 2312.8.6 = {
-	b_poson = city #이씨용
+	b_poson_kaesong = city #이씨용
 }

@@ -6,10 +6,10 @@ title = c_guri
 # Settlements
 max_settlements = 4
 
-b_guri = castle
-b_inchang = city
-b_dong-gu = temple
-b_sutaek = castle
+b_guri_guri = castle
+b_inchang_guri = city
+b_donggu_guri = temple
+b_sutaek_guri = castle
 
 # Misc
 culture = gyeonggi

@@ -6,8 +6,8 @@ title = c_donghae
 # Settlements
 max_settlements = 4
 
-b_donghae = castle
-b_guho = city
+b_donghae_donghae = castle
+b_guho_donghae = city
 
 # Misc
 culture = yeongdong

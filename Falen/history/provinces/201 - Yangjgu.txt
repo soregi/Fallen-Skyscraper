@@ -6,7 +6,7 @@ title = c_yanggu
 # Settlements
 max_settlements = 2
 
-b_yanggu = castle
+b_yanggu_yanggu = castle
 b_jiseok_yanggu = city
 
 # Misc

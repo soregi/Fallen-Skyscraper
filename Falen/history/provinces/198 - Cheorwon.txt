@@ -6,7 +6,7 @@ title = c_cheorwon
 # Settlements
 max_settlements = 2
 
-b_cheorwon = castle
+b_cheorwon_cheorwon = castle
 b_galmal_cheorwon = temple
 
 # Misc

@@ -6,7 +6,7 @@ title = c_naemun
 # Settlements
 max_settlements = 3
 
-b_naemun = castle
+b_naemun_naemun = castle
 b_taebong_naemun = temple
 
 # Misc

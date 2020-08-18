@@ -6,8 +6,8 @@ title = c_dongducheon
 # Settlements
 max_settlements = 4
 
-b_dongducheon = castle
-b_saengyeon = city
+b_dongducheon_dongducheon = castle
+b_saengyeon_dongducheon = city
 
 # Misc
 culture = gyeonggi

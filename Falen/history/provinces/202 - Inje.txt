@@ -6,7 +6,7 @@ title = c_inje
 # Settlements
 max_settlements = 1
 
-b_inje = castle
+b_inje_inje = castle
 
 # Misc
 culture = yeongseo

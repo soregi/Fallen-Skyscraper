@@ -6,8 +6,8 @@ title = c_west_wonju
 # Settlements
 max_settlements = 5
 
-b_westwonju = tribal
+b_westwonju_westwonju = tribal
 
 # Misc
-culture = yeongdong
+culture = yeongseo
 religion = mu_pagan

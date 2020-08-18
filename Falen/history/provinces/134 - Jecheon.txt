@@ -6,7 +6,7 @@ title = c_jecheon
 # Settlements
 max_settlements = 4
 
-b_jecheon = tribal
+b_jecheon_jecheon = tribal
 
 # Misc
 culture = hoseo

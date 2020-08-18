@@ -6,7 +6,7 @@ title = c_daejeon
 # Settlements
 max_settlements = 6
 
-b_daejeon = castle
+b_daejeon_daejeon = castle
 b_busa_daejeon = city
 b_gijang_daejeon = temple
 b_goejeong_daejeon = castle
