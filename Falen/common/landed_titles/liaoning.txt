@@ -328,36 +328,6 @@ k_liaoning = {
 	d_jinzhou = {
 		color = { 26 85 66 }
 		capital = 435
-		c_heishan = {
-			color = { 170 189 0 }
-			b_heishan_b0 = {}
-			b_heishan_b1 = {}
-			b_heishan_b2 = {}
-			b_heishan_b3 = {}
-			b_heishan_b4 = {}
-			b_heishan_b5 = {}
-			b_heishan_b6 = {}
-		}
-		c_beizhen = {
-			color = { 186 155 0 }
-			b_beizhen_b0 = {}
-			b_beizhen_b1 = {}
-			b_beizhen_b2 = {}
-			b_beizhen_b3 = {}
-			b_beizhen_b4 = {}
-			b_beizhen_b5 = {}
-			b_beizhen_b6 = {}
-		}
-		c_yi = {
-			color = { 240 217 0 }
-			b_yi_b0 = {}
-			b_yi_b1 = {}
-			b_yi_b2 = {}
-			b_yi_b3 = {}
-			b_yi_b4 = {}
-			b_yi_b5 = {}
-			b_yi_b6 = {}
-		}
 		c_taihe = {
 			color = { 107 154 0 }
 			b_taihe_b0 = {}

@@ -1,0 +1,13 @@
+# 431 - Jaruud
+
+# County Title
+title = c_jaruud
+
+# Settlements
+max_settlements = 2
+
+b_jaruud = tribal
+
+# Misc
+culture = mongol
+religion = vajrayana

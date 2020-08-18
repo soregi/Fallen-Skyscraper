@@ -1,0 +1,13 @@
+# 432 - Ar Khorchin
+
+# County Title
+title = c_ar_khorchin
+
+# Settlements
+max_settlements = 2
+
+b_ar_khorchin = tribal
+
+# Misc
+culture = mongol
+religion = vajrayana

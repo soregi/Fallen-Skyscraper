@@ -429,13 +429,13 @@ provinces;red;green;blue;x;x
 428;104;145;0;Faku;x
 429;98;76;0;Kangping;x
 430;66;104;0;Xinmin;x
-431;170;189;0;Heishan;x
-432;186;155;0;Beizhen;x
-433;240;217;0;Yi;x
+431;170;189;0;Jaruud;x
+432;186;155;0;Ar Khorchin;x
+433;240;217;0;;x # Liaoxi Wastelands
 434;107;154;0;Taihe;x
 435;55;91;0;Linghai;x
-436;186;142;0;Fuxin;x
-437;66;173;0;Zhangwu;x
+436;186;142;0;;x # Bukhansan
+437;66;173;0;;x # Sobaek
 438;189;173;0;Lianshan;x
 439;189;92;0;Suizhong;x
 440;189;243;0;Jianchang;x
@@ -480,7 +480,7 @@ provinces;red;green;blue;x;x
 479;0;153;35;Changling;x
 480;36;36;0;Naiman;x
 481;226;226;0;Hure;x
-482;112;226;0;Tongliao;x
+482;112;226;0;;x # Sobaek
 483;49;49;0;Kailu;x
 484;254;254;0;Khorchin;x
 485;77;77;0;North Khorchin;x
@@ -588,7 +588,7 @@ provinces;red;green;blue;x;x
 587;115;65;140;Huangdao;x
 588;20;0;20;Gaomi;x
 589;60;10;75;Laizhou;x
-590;120;45;120;Jiaozhou;x
+590;120;45;120;Wabu;x
 591;170;95;0;Jianping;x
 592;85;100;0;Liaozhong;x
 593;200;180;0;Nanpiao;x

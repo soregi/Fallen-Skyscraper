@@ -5,11 +5,14 @@ k_mongolia = {
 		
 		culture = mongol
 		
-	d_tongliao = {
+	d_khorchin = {
 		color = { 31 139 131 }
 		capital = 484
+		liaoning = "Tongliao"
+#		mongol = "Jirem"
 		c_horchin = {
 			color = { 254 254 0 }
+			mongol = "Bayisingtu"
 			b_horchin = {}
 			b_dalin = {}
 			b_qianjiadian = {}
@@ -38,7 +41,7 @@ k_mongolia = {
 			b_charizu = {}
 			b_agoura = {}
 		}
-		c_kailu = { 
+		c_kailu = {
 			color = { 49 49 0 }
 			b_kailu = {}
 			b_dayushu = {}
@@ -59,9 +62,9 @@ k_mongolia = {
 			b_xinzhen = {}
 			b_tuchengzi = {}
 		}
-		c_tongliao = {
-			color = { 112 226 0 }
-			b_tongliao = {}
+		c_hure = {
+			color = { 226 226 0 }
+			b_hure = {}
 			b_lubei = {}
 			b_huanghuashan = {}
 			b_gahaitu = {}
@@ -69,20 +72,11 @@ k_mongolia = {
 			b_bayartu_hushuo = {}
 			b_ari_kundu = {}
 		}
-		c_hure = {
-			color = { 226 226 0 }
-			b_hure_b0 = {}
-			b_hure_b1 = {}
-			b_hure_b2 = {}
-			b_hure_b3 = {}
-			b_hure_b4 = {}
-			b_hure_b5 = {}
-			b_hure_b6 = {}
-		}
 	}
-	d_chifeng = {
+	d_ju_ud = {
 		color = { 33 98 137 }
 		capital = 488
+		liaoning = "Chifeng"
 		c_ongnyud = {
 			color = { 104 85 0 }
 			b_ongnyud_b0 = {}
@@ -113,6 +107,26 @@ k_mongolia = {
 			b_baarin_b5 = {}
 			b_baarin_b6 = {}
 		}
+		c_ar_khorchin = {
+			color = { 199 100 0 }
+			b_ar_khorchin = {}
+			b_ar_khorchin_b1 = {}
+			b_ar_khorchin_b2 = {}
+			b_ar_khorchin_b3 = {}
+			b_ar_khorchin_b4 = {}
+			b_ar_khorchin_b5 = {}
+			b_ar_khorchin_b6 = {}
+		}
+		c_jaruud = {
+			color = { 199 100 0 }
+			b_jaruud = {}
+			b_jaruud_b1 = {}
+			b_jaruud_b2 = {}
+			b_jaruud_b3 = {}
+			b_jaruud_b4 = {}
+			b_jaruud_b5 = {}
+			b_jaruud_b6 = {}
+		}
 	}
 	d_chaoyang = {
 		color = { 32 166 72 }
@@ -137,17 +151,6 @@ k_mongolia = {
 			b_lingyuan_b5 = {}
 			b_lingyuan_b6 = {}
 		}
-		c_fuxin = {
-			color = { 186 142 0 }
-			b_fuxin_b0 = {}
-			b_fuxin_b1 = {}
-			b_fuxin_b2 = {}
-			b_fuxin_b3 = {}
-			b_fuxin_b4 = {}
-			b_fuxin_b5 = {}
-			b_fuxin_b6 = {}
-			
-		}
 		c_beipiao = {
 			color = { 189 105 0 }
 			b_beipiao_b0 = {}
@@ -157,16 +160,6 @@ k_mongolia = {
 			b_beipiao_b4 = {}
 			b_beipiao_b5 = {}
 			b_beipiao_b6 = {}
-		}
-		c_zhangwu = { 
-			color = { 66 173 0 }
-			b_zhangwu_b0 = {}
-			b_zhangwu_b1 = {}
-			b_zhangwu_b2 = {}
-			b_zhangwu_b3 = {}
-			b_zhangwu_b4 = {}
-			b_zhangwu_b5 = {}
-			b_zhangwu_b6 = {}
 		}
 		c_jianping = { 
 			color = { 227 195 0 }

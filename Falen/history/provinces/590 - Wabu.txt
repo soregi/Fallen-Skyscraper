@@ -1,0 +1,15 @@
+# 590 - Wabu
+
+# County Title
+title = c_wabu
+
+# Settlements
+max_settlements = 3
+
+b_paldang_wabu = castle
+b_wabu = city
+
+
+# Misc
+culture = tsingtao
+religion = protestant
