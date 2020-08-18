@@ -15,7 +15,7 @@
 	2403.7.2 = {
 		birth = yes
 	}
-	2500.1.1 = {
+	2446.1.1 = {
 		death = yes
 	}
 }
@@ -192,8 +192,8 @@
 
 }
 11 = {
-	name = "Munhyang"
-	dynasty = 4000001
+	name = "Yujin"
+	dynasty = 4000801
 	culture = honam
 	religion = imperial
 	trait = foutune_builder
@@ -205,6 +205,7 @@
 	trait = administrator
 	trait = erudite
 	disallow_random_traits = yes
+	father = 24
 	female = yes
 	2416.3.26 = {
 		birth = yes
@@ -212,7 +213,7 @@
 	2436.1.1 = {
 		add_spouse = 25
 	}
-	2500.1.1 = {
+	2470.1.1 = {
 		death = yes
 	}
 
@@ -405,13 +406,14 @@
 }
 24 = {
 	name = "Wonil"
-	dynasty = 4000010
+	dynasty = 4000801
 	culture = honam
 	religion = imperial
+	father = 94
 	2386.7.4 = {
 		birth = yes
 	}
-	2500.1.1 = {
+	2446.1.1 = {
 		death = yes
 	}
 }
