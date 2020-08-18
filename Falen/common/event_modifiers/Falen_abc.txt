@@ -1,3 +1,6 @@
 holy_war_cooldown = {
 	icon = 34
 }
+tributary_war_cooldown = {
+	icon = 34
+}
