@@ -247,13 +247,8 @@ e_hec = { #신복련
 }
 d_buyeo = {
 	color = { 255 255 153 }
-	color2 = { 204 204 153
+	color2 = { 204 204 153}
 }
-d_hongseong = {
-	color = {169 153 51)
-	color2 = {169 153 0}
-}
-
 #미군들
 e_usa_mil = { #미군정
 	color = { 70 204 212 }

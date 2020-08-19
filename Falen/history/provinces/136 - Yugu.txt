@@ -12,4 +12,4 @@ b_sagok_yugu = temple
 
 # Misc
 culture = hoseo
-religion = imperial
+religion = mechanist

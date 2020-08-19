@@ -12,4 +12,4 @@ b_areum_sejong = temple
 
 # Misc
 culture = hoseo
-religion = koreanist
+religion = authoritarian

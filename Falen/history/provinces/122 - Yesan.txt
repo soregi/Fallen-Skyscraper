@@ -12,4 +12,4 @@ b_imseong_yesan = temple
 
 # Misc
 culture = hoseo
-religion = imperial
+religion = mechanist

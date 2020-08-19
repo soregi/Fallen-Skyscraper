@@ -10,4 +10,4 @@ b_jangbong_jangbong = castle
 
 # Misc
 culture = gyeonggi
-religion = protestant
+religion = mechanist

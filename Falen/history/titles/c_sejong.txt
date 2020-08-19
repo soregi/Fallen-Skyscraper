@@ -1,4 +1,4 @@
-2330.1.1 = {
-	liege = e_hec
-	holder = 70
+2430.1.1 = {
+	liege = k_northern_margraviate
+	holder = 2858
 }
