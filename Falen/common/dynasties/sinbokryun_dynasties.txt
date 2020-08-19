@@ -223,23 +223,3 @@
 	culture = bear
 	religion  = Muist
 }
-4000047 = {
-	name = "Yim"
-	culture = hoseo
-	religion  = imperial
-}
-4000048 = {
-	name = "Lee"
-	culture = honam
-	religion  = imperial
-}
-4000049 = {
-	name = "Min"
-	culture = hoseo
-	religion  = imperial
-}
-4000050 = {
-	name = "Kim"
-	culture = hoseo
-	religion  = imperial
-}

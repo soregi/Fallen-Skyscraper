@@ -1,5 +1,44 @@
 #신복련
-
+4002851 = {
+	name = "Lim"
+	culture = honam
+	religion = imperial
+}
+4002852 = {
+	name = "Lee"
+	culture = hoseo
+	religion = imperial
+}
+4002853 = {
+	name = "Sin"
+	culture = hoseo
+	religion = imperial
+}
+4002854 = {
+	name = "Han"
+	culture = hoseo
+	religion = authoritarian
+}
+4002855 = {
+	name = "Ki"
+	culture = hoseo
+	religion = mechanist
+}
+4002856 = {
+	name = "Dang"
+	culture = hoseo
+	religion = imperial
+}
+4002857 = {
+	name = "Seong"
+	culture = hoseo
+	religion = imperial
+}
+4002858 = {
+	name = "Bu"
+	culture = hoseo
+	religion = mechanist
+}
 #대전
 4001851 = {
 	name = "Hwa"

@@ -1,0 +1,177 @@
+2851 = {
+	name = "Yohan"
+	dynasty = 4002851
+	culture = honam
+	religion = imperial
+	trait = brilliant_strategist
+	trait = trickster
+	trait = brave
+	trait = strategist
+	trait = patient
+	trait = gardener
+	disallow_random_traits = yes
+	2381.10.30 = {
+		birth = yes
+	}
+	2402.2.16 = {
+		add_spouse = 2852
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2852 = {
+	name = "Yujeong"
+	female = yes
+	dynasty = 4002852
+	culture = hoseo
+	religion = imperial
+	2386.1.12 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2853 = {
+	name = "Gunwoo"
+	dynasty = 4002851
+	culture = hoseo
+	religion = imperial
+	father = 2851
+	mother = 2852
+	2403.6.23 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2854 = {
+	name = "Taesu"
+	dynasty = 4002851
+	culture = hoseo
+	religion = imperial
+	father = 2851
+	mother = 2852
+	2407.3.6 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2855 = {
+	name = "Eunchae"
+	female = yes
+	dynasty = 4002851
+	culture = hoseo
+	religion = imperial
+	father = 2851
+	mother = 2852
+	2410.3.16 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2856 = {
+	name = "Semin"
+	dynasty = 4002853
+	culture = hoseo
+	religion = imperial
+	2402.3.2 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2857 = {
+	name = "Jeongmin"
+	dynasty = 4002853
+	culture = hoseo
+	religion = imperial
+	2426.5.9 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2858 = {
+	name = "Hyeonjeong"
+	female = yes
+	dynasty = 4002854
+	culture = hoseo
+	religion = authoritarian
+	2416.12.8 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2859 = {
+	name = "Jiseol"
+	dynasty = 4002855
+	culture = hoseo
+	religion = mechanist
+	2389.12.7 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2860 = {
+	name = "Suri"
+	dynasty = 4002855
+	culture = hoseo
+	religion = mechanist
+	father = 2859
+	2426.3.8 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2861 = {
+	name = "Jiwon"
+	dynasty = 4002856
+	culture = hoseo
+	religion = imperial
+	2421.3.19 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2862 = {
+	name = "Jichae"
+	dynasty = 4002857
+	culture = hoseo
+	religion = imperial
+	secret_religion = mechanist
+	2406.7.18 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2863 = {
+	name = "Port"
+	dynasty = 4002858
+	culture = hoseo
+	religion = mechanist
+	2432.5.2 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
