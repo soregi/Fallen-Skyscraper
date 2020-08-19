@@ -15,6 +15,24 @@ e_north_korea = { # North Korea, or Democratic People's Republic of Korea
 }
 
 # 본 모드팀은 국가보안법을 준수함
+d_mahayana = { #대승불교
+	color={ 110 178 65 }
+	color2={ 132 148 110 }
+	short_name = yes
+
+    # Always exists
+    #landless = yes
+
+    # Controls a religion
+    controls_religion = mahayana
+
+    religion = mahayana
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    dynasty_title_names = no
+}
 d_maitreya = { #미륵종
 	color={ 110 178 65 }
 	color2={ 132 148 110 }
@@ -45,6 +63,26 @@ d_bailian = { #백련교
     controls_religion = bailian
 
     religion = bailian
+
+    # Cannot be held as a secondary title
+    primary = yes
+
+    dynasty_title_names = no
+}
+d_won_buddhist = { #원불교
+	color={ 180 160 140 }
+	short_name = yes
+	title = "JONGBEOBSA"
+	title_female = "JONGBEOBSA"
+	foa = "JONGBEOBSA_FOA"
+
+    # Always exists
+    #landless = yes
+
+    # Controls a religion
+    controls_religion = won_buddhist
+
+    religion = won_buddhist
 
     # Cannot be held as a secondary title
     primary = yes
@@ -221,4 +259,28 @@ d_imperial = {
 		Gregorius Hadrianus Honorius Innocentius Ioannes Lucius Marinus Martinus
 		Nicolaus Sergius Silvester Stephanus Urbanus Victor
 	}
+}
+d_won_buddhist = {
+	color={ 180 120 40 }
+	color2={ 220 220 0 }
+	
+	capital = 89 #	Iksan
+	
+	title = "HEAD_JONGBUEPSA"
+	foa = "POPE_FOA"
+	
+	short_name = yes
+	
+	# Always exists
+	landless = yes	
+	
+	# Controls a religion
+	controls_religion = won_buddhist
+	
+	religion = won_buddhist
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 }

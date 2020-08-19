@@ -231,10 +231,10 @@ indian_group = {
 		
 		color = { 0.8 0.2 0.1 }
 		
-		high_god_name = GOD_THE_BUDDHA
+		high_god_name = GOD_THE_IL-WON
 		
 		god_names = {
-			GOD_THE_BUDDHA GOD_THE_ARHAT GOD_THE_PERFECTED_ONES
+			GOD_THE_IL-WON
 		}
 		
 		evil_god_names = {
@@ -254,6 +254,9 @@ indian_group = {
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
 		castes = yes
+		divine_blood = yes
+		pc_marriage = yes
+		bs_marriage = yes
 
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
@@ -261,7 +264,7 @@ indian_group = {
 		religious_clothing_priest = 10
 
 		scripture_name = THE_BUDDHACAVANA
-		priest_title = JUJI
+		priest_title = KYOMU
 		piety_name = KARMA
 		
 		intermarry = mahayana

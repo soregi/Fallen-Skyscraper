@@ -175,7 +175,7 @@
 	name = "Seungmin"
 	dynasty = 4002621
 	culture = honam
-	religion = mu_pagan
+	religion = won_buddhist
 	2354.11.6 = {
 		birth = yes
 	}
@@ -187,7 +187,7 @@
 	name = "Yujin"
 	dynasty = 4002621
 	culture = honam
-	religion = mu_pagan
+	religion = won_buddhist
 	father = 2621
 	2396.4.11 = {
 		birth = yes
@@ -203,7 +203,7 @@
 	name = "Minwoo"
 	dynasty = 4002621
 	culture = honam
-	religion = mu_pagan
+	religion = won_buddhist
 	father = 2622
 	mother = 2625
 	2429.7.2 = {
@@ -218,7 +218,7 @@
 	female = yes
 	dynasty = 4002621
 	culture = honam
-	religion = mu_pagan
+	religion = won_buddhist
 	father = 2622
 	mother = 2625
 	2432.3.18 = {
@@ -233,7 +233,7 @@
 	female = yes
 	dynasty = 4002631
 	culture = yeongnam
-	religion = mu_pagan
+	religion = won_buddhist
 	father = 2632
 	2412.6.15 = {
 		birth = yes
@@ -523,7 +523,7 @@
 	name = "Jeongwon"
 	dynasty = 4002662
 	culture = hoseo
-	religion = mu_pagan
+	religion = won_buddhist
 	2398.4.6 = {
 		birth = yes
 	}
@@ -535,7 +535,7 @@
 	name = "Sinwon"
 	dynasty = 4002662
 	culture = hoseo
-	religion = mu_pagan
+	religion = won_buddhist
 	father = 2664
 	2421.3.6 = {
 		birth = yes
