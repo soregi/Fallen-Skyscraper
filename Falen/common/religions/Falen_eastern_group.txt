@@ -202,7 +202,7 @@ indian_group = {
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
 		can_grant_claim = yes
-		can_call_crusade = yes
+		can_call_crusade = no
 		can_retire_to_monastery = yes
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
