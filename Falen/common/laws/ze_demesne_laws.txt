@@ -580,7 +580,17 @@ laws = {
 	}
 	revoke_title_law_1 = {
 		group = revoke_title_law
-		allow = { }
+		allow = {
+			conditional_tooltip = {
+				trigger = {
+					title = e_hec
+				}
+				OR = {
+					NOT = { title = e_hec }
+					has_global_flag = hec_reform_1
+				}
+			}
+		}
 		potential = {
 			has_dlc = "Zeus"
 			NOT = { holder_scope = { is_nomadic = yes } }
@@ -703,7 +713,15 @@ laws = {
 	ze_administration_laws_1 = {
 		group = ze_administration_laws
 		allow = {
-
+			conditional_tooltip = {
+				trigger = {
+					title = e_hec
+				}
+				OR = {
+					NOT = { title = e_hec }
+					has_global_flag = hec_reform_1
+				}
+			}
 		}
 		potential = {
 			has_dlc = "Zeus"

@@ -1,0 +1,251 @@
+namespace = hec
+narrative_event = {
+	id = hec.1
+	title = hec_1
+	desc = hec_1_desc
+	picture = GFX_evt_book_carolingian_script
+	border = GFX_event_narrative_frame_diplomacy
+	is_triggered_only = yes
+	major = yes
+	trigger = {
+		ROOT = {
+			character = c_1
+		}
+		NOT = { has_global_flag = death_hanwol }
+		NOT = { has_global_flag = hec_chosen_way }
+	}
+	major_trigger = {
+		same_realm = ROOT
+		is_playable = yes
+	}
+	immediate = {
+		set_global_flag = death_hanwol
+		c_2 = {
+			add_friend = c_11
+			add_friend = c_12
+			long_character_event = { id = hec.2 days = 10 }
+		}
+	}
+	option = {
+		name = hec_1_a
+	}
+}
+long_character_event = {
+	id = hec.2
+	title = hec_2
+	desc = hec_2_desc
+	picture = GFX_evt_book_carolingian_script
+	border = GFX_event_long_frame_diplomacy
+	is_triggered_only = yes
+	option = {
+		name = hec_2_a
+		narrative_event = { id = hec.3 days = 3 }
+	}
+	option = {
+		name = hec_2_b
+		narrative_event = { id = hec.4 days = 3 }
+	}
+	option = {
+		name = hec_2_c
+		narrative_event = { id = hec.5 days = 3 }
+	}
+}
+narrative_event = {
+	id = hec.3
+	title = hec_3
+	desc = hec_3_desc
+	picture = GFX_evt_book_carolingian_script
+	border = GFX_event_narrative_frame_diplomacy
+	is_triggered_only = yes
+	major = yes
+	major_trigger = {
+		is_playable = yes
+	}
+	immediate = {
+		set_global_flag = imperial_reform_unlocked
+	}
+	option = {
+		name = hec_3_a
+		trigger = {
+			character = c_2
+		}
+		add_alliance = {
+			who = c_11
+			years = 30
+		}
+		add_alliance = {
+			who = c_12
+			years = 30
+		}
+		c_11 = {
+			add_alliance = {
+				who = c_12
+				years = 30
+			}
+		}
+		add_character_modifier = {
+			name = hec_ref_1
+			duration = -1
+		}
+		custom_tooltip = {
+			text = hec_3_tooltip
+		}
+	}
+	option = {
+		name = hec_3_b
+		custom_tooltip = {
+			text = hec_3_tooltip
+		}
+		trigger = {
+			NOT = { character = c_2 }
+		}
+	}
+}
+narrative_event = {
+	id = hec.4
+	title = hec_4
+	desc = hec_4_desc
+	picture = GFX_evt_book_carolingian_script
+	border = GFX_event_narrative_frame_diplomacy
+	is_triggered_only = yes
+	major = yes
+	major_trigger = {
+		is_playable = yes
+	}
+	immediate = {
+		set_global_flag = imperial_reform_unlocked
+	}
+	option = {
+		name = hec_3_a
+		trigger = {
+			character = c_2
+		}
+		add_alliance = {
+			who = c_9
+			years = 30
+		}
+		add_alliance = {
+			who = c_10
+			years = 30
+		}
+		add_alliance = {
+			who = c_11
+			years = 30
+		}
+		add_alliance = {
+			who = c_12
+			years = 30
+		}
+		add_character_modifier = {
+			name = hec_ref_2
+			duration = -1
+		}
+		custom_tooltip = {
+			text = hec_4_tooltip
+			set_global_flag = imperial_reform_1
+			set_global_flag = imperial_reform_2
+			add_law = {
+				law = hec_reform_2
+				cooldown = no
+				opinion_effect = no
+			}
+		}
+	}
+	option = {
+		name = hec_4_b
+		trigger = {
+			NOT = { character = c_2 }
+			same_realm = ROOT
+		}
+		custom_tooltip = {
+			text = hec_4_tooltip
+		}
+	}
+	option = {
+		name = hec_4_c
+		trigger = {
+			NOT = { character = c_2 }
+			NOT = { same_realm = ROOT }
+		}
+		custom_tooltip = {
+			text = hec_4_tooltip
+		}
+	}
+}
+narrative_event = {
+	id = hec.5
+	title = hec_5
+	desc = hec_5_desc
+	picture = GFX_evt_book_carolingian_script
+	border = GFX_event_narrative_frame_diplomacy
+	is_triggered_only = yes
+	major = yes
+	major_trigger = {
+		is_playable = yes
+	}
+	immediate = {
+		c_666666 = {
+			character_event = { id = hec.6 years = 30 }
+		}
+	}
+	option = {
+		name = hec_5_a
+		trigger = {
+			character = c_2
+		}
+		add_alliance = {
+			who = c_3
+			years = 30
+		}
+		add_alliance = {
+			who = c_4
+			years = 30
+		}
+		add_alliance = {
+			who = c_8
+			years = 30
+		}
+		add_alliance = {
+			who = c_11
+			years = 30
+		}
+		add_alliance = {
+			who = c_12
+			years = 30
+		}
+		add_character_modifier = {
+			name = hec_ref_3
+			duration = -1
+		}
+		reverse_opinion = {
+			modifier = opinion_disappointed
+			who = c_11
+			years = 1
+		}
+		reverse_opinion = {
+			modifier = opinion_disappointed
+			who = c_12
+			years = 1
+		}
+		custom_tooltip = {
+			text = hec_5_tooltip
+		}
+	}
+	option = {
+		name = hec_5_b
+		trigger = {
+			NOT = { character = c_2 }
+		}
+		custom_tooltip = {
+			text = hec_5_tooltip
+		}
+	}
+}
+character_event = {
+	id = hec.6
+	hide_window = yes
+	is_triggered_only = yes
+	immediate = {
+		set_global_flag = imperial_reform_unlocked
+	}
+}

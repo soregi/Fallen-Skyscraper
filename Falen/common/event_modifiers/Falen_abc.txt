@@ -4,3 +4,15 @@ holy_war_cooldown = {
 tributary_war_cooldown = {
 	icon = 34
 }
+hec_ref_1 = {
+	icon = 18
+	vassal_opinion = 5
+}
+hec_ref_2 = {
+	icon = 36
+	vassal_opinion = -10
+}
+hec_ref_3 = {
+	icon = 18
+	vassal_opinion = 15
+}

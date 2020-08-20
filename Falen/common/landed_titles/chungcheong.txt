@@ -211,6 +211,7 @@ k_chungcheong = {
 
 		c_gongju = {
 			color = { 0 77 0 }
+			holy_site = imperial
 			b_gongju_gongju = {}
 			b_junghak_gongju = {}
 			b_ungjin_gongju = {}

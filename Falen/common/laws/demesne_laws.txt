@@ -141,6 +141,15 @@ laws = {
 					is_tribal = no
 				}
 			}
+			conditional_tooltip = {
+				trigger = {
+					title = e_hec
+				}
+				OR = {
+					NOT = { title = e_hec }
+					has_global_flag = hec_reform_1
+				}
+			}
 		}
 		potential = {
 			higher_tier_than = count

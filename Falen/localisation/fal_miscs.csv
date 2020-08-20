@@ -22,3 +22,4 @@ china_china;Government;Chine;China;;China;;;;;;;;;x
 china_china_full;Chinese Republic;;;;;;;;;;;;;x
 TXT_CHINA;Republic of China;;;;;;;;;;x
 empire;Government;;;;;;;;;;x
+XT_3_desc;Current Imperial Authority : [Root.global_imperial_authority.GetValue]\n Monthly Authority Changes : [e_c8.Holder.authority_changes.GetValue];;;;;;;;;;x

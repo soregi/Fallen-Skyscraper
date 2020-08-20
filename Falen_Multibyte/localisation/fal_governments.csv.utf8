@@ -12,3 +12,7 @@ republic_government;공화정;;;;;;;;;;;;;x
 merchant_republic_government;상인 공화정;;;;;;;;;;;;;x
 secular_republic_government;세속 공화정;;;;;;;;;;;;;x
 nomadic_government;유목민;;;;;;;;;;;;;x
+military_government;군정;;;;;;;;;;;;;x
+military_government_desc;군정;;;;;;;;;;;;;x
+marxist_government;마르크스주의 정부;;;;;;;;;;;;;x
+marxist_government_desc;마르크스주의 정부;;;;;;;;;;;;;x

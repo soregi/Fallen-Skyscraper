@@ -1,0 +1,186 @@
+namespace = XT
+
+character_event = { # Monthly Authority Changes
+	id = XT.2
+	hide_window = yes
+	is_triggered_only = yes
+	immediate = {
+		set_variable = { which = authority_changes value = 0 }
+		e_hec = {
+			holder_scope = {
+				save_event_target_as = hec_emperor
+			}
+		}
+		if = {
+			limit = {
+				c_jeonju = {
+					realm = {
+						title = e_hec
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = 0.3 }
+		}
+		if = {
+			limit = {
+				c_jeonju = {
+					realm = {
+						NOT = { title = e_hec }
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = -0.3 }
+		}
+		if = {
+			limit = {
+				c_iksan = {
+					realm = {
+						title = e_hec
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = 0.3 }
+		}
+		if = {
+			limit = {
+				c_iksan = {
+					realm = {
+						NOT = { title = e_hec }
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = -0.3 }
+		}
+		if = {
+			limit = {
+				c_gongju = {
+					realm = {
+						title = e_hec
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = 0.3 }
+		}
+		if = {
+			limit = {
+				c_gongju = {
+					realm = {
+						NOT = { title = e_hec }
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = -0.3 }
+		}
+		if = {
+			limit = {
+				c_cheonan = {
+					realm = {
+						title = e_hec
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = 0.3 }
+		}
+		if = {
+			limit = {
+				c_cheonan = {
+					realm = {
+						NOT = { title = e_hec }
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = -0.3 }
+		}
+		if = {
+			limit = {
+				c_gwangju = {
+					realm = {
+						title = e_hec
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = 0.3 }
+		}
+		if = {
+			limit = {
+				c_gwangju = {
+					realm = {
+						NOT = { title = e_hec }
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = -0.3 }
+		}
+		if = {
+			limit = {
+				e_hec = {
+					holder_scope = {
+						war = no
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = 0.3 }
+		}
+		if = {
+			limit = {
+				d_imperial = {
+					holder_scope = {
+						learning >= 20
+						opinion = {
+							who = event_target:hec_emperor
+							value >= 0
+						}
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = 0.3 }
+		}
+		if = {
+			limit = {
+				d_imperial = {
+					holder_scope = {
+						learning >= 20
+						opinion = {
+							who = event_target:hec_emperor
+							value < 0
+						}
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = -0.3 }
+		}
+		if = {
+			limit = {
+				d_imperial = {
+					holder_scope = {
+						learning < 10
+					}
+				}
+			}
+			change_variable = { which = authority_changes value = -0.2 }
+		}
+		if = {
+			limit = {
+				event_target:hec_emperor = {
+					in_revolt = yes
+				}
+			}
+			change_variable = { which = authority_changes value = -0.1 }
+		}
+		change_variable = { which = global_imperial_authority which = authority_changes }
+		clear_event_target = event_target:hec_emperor
+		repeat_event = {
+			id = XT.2
+			months = 1
+		}
+	}
+}
+character_event = {
+	id = XT.3
+	title = XT_3
+	desc = XT_3_desc
+	is_triggered_only = yes
+	option = {
+		name = XT_3_a
+	}
+}

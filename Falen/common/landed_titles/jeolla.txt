@@ -402,6 +402,8 @@ k_gwangju = {
 
 		c_gwangju = {
 			color = { 255 26 26 }
+			holy_site = imperial
+			holy_site = catholic
 			b_gwangju = {}
 			b_gwangsan_gwangju = {}
 			b_donggu_gwangju = {}

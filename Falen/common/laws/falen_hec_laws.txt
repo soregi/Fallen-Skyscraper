@@ -1,0 +1,336 @@
+law_groups = {
+	hec_reform = {
+		law_type = realm
+	}
+}
+laws = {
+	hec_reform_0 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+	}
+	hec_reform_1 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -6
+	}
+	hec_reform_2 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -12
+	}
+	hec_reform_3 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -18
+	}
+	hec_reform_4 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			vassal_opinion = 8
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -24
+	}
+	hec_reform_5 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -36
+	}
+	hec_reform_6 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -42
+	}
+	hec_reform_7 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -48
+	}
+	hec_reform_8 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -54
+	}
+	hec_reform_9 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_0
+				revoke_law = hec_reform_10
+			}
+		}
+		feudal_opinion = -60
+	}
+	hec_reform_10 = {
+		group = hec_reform
+		default = yes
+		allow = {
+			always = no # Pass Through Decisions
+		}
+		potential = {
+			title = e_hec
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = { factor = 0 }
+		pass_effect = { }
+		effect = {
+			hidden_tooltip = {
+				revoke_law = hec_reform_1
+				revoke_law = hec_reform_2
+				revoke_law = hec_reform_3
+				revoke_law = hec_reform_4
+				revoke_law = hec_reform_5
+				revoke_law = hec_reform_6
+				revoke_law = hec_reform_7
+				revoke_law = hec_reform_8
+				revoke_law = hec_reform_9
+				revoke_law = hec_reform_0
+			}
+		}
+	}
+}

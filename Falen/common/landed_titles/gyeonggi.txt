@@ -35,7 +35,6 @@ k_seoul = {
 			holy_site = mu_pagan_reformed
 			holy_site = steel_pagan
 			holy_site = steel_pagan_reformed
-			holy_site = imperial
 			holy_site = unitary
 			holy_site = islam
 			holy_site = gaian

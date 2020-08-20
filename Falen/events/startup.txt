@@ -4,7 +4,7 @@ character_event = {
 	id = XT.1
 	hide_window = yes
 	trigger = {
-		ai = no
+		character = c_666666
 		NOT = { has_global_flag = setup_complete }
 	}
 	mean_time_to_happen = {
@@ -12,6 +12,11 @@ character_event = {
 	}
 	immediate = {
 		set_global_flag = setup_complete
+		set_variable = { which = global_imperial_authority value = 10 }
+		character_event = {
+			id = XT.2
+			months = 1
+		}
 		127 = {
 			build_holding = {
 				type = hospital
@@ -19,8 +24,20 @@ character_event = {
 			}
 			add_to_extra_holding = {
 				type = hospital
-				building = hospital_building_3
+				building = hospital_building_1
 			}
+		}
+		c_1 = {
+			add_friend = c_11
+			add_friend = c_12
+		}
+		c_11 = {
+			add_friend = c_1
+			add_friend = c_12
+		}
+		c_12 = {
+			add_friend = c_1
+			add_friend = c_11
 		}
 	}
 }
