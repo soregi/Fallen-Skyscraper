@@ -272,8 +272,8 @@ pagan_group = {
 		secondary_event_pictures = finnish_pagan
 		alternate_start = { always = no }
 		
-		icon = 72
-		heresy_icon = 73
+		icon = 56
+		heresy_icon = 57
 		
 		ai_convert_other_group = 2 # always try to convert
 
@@ -319,8 +319,8 @@ pagan_group = {
 	gaian = {
 		graphical_culture = africangfx
 
-		icon = 20
-		heresy_icon = 73
+		icon = 55
+		heresy_icon = 57
 		
 		color = { 0.14 0.66 0.16 }
 		
@@ -565,8 +565,8 @@ pagan_group = {
 		secondary_event_pictures = finnish_pagan
 		alternate_start = { always = no }
 		
-		icon = 72
-		heresy_icon = 73
+		icon = 59
+		heresy_icon = 60
 		
 		ai_convert_other_group = 2 # always try to convert
 		ai_convert_same_group = 2 # always try to convert
@@ -604,8 +604,8 @@ pagan_group = {
 	jeju_pagan = {
 		graphical_culture = norsegfx
 
-		icon = 20
-		heresy_icon = 73
+		icon = 58
+		heresy_icon = 60
 		
 		color = { 0.14 0.36 0.16 }
 		

@@ -16,7 +16,8 @@ ancestor_worship_group = {
 		graphical_culture = pagangfx
 		alternate_start = { always = no }
 
-		icon = 5
+		icon = 51
+		heresy_icon = 52
 		
 		color = { 0.6 0.0 0.0 }
 		
@@ -51,8 +52,8 @@ ancestor_worship_group = {
 	wanyan = {     # 임시 선언, 추후 수정
 		graphical_culture = pagangfx
 
-		icon = 20
-		heresy_icon = 73
+		icon = 53
+		heresy_icon = 54
 		
 		color = { 0.14 0.36 0.16 }
 		

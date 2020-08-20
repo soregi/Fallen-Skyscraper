@@ -226,8 +226,8 @@ indian_group = {
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
 
-		icon = 40
-		heresy_icon = 41
+		icon = 61
+		heresy_icon = 62
 		
 		color = { 0.8 0.2 0.1 }
 		

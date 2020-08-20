@@ -184,8 +184,8 @@ old_world_group = {
 	unitary = {
 		graphical_culture = westerngfx
 		
-		icon = 19
-		heresy_icon = 20
+		icon = 63
+		heresy_icon = 64
 		
 		color = { 0.7 0.7 0.1 }
 		crusade_name = CRUSADE
@@ -215,8 +215,8 @@ old_world_group = {
 	familiar = {
 		graphical_culture = westerngfx
 		
-		icon = 19
-		heresy_icon = 20
+		icon = 63
+		heresy_icon = 64
 		
 		color = { 0.7 0.7 0.1 }
 		parent = unitary
