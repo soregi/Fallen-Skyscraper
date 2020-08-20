@@ -18,3 +18,4 @@ china_china;m­ü»È´;Chine;China;;China;;;;;;;;;x
 china_china_full;ÉTÖü»m­;;;;;;;;;;;;;x
 TXT_CHINA;ÉTÖü»m­;;;;;;;;;;x
 empire;m­ü»È´;;;;;;;;;;x
+XT_3_desc;Current Imperial Authority : [Root.global_imperial_authority.GetValue]\n Monthly Authority Changes : [e_c8.Holder.authority_changes.GetValue];;;;;;;;;;x
