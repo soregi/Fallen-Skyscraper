@@ -247,7 +247,7 @@ e_hec = { #신복련
 }
 d_buyeo = {
 	color = { 255 255 153 }
-	color2 = { 204 204 153}
+	color2 = { 204 204 153 }
 }
 #미군들
 e_usa_mil = { #미군정
@@ -257,7 +257,7 @@ e_usa_mil = { #미군정
 }
 k_daegu_usa = { #대구미군
 	color = { 70 204 212 }
-	color2={ 186 10 22 }
+	color2 = { 186 10 22 }
 
 }
 k_sinuiju_comm = { #신의주
