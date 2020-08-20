@@ -13,4 +13,4 @@ b_bongnim_changwon = castle
 
 # Misc
 culture = yeongnam
-religion = koreanist
+religion = populist

@@ -13,4 +13,4 @@ b_bongbang_chungju = castle
 
 # Misc
 culture = hoseo
-religion = koreanist
+religion = authoritarian

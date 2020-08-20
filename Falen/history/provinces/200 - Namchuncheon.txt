@@ -12,4 +12,4 @@ b_songam_namchuncheon = temple
 
 # Misc
 culture = yeongseo
-religion = koreanist
+religion = authoritarian

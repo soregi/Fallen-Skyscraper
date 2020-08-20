@@ -13,4 +13,4 @@ b_jungwon_seongnam = castle
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

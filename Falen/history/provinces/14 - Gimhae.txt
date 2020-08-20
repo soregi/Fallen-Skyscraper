@@ -14,4 +14,4 @@ b_buwon_gimhae = city
 
 # Misc
 culture = yeongnam
-religion = koreanist
+religion = populist

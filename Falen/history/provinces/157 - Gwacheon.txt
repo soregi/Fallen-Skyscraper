@@ -12,4 +12,4 @@ b_byeoryang_gwacheon = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

@@ -11,4 +11,4 @@ b_saengyeon_dongducheon = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

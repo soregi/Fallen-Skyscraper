@@ -10,4 +10,4 @@ b_yangpyeong_yangpyeong = tribal
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

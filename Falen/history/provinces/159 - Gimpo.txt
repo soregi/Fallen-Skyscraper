@@ -12,4 +12,4 @@ b_tongjin = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

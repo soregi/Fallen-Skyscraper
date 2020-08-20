@@ -12,4 +12,4 @@ b_jukjeon_yongin = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

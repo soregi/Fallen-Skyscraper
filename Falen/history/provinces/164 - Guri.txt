@@ -13,4 +13,4 @@ b_sutaek_guri = castle
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

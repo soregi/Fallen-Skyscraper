@@ -14,4 +14,4 @@ b_myeongji_gangseo = city
 
 # Misc
 culture = yeongnam
-religion = koreanist
+religion = populist

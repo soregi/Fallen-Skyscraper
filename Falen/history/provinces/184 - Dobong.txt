@@ -13,7 +13,7 @@ b_ssangmun_dobong = temple
 
 # Misc
 culture = seoul
-religion = koreanist
+religion = authoritarian
 
 2200.1.1 = {
 	b_dobong_dobong = ca_seoul_special_0

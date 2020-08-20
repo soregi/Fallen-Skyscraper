@@ -11,4 +11,4 @@ b_seondan_pocheon = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

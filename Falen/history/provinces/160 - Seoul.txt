@@ -14,7 +14,7 @@ b_hyehwa_seoul = temple
 
 # Misc
 culture = seoul
-religion = koreanist
+religion = authoritarian
 
 2200.1.1 = {
 	b_jongno_seoul = ca_seoul_special_0

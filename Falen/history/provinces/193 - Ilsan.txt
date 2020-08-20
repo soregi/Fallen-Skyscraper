@@ -13,4 +13,4 @@ b_baekseok_ilsan = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

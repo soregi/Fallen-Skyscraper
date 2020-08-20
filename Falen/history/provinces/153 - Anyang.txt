@@ -13,4 +13,4 @@ b_bakdal_anyang = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

@@ -10,4 +10,4 @@ b_dodong = castle
 
 # Misc
 culture = yeongnam
-religion = koreanist
+religion = authoritarian

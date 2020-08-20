@@ -11,4 +11,4 @@ b_daeya_gunpo = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

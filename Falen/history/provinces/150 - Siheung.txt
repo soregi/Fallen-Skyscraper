@@ -11,4 +11,4 @@ b_eunhaeng_siheung = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

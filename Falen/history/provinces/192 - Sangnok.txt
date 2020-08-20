@@ -12,4 +12,4 @@ b_bono_sangnok = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

@@ -128,7 +128,7 @@
 	name = "Daehyung"
 	dynasty = 4000920
 	culture = yeongseo
-	religion = koreanist
+	religion = authoritarian
 	trait = tough_soldier
 	trait = brave
 	trait = proud
@@ -148,7 +148,7 @@
 	female = yes
 	dynasty = 4000927
 	culture = yeongseo
-	religion = koreanist
+	religion = authoritarian
 	trait = brilliant_strategist
 	trait = brawny
 	trait = duelist
@@ -163,7 +163,7 @@
 	name = "Pilseung"
 	dynasty = 4000921
 	culture = yeongseo
-	religion = koreanist
+	religion = authoritarian
 	2425.3.19 = {
 		birth = yes
 	}
@@ -175,7 +175,7 @@
 	name = "Suho"
 	dynasty = 4000922
 	culture = gyeonggi
-	religion = koreanist
+	religion = authoritarian
 	2423.7.18 = {
 		birth = yes
 	}

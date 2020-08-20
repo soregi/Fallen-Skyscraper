@@ -12,4 +12,4 @@ b_sema_osan = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

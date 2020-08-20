@@ -10,4 +10,4 @@ b_byeongjeom_hwaseong = temple
 b_bibong_hwaseong = city
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

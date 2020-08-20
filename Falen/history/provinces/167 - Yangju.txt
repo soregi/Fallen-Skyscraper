@@ -12,4 +12,4 @@ b_jangheung_yangju = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

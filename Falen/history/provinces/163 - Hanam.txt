@@ -13,4 +13,4 @@ b_misa_hanam = castle
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

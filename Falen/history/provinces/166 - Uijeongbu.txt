@@ -12,4 +12,4 @@ b_singok_uijeongbu = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

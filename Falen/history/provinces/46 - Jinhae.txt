@@ -13,4 +13,4 @@ b_gyeonghwa_jinhae = temple
 
 # Misc
 culture = yeongnam
-religion = koreanist
+religion = authoritarian

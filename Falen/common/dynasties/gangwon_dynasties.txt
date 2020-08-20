@@ -36,17 +36,17 @@
 4000920 = {
 	name = "Sim" #국군
 	culture = yeongseo
-	religion = koreanist
+	religion = authoritarian
 }
 4000921 = {
 	name = "Baek" #국군
 	culture = yeongseo
-	religion = koreanist
+	religion = authoritarian
 }
 4000922 = {
 	name = "Gu" #국군
 	culture = gyeonggi
-	religion = koreanist
+	religion = authoritarian
 }
 4000923 = {
 	name = "Ji" #국군
@@ -71,7 +71,7 @@
 4000927 = {
 	name = "Choi" #국군
 	culture = yeongseo
-	religion = koreanist
+	religion = authoritarian
 }
 4000928 = {
 	name = "Jang" #국군

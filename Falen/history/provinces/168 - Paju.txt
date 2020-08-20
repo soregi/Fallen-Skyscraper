@@ -11,4 +11,4 @@ b_geumchon_paju = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian

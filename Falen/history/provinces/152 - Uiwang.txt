@@ -12,4 +12,4 @@ b_cheonggye_uiwang = city
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

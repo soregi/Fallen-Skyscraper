@@ -12,4 +12,4 @@ b_jangan_suwon = temple
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = populist

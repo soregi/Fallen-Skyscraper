@@ -10,4 +10,4 @@ b_yeoju_yeoju = tribal
 
 # Misc
 culture = gyeonggi
-religion = koreanist
+religion = authoritarian
