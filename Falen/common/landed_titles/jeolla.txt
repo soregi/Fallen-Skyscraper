@@ -266,8 +266,6 @@ k_jeolla = {
 
 		c_namwon = {
 			color = { 127 26 26 }
-			holy_site = mu_pagan
-			holy_site = mu_pagan_reformed
 			b_namwon = {}
 			b_dotong = {}
 				
@@ -502,6 +500,8 @@ k_suncheon = {
 		}
 		c_goheung = {
 			color = { 89 0 0 }
+			holy_site = jeju_pagan
+			holy_site = jeju_pagan_reformed
 			b_goheung = {}
 			b_nokdong = {}
 			b_gwayeok = {}
@@ -522,22 +522,22 @@ k_suncheon = {
 		}
 		c_suncheon = {
 			color = { 191 0 0 }
+			holy_site = mahayana
 			b_suncheon = {}
 			b_jungang_suncheon = {}
 			b_jangcheon = {}
 			b_jeojeon = {}
 			b_juam = {}
-				holy_site = mahayana
 			b_oeseo = {}
 			b_nagan = {}
 		}
 		c_gwangyang = {
 			color = { 64 10 10 }
+			holy_site = steel_pagan
+			holy_site = steel_pagan_reformed
 			b_gwangyang = {}
 			b_gwangyeong = {}
-			b_geumho = {}
-				holy_site = steel_pagan
-				holy_site = steel_pagan_reformed
+			b_geumho = {}	
 			b_bonggang = {}
 			b_ongnyong = {}
 			b_jinsang_gwangyang = {}

@@ -10,6 +10,8 @@ k_jeju = {
 
 		c_jeju = {
 			color = { 255 127 0 }
+			holy_site = jeju_pagan
+			holy_site = jeju_pagan_reformed
 			b_jeju = {}
 			b_aewol = {}
 			b_geonip = {}

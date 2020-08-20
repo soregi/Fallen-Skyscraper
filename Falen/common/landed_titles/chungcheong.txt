@@ -10,6 +10,7 @@ k_chungcheong = {
 
 		c_cheonan = {
 			color = { 26 70 26 }
+			holy_site = imperial # 적절한 성지가 없어서
 			b_cheonan_cheonan = {} # 천안
 			b_seongjeong_cheonan = {} # 성정
 			b_ssangyong_cheonan = {} # 쌍용
@@ -181,6 +182,8 @@ k_chungcheong = {
 		}
 		c_gyeryong = {
 			color = { 0 140 0 }
+			holy_site = mu_pagan
+			holy_site = mu_pagan_reformed
 			b_gyeryong_gyeryong = {}
 			b_geumam_gyeryong = {}
 			b_duma_gyeryong = {}

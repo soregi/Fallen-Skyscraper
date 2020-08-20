@@ -11,5 +11,5 @@ b_wabu = city
 
 
 # Misc
-culture = tsingtao
-religion = protestant
+culture = gyeonggi
+religion = unitary

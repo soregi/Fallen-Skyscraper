@@ -9,6 +9,7 @@ k_incheon = {
 		c_incheon = {
 			color = { 214 0 0 }
 			holy_site = protestant
+			holy_site = imperial
 			holy_site = holy_spirit_pagan
 			holy_site = holy_spirit_pagan_reformed
 			b_incheon = {}
@@ -49,6 +50,9 @@ k_incheon = {
 
 		c_ganghwa = {  
 			color = { 47 0 0 }
+			holy_site = mu_pagan
+			holy_site = mu_pagan_reformed
+			
 			b_ganghwa = {}
 			b_samsan = {}
 			b_gyodong = {}
