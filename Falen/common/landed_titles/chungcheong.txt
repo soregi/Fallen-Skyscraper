@@ -238,7 +238,6 @@ k_chungcheong = {
 		}
 		c_buyeo = {
 			color = { 0 89 0 }
-			honam = "Buyeo"
 			b_buyeo_buyeo = {}
 			b_gua_buyeo = {}
 			b_ssangbuk_buyeo = {}
