@@ -1,3 +1,5 @@
 2441.1.3 = {
 	holder = 1927
+	law = succ_primogeniture
+	law = agnatic_succession
 }
