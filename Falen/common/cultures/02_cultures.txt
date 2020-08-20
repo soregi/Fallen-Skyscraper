@@ -10,10 +10,10 @@ south_koreanic = {
 		color = { 171 144 124 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -31,10 +31,10 @@ south_koreanic = {
 		color = { 71 44 224 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -55,10 +55,10 @@ giho_group = {
 		color = { 151 5 58 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -76,10 +76,10 @@ giho_group = {
 		color = { 132 26 86 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -97,10 +97,10 @@ giho_group = {
 		color = { 221 244 224 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -118,10 +118,10 @@ giho_group = {
 		color = { 45 221 44 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -142,10 +142,10 @@ southeast_group = {
 		color = { 251 111 63 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -163,10 +163,10 @@ southeast_group = {
 		color = { 155 187 228 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -187,10 +187,10 @@ southwest_group = {
 		color = { 222 173 124 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -208,10 +208,10 @@ southwest_group = {
 		color = { 16 166 227 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -233,10 +233,10 @@ jeju_koreanic = {
 		color = { 191 144 24 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -257,10 +257,10 @@ north_koreanic = {
 		color = { 221 44 24 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -281,10 +281,10 @@ kwanso_group = {
 		color = { 89 133 197 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -302,10 +302,10 @@ kwanso_group = {
 		color = { 221 44 44 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -323,10 +323,10 @@ kwanso_group = {
 		color = { 163 124 181 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -347,10 +347,10 @@ kwanbuk_group = {
 		color = { 119 103 137 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -368,10 +368,10 @@ kwanbuk_group = {
 		color = { 176 192 137 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
@@ -389,10 +389,10 @@ kwanbuk_group = {
 		color = { 48 107 85 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok Muhyeon Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
 		}
 		
 		dynasty_title_names = no
