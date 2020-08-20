@@ -1,140 +1,140 @@
 4002001 = {
 	name = "Yang"
 	culture = seoul 
-	religion = koreanist
+	religion = authoritarian
 }
 4002002 = {
 	name = "Jeong"
 	culture = seoul 
-	religion = koreanist
+	religion = authoritarian
 }
 4002003 = {
 	name = "Bek"
 	culture = seoul 
-	religion = koreanist
+	religion = authoritarian
 }
 4002004 = {
 	name = "Hassan"
 	culture = seoul 
-	religion = koreanist
+	religion = authoritarian
 }
 4002005 = {
 	name = "Wang"
 	culture = seoul 
-	religion = koreanist
+	religion = authoritarian
 }
 4002006 = {
 	name = "O"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002007 = {
 	name = "Yuk"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002008 = {
 	name = "Chae"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002009 = {
 	name = "Yu"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002010 = {
 	name = "Lyu"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002011 = {
 	name = "Ha"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002012 = {
 	name = "Gong"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002013 = {
 	name = "Min"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002014 = {
 	name = "Eom"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002015 = {
 	name = "Kye"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002016 = {
 	name = "No"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002017 = {
 	name = "Bak"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002018 = {
 	name = "U"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002019 = {
 	name = "Seong"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002020 = {
 	name = "Go"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002021 = {
 	name = "Chu"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002022 = {
 	name = "Bak"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002023 = {
 	name = "Hwang"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002024 = {
 	name = "Ahn"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4002025 = {
 	name = "Lim"
 	culture = seoul 
-	religion = koreanist
+	religion = authoritarian
 }
 4002026 = {
 	name = "Shin"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4004027 = {
 	name = "Ma"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
 4004028 = {
 	name = "Hong"
 	culture = seoul 
-	religion = koreanist
+	religion = populist
 }
