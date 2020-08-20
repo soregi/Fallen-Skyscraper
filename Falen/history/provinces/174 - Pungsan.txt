@@ -7,7 +7,6 @@ title = c_jangphung
 max_settlements = 4
 
 b_jangphung_jangphung = tribal
-b_ryohyon_jangphung = tribal
 
 # Misc
 culture = hwanghae
