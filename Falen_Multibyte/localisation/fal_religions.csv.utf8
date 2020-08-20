@@ -1,6 +1,9 @@
 mu_pagan;무속;;;;;;;;;;;;;x
-jeju_pagan;감귤교;;;;;;;;;;;;;x
+mu_pagan_reformed;무교;;;;;;;;;;;;;x
+jeju_pagan;하르방교;;;;;;;;;;;;;x
+jeju_pagan_reformed;하르방교;;;;;;;;;;;;;x
 steel_pagan;태철교;;;;;;;;;;;;;x
+steel_pagan_reformed;태철교;;;;;;;;;;;;;x
 red_solar_pagan;붉은 태양;;;;;;;;;;;;;x
 red_solar_pagan_reformed;붉은 태양;;;;;;;;;;;;;x
 cheondo;천도교;;;;;;;;;;;;;x
@@ -25,6 +28,6 @@ imperial;제국국교회;;;;;;;;;;;;;x
 wanyan;완안씨 숭배;;;;;;;;;;;;;x
 aisin_gioro;애신각라씨 숭배;;;;;;;;;;;;;x
 nightglow;야명도;;;;;;;;;;;;;x
-unitary;통일교;;;;;;;;;;;;;x
-familiar;사랑가정합일교회;;;;;;;;;;;;;x
+unitary;합일교;;;;;;;;;;;;;x
+familiar;사랑가정교회;;;;;;;;;;;;;x
 c8_religion;씨발;;;;;;;;;;;;;x

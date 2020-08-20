@@ -19,7 +19,7 @@ narrative_event = { # EVT Chain 0 ##
 	}
 	immediate = {
 		set_global_flag = enclav_0
-		666666 = { character_event = { id = enclave.2 years = 10 } }
+		c_666666 = { character_event = { id = enclave.2 years = 10 } }
 	}
 	option = {
 		name = {

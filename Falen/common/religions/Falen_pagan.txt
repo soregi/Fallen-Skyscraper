@@ -56,20 +56,18 @@ pagan_group = {
 		heresy_icon = 27
 		
 		ai_convert_other_group = 2 # always try to convert
-		ai_convert_same_group = 2 # always try to convert
 
 		color = { 0.2 0.6 0.03 }
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_THE_DAGDA
+		high_god_name = GOD_DANGUN
 		
 		god_names = {
-			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
-			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+			GOD_DANGUN
 		}
 		evil_god_names = {
-			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+			GOD_BULGASARI
 		}
 		
 		#unit_modifier = {
@@ -205,7 +203,7 @@ pagan_group = {
 		can_demand_religious_conversion = no
 	}
 	mu_pagan = {
-		graphical_culture = chinesegfx
+		graphical_culture = pagangfx
 
 		icon = 25
 		heresy_icon = 27
@@ -214,14 +212,13 @@ pagan_group = {
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_THE_DAGDA
+		high_god_name = GOD_DANGUN
 		
-		god_names = { 
-			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
-			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		god_names = {
+			GOD_DANGUN
 		}
 		evil_god_names = {
-			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+			GOD_BULGASARI
 		}
 		
 		unit_modifier = {	
@@ -249,7 +246,7 @@ pagan_group = {
 			key = "HERO_RELIGION_HOME_TERRITORY"
 		}
 		
-		piety_name = AWEN
+		piety_name = MU
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_SAGAS
 		priest_title = MUDANG
@@ -279,20 +276,18 @@ pagan_group = {
 		heresy_icon = 73
 		
 		ai_convert_other_group = 2 # always try to convert
-		ai_convert_same_group = 2 # always try to convert
 
 		color = { 0.2 0.8 0.03 }
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_THE_DAGDA
+		high_god_name = GOD_GAIA
 		
 		god_names = {
-			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
-			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+			GOD_GAIA GOD_THE_GODDESS GOD_EARTH_MOTHER GOD_PRIMORDIA GOD_OSTARA
 		}
 		evil_god_names = {
-			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+			GOD_THE_DARK_FATHER GOD_THE_SMOKE_SERPENT GOD_BLIGHT GOD_HADES
 		}
 		
 		#unit_modifier = {
@@ -331,14 +326,13 @@ pagan_group = {
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_MOTHER_EARTH
+		high_god_name = GOD_GAIA
 		
-		god_names = { 
-			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
-			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+		god_names = {
+			GOD_GAIA GOD_THE_GODDESS GOD_EARTH_MOTHER GOD_PRIMORDIA GOD_OSTARA
 		}
 		evil_god_names = {
-			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+			GOD_THE_DARK_FATHER GOD_THE_SMOKE_SERPENT GOD_BLIGHT GOD_HADES
 		}
 		
 		unit_modifier = {	
@@ -396,11 +390,8 @@ pagan_group = {
 		heresy_icon = 50
 		
 		ai_convert_other_group = 2 # always try to convert
-		ai_convert_same_group = 2 # always try to convert
 
 		color = { 0.6 0.2 0.03 }
-		
-		#interface_skin = { celtic_interface pagan_interface }
 		
 		high_god_name = GOD_VULCAN
 		
@@ -411,16 +402,8 @@ pagan_group = {
 			DEVUL_OF_CORROSION LOAD_OF_RUST
 		}
 		
-		#unit_modifier = {
-		#	levy_size = 0.3
-		#	
-		#	retinuesize_perc = 0.5
-		#	
-		#	key = "OFF_RELIGION"
-		#}
-		
 		crusade_name = GREAT_STEEL_WAR
-		scripture_name = MANUAL_OF_FURNACE MANAGEMENT
+		scripture_name = MANUAL_OF_FURNACE_MANAGEMENT
 		priest_title = MASTER_SMITH
 		can_call_crusade = yes
 		priests_can_marry = yes
@@ -444,10 +427,6 @@ pagan_group = {
 		heresy_icon = 50
 		
 		color = { 0.4 0.2 0.3 }
-		
-		#interface_skin = { celtic_interface pagan_interface }
-		
-		high_god_name = GOD_THE_DAGDA
 		
 		high_god_name = GOD_VULCAN
 		
@@ -484,7 +463,7 @@ pagan_group = {
 		}
 		
 		crusade_name = GREAT_STEEL_WAR
-		scripture_name = MANUAL_OF_FURNACE MANAGEMENT
+		scripture_name = MANUAL_OF_FURNACE_MANAGEMENT
 		priest_title = MASTER_SMITH
 		
 		priests_can_marry = yes
@@ -596,28 +575,19 @@ pagan_group = {
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_THE_DAGDA
+		high_god_name = GOD_THE_ANCESTORS
 		
 		god_names = {
-			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
-			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+			GOD_THE_ANCESTORS
 		}
 		evil_god_names = {
 			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
 		}
 		
-		#unit_modifier = {
-		#	levy_size = 0.3
-		#	
-		#	retinuesize_perc = 0.5
-		#	
-		#	key = "OFF_RELIGION"
-		#}
-		
 		piety_name = AWEN
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_SAGAS
-		priest_title = DRUID
+		priest_title = HAENYEO
 		can_call_crusade = yes
 		priests_can_marry = yes
 		allow_looting = yes
@@ -641,11 +611,10 @@ pagan_group = {
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_THE_DAGDA
+		high_god_name = GOD_THE_ANCESTORS
 		
 		god_names = { 
-			GOD_THE_HORNED_GOD GOD_THE_DAGDA GOD_GLOOSCAP GOD_NOKOMIS
-			GOD_MANANNAN_MAC_LIR GOD_LUGH GOD_BRIGID GOD_THE_ANCESTORS
+			GOD_THE_ANCESTORS
 		}
 		evil_god_names = {
 			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
@@ -679,7 +648,7 @@ pagan_group = {
 		piety_name = AWEN
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_SAGAS
-		priest_title = DRUID
+		priest_title = HAENYEO
 		
 		priests_can_marry = yes
 		allow_looting = yes
@@ -704,7 +673,6 @@ pagan_group = {
 		heresy_icon = 20
 		
 		color = { 0.7 0.7 0.1 }
-		parent = protestant
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
@@ -712,7 +680,7 @@ pagan_group = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_GOD GOD_THE_LORD GOD_JESUS
 		}
 		
 		evil_god_names = {
@@ -750,7 +718,7 @@ pagan_group = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_GOD GOD_THE_LORD GOD_JESUS
 		}
 		
 		evil_god_names = {
