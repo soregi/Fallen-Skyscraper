@@ -1,4 +1,4 @@
 2426.7.16 = {
-	liege = d_incheon
-	holder = 2033
+	liege = k_kaesong
+	holder = 2444
 }

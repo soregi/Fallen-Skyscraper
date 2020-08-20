@@ -946,7 +946,7 @@
 	martial = 8
 	stewardship = 10
 	intrigue = 6
-	learning = 10
+	learning = 8
 	trait = mastermind_theologian
 	trait = genius
 	trait = zodiac_gemini
@@ -1003,6 +1003,88 @@
 	}
 	2403.6.20 = {
 		religion = red_solar_pagan
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2441 = {
+	name = "Seokjun"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = populist
+	father = 606
+	mother = 2209
+	2340.8.17 = {
+		birth = yes
+	}
+	2397.3.16 = {
+		death = {
+			death_reason = death_suicide
+		}
+	}
+}
+2442 = {
+	name = "Jeongjae"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = red_solar_pagan
+	father = 2441
+	2361.6.22 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2443 = {
+	name = "Jiyeon"
+	female = yes
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = red_solar_pagan
+	father = 2442
+	2396.5.13 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2444 = {
+	name = "Injae"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = populist
+	father = 2442
+	2393.8.17 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2445 = {
+	name = "Sujeong"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = populist
+	father = 2444
+	2421.6.14 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+2446 = {
+	name = "Jimin"
+	dynasty = 4000601 #왕가
+	culture = hwanghae
+	religion = populist
+	father = 2444
+	2422.9.25 = {
+		birth = yes
 	}
 	2500.1.1 = {
 		death = yes
