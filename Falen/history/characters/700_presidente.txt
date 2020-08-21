@@ -1,6 +1,6 @@
 700 = {
-	name = "Descendants of Yangnyeong"
-	dynasty = 4000801
+	name = "Descendants of Yangnyeong Daegun"
+	dynasty = 4000701
 	father = 842
 	culture = old_korean
 	religion = confucian
@@ -155,6 +155,9 @@
 	learning = 10
 	disallow_random_traits = yes
 	1946.9.1 = { birth = yes }
+	1972.1.1={
+          add_spouse=100012 #양숙
+    }
 	2009.5.23 = {
 		death = {
 			death_reason = death_suicide_fall

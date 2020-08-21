@@ -1,22 +1,41 @@
-40004001 = {
-	name = "Kim" #김녕김씨
-	culture = yeongnam
-	religion = mahayana
-}
 40004002 = {
 	name = "Lee" #전주이씨 효령대군파
 	culture = Seoul
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 1
+		}
+		religion = catholic
+	}
 }
 40004003 = {
 	name = "Kim" #본관 불명
 	culture = Hambook
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 7
+		}
+		religion = catholic
+	}
 }
 40004004 = {
 	name = "Go" #제주고씨
 	culture = jeju
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 67
+		}
+		religion = catholic
+	}
 }
 40004005 = {
 	name = "Heo" #김해허씨
@@ -37,6 +56,14 @@
 	name = "Kim" #본관 불명
 	culture = Seoul
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 7
+		}
+		religion = catholic
+	}
 }
 40004009 = {
 	name = "Yun" #본관 불명
@@ -47,6 +74,14 @@
 	name = "Kim" #본관 불명
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 7
+		}
+		religion = catholic
+	}
 }
 40004012 = {
 	name = "Yang" #본관 불명
@@ -57,6 +92,14 @@
 	name = "Gu" #능성구씨
 	culture = honam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 54
+		}
+		religion = catholic
+	}
 }
 40004014 = {
 	name = "Jeung"
@@ -67,11 +110,27 @@
 	name = "Park"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 4
+		}
+		religion = catholic
+	}
 }
 40004016 = {
 	name = "Kim"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 7
+		}
+		religion = catholic
+	}
 }
 40004017 = {
 	name = "Yeom"
@@ -82,54 +141,142 @@
 	name = "Kim"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 7
+		}
+		religion = catholic
+	}
 }
 40004020 = {
 	name = "Park"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 4
+		}
+		religion = catholic
+	}
 }
 40004021 = {
 	name = "Lee"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 8
+		}
+		religion = catholic
+	}
 }
 40004022 = {
 	name = "Lee"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 8
+		}
+		religion = catholic
+	}
 }
 40004023 = {
 	name = "Kim"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 7
+		}
+		religion = catholic
+	}
 }
 40004024 = {
 	name = "Lee"
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 8
+		}
+		religion = catholic
+	}
 }
 40004025 = {
 	name = "U" #단양우씨
 	culture = hoseo
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 47
+		}
+		religion = catholic
+	}
 }
 40004026 = {
 	name = "Choi" #화순최씨
 	culture = honam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 5
+		}
+		religion = catholic
+	}
 }
 40004027 = {
 	name = "Cho" #풍양조씨
 	culture = gyeonggi
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 57
+		}
+		religion = catholic
+	}
 }
 40004028 = {
 	name = "Oh" #해주오씨 추탄공파
 	culture = hwanghae
 	religion = confucian
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 74
+		}
+		religion = catholic
+	}
 }
 40004029 = {
 	name = "Park" #밀양박씨 규정공파
 	culture = yeongnam
 	religion = confucian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 23
+		}
+		religion = catholic
+	}
 }

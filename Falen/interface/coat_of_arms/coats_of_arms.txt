@@ -146,20 +146,24 @@ culture =
 			color = 0
 			random = no # Do not use for random CoAs
 		}
-		
-		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
-
 		texture = {
-            file = "gfx\coats_of_arms\normandie_cat_01.tga"
+            file = "gfx/coats_of_arms/normandie_cat_01.tga"
             size = { x = 10 y = 10 }
-            noOfFrames = 74
+            noOfFrames = 100
             color = 0
-            emblem = no
+            random = no
         }
 		texture = {
 			file = "gfx/coats_of_arms/dynasties_soregix.tga"
-			size = { x = 10 y = 1 }
-			noOfFrames = 3
+			size = { x = 10 y = 10 }
+			noOfFrames = 100
+			color = 0
+			random = no
+		}
+		texture = {
+			file = "gfx/coats_of_arms/dynasties_soregix_2.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 100
 			color = 0
 			random = no
 		}

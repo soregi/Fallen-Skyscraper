@@ -1,8 +1,16 @@
 #대한민국 대통령
 4000701 = {
-	name = "Rhee"
+	name = "Rhee" #전주이씨
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 1
+		}
+		religion = catholic
+	}
 }
 4000702 = {
 	name = "Yun" #해평윤씨
@@ -18,49 +26,121 @@
 	}
 }
 4000703 = {
-	name = "Park"
+	name = "Park" #고령박씨
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 4
+		}
+		religion = catholic
+	}
 }
 4000704 = {
-	name = "Choi"
+	name = "Choi" #강릉최씨 매창공파
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 5
+		}
+		religion = catholic
+	}
 }
 4000705 = {
-	name = "Chun"
+	name = "Chun" #완산전씨
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 6
+		}
+		religion = catholic
+	}
 }
 4000706 = {
-	name = "Roh"
+	name = "Roh" #교하노씨 창성군파
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 75
+		}
+		religion = catholic
+	}
 }
 4000707 = {
-	name = "Kim"
+	name = "Kim" #김녕김씨
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 19
+		}
+		religion = catholic
+	}
 }
 4000708 = {
-	name = "Kim"
+	name = "Kim" #김해김씨 안경공파
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 18
+		}
+		religion = catholic
+	}
 }
 4000709 = {
-	name = "Roh"
+	name = "Roh" #광주노씨
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 75
+		}
+		religion = catholic
+	}
 }
 4000710 = {
-	name = "Lee"
+	name = "Lee" #경주김씨
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 36
+		}
+		religion = catholic
+	}
 }
 4000711 = {
 	name = "Moon"
 	culture = old_korean 
 	religion = koreanist
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 38
+		}
+		religion = catholic
+	}
 }
 4004751 = {
 	name = "Kim"
