@@ -1,0 +1,22 @@
+on_startup = {
+	events = {
+		XT.1
+		hec.7
+	}
+}
+on_death = {
+    events = {
+	    yalu.001
+		hec.1
+	}
+}
+on_war_ended_victory = { # 공격자 승리
+	events = {
+		hec.9
+	}
+}
+on_war_ended_defeat = { # 방어자 승리
+	events = {
+		hec.10
+	}
+}

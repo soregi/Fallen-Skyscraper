@@ -3,12 +3,10 @@ namespace = XT
 character_event = {
 	id = XT.1
 	hide_window = yes
+	is_triggered_only = yes
 	trigger = {
 		character = c_666666
 		NOT = { has_global_flag = setup_complete }
-	}
-	mean_time_to_happen = {
-		days = 1
 	}
 	immediate = {
 		set_global_flag = setup_complete

@@ -1,0 +1,20 @@
+decisions = {
+	show_imperial_authority = {
+		is_high_prio = yes
+		only_independent = yes
+		potential = {
+			is_playable = yes
+			has_landed_title = e_hec
+			ai = no
+		}
+		allow = {
+			has_global_flag = startup_complete
+		}
+		effect = {
+			character_event = { id = XT.3 }
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

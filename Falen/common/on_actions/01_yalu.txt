@@ -1,6 +1,0 @@
-on_death = {
-    events = {
-	    yalu.001
-		hec.1
-	}
-}

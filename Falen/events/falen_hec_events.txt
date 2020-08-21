@@ -34,19 +34,22 @@ long_character_event = {
 	id = hec.2
 	title = hec_2
 	desc = hec_2_desc
-	picture = GFX_evt_book_carolingian_script
+	picture = GFX_evt_prospering_province
 	border = GFX_event_long_frame_diplomacy
 	is_triggered_only = yes
 	option = {
 		name = hec_2_a
+		set_global_flag = hec_chosen_way
 		narrative_event = { id = hec.3 days = 3 }
 	}
 	option = {
 		name = hec_2_b
+		set_global_flag = hec_chosen_way
 		narrative_event = { id = hec.4 days = 3 }
 	}
 	option = {
 		name = hec_2_c
+		set_global_flag = hec_chosen_way
 		narrative_event = { id = hec.5 days = 3 }
 	}
 }
@@ -54,13 +57,9 @@ narrative_event = {
 	id = hec.3
 	title = hec_3
 	desc = hec_3_desc
-	picture = GFX_evt_book_carolingian_script
+	picture = GFX_evt_church_council
 	border = GFX_event_narrative_frame_diplomacy
 	is_triggered_only = yes
-	major = yes
-	major_trigger = {
-		is_playable = yes
-	}
 	immediate = {
 		set_global_flag = imperial_reform_unlocked
 	}
@@ -105,12 +104,20 @@ narrative_event = {
 	id = hec.4
 	title = hec_4
 	desc = hec_4_desc
-	picture = GFX_evt_book_carolingian_script
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_diplomacy
 	is_triggered_only = yes
 	major = yes
 	major_trigger = {
 		is_playable = yes
+		capital_scope = {
+			NOT = {
+				distance = {
+					where = 235
+					distance = 1200
+				}
+			}
+		}
 	}
 	immediate = {
 		set_global_flag = imperial_reform_unlocked
@@ -144,10 +151,12 @@ narrative_event = {
 			text = hec_4_tooltip
 			set_global_flag = imperial_reform_1
 			set_global_flag = imperial_reform_2
-			add_law = {
-				law = hec_reform_2
-				cooldown = no
-				opinion_effect = no
+			e_hec = {
+				add_law = {
+					law = hec_reform_2
+					cooldown = no
+					opinion_effect = no
+				}
 			}
 		}
 	}
@@ -176,12 +185,20 @@ narrative_event = {
 	id = hec.5
 	title = hec_5
 	desc = hec_5_desc
-	picture = GFX_evt_book_carolingian_script
+	picture = GFX_evt_council_agreement
 	border = GFX_event_narrative_frame_diplomacy
 	is_triggered_only = yes
 	major = yes
 	major_trigger = {
 		is_playable = yes
+		capital_scope = {
+			NOT = {
+				distance = {
+					where = 235
+					distance = 1200
+				}
+			}
+		}
 	}
 	immediate = {
 		c_666666 = {
@@ -247,5 +264,109 @@ character_event = {
 	is_triggered_only = yes
 	immediate = {
 		set_global_flag = imperial_reform_unlocked
+	}
+}
+narrative_event = {
+	id = hec.7
+	title = hec_7
+	desc = hec_7_desc
+	is_triggered_only = yes
+	picture = GFX_evt_book_carolingian_script
+	border = GFX_event_narrative_frame_diplomacy
+	trigger = {
+		top_liege = {
+			has_landed_title = e_hec
+		}
+	}
+	option = {
+		name = hec_7_a
+	}
+}
+character_event = {
+	id = hec.9
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		OR = {
+			FROM = {
+				has_landed_title = e_hec
+			}
+			ROOT = {
+				has_landed_title = e_hec
+			}
+		}
+	}
+	immediate = {
+		if = {
+			limit = {
+				OR = {
+				ROOT = {
+					has_opinion_modifier = {
+						who = FROM
+						name = opinion_rebel_traitor
+					}
+				}
+				FROM = {
+					is_vassal_or_below_of = ROOT
+				}
+				}
+			}
+			change_variable = { which = global_imperial_authority value = -25 }
+		}
+		else_if = {
+			limit = {
+				FROM = { has_landed_title = e_hec }
+			}
+			ROOT = {
+				set_variable = { which = impx value = 0 }
+				export_to_variable = {
+					which = impx
+					value = num_of_count_titles_in_realm
+				}
+				change_variable = { which = global_imperial_authority which = impx }
+				set_variable = { which = impx value = 0 }
+			}
+		}
+	}
+}
+character_event = {
+	id = hec.10
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		OR = {
+			FROM = {
+				has_landed_title = e_hec
+			}
+			ROOT = {
+				has_landed_title = e_hec
+			}
+		}
+	}
+	immediate = {
+		if = {
+			limit = {
+				OR = {
+				ROOT = {
+					has_opinion_modifier = {
+						who = FROM
+						name = opinion_rebel_traitor
+					}
+				}
+				FROM = {
+					is_vassal_or_below_of = ROOT
+				}
+				}
+			}
+			change_variable = { which = global_imperial_authority value = 10 }
+		}
+		else_if = {
+			limit = {
+				FROM = { has_landed_title = e_hec }
+			}
+			ROOT = {
+				change_variable = { which = global_imperial_authority value = -10 }
+			}
+		}
 	}
 }
