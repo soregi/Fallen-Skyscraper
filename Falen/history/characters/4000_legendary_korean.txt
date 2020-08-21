@@ -3,7 +3,7 @@
 ##
 4001 = {
 	name = "Hyeong-min" #김형민
-	dynasty = 40004001 #김녕김씨
+	dynasty = 4000707 #김녕김씨
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -17,6 +17,7 @@
 4002 = {
 	name = "Ki-poong" #이기붕
 	dynasty = 40004002 #전주이씨 효령대군파 17세손
+	father = 110046
 	culture = old_korean
 	religion = confucian
 	disallow_random_traits = yes
@@ -28,7 +29,7 @@
 	}
 }
 4003 = {
-	name = "Tae-sun" #김태선
+	name = "Tae-seon" #김태선
 	dynasty = 40004003 #본관 불명
 	culture = old_korean
 	religion = confucian
@@ -123,6 +124,7 @@
 	dynasty = 4000702 #해평윤씨
 	culture = old_korean
 	religion = confucian
+	father = 100003
 	disallow_random_traits = yes
 	1898.2.10 = {
 		birth = yes
@@ -131,6 +133,7 @@
 		death = yes
 	}
 }
+
 4011 = {
 	name = "Hyeon-ok" #김현옥
 	dynasty = 40004011 #본관 불명

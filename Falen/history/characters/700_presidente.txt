@@ -1,6 +1,6 @@
 700 = {
-	name = "Descendants of Yangnyeong"
-	dynasty = 4000801
+	name = "Descendants of Yangnyeong Daegun"
+	dynasty = 4000701
 	father = 842
 	culture = old_korean
 	religion = confucian
@@ -42,6 +42,7 @@
 	stewardship = 1
 	intrigue = 1
 	learning = 1
+	father = 100008
 	disallow_random_traits = yes
 	1897.8.26 = { birth = yes }
 	1990.7.18 = { death = yes }
@@ -57,6 +58,7 @@
 	stewardship = 1
 	intrigue = 1
 	learning = 1
+	father = 100021
 	disallow_random_traits = yes
 	1917.11.14 = { birth = yes }
 	1979.10.26 = {
@@ -123,6 +125,7 @@
 	stewardship = 1
 	intrigue = 1
 	learning = 1
+	father = 100036
 	disallow_random_traits = yes
 	1929.1.14 = { birth = yes }
 	2015.11.22 = { death = yes }
@@ -130,7 +133,7 @@
 708 = {
 	name = "Daejung"
 	dynasty = 4000708
-	culture = south_korean
+	culture = sinan
 	religion = protestant
 	occluded = yes
 	diplomacy = 1
@@ -145,7 +148,7 @@
 709 = {
 	name = "Moohyun"
 	dynasty = 4000709
-	culture = south_korean
+	culture = yeongnam
 	religion = koreanist
 	occluded = yes
 	diplomacy = 3
@@ -153,8 +156,13 @@
 	stewardship = 4
 	intrigue = 6
 	learning = 10
+	father = 100017
+	mother = 100018
 	disallow_random_traits = yes
 	1946.9.1 = { birth = yes }
+	1972.1.1={
+          add_spouse=100012 #양숙
+    }
 	2009.5.23 = {
 		death = {
 			death_reason = death_suicide_fall
@@ -172,6 +180,7 @@
 	stewardship = 1
 	intrigue = 1
 	learning = 1
+	father = 100031
 	disallow_random_traits = yes
 	1941.12.19 = { birth = yes }
 	2020.3.14 = { death = yes }
@@ -207,4 +216,24 @@
 	disallow_random_traits = yes
 	1953.1.24 = { birth = yes }
 	2020.3.14 = { death = yes }
+}
+719 = {
+	name = "Jaegyu"
+	dynasty = 4000707 #김녕김씨
+	culture = south_korean
+	religion = koreanist
+	occluded = yes
+	disallow_random_traits = yes
+	1926.3.6 = {
+		birth = yes
+	}
+	1979.10.26 = {
+		religion = mahayana
+	}
+	1980.5.24 = {
+		death = {
+			death_reason = death_execution_hanging
+			killer = 705
+		}
+	}
 }
