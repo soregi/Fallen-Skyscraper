@@ -419,3 +419,19 @@
 	1942.1.30 = { birth = yes }
 	1972.11.21 = { death = yes }
 }
+4752 = {
+	name = "Duhan's bloodline"
+	dynasty = 4004751
+	culture = south_korean
+	religion = mahayana
+	occluded = yes
+	father = 4751
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1972.11.21= { birth = yes }
+	2440.1.1 = { death = yes }
+}
