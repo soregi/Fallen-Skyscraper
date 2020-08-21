@@ -2,6 +2,14 @@
 	name = "Cheol"
 	culture =  yeongnam
 	religion = steel_pagan
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 0
+		}
+		religion = catholic
+	}
 }
 4001402 = {
 	name = "Bae"
