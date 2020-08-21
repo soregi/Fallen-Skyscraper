@@ -133,7 +133,7 @@
 708 = {
 	name = "Daejung"
 	dynasty = 4000708
-	culture = sinan
+	culture = south_korean
 	religion = protestant
 	occluded = yes
 	diplomacy = 1
@@ -148,7 +148,7 @@
 709 = {
 	name = "Moohyun"
 	dynasty = 4000709
-	culture = yeongnam
+	culture = south_korean
 	religion = koreanist
 	occluded = yes
 	diplomacy = 3
