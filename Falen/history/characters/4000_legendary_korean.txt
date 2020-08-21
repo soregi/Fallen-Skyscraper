@@ -124,7 +124,6 @@
 	dynasty = 4000702 #해평윤씨
 	culture = old_korean
 	religion = confucian
-	father = 100003
 	disallow_random_traits = yes
 	1898.2.10 = {
 		birth = yes
