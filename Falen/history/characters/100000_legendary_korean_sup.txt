@@ -516,3 +516,19 @@
 	1461.12.31 = { birth = yes }
 	1463.12.4 = { death = yes }
 }
+##
+110046 = {
+	name = "Descendants of Hyoryeong Daegun" #
+	dynasty = 40004002
+	father = 110035
+	culture = old_korean
+	religion = confucian
+	occluded = yes
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	disallow_random_traits = yes
+	1420.1.1 = { birth = yes }
+	1920.1.1 = { death = yes }
