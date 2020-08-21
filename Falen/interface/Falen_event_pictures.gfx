@@ -8,6 +8,10 @@ spriteTypes =
 		name = "GFX_sinan_salt_slavery"
 		texturefile = "gfx/event_pictures/sinan_salt_slavery.dds"
 	}
+	spriteType = {
+		name = "GFX_hec_starting"
+		texturefile = "gfx/event_pictures/hec_starting.dds"
+	}
 
 }
 
