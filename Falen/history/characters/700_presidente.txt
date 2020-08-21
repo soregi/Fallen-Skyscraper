@@ -42,7 +42,6 @@
 	stewardship = 1
 	intrigue = 1
 	learning = 1
-	father = 100008
 	disallow_random_traits = yes
 	1897.8.26 = { birth = yes }
 	1990.7.18 = { death = yes }
