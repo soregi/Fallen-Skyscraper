@@ -3,7 +3,7 @@ bm_2444 = {
 	desc = "BM_2444_INFO"
 	date = 2444.6.1
 	era = yes
-	picture = GFX_pick_era_image_0
+	picture = GFX_pick_era_image_1
 	custom_start = yes				## Choosing "Custom Start" will open this bookmark
 }
 bm_hoseohonam = {
