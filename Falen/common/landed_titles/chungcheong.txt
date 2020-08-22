@@ -240,23 +240,24 @@ k_chungcheong = {
 			b_boram_sejong = {}
 			b_sodam_sejong = {}
 		}
+		
+	}
+	
+	d_buyeo = {
+		color = { 255 255 153 }
+		color2 = { 204 204 153 }
+		capital = 120 # Buyeo
+		
 		c_buyeo = {
 			color = { 0 89 0 }
-			b_buyeo_buyeo = {}
-			b_gua_buyeo = {}
-			b_ssangbuk_buyeo = {}
-			b_gugyo_buyeo = {}
-			b_wangpo_buyeo = {}
+			b_buso = {}
+			b_buyeo = {}
+			b_gungnam = {}
+			b_jeongrim = {}
+			b_buyeo_museum = {}
 			b_chochon_buyeo = {}
 			b_seokseong_buyeo = {}
 		}
-	}
-	
-	d_boryeong = {
-		color = { 216 245 48 }
-
-		capital = 123 #서천
-
 		c_seocheon = {
 			color = { 0 38 0 }
 			b_seocheon_seocheon = {}
@@ -296,11 +297,11 @@ k_chungcheong = {
 
 		c_hongju = {
 			color = { 0 102 0 }
-			b_hongju_hongju = {}
+			b_hongju = {}
 			b_hongbuk_hongju = {}
 			b_hongseong_hongju = {}
 			b_galsan_hongju = {}
-			b_gyeolseong_hongju = {}
+			b_naepo_hongju = {}
 			b_guhang_hongju = {}
 			b_hongdong_hongju = {}
 		}
@@ -313,6 +314,16 @@ k_chungcheong = {
 			b_gasong_gwangcheon = {}
 			b_daehyeon_gwangcheon = {}
 			b_dosan_gwangcheon = {}
+		}
+		c_gyeolseong = {
+			color = { 113 244 152 }
+			b_gyeolseong = {}
+			b_duam_gyeol = {}
+			b_hwasan_gyeol = {}
+			b_gasan_gyeol = {}
+			b_sangseo_gyeol = {}
+			b_haseo_gyeol = {}
+			b_yongcheon_gyeol = {}
 		}
 		c_boryeong = {
 			color = { 0 51 0 }

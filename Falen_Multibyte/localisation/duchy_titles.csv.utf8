@@ -94,8 +94,8 @@ d_geoje;거제;;;;;;;;;;;;;x
 d_geoje_adj;거제;;;;;;;;;;;;;x
 d_jeongeup;정읍;;;;;;;;;;;;;x
 d_jeongeup_adj;정읍;;;;;;;;;;;;;x
-d_samangeum;새만금;;;;;;;;;;;;;x
-d_samangeum_adj;새만금;;;;;;;;;;;;;x
+d_saemangeum;새만금;;;;;;;;;;;;;x
+d_saemangeum_adj;새만금;;;;;;;;;;;;;x
 d_gunsan;군산;;;;;;;;;;;;;x
 d_gunsan_adj;군산;;;;;;;;;;;;;x
 d_muju;무주;;;;;;;;;;;;;x
@@ -128,6 +128,16 @@ d_chuncheon;남춘천;;;;;;;;;;;;;x
 d_chuncheon_adj;남춘천;;;;;;;;;;;;;x
 d_west_wonju;서원주;;;;;;;;;;;;;x
 d_west_wonju_adj;서원주;;;;;;;;;;;;;x
+d_buyeo;부여;;;;;;;;;;;;;x
+d_buyeo_adj;부여;;;;;;;;;;;;;x
+d_iksan;익산;;;;;;;;;;;;;x
+d_iksan_adj;익산;;;;;;;;;;;;;x
+d_cheonan;천안;;;;;;;;;;;;;x
+d_cheonan_adj;천안;;;;;;;;;;;;;x
+d_jinju;진주;;;;;;;;;;;;;x
+d_jinju_adj;진주;;;;;;;;;;;;;x
+d_pyeongtaek;평택;;;;;;;;;;;;;x
+d_pyeongtaek_adj;평택;;;;;;;;;;;;;x
 d_suwon;수원;;;;;;;;;;;;;x
 d_suwon_adj;수원;;;;;;;;;;;;;x
 d_ansan;안산;;;;;;;;;;;;;x

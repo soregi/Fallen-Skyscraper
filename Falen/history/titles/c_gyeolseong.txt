@@ -1,0 +1,4 @@
+2427.10.3 = {
+	liege = k_northern_margraviate
+	holder = 2851
+}

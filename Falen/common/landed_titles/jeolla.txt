@@ -1,3 +1,81 @@
+#신복련
+e_hec = { #신복련
+	color = { 80 80 80 }
+	color2 = { 50 50 50 }
+	short_name = yes
+	capital = 90
+	k_central = { # 전주 왕국
+		color = { 80 80 80 }
+		color2 = { 50 50 50 }
+		capital = 90
+		d_jeonju = {
+			color = { 253 255 145 }
+
+			capital = 90
+
+			c_jeonju = {
+				color = { 153 38 13 }
+				holy_site = imperial
+				holy_site = confucian
+				b_jeonju = {}
+				b_pyeonghwa = {}
+				b_samcheon = {}
+				b_hyoja = {}
+				b_inhu = {}
+				b_geumam_jeonju = {}
+				b_songcheon_jeonju = {}
+			}
+			c_deokjin = {
+				color = { 223 167 107 }
+				b_deokjin = {}
+				b_palbok_deokjin = {}
+				b_hoseong_deokjin = {}
+				b_jochon_deokjin = {}
+				b_yeoui_deokjin = {}
+				b_hyeoksin_deokjin = {}
+				b_jinbuk_deokjin = {}
+			}
+			c_taein = {
+				color = { 233 123 95 }
+				b_taein = {}
+				b_geosan = {}
+				b_gocheon_taein = {}
+				b_gungsa = {}
+				b_nagyang = {}
+				b_maegye = {}
+				b_baksan = {}
+			}
+			c_imsil = {
+				color = { 166 13 13 }
+				b_imsil = {}
+				b_gwanchon = {}
+				b_osu = {}
+				b_unam = {}
+				b_sinpyeong_imsil = {}
+				b_samgye = {}
+				b_cheongung = {}
+			}
+			c_gimje = {
+				color = { 102 13 13 }
+				holy_site = holy_spirit_pagan
+				holy_site = holy_spirit_pagan_reformed
+				b_gimje = {}
+				b_geumgu = {}
+				b_yochon = {}
+				b_sinpung_gimje = {}
+				b_geomsan = {}
+				b_gyowol = {}
+				b_geumsan_gimje = {}
+			}
+		}
+	}
+	k_northern_margraviate = {
+		color ={ 226 226 226 }
+		color2 = { 236 236 236 }
+		short_name = yes
+		capital = 128 # Hongju
+	}
+}
 k_jeolla = { 
 	color = { 255 148 66 }
 
@@ -83,18 +161,6 @@ k_jeolla = {
 
 		capital = 81
 
-		c_gimje = {
-			color = { 102 13 13 }
-			holy_site = holy_spirit_pagan
-			holy_site = holy_spirit_pagan_reformed
-			b_gimje = {}
-			b_geumgu = {}
-			b_yochon = {}
-			b_sinpung_gimje = {}
-			b_geomsan = {}
-			b_gyowol = {}
-			b_geumsan = {}
-		}
 		c_buan = {
 			color = { 127 64 64 }
 			b_buan = {}
@@ -114,55 +180,6 @@ k_jeolla = {
 			b_buan_gochang = {}
 			b_mujang = {}
 			b_seongsong = {}
-		}
-	}
-	
-	d_jeonju = {
-		color = { 253 255 145 }
-
-		capital = 90
-
-		c_jeonju = {
-			color = { 153 38 13 }
-			holy_site = imperial
-			holy_site = confucian
-			b_jeonju = {}
-			b_pyeonghwa = {}
-			b_samcheon = {}
-			b_hyoja = {}
-			b_inhu = {}
-			b_geumam_jeonju = {}
-			b_songcheon_jeonju = {}
-		}
-		c_deokjin = {
-			color = { 223 167 107 }
-			b_deokjin = {}
-			b_palbok_deokjin = {}
-			b_hoseong_deokjin = {}
-			b_jochon_deokjin = {}
-			b_yeoui_deokjin = {}
-			b_hyeoksin_deokjin = {}
-			b_jinbuk_deokjin = {}
-		}
-		c_taein = {
-			color = { 233 123 95 }
-			b_taein = {}
-			b_geosan = {}
-			b_gocheon_taein = {}
-			b_gungsa = {}
-			b_nagyang = {}
-			b_maegye = {}
-			b_baksan = {}
-		}
-		c_imsil = {
-			color = { 166 13 13 }
-			b_imsil = {}
-			b_gwanchon = {}
-			b_osu = {}
-			b_unam = {}
-			b_sinpyeong_imsil = {}
-			b_samgye = {}
-			b_cheongung = {}
 		}
 	}
 	

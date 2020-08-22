@@ -94,8 +94,8 @@ d_geoje;Geoje;;;;;;;;;;;;;x
 d_geoje_adj;Geoje;;;;;;;;;;;;;x
 d_jeongeup;Jeong'eup;;;;;;;;;;;;;x
 d_jeongeup_adj;Jeong'eup;;;;;;;;;;;;;x
-d_samangeum;Saemangeum;;;;;;;;;;;;;x
-d_samangeum_adj;Saemangeum;;;;;;;;;;;;;x
+d_saemangeum;Saemangeum;;;;;;;;;;;;;x
+d_saemangeum_adj;Saemangeum;;;;;;;;;;;;;x
 d_gunsan;Gunsan;;;;;;;;;;;;;x
 d_gunsan_adj;Gunsan;;;;;;;;;;;;;x
 d_muju;Muju;;;;;;;;;;;;;x
@@ -128,6 +128,16 @@ d_chuncheon;South Chuncheon;;;;;;;;;;;;;x
 d_chuncheon_adj;South Chuncheon;;;;;;;;;;;;;x
 d_west_wonju;West Wonju;;;;;;;;;;;;;x
 d_west_wonju_adj;West Wonju;;;;;;;;;;;;;x
+d_buyeo;Buyeo;;;;;;;;;;;;;x
+d_buyeo_adj;Buyeo;;;;;;;;;;;;;x
+d_iksan;Iksan;;;;;;;;;;;;;x
+d_iksan_adj;Iksan;;;;;;;;;;;;;x
+d_cheonan;Cheonan;;;;;;;;;;;;;x
+d_cheonan_adj;Cheonan;;;;;;;;;;;;;x
+d_jinju;Jinju;;;;;;;;;;;;;x
+d_jinju_adj;Jinju;;;;;;;;;;;;;x
+d_pyeongtaek;Pyeongtaek;;;;;;;;;;;;;x
+d_pyeongtaek_adj;Pyeongtaek;;;;;;;;;;;;;x
 d_suwon;Suwon;;;;;;;;;;;;;x
 d_suwon_adj;Suwon;;;;;;;;;;;;;x
 d_ansan;Ansan;;;;;;;;;;;;;x

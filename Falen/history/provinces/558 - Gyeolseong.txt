@@ -1,0 +1,15 @@
+# 558 - Gyeolseong
+
+# County Title
+title = c_gyeolseong
+
+# Settlements
+max_settlements = 4
+
+b_gyeolseong = castle
+b_duam_gyeol = city
+b_hwasan = temple
+
+# Misc
+culture = hoseo
+religion = mechanist

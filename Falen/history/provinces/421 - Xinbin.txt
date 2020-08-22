@@ -6,11 +6,11 @@ title = c_xinbin
 # Settlements
 max_settlements = 7
 
+b_muqi = tribal
 b_xingjing = castle
 b_xinbin = city
 b_hetu_ala = temple
 b_xiyangzi = castle
-b_muqi = temple
 b_wangcheongmun = city
 # Misc
 culture = jianzhou

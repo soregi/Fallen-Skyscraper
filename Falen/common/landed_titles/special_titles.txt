@@ -229,26 +229,6 @@ e_kangsong_tae_kuk = {
 		always = no #붉은태양 종교 개혁하면 주는 작위
 	}
 }
-
-#신복련
-e_hec = { #신복련
-	color = { 80 80 80 }
-	color2 = { 50 50 50 }
-	short_name = yes
-	k_central = {
-		color = { 80 80 80 }
-		color2 = { 50 50 50 }
-	}
-	k_northern_margraviate = {
-		color ={ 226 226 226 }
-		color2 = { 236 236 236 }
-		short_name = yes
-	}
-}
-d_buyeo = {
-	color = { 255 255 153 }
-	color2 = { 204 204 153 }
-}
 #미군들
 e_usa_mil = { #미군정
 	color = { 70 204 212 }
