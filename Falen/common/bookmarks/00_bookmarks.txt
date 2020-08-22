@@ -1,8 +1,36 @@
-bm_open_revolt = {
+bm_2444 = {
 	name = "BM_2444"
 	desc = "BM_2444_INFO"
 	date = 2444.6.1
 	era = yes
-	picture = GFX_pick_era_image_5
+	picture = GFX_pick_era_image_0
 	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+}
+bm_hoseohonam = {
+	name = "BM_FAITH_AND_EMPERORS"
+	desc = "BM_FAITH_AND_EMPERORS_INFO"
+	date = 2444.6.1
+	era = yes
+	picture = GFX_pick_era_image_3
+}
+bm_yeongnam = {
+	name = "BM_YEONGNAM"
+	desc = "BM_YEONGNAM_INFO"
+	date = 2444.6.1
+	era = yes
+	picture = GFX_pick_era_image_4
+}
+bm_northland = {
+	name = "BM_NORTHLAND"
+	desc = "BM_NORTHLAND_INFO"
+	date = 2444.6.1
+	era = yes
+	picture = GFX_pick_era_image_5
+}
+bm_outer_lords = {
+	name = "BM_OUTER_LORDS"
+	desc = "BM_OUTER_LORDS_INFO"
+	date = 2444.6.1
+	era = yes
+	picture = GFX_pick_era_image_6
 }

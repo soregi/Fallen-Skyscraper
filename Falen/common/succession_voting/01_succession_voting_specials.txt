@@ -4876,10 +4876,10 @@ hre_feudal_elective = {
 			FROMFROM = { #Tied to religion.
 				holder_scope = { religion = ROOT }
 			}
-			NOT = { has_landed_title = e_hre }
+			NOT = { has_landed_title = e_hec }
 			OR = { # To make sure they are still dejure vassals of HRE
-				e_hre = { #Counts
-					persistent_event_target:hre_title_1_per = { 
+				e_hec = { #Counts
+					c_jeonju = { 
 						holder_scope = { character = ROOT } 
 						OR = { 
 							any_dejure_liege = { title = FROMFROM } 
@@ -4889,8 +4889,8 @@ hre_feudal_elective = {
 						}
 					}
 				}
-				e_hre = { 
-					persistent_event_target:hre_title_2_per = { 
+				e_hec = { 
+					c_gongju = { 
 						holder_scope = { character = ROOT }
 						OR = { 
 							any_dejure_liege = { title = FROMFROM } 
@@ -4900,8 +4900,8 @@ hre_feudal_elective = {
 						}
 					}
 				}
-				e_hre = { 
-					persistent_event_target:hre_title_3_per = { 
+				e_hec = { 
+					c_namwon = { 
 						holder_scope = { character = ROOT }
 						OR = { 
 							any_dejure_liege = { title = FROMFROM } 
@@ -4911,8 +4911,8 @@ hre_feudal_elective = {
 						}
 					}
 				}
-				e_hre = { #Dukes
-					persistent_event_target:hre_title_4_per = { 
+				e_hec = { #Dukes
+					c_buyeo = { 
 						holder_scope = { character = ROOT } 
 						OR = { 
 							any_dejure_liege = { title = FROMFROM } 
@@ -4922,8 +4922,8 @@ hre_feudal_elective = {
 						}
 					}
 				}
-				e_hre = { 
-					persistent_event_target:hre_title_5_per = { 
+				e_hec = { 
+					c_jeongeup = { 
 						holder_scope = { character = ROOT }
 						OR = { 
 							any_dejure_liege = { title = FROMFROM } 
@@ -4933,8 +4933,8 @@ hre_feudal_elective = {
 						}
 					}
 				}
-				e_hre = { 
-					persistent_event_target:hre_title_6_per = { 
+				e_hec = { 
+					c_hongju = { 
 						holder_scope = { character = ROOT }
 						OR = { 
 							any_dejure_liege = { title = FROMFROM } 
@@ -4944,8 +4944,8 @@ hre_feudal_elective = {
 						}
 					}
 				}
-				e_hre = { 
-					persistent_event_target:hre_title_7_per = { 
+				e_hec = { 
+					c_iksan = { 
 						holder_scope = { character = ROOT }
 						OR = { 
 							any_dejure_liege = { title = FROMFROM } 
@@ -5140,7 +5140,17 @@ hre_feudal_elective = {
 		}
 
 		##########################   Candidate's traits   ##########################
-
+		
+		additive_modifier = { #Designated Heir.
+			value = 1000
+			localisation_key = tooltip_feudal_elector_vote_oldtimer
+			NOT = { character = FROM }
+			FROM = {
+				character = c_2
+				NOT = { has_global_flag = death_hanwol }
+			}
+		}
+		
 		#The heir
 		additive_modifier = { #Current ruler will always try to elect his player heir.
 			value = 50

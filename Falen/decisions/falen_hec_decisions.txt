@@ -8,7 +8,7 @@ decisions = {
 			ai = no
 		}
 		allow = {
-			has_global_flag = startup_complete
+			has_global_flag = setup_complete
 		}
 		effect = {
 			character_event = { id = XT.3 }
