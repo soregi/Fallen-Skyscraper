@@ -1,0 +1,59 @@
+4002901 = {
+	name = "Khorchin"
+	culture = mongol
+	religion = vajrayana
+}
+4002902 = {
+	name = "Naiman"
+	culture = mongol
+	religion = vajrayana
+}
+4002903 = {
+	name = "Baarin"
+	culture = mongol
+	religion = vajrayana
+}
+4002904 = {
+	name = "Kharchin"
+	culture = mongol
+	religion = vajrayana
+}
+4002905 = {
+	name = "Tumed"
+	culture = mongol
+	religion = vajrayana
+}
+4002906 = {
+	name = "Jaruud"
+	culture = mongol
+	religion = vajrayana
+}
+4002907 = {
+	name = "Onniguud"
+	culture = mongol
+	religion = vajrayana
+}
+4002908 = {
+	name = "Daur"
+	culture = mongol
+	religion = tengri_pagan
+}
+4002909 = {
+	name = "Aohan"
+	culture = mongol
+	religion = vajrayana
+}
+11100=
+{
+	name="Borjigin"
+	culture="mongol"
+	religion="tengri_pagan"
+	coat_of_arms=
+	{
+		data=
+		{
+0 8 0 44 0 0 0 			}
+		religion="catholic"
+	}
+	used_for_random=no
+}

@@ -1,0 +1,10 @@
+2343.1.1 = {
+	holder = 2920
+	liege = d_khorchin
+}
+2380.1.1 = {
+	holder = 2921
+}
+2415.1.1 = {
+	holder = 2922
+}

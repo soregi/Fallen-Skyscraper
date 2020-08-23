@@ -1,0 +1,4 @@
+2430.1.1 = {
+	liege = e_tumed
+	holder = 2927
+}

@@ -1,0 +1,13 @@
+# 426 - Manduhu
+
+# County Title
+title = c_manduhu
+
+# Settlements
+max_settlements = 3
+
+b_manduhu = tribal
+
+# Misc
+culture = mongol
+religion = vajrayana

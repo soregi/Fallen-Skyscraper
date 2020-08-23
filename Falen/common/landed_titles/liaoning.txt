@@ -39,6 +39,16 @@ k_liaoning = {
 			b_liaozhong_b5 = {}
 			b_liaozhong_b6 = {}
 		}
+		c_manduhu = {
+			color = { 25 25 113 }
+			b_manduhu = {}
+			b_huandong = {}
+			b_laodafang = {}
+			b_xinxing = {}
+			b_niuxintuo = {}
+			b_dahei_manduhu = {}
+			b_qiaotou = {}
+		}
 		c_sujiatu = {
 			color = { 170 145 0 }
 			b_sujiatu_b0 = {}

@@ -1,0 +1,13 @@
+1444.11.11 = {
+	historical_nomad = yes
+}
+2343.1.1 = {
+	holder = 2920
+	liege = k_mongolia
+}
+2380.1.1 = {
+	holder = 2921
+}
+2415.1.1 = {
+	holder = 2922
+}

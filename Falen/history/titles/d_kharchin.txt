@@ -1,0 +1,8 @@
+2430.1.1 = {
+	historical_nomad = yes
+	holder = 2926
+	set_tribute_suzerain = {
+		who = k_hebei
+		type = permanent
+	}
+}

@@ -1,0 +1,428 @@
+2900 = {
+	name = "Descendents of Ariq Bukha"
+	dynasty = 11100
+	culture = mongol
+	religion = tengri_pagan
+	father = 125526
+	occluded = yes
+	disallow_random_traits = yes
+	1260.1.1 = { birth = yes }
+	1470.1.1 = { death = yes }
+}
+2901 = {
+	name = "Batumongke"
+	dynasty = 11100
+	father = 2900
+	culture = mongol
+	religion = vajrayana
+	occluded = yes
+	disallow_random_traits = yes
+	trait = strong
+	trait = strategist
+	trait = brilliant_strategist
+	trait = strong
+	trait = quick
+	trait = kind
+	trait = administrator
+	trait = just
+	1464.1.1 = { birth = yes }
+	1479.1.1 = { set_name = "Dayan" }
+	1517.1.1 = { death = yes }
+}
+2902 = {
+	name = "Descendents of Dayan"
+	dynasty = 11100
+	father = 2901
+	culture = mongol
+	religion = vajrayana
+	occluded = yes
+	disallow_random_traits = yes
+	1500.1.1 = { birth = yes }
+	1900.1.1 = { death = yes }
+}
+2903 = {
+	name = "Yondonwangchug"
+	dynasty = 11100
+	father = 2902
+	culture = mongol
+	religion = vajrayana
+	occluded = yes
+	disallow_random_traits = yes
+	1870.1.1 = { birth = yes }
+	1938.3.24 = {
+		death = {
+			death_reason = death_drank_poison
+		}
+	}
+}
+2904 = {
+	name = "Demchugdongrub"
+	dynasty = 11100
+	father = 2903
+	culture = mongol
+	religion = vajrayana
+	occluded = yes
+	disallow_random_traits = yes
+	1902.2.8 = { birth = yes }
+	1966.5.23 = { death = yes }
+}
+2905 = {
+	name = "Descendents of Demchugdongrub"
+	dynasty = 11100
+	father = 2904
+	culture = mongol
+	religion = vajrayana
+	occluded = yes
+	disallow_random_traits = yes
+	1950.1.1 = { birth = yes }
+	2300.1.1 = { death = yes }
+}
+2906 = {
+	name = "Temujin"
+	dynasty = 11100
+	father = 2905
+	culture = mongol
+	religion = vajrayana
+	diplomacy = 5
+	martial = 10
+	stewardship = 8
+	intrigue = 2
+	learning = 8
+	dna = bfimkolbecc
+	properties = ge0af0000000
+	trait = gregarious
+	trait = ambitious
+	trait = diligent
+	trait = hunter
+	trait = cavalry_leader
+	trait = brilliant_strategist
+	trait = genius
+	trait = strong
+	trait = fair
+	trait = scholar
+	trait = cavalry_leader
+	trait = erudite
+	trait = zealous
+	trait = kind
+	trait = patient
+	trait = brave
+	trait = robust
+	trait = honest
+	trait = trusting
+	disallow_random_traits = yes
+	2287.9.16 = { birth = yes }
+	2335.8.25 = {
+		death = {
+			death_reason = death_murder_poison_unknown
+			killer = 2932
+		}
+	}
+}
+2907 = {
+	name = "Mongkebaatar"
+	dynasty = 11100
+	father = 2906
+	culture = mongol
+	religion = vajrayana
+	trait = strong
+	trait = quick
+	trait = brave
+	trait = cruel
+	trait = patient
+	trait = paranoid
+	trait = deceitful
+	trait = impaler
+	diplomacy = 3
+	martial = 6
+	stewardship = 5
+	intrigue = 9
+	learning = 3
+	2324.12.23 = { birth = yes }
+	2378.11.26 = { death = yes }
+}
+2908 = {
+	name = "Narantuyaa"
+	dynasty = 11100
+	father = 2906
+	culture = mongol
+	religion = vajrayana
+	female = yes
+	trait = fair
+	trait = groomed
+	2332.6.13 = { birth = yes }
+	2377.1.11 = { death = yes }
+}
+2909 = {
+	name = "Altan"
+	dynasty = 11100
+	father = 2907
+	culture = mongol
+	religion = vajrayana
+	trait = shy
+	2342.12.29 = { birth = yes }
+	2375.5.1 = { death = yes }
+}
+2910 = {
+	name = "Jorightu"
+	dynasty = 11100
+	father = 2907
+	culture = mongol
+	religion = vajrayana
+	trait = ambitious
+	trait = envious
+	2350.1.15 = { birth = yes }
+	2400.7.16 = {
+		death = {
+			death_reason = death_execution
+			killer = 2911
+		}
+	}
+}
+2911 = {
+	name = "Elbegdorj"
+	dynasty = 11100
+	father = 2909
+	culture = mongol
+	religion = vajrayana
+	trait = ambitious
+	trait = deceitful
+	trait = kinslayer
+	trait = elusive_shadow
+	2370.1.12 = { birth = yes }
+	2423.11.31 = { death = yes }
+}
+2912 = {
+	name = "Ogtbish"
+	dynasty = 11100
+	father = 2911
+	culture = mongol
+	religion = vajrayana
+	trait = slow
+	trait = weak
+	trait = shy
+	trait = craven
+	2398.1.17 = { birth = yes }
+	2443.11.16 = { death = yes }
+}
+2913 = {
+	name = "Ligdan"
+	dynasty = 11100
+	father = 2912
+	culture = mongol
+	religion = vajrayana
+	diplomacy = 5
+	martial = 7
+	stewardship = 6
+	intrigue = 3
+	learning = 4
+	trait = tough_soldier
+	trait = erudite
+	trait = falconer
+	trait = quick
+	trait = patient
+	trait = trusting
+	trait = strong
+	trait = groomed
+	trait = brave
+	trait = ambitious
+	disallow_random_traits = yes
+	2428.3.4 = { birth = yes }
+	2475.5.1 = { death = yes }
+}
+2914 = {
+	name = "Saran"
+	dynasty = 11100
+	father = 2912
+	female = yes
+	culture = mongol
+	religion = vajrayana
+	diplomacy = 3
+	martial = 3
+	stewardship = 5
+	intrigue = 6
+	learning = 6
+	trait = fair
+	trait = just
+	trait = strong
+	trait = curious
+	trait = idolizer
+	trait = conscientious
+	trait = flu
+	trait = twin
+	2433.6.3 = { birth = yes }
+	2493.1.1 = { death = yes }
+}
+2915 = {
+	name = "Altan"
+	dynasty = 11100
+	father = 2912
+	culture = mongol
+	religion = vajrayana
+	diplomacy = 3
+	martial = 5
+	stewardship = 3
+	intrigue = 3
+	learning = 3
+	trait = fair
+	trait = rowdy
+	trait = strong
+	trait = curious
+	trait = willful
+	trait = conscientious
+	trait = flu
+	trait = twin
+	2433.6.3 = { birth = yes }
+	2493.1.1 = { death = yes }
+}
+2916 = {
+	name = "Manduul"
+	dynasty = 11100
+	father = 2910
+	culture = mongol
+	religion = vajrayana
+	trait = diligent
+	trait = content
+	trait = ill
+	2379.1.1 = { birth = yes }
+	2445.1.1 = { death = yes }
+}
+2917 = {
+	name = "Engkh"
+	dynasty = 11100
+	father = 2916
+	culture = mongol
+	religion = vajrayana
+	trait = diligent
+	trait = ambitious
+	2422.1.1 = { birth = yes }
+	2490.1.1 = { death = yes }
+}
+2920 = {
+	name = "Ubashi"
+	dynasty = 4002901
+	culture = mongol
+	religion = vajrayana
+	2327.1.1 = { birth = yes }
+	2343.1.1 = { add_spouse = 2908 }
+	2380.1.1 = { death = yes }
+}
+2921 = {
+	name = "Oljeitu"
+	dynasty = 4002901
+	father = 2920
+	mother = 2908
+	culture = mongol
+	religion = vajrayana
+	2357.1.1 = { birth = yes }
+	2415.1.1 = { death = yes }
+}
+2922 = {
+	name = "Lubsang"
+	dynasty = 4002901
+	father = 2921
+	culture = mongol
+	religion = vajrayana
+	2400.1.17 = { birth = yes }
+	2430.1.1 = { add_spouse = 2931 }
+	2461.11.1 = { death = yes }
+}
+2923 = {
+	name = "Chuluunbold"
+	dynasty = 4002901
+	father = 2922
+	culture = mongol
+	religion = vajrayana
+	2430.11.15 = { birth = yes }
+	2488.1.1 = { death = yes }
+}
+2924 = {
+	name = "Otryadyn"
+	dynasty = 4002902
+	culture = mongol
+	religion = vajrayana
+	2416.1.1 = { birth = yes }
+	2460.1.1 = { death = yes }
+}
+2925 = {
+	name = "Hugjiltu"
+	dynasty = 4002903
+	culture = mongol
+	religion = vajrayana
+	trait = envious
+	2412.1.1 = { birth = yes }
+	2450.1.1 = { death = yes }
+}
+2926 = {
+	name = "Bayantemur"
+	dynasty = 4002904
+	culture = mongol
+	religion = vajrayana
+	2412.1.1 = { birth = yes }
+	2450.1.1 = { death = yes }
+}
+2927 = {
+	name = "Agbarjin"
+	dynasty = 4002905
+	culture = mongol
+	religion = vajrayana
+	trait = envious
+	2412.1.1 = { birth = yes }
+	2450.1.1 = { death = yes }
+}
+2928 = {
+	name = "Ejei"
+	dynasty = 4002906
+	culture = mongol
+	religion = vajrayana
+	2412.1.1 = { birth = yes }
+	2450.1.1 = { death = yes }
+}
+2929 = {
+	name = "Hulegu"
+	dynasty = 4002907
+	culture = mongol
+	religion = vajrayana
+	trait = strategist
+	trait = strong
+	2382.1.1 = { birth = yes }
+	2430.1.1 = { death = yes }
+}
+2930 = {
+	name = "Jochi"
+	dynasty = 4002907
+	father = 2929
+	religion = vajrayana
+	culture = mongol
+	trait = kind
+	2412.1.1 = { birth = yes }
+	2469.1.1 = { death = yes }
+}
+2931 = {
+	name = "Sarangerel"
+	dynasty = 4002907
+	father = 2929
+	female = yes
+	religion = vajrayana
+	culture = mongol
+	2413.1.1 = { birth = yes }
+	2450.1.1 = { death = yes }
+}
+2932 = {
+	name = "Khutaght"
+	dynasty = 4002908
+	religion = tengri_pagan
+	culture = mongol
+	occluded = yes
+	trait = cancer
+	2316.11.1 = { birth = yes }
+	2336.1.1 = { death = yes }
+}
+2933 = {
+	name = "Batu"
+	dynasty = 4002909
+	culture = mongol
+	religion = vajrayana
+	trait = brilliant_strategist
+	2422.1.1 = { birth = yes }
+	2480.1.1 = { death = yes }
+}

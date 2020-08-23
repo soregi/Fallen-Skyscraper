@@ -6,7 +6,7 @@ k_mongolia = {
 		culture = mongol
 		
 	d_khorchin = {
-		color = { 31 139 131 }
+		color = { 231 79 171 }
 		capital = 484
 		liaoning = "Tongliao"
 #		mongol = "Jirem"
@@ -172,8 +172,8 @@ k_mongolia = {
 			b_jianping_b6 = {}
 		}
 	}
-	d_chifing = {
-		color = { 111 135 48 }
+	d_chahar = {
+		color = { 111 185 68 }
 		capital = 477
 		c_lishu = {
 			color = { 0 192 51 }
@@ -196,7 +196,7 @@ k_mongolia = {
 			b_gongzhuling_b6 = {}
 		}
 		c_shuangliao = {
-			color = { 0 129 252 }
+			color = { 0 129 152 }
 			b_shuangliao_b0 = {}
 			b_shuangliao_b1 = {}
 			b_shuangliao_b2 = {}

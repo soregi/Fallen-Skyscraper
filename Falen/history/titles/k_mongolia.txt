@@ -1,6 +1,11 @@
+1479.1.1 = { holder = 2901 }
+1938.1.1 = { holder = 2904 }
+2310.1.1 = {
+	historical_nomad = yes
+	holder = 2906
+}
 2335.8.25 = {
 	holder = 2907
-	liege = k_mongolia
 }
 2378.11.26 = {
 	holder = 2910
