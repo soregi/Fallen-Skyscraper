@@ -1,0 +1,13 @@
+# 197 - Hwado
+
+# County Title
+title = c_hwado
+
+# Settlements
+max_settlements = 4
+
+b_maseogu = castle
+
+# Misc
+culture = gyeonggi
+religion = unitary
