@@ -192,14 +192,14 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		#high_god_name = GOD_SURYONG
+		high_god_name = GOD_CHAM-FATHER
 		
 		god_names = {
-		#	GOD_SURYONG GOD_JANGGUN
+		GOD_CHAM-FATHER GOD_CHAM-MATHER GOD_GOD
 		}
 		
 		evil_god_names = {
-		#	AMERICAN_IMPERIALIST
+		SATAN PARENTLESS
 		}
 		
 		can_excommunicate = yes
@@ -208,6 +208,7 @@ old_world_group = {
 		#can_call_crusade = yes
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
+		max_wives = 4
 		
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
@@ -224,14 +225,14 @@ old_world_group = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		#high_god_name = GOD_SURYONG
+		high_god_name = GOD_CHAM-MATHER
 		
 		god_names = {
-		#	GOD_SURYONG GOD_JANGGUN
+		GOD_CHAM-FATHER GOD_CHAM-FATHER GOD_GOD
 		}
 		
 		evil_god_names = {
-		#	AMERICAN_IMPERIALIST
+		SATAN PARENTLESS
 		}
 		
 		can_excommunicate = yes
@@ -240,6 +241,7 @@ old_world_group = {
 		can_call_crusade = yes
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
+		max_wives = 4
 		
 		religious_clothing_head = 2
 		religious_clothing_priest = 2

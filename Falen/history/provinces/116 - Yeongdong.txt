@@ -10,4 +10,4 @@ b_yeongdong_yeongdong = tribal
 
 # Misc
 culture = hoseo
-religion = mu_pagan
+religion = won_buddhist

@@ -11,4 +11,4 @@ b_sinseo_yeoncheon = city
 
 # Misc
 culture = gyeonggi
-religion = catholic
+religion = authoritarian

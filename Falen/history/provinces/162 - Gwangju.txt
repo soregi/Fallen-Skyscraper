@@ -12,4 +12,4 @@ b_hwajeong_k_gwangju = temple
 
 # Misc
 culture = gyeonggi
-religion = catholic
+religion = unitary

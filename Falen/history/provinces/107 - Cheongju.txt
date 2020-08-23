@@ -13,4 +13,4 @@ b_cheongwon_cheongju = castle
 
 # Misc
 culture = hoseo
-religion = mechanist
+religion = authoritarian

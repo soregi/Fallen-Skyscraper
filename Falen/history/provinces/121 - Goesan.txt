@@ -12,4 +12,4 @@ b_jangyeon_goesan = temple
 
 # Misc
 culture = hoseo
-religion = mahayana
+religion = authoritarian

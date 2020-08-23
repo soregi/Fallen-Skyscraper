@@ -13,12 +13,21 @@
 	trait = zealous
 	trait = deceitful
 	trait = ambitious
-	add_spouse = 759
-	add_spouse = 760
-	add_spouse = 761
-	add_spouse = 762
+
 	2392.7.18 = {
 		birth = yes
+	}
+	2408.1.1 = {
+		add_spouse = 759
+	}
+	2408.2.1 = {
+		add_spouse = 760
+	}
+	2411.1.1 = {
+		add_spouse = 761
+	}
+	2438.1.1 = {
+		add_spouse = 762
 	}
 	2500.1.1 = {
         death = yes
@@ -92,7 +101,7 @@
 	religion = unitary
 	female = yes
 	father = 750
-	mother = 760
+	mother = 761
 	2412.11.02 = {
 		birth = yes
 	}
@@ -121,7 +130,7 @@
 	culture = gyeonggi
 	religion = unitary
 	father = 750
-	mother = 760
+	mother = 761
 	2415.10.31 = {
 		birth = yes
 	}
@@ -135,7 +144,7 @@
 	culture = gyeonggi
 	religion = unitary
 	father = 750
-	mother = 761
+	mother = 762
 	2438.9.12 = {
 		birth = yes
 	}
@@ -150,7 +159,7 @@
 	religion = unitary
 	female = yes
 	father = 750
-	mother = 761
+	mother = 762
 	2441.6.18 = {
 		birth = yes
 	}
@@ -164,8 +173,6 @@
 	culture = gyeonggi
 	religion = unitary
 	female = yes
-	father = 750
-	mother = 761
 	2394.5.5 = {
 		birth = yes
 	}
@@ -179,8 +186,6 @@
 	culture = gyeonggi
 	religion = unitary
 	female = yes
-	father = 750
-	mother = 761
 	2394.5.5 = {
 		birth = yes
 	}
@@ -194,8 +199,6 @@
 	culture = gyeonggi
 	religion = unitary
 	female = yes
-	father = 750
-	mother = 761
 	2415.10.31 = {
 		birth = yes
 	}
@@ -209,8 +212,6 @@
 	culture = gyeonggi
 	religion = unitary
 	female = yes
-	father = 750
-	mother = 761
 	2425.6.1 = {
 		birth = yes
 	}

@@ -13,4 +13,4 @@ b_sinpo_chuncheon = city
 
 # Misc
 culture = yeongseo
-religion = maitreya
+religion = authoritarian
