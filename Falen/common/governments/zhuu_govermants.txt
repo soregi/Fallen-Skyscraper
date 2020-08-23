@@ -1,6 +1,6 @@
 feudal_governments = {
 	confucian_clan_government = {
-		preferred_holdings = { CASTLE TEMPLE }
+		preferred_holdings = { CASTLE }
 		allowed_holdings = { 
 			CASTLE 
 			TEMPLE
@@ -11,17 +11,9 @@ feudal_governments = {
 			TRIBAL
 		}
 		accepts_liege_governments = { # Gets the wrong religion modifier instead
-			theocracy_government
-			chinese_imperial_government
 			muslim_government
-			calvinist_government
-			theocratic_feudal_government
-			roman_imperial_government
 			confederation_government
-			bhutanese_decayed_government
-			bhutanese_restored_government
 			feudal_government
-			eastern_feudal
 			confucian_government
 			marxist_government
 			military_government
@@ -32,22 +24,15 @@ feudal_governments = {
 		frame_suffix = "_confucian_clan"
 		title_prefix = "confucian_clan_"
 		potential = {
-			isnt_forced_to_theocracy = yes
 			NOT = { is_government_potential = military_government }
 			NOT = { is_government_potential = order_government }
+			religion = confucian
+			NOT = { has_global_flag = reformed_confucian_gov }
 			OR = {
-				primary_title = { 
-					title = k_andong
-					NOT = {
-						has_title_flag = reformed_confucian_gov
-					}						
-				}
+				primary_title = { title = k_andong }
 				top_liege = {
-					primary_title = { 
-						title = k_andong 
-						NOT = {
-							has_title_flag = reformed_confucian_gov
-						}
+					primary_title = {
+						title = k_andong
 					}
 				}
 			}
@@ -112,40 +97,15 @@ feudal_governments = {
 		frame_suffix = "_confucian"
 		title_prefix = "confucian_restored_"
 		potential = {
-			isnt_forced_to_theocracy = yes
 			NOT = { is_government_potential = military_government }
 			NOT = { is_government_potential = order_government }
+			religion = confucian
+			has_global_flag = reformed_confucian_gov 
 			OR = {
-				primary_title = { 
-					title = k_andong
-					has_title_flag = reformed_confucian_gov				
-				}
+				primary_title = { title = k_andong }
 				top_liege = {
-					primary_title = { 
+					primary_title = {
 						title = k_andong
-						has_title_flag = reformed_confucian_gov
-					}
-				}
-			}
-			is_patrician = no
-		}
-		potential = {
-			OR = {
-				AND = { 
-					is_save_game = no
-					has_game_started = no
-					primary_title = { 
-						OR = { 
-							title = e_donghae
-						}
-					}
-				}
-				AND = { 
-					primary_title = { 
-						OR = { 
-							title = e_donghae
-						}
-						has_law = succ_mil_elective
 					}
 				}
 			}
