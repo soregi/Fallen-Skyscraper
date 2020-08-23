@@ -6,6 +6,8 @@ title = c_beipiao
 # Settlements
 max_settlements = 4
 
+b_beipiao_b0 = tribal
+
 # Misc
 culture = liaoning
 religion = maoist
