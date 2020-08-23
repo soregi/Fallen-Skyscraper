@@ -326,16 +326,6 @@ k_gyeonggi = {
 			b_galmae_guri = {}
 			b_acheon_guri = {}
 		}
-		c_hwado = {
-			color = { 191 157 38 }
-			b_hwado = {}
-			b_maseogu = {}
-			b_mukyeon = {}
-			b_changhyeon = {}
-			b_nokchon = {}
-			b_chasan = {}
-			b_gagok = {}
-		}
 		c_wabu = {
 			color = { 153 155 15 }
 			b_paldang_wabu = {}
