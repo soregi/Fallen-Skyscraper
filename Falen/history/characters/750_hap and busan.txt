@@ -199,7 +199,7 @@
 	culture = gyeonggi
 	religion = unitary
 	female = yes
-	2415.10.31 = {
+	2398.10.31 = {
 		birth = yes
 	}
 	2500.1.1 = {

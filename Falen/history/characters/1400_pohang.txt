@@ -127,7 +127,7 @@
 	culture = yeongnam
 	religion = steel_pagan
 	father = 1404
-	2328.2.3 = {
+	2338.2.3 = {
 		birth = yes
 	}
 	2375.6.1 = {
@@ -140,7 +140,7 @@
 	culture = yeongnam
 	religion = steel_pagan
 	father = 1409
-	2351.5.16 = {
+	2361.5.16 = {
 		birth = yes
 	}
 	2404.2.28 = {
@@ -156,13 +156,13 @@
 	religion = steel_pagan
 	father = 1410
 	give_nickname = nick_the_usurper
-	2380.4.8 = {
+	2390.4.8 = {
 		birth = yes
 	}
-	2398.3.9 = {
+	2408.3.9 = {
 		add_spouse = 1420
 	}
-	2409.3.13 = {
+	2419.3.13 = {
 		remove_spouse = 1420
 	}
 	2409.3.27 = {
@@ -194,7 +194,7 @@
 	learning = 3
 	father = 1411
 	mother = 1420
-	2406.10.31 = {
+	2416.10.31 = {
 		birth = yes
 	}
 	2500.1.1 = {
@@ -223,7 +223,7 @@
 	learning = 5
 	father = 1411
 	mother = 1417
-	2411.5.13 = {
+	2421.5.13 = {
 		birth = yes
 	}
 	2500.1.1 = {
