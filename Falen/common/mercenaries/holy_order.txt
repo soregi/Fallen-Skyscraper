@@ -1,0 +1,181 @@
+#천주교 2
+cardinal_guard_composition = {
+	levy_size = 4
+	pikemen = 500
+	knights = 100
+	archers = 300
+}
+
+gwangju_order_composition = {
+	levy_size = 4
+	heavy_infantry = 750
+	knights = 100
+	archers = 250
+}
+#개신교 2
+incheon_order_composition = {
+	levy_size = 4
+	heavy_infantry = 600
+	knights = 300
+	archers = 200
+}
+
+jacop_order_composition = {
+	levy_size = 3
+	heavy_infantry = 450
+	knights = 150 
+	archers = 200 
+}
+#유교 1
+jaro_society_composition = {
+	levy_size = 4
+	heavy_infantry = 450
+	knights = 225
+	archers = 150
+	galleys = 50
+}
+#천도교 1
+donghak_gundan_composition = {
+	levy_size = 6
+	archers = 150
+	light_infantry = 150
+	heavy_infantry = 300
+	horse_archers = 150
+}
+#공산당 1
+red_vanguard_composition = {
+	levy_size = 6
+	archers = 150
+	light_infantry = 150
+	heavy_infantry = 350
+	horse_archers = 100
+}
+#태철교 2
+steel_brother_composition = {
+	levy_size = 6
+	heavy_infantry = 700
+	light_infantry = 200
+	archers = 200
+}
+
+furnace_guard_composition = {
+	levy_size = 6
+	heavy_infantry = 700
+	light_infantry = 300
+	archers = 400
+}
+#불교 2
+guardian_monks_composition = {
+	levy_size = 6
+	heavy_infantry = 500
+	light_infantry = 400
+	archers = 200
+}
+
+maitreya_society_composition = {
+	levy_size = 6
+	heavy_infantry = 600
+	knights = 300
+	archers = 200
+}
+#원불교 1
+worship_kyomu_composition = {
+	levy_size = 6
+	heavy_infantry = 500
+	light_cavalry = 200
+	knights = 100
+	archers = 300
+}
+#성령신앙
+k-crusader_composition = {
+	levy_size = 6
+	heavy_infantry = 500
+	light_cavalry = 200
+	knights = 100
+	archers = 300
+}
+#텡그리
+sky_lords_composition = {
+	levy_size = 6
+	knights = 100
+	horse_archers = 450
+	light_cavalry = 150
+}
+#무속신앙
+robin_hoods_composition = {
+	levy_size = 6
+	light_infantry = 500
+	archers = 600
+	pikemen = 200
+}
+#원자교
+son_of_atom_composition = {
+	levy_size = 6
+	heavy_infantry = 800
+	light_infantry = 400
+	archers = 400
+}
+#제국국교회
+empire_guardian_composition = {
+	levy_size = 6
+	heavy_infantry = 800
+	light_infantry = 400
+	archers = 400
+}
+#권위주의
+loyal_korea_composition = {
+	levy_size = 6
+	heavy_infantry = 800
+	light_infantry = 400
+	archers = 400
+}
+#대중주의
+people_korea_composition = {
+	levy_size = 6
+	heavy_infantry = 1000
+	light_infantry = 300
+	archers = 200
+}
+#주체교
+baekdu_loyal_guard_composition = {
+	levy_size = 2
+	heavy_infantry = 200
+	knights = 100
+	light_cavalry = 400
+}
+#자연교
+guardians_of_nature_composition = {
+	levy_size = 2
+	heavy_infantry = 200
+	light_cavalry = 300
+	knights = 100
+	archers = 100
+}
+#기계교
+mechanismic_dragon_composition = {
+	levy_size = 4
+	pikemen = 500
+	knights = 100
+	archers = 300
+}
+#완안씨
+wanyan_order_composition = {
+	levy_size = 6
+	knights = 100
+	horse_archers = 450
+	light_cavalry = 150
+}
+#애신각라씨
+aisin_gioro_order_composition = {
+	levy_size = 6
+	knights = 100
+	horse_archers = 450
+	light_cavalry = 150
+}
+#하르방교
+haenyeo_order_composition = {
+	levy_size = 4
+	pikemen = 500
+	knights = 100
+	archers = 300
+}

@@ -121,6 +121,7 @@ feudal_governments = {
 		barons_need_dynasty = yes
 
 		can_build_tribal = no
+		commander_limit = 20
 		
 		ignore_in_vassal_limit_calculation = {
 			tribal_government

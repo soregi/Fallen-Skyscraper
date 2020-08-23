@@ -1,0 +1,745 @@
+d_cardinal_guard = {
+	color={ 230 230 230 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 160 (seoul)
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = cardinal_guard_composition
+	
+	culture = seoul
+	
+	# Parent Religion 
+	religion = catholic
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, etc
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+}
+d_gwangju_order = {
+	
+	color={ 50 50 50 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 57 (gwangju)
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	mercenary_type = gwangju_order_composition
+	
+	# Parent Religion 
+	religion = catholic
+	
+	culture = honam
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 8 # (Must be an integer between 1 and 512)
+}
+d_incheon_order = {
+	color={ 40 60 40 }
+	color2={ 255 255 255 }
+
+	graphical_culture = holygfx
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+	capital = 155
+
+	holy_order = yes
+	mercenary_type = incheon_order_composition
+
+	# Parent Religion
+	religion = protestant
+
+	culture = gyeonggi
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	# Extra income due to donations, etc
+	monthly_income = 4 # (Must be an integer between 1 and 512)
+}
+d_jacop_order = {
+
+	color={ 180 180 180 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = gyeonggi
+	
+	# Parent Religion 
+	religion = protestant
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = jacop_order_composition
+}
+
+d_jaro_society = {
+
+	color={ 100 100 0 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 35
+	
+	title = "GRANDHEADMASTER"
+	foa = "GRANDHEADMASTER_FOA"
+	
+	holy_order = yes
+
+	# Always exists
+	landless = yes
+	
+	culture = yeongnam
+	
+	# Parent Religion 
+	religion = confucian
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = jaro_society_composition
+}
+
+d_donghak_gundan = {
+
+	color={ 90 150 0 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 271
+	
+	title = "NOKDU_JANGGUN"
+	foa = "JANGGUN_FOA"
+	
+	holy_order = yes
+
+	# Always exists
+	landless = yes
+	
+	culture = pyongnam
+	
+	# Parent Religion 
+	religion = cheondo
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = donghak_gundan_composition
+}
+
+d_red_vanguard = {
+
+	color={ 150 200 80 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 387 
+	
+	title = " "
+	foa = "GRANDHEADMASTER_FOA"
+	
+	holy_order = yes
+
+	# Always exists
+	landless = yes
+	
+	culture = russian
+	
+	# Parent Religion 
+	religion = marxist
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = red_vanguard_composition
+}
+
+d_steel_brother = {
+
+	color={ 50 50 50 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = norseholygfx
+	
+	capital = 27
+
+	title = "BIG_BROTHER"
+	foa = "BIG_BROTHER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = steel_pagan_refomed
+	
+	culture = yeongnam
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = steel_brother_composition
+}
+
+d_furnace_guard = {
+
+	color={ 180 205 20 }
+	
+	graphical_culture = norseholygfx
+	
+	capital = 27
+
+	title = "DEFENCE_CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = steel_pagan_refomed
+	
+	culture = yeongnam
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = furnace_guard_composition
+}
+
+d_guardian_monks = {
+
+	color={ 20 100 255 }
+	
+	graphical_culture = holygfx
+	
+	capital = 26
+
+	title = "DHARMA_GUADIAN_LEADER"
+	foa = "LEADER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = mahayana
+	
+	culture = yeongnam
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = guardian_monks_composition
+}
+
+d_maitreya_society = {
+
+	color={ 120 0 145 }
+	
+	graphical_culture = holygfx
+	
+	capital = 24
+
+	title = "MAITREYA_TUTELARY"
+	foa = "TUTELARY_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = mahayana
+	
+	culture = yeongnam
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = maitreya_society_composition
+}
+
+d_worship_kyomu = {
+
+	color={ 180 165 70 }
+	
+	graphical_culture = holygfx
+	
+	capital = 89
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = won_buddhist
+	
+	culture = hoseo
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = worship_kyomu_composition
+}
+
+d_k-crusader = {
+
+	color={ 180 80 140 }
+	
+	graphical_culture = holygfx
+	
+	capital = 343
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = holy_spirits_pagan_refomed
+	
+	culture = chaoxian
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = k-crusader_composition
+}
+
+d_sky_lords = {
+
+	color={ 220 200 140 }
+	
+	capital = 470
+
+	title = "WARCHIEF"
+	foa = "WARCHIEF_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = tengri_pagan_reformed
+	
+	culture = yalu
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = sky_lords_composition
+}
+
+d_robin_hoods = {
+
+	color={ 120 120 55 }
+	
+	graphical_culture = holygfx
+	
+	capital = 116
+
+	title = "HONG-GILDONG"
+	foa = "GILDONG_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = mu_pagan
+	
+	culture = hoseo
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = robin_hoods_composition
+}
+
+d_son_of_atom = {
+
+	color={ 100 140 100 }
+	
+	graphical_culture = holygfx
+	
+	capital = 38
+
+	title = "WARCHIEF"
+	foa = "WARCHIEF_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = atomicist_reformed
+	
+	culture = yeongnam
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = son_of_atom_composition
+}
+
+d_empire_guardian = {
+
+	color={ 200 45 45 }
+	
+	graphical_culture = holygfx
+	
+	capital = 90
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = imperial
+	
+	culture = honam
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = empire_guardian_composition
+}
+
+d_loyal_korea = {
+
+	color={ 140 130 105 }
+	
+	graphical_culture = holygfx
+	
+	capital = 160
+
+	title = "CHUNGMUGONG"
+	foa = "CHUNGMUGONG_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = authoritatian
+	
+	culture = seoul
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = loyal_korea_composition
+}
+
+d_people_korea = {
+
+	color={ 255 200 0 }
+	
+	graphical_culture = holygfx
+	
+	capital = 179
+
+	title = "POLICE_MASTER"
+	foa = "MASTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = populist
+	
+	culture = seoul
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = people_korea_composition
+}
+
+d_baekdu_loyal_guard = {
+
+	color={ 255 130 0 }
+	
+	graphical_culture = holygfx
+	
+	capital = 333
+
+	title = "GUARD_CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = jagang
+	
+	# Parent Religion 
+	religion = juche
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = baekdu_loyal_guard_composition
+}
+d_guardians_of_nature = {
+
+	color={ 230 100 0 }
+	
+	graphical_culture = holygfx
+	
+	capital = 252
+
+	title = "WARCHIEF"
+	foa = "WARCHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = hwanghae
+	
+	# Parent Religion 
+	religion = gaian_reformed
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = guardians_of_nature_composition
+}
+
+d_mechanismic_dragon = {
+	color={ 255 0 0 }
+	color2={ 255 255 255 }
+	graphical_culture = holygfx	
+	
+	capital = 147
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = gyeonggi
+	
+	# Parent Religion 
+	religion = mechanist
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = mechanismic_dragon_composition
+}
+
+d_wanyan_order = {
+	color={ 205 100 0 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx	
+	capital = 468
+	
+	title = "WARCHIEF"
+	foa = "WARCHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = haixi
+	
+	# Parent Religion 
+	religion = wanyan
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = ashokas_chosen_composition
+}
+
+d_aisin_gioro_order = {
+	color={ 205 100 0 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx	
+	capital = 470
+	
+	title = "WARCHIEF"
+	foa = "WARCHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = jianzhou
+	
+	# Parent Religion 
+	religion = aisin_gioro
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = aisin_gioro_order_composition
+}
+d_haenyeo_order = {
+	color={ 205 160 0 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = holygfx	
+	capital = 
+	
+	title = "WARCHIEF"
+	foa = "WARCHIEF_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = jeju
+	
+	# Parent Religion 
+	religion = jeju_pagan_reformed
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = haenyeo_order_composition
+}
