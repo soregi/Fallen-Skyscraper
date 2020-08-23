@@ -3,4 +3,6 @@ holder = 1702
 }
 2438.7.18 = {
 holder = 1701
+law = status_of_women_4
+law = enatic_cognatic_succession
 }
