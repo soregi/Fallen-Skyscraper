@@ -1,128 +1,218 @@
 k_gyeongsang = {
 	color = { 0 21 255 }
 
-	capital = 26 #경주
+	capital = 43
 
-	d_namhae = {
-		color = { 223 255 0 }
+	d_mungyeong = {
+		color = { 142 197 255 }
 
-		capital = 6
+		capital = 43
 
-		c_namhae = {
-			color = { 64 64 255 }
-			b_namhae_namhae = {}
-			b_gohyeon_namhae = {}
-			b_miho_namhae = {}
-			b_samdong_namhae = {}
-			b_sangju_namhae = {}
-			b_seolcheon_namhae = {}
-			b_idong_namhae = {}
+		c_sangju = {
+			color = { 27 91 102 }
+			b_sangju_sangju = {}
+			b_gyerim_sangju = {}
+			b_sinheung_sangju = {}
+			b_hamchang_sangju = {}
+			b_cheongri_sangju = {}
+			b_naeseo_sangju = {}
+			b_euncheok_sangju = {}
 		}
-		c_jinju = {
-			color = { 127 0 255 }
-			holy_site = jeju_pagan
-			holy_site = jeju_pagan_reformed
-			b_jinju_jinju = {}
-			b_sangpyeong_jinju = {}
-			b_cheonjeon_jinju = {}
-			b_pyeonggeo_jinju = {}
-			b_naedong_jinju = {}
-			b_panmun_jinju = {}
-			b_daean_jinju = {}
+		c_gimcheon = {
+			color = { 10 10 204 }
+			b_gimcheon_gimcheon = {}
+			b_daegok_gimcheon = {}
+			b_yanggeum_gimcheon = {}
+			b_jijwa_gimcheon = {}
+			b_pyeonghwa_gimcheon = {}
+			b_namsan_gimcheon = {}
+			b_apo_gimcheon = {}
 		}
-		c_sacheon = {
-			color = { 0 64 255 }
-			b_sacheon_sacheon = {}
-			b_namyang_sacheon = {}
-			b_dongseo_sacheon = {}
-			b_seongu_sacheon = {}
-			b_seopo_sacheon = {}
-			b_jeongdong_sacheon = {}
-			b_chukdong_sacheon = {}
-		}
-		c_hadong = {
-			color = { 127 64 255 }
-			b_hadong_hadong = {}
-			b_hwagae_hadong = {}
-			b_yangbo_hadong = {}
-			b_gojeon_hadong = {}
-			b_jingyo_hadong = {}
-			b_geumnam_hadong = {}
-			b_cheongam_hadong = {}
+		c_mungyeong = {
+			color = { 0 5 255 }
+			b_mungyeong_mungyeong = {}
+			b_jeomchon_mungyeong = {}
+			b_gaeun_mungyeong = {}
+			b_nongam_mungyeong = {}
+			b_dongro_mungyeong = {}
+			b_maseong_mungyeong = {}
+			b_sanbuk_mungyeong = {}
 		}
 	}
-	d_geoje = {
-		color = {1 254 179 }
+	d_gumi = {
+		color = { 12 174 243 }
 
-		capital = 20
+		capital = 29
 
-		c_geoje = {
-			color = { 0 0 89 }
-			b_geoje_geoje = {}
-			b_gohyeon_geoje = {}
-			b_sangmun_geoje = {}
-			b_suyang_geoje = {}
-			b_jangpyeong_geoje = {}
-			b_aju_geoje = {}
-			b_okpo_geoje = {}
+		c_gumi = {
+			color = { 26 26 127 }
+			b_gumi_gumi = {}
+			b_songjeong_gumi = {}
+			b_wonpyeong_gumi = {}
+			b_doryang_gumi = {}
+			b_hyeonggok_gumi = {}
+			b_jinmi_gumi = {}
+			b_indong_gumi = {}
 		}
-		c_goseong = {
-			color = { 64 0 255 }
-			b_goseong_goseong = {}
-			b_gaecheon_goseong = {}	
-			b_maam_goseong = {}
-			b_daega_goseong = {}
-			b_samsan_goseong = {}
-			b_georyu_goseong = {}
-			b_sangli_goseong = {}
+		c_uiseong = {
+			color = { 38 51 102 }
+			b_uiseong_uiseong = {}
+			b_danchon_uiseong = {}
+			b_jeomgok_uiseong = {}
+			b_chunsan_uiseong = {}
+			b_geumseong_uiseong = {}
+			b_bongyang_uiseong = {}
+			b_angye_uiseong = {}
 		}
-		c_tongyeong = {
-			color = { 0 0 242 }
-			holy_site = jeju_pagan
-			holy_site = jeju_pagan_reformed
-			b_tongyeong_tongyeong = {}
-			b_myeongjeong_tongyeong = {}
-			b_bongpyeong_tongyeong = {}
-			b_sanyang_tongyeong = {}
-			b_mujeon_tongyeong = {}
-			b_docheon_tongyeong = {}
-			b_gwangdo_tongyeong = {}
+		c_gunwi = {
+			color = { 64 64 127 }
+			b_gunwi_gunwi = {}
+			b_sobo_gunwi = {}
+			b_hyoryeong_gunwi = {}
+			b_uiheung_gunwi = {}
+			b_sanseong_gunwi = {}
+			b_goro_gunwi = {}
+			b_bugye_gunwi = {}
 		}
 	}
-	d_jinhae = {
-		color = { 70 234 212 }
+}
+k_daegu_usa = { #대구미군
+	color = { 70 204 212 }
+	color2 = { 186 10 22 }
+	capital = 19
+	d_daegu = {
+		color = { 61 77 255 }
 
-		capital = 46
+		capital = 19
 
-		c_jinhae = {
-			color = { 199 0 255 }
-			b_jinhae_jinhae = {}
-			b_taepyeong_jinhae = {}
-			b_yeojwa_jinhae = {}
-			b_gyeonghwa_jinhae = {}
-			b_sokuri_jinhae = {}
-			b_ungcheon_jinhae = {}
-			b_ungdong_jinhae = {}
+		c_daegu = {
+			color = { 0 0 102 }
+			b_daegu_daegu = {}
+			b_suseong_daegu = {}	
+			b_daesin_daegu = {}		
+			b_dalseo_daegu = {}
+			b_pyeongni_daegu = {}
+			b_daemyeong_daegu = {}
+			b_nongong_daegu = {}
 		}
-		c_masan = {
-			color = { 72 0 139 }
-			b_masan_masan = {}
-			b_nosan_masan = {}
-			b_wanwol_masan = {}
-			b_yangdeok_masan = {}
-			b_bongam_masan = {}
-			b_naeseo_masan = {}
-			b_odong_masan = {}
+		c_palgong = {
+			color = { 50 100 167 }
+			b_palgong_palgong = {}
+			b_chilseong_palgong = {}
+			b_dalseong_palgong = {}
+			b_sinam_palgong = {}
+			b_hyomok_palgong = {}
+			b_bangchon_palgong = {}
+			b_dopyeong_palgong = {}
 		}
-		c_changwon = {
-			color = { 0 0 38 }
-			b_changwon_changwon = {}
-			b_sapa_changwon = {}
-			b_sangnam_changwon = {}
-			b_bongnim_changwon = {}
-			b_myeonggok_changwon = {}
-			b_uichang_changwon = {}
-			b_palryong_changwon = {}
+		c_dalseong = {
+			color = { 97 154 144 }
+			b_dalseong_dalseong = {}
+			b_nongong_dalseong = {}
+			b_okpo_dalseong = {}
+			b_yuga_dalseong = {}
+			b_hyeonpung_dalseong = {}
+			b_guji_dalseong = {}
+			b_hwawon_dalseong = {}
+		}
+		c_dasa = {
+			color = { 189 135 249 }
+			b_dasa_dasa = {}
+			b_habin_dasa = {}
+			b_maegok_dasa = {}
+			b_jukgok_dasa = {}
+			b_seojae_dasa = {}
+			b_secheon_dasa = {}
+			b_bangcheon_dasa = {}
+		}
+	}
+	d_goryeong = {
+		color = { 78 158 239 }
+
+		capital = 22
+
+		c_chilgok = {
+			color = { 22 0 77 }
+			b_chilgok_chilgok = {}
+			b_waegwan_chilgok = {}
+			b_dongmyeong_chilgok = {}
+			b_jicheon_chilgok = {}
+			b_seokjeok_chilgok = {}
+			b_buksam_chilgok = {}
+			b_gisan_chilgok = {}
+		}
+		c_seongju = {
+			color = { 0 0 178 }
+			b_seongju_seongju = {}
+			b_suryun_seongju = {}
+			b_yongam_seongju = {}
+			b_seonnam_seongju = {}
+			b_chojeon_seongju = {}
+			b_daega_seongju = {}
+			b_geumsu_seongju = {}
+		}
+		c_goryeong = {
+			color = { 0 0 51 }
+			b_goryeong_goryeong = {}
+			b_daegaya_goryeong = {}
+			b_deokgok_goryeong = {}
+			b_unsu_goryeong = {}
+			b_seongsan_goryeong = {}
+			b_dasan_goryeong = {}
+			b_ssangnim_goryeong = {}
+		}
+	}
+}
+k_bulgukto = {
+	color={ 210 178 65 }
+	color2={ 132 148 120 }
+	capital = 26
+	d_gyeongju = {
+		color = { 25 228 255 }
+
+		capital = 26
+
+		c_yeongcheon = {
+			color = { 0 0 217 }
+			b_yeongcheon_yeongcheon = {}
+			b_wansan_yeongcheon = {}
+			b_geumho_yeongcheon = {}
+			b_sinnyeong_yeongcheon = {}
+			b_cheongtong_yeongcheon = {}
+			b_bugan_yeongcheon = {}
+			b_imgo_yeongcheon = {}
+		}
+		c_gyeongsan = {
+			color = { 0 0 140 }
+			b_gyeongsan_gyeongsan = {}
+			b_jungbang_gyeongsan = {}
+			b_amnyang_gyeongsan = {}
+			b_namcheong_yeongsan = {}
+			b_jillyang_gyeongsan = {}
+			b_hayang_gyeongsan = {}
+			b_wachon_gyeongsan = {}
+		}
+		c_gyeongju = {
+			color = { 0 0 77 }
+			holy_site = mahayana
+			holy_site = cheondo
+			b_gyeongju_gyeongju = {}
+			b_angang_gyeongju = {}
+			b_bodeok_gyeongju = {}
+			b_bulguksa_gyeongju = {}
+			b_geoncheon_gyeongju = {}
+			b_gangdong_gyeongju = {}
+			b_hwangseong_gyeongju = {}
+		}
+		c_cheongdo = {
+			color = { 0 0 26 }
+			b_cheongdo_cheongdo = {}
+			b_hoeyang_cheongdo = {}
+			b_iseo_cheongdo = {}
+			b_punggak_cheongdo = {}
+			b_geumcheon_cheongdo = {}
+			b_unmun_cheongdo = {}
+			b_maejeon_cheongdo = {}
 		}
 	}
 	d_gimhae = {
@@ -161,6 +251,84 @@ k_gyeongsang = {
 			b_gagok_miryang = {}
 			b_hanam_miryang = {}
 			b_gyodong_miryang = {}
+		}
+	}
+	d_ulsan = {
+		color = { 40 0 74 }
+		capital = 21
+		c_ulsan = {
+			color = { 0 0 64 }
+			holy_site = steel_pagan
+			holy_site = steel_pagan_reformed
+			holy_site = cheondo
+			b_ulsan_ulsan = {}
+			b_samsan_ulsan = {}
+			b_bangeo_ulsan = {}
+			b_sinjeong_ulsan = {}
+			b_ilsan_ulsan = {}
+			b_mugeo_ulsan = {}
+			b_taehwa_ulsan = {}
+		}
+		c_ulju = {
+			color = { 69 123 236 }
+			b_ulju_ulju = {}
+			b_bemseo_ulju = {}
+			b_dudong_ulju = {}
+			b_onyang_ulju = {}
+			b_cheongnyang_ulju = {}
+			b_duseo_ulju = {}
+			b_onsan_ulju = {}
+		}
+		c_eonyang = {
+			color = { 217 167 236 }
+			b_eonyang_eonyang = {}
+			b_samnam_eonyang = {}
+			b_samdong_eonyang = {}
+			b_sangbuk_eonyang = {}
+			b_banggi_eonyang = {}
+			b_songdae_eonyang = {}
+			b_bancheon_eonyang = {}
+		}
+	}
+}
+k_gaya = {
+	color={ 211 126 65 }
+	color2={ 258 258 28 }
+	capital = 10
+	d_gaya = {
+		color = { 45 174 255 }
+
+		capital = 10
+
+		c_hamyang = {
+			color = { 127 127 255 }
+			b_hamyang_hamyang = {}
+			b_macheon_hamyang = {}
+			b_yurim_hamyang = {}
+			b_jigok_hamyang = {}
+			b_hyucheon_hamyang = {}
+			b_anui_hamyang = {}
+			b_sudong_hamyang = {}
+		}
+		c_sancheong = {
+			color = { 64 64 164 }
+			b_sancheong_sancheong = {}
+			b_danseong_sancheong = {}
+			b_sicheon_sancheong = {}
+			b_samjang_sancheong = {}
+			b_geumseo_sancheong = {}
+			b_saengcho_sancheong = {}
+			b_sindeung_sancheong = {}
+		}
+		c_geochang = {
+			color = { 64 127 255 }
+			b_geochang_geochang = {}
+			b_mari_geochang = {}
+			b_sinwon_geochang = {}
+			b_gajo_geochang = {}
+			b_jusang_geochang = {}
+			b_goje_geochang = {}
+			b_buksang_geochang = {}
 		}
 	}
 	d_miryang = {
@@ -210,279 +378,130 @@ k_gyeongsang = {
 			b_yongju_hapcheon = {}
 		}
 	}
-	d_gaya = {
-		color = { 45 174 255 }
+	d_namhae = {
+		color = { 223 255 0 }
 
-		capital = 10
+		capital = 6
 
-		c_hamyang = {
-			color = { 127 127 255 }
-			b_hamyang_hamyang = {}
-			b_macheon_hamyang = {}
-			b_yurim_hamyang = {}
-			b_jigok_hamyang = {}
-			b_hyucheon_hamyang = {}
-			b_anui_hamyang = {}
-			b_sudong_hamyang = {}
+		c_namhae = {
+			color = { 64 64 255 }
+			b_namhae_namhae = {}
+			b_gohyeon_namhae = {}
+			b_miho_namhae = {}
+			b_samdong_namhae = {}
+			b_sangju_namhae = {}
+			b_seolcheon_namhae = {}
+			b_idong_namhae = {}
 		}
-		c_sancheong = {
-			color = { 64 64 164 }
-			b_sancheong_sancheong = {}
-			b_danseong_sancheong = {}
-			b_sicheon_sancheong = {}
-			b_samjang_sancheong = {}
-			b_geumseo_sancheong = {}
-			b_saengcho_sancheong = {}
-			b_sindeung_sancheong = {}
+		c_jinju = {
+			color = { 127 0 255 }
+			holy_site = jeju_pagan
+			holy_site = jeju_pagan_reformed
+			b_jinju_jinju = {}
+			b_sangpyeong_jinju = {}
+			b_cheonjeon_jinju = {}
+			b_pyeonggeo_jinju = {}
+			b_naedong_jinju = {}
+			b_panmun_jinju = {}
+			b_daean_jinju = {}
 		}
-		c_geochang = {
-			color = { 64 127 255 }
-			b_geochang_geochang = {}
-			b_mari_geochang = {}
-			b_sinwon_geochang = {}
-			b_gajo_geochang = {}
-			b_jusang_geochang = {}
-			b_goje_geochang = {}
-			b_buksang_geochang = {}
+		c_sacheon = {
+			color = { 0 64 255 }
+			b_sacheon_sacheon = {}
+			b_namyang_sacheon = {}
+			b_dongseo_sacheon = {}
+			b_seongu_sacheon = {}
+			b_seopo_sacheon = {}
+			b_jeongdong_sacheon = {}
+			b_chukdong_sacheon = {}
+		}
+		c_hadong = {
+			color = { 127 64 255 }
+			b_hadong_hadong = {}
+			b_hwagae_hadong = {}
+			b_yangbo_hadong = {}
+			b_gojeon_hadong = {}
+			b_jingyo_hadong = {}
+			b_geumnam_hadong = {}
+			b_cheongam_hadong = {}
 		}
 	}
-	d_mungyeong = {
-		color = { 142 197 255 }
+}
+k_jinhae = { #진해해군사령부
+	color = { 70 204 212 }
+	color2={ 186 10 22 }
+	d_jinhae = {
+		color = { 70 234 212 }
 
-		capital = 43
+		capital = 46
 
-		c_sangju = {
-			color = { 27 91 102 }
-			b_sangju_sangju = {}
-			b_gyerim_sangju = {}
-			b_sinheung_sangju = {}
-			b_hamchang_sangju = {}
-			b_cheongri_sangju = {}
-			b_naeseo_sangju = {}
-			b_euncheok_sangju = {}
+		c_jinhae = {
+			color = { 199 0 255 }
+			b_jinhae_jinhae = {}
+			b_taepyeong_jinhae = {}
+			b_yeojwa_jinhae = {}
+			b_gyeonghwa_jinhae = {}
+			b_sokuri_jinhae = {}
+			b_ungcheon_jinhae = {}
+			b_ungdong_jinhae = {}
 		}
-		c_gimcheon = {
-			color = { 10 10 204 }
-			b_gimcheon_gimcheon = {}
-			b_daegok_gimcheon = {}
-			b_yanggeum_gimcheon = {}
-			b_jijwa_gimcheon = {}
-			b_pyeonghwa_gimcheon = {}
-			b_namsan_gimcheon = {}
-			b_apo_gimcheon = {}
+		c_masan = {
+			color = { 72 0 139 }
+			b_masan_masan = {}
+			b_nosan_masan = {}
+			b_wanwol_masan = {}
+			b_yangdeok_masan = {}
+			b_bongam_masan = {}
+			b_naeseo_masan = {}
+			b_odong_masan = {}
 		}
-		c_mungyeong = {
-			color = { 0 5 255 }
-			b_mungyeong_mungyeong = {}
-			b_jeomchon_mungyeong = {}
-			b_gaeun_mungyeong = {}
-			b_nongam_mungyeong = {}
-			b_dongro_mungyeong = {}
-			b_maseong_mungyeong = {}
-			b_sanbuk_mungyeong = {}
+		c_changwon = {
+			color = { 0 0 38 }
+			b_changwon_changwon = {}
+			b_sapa_changwon = {}
+			b_sangnam_changwon = {}
+			b_bongnim_changwon = {}
+			b_myeonggok_changwon = {}
+			b_uichang_changwon = {}
+			b_palryong_changwon = {}
 		}
 	}
-	d_goryeong = {
-		color = { 78 158 239 }
+	d_geoje = {
+		color = {1 254 179 }
 
-		capital = 22
+		capital = 20
 
-		c_chilgok = {
-			color = { 22 0 77 }
-			b_chilgok_chilgok = {}
-			b_waegwan_chilgok = {}
-			b_dongmyeong_chilgok = {}
-			b_jicheon_chilgok = {}
-			b_seokjeok_chilgok = {}
-			b_buksam_chilgok = {}
-			b_gisan_chilgok = {}
+		c_geoje = {
+			color = { 0 0 89 }
+			b_geoje_geoje = {}
+			b_gohyeon_geoje = {}
+			b_sangmun_geoje = {}
+			b_suyang_geoje = {}
+			b_jangpyeong_geoje = {}
+			b_aju_geoje = {}
+			b_okpo_geoje = {}
 		}
-		c_seongju = {
-			color = { 0 0 178 }
-			b_seongju_seongju = {}
-			b_suryun_seongju = {}
-			b_yongam_seongju = {}
-			b_seonnam_seongju = {}
-			b_chojeon_seongju = {}
-			b_daega_seongju = {}
-			b_geumsu_seongju = {}
+		c_goseong = {
+			color = { 64 0 255 }
+			b_goseong_goseong = {}
+			b_gaecheon_goseong = {}	
+			b_maam_goseong = {}
+			b_daega_goseong = {}
+			b_samsan_goseong = {}
+			b_georyu_goseong = {}
+			b_sangli_goseong = {}
 		}
-		c_goryeong = {
-			color = { 0 0 51 }
-			b_goryeong_goryeong = {}
-			b_daegaya_goryeong = {}
-			b_deokgok_goryeong = {}
-			b_unsu_goryeong = {}
-			b_seongsan_goryeong = {}
-			b_dasan_goryeong = {}
-			b_ssangnim_goryeong = {}
-		}
-	}
-	d_daegu = {
-		color = { 61 77 255 }
-
-		capital = 19
-
-		c_daegu = {
-			color = { 0 0 102 }
-			b_daegu_daegu = {}
-			b_suseong_daegu = {}	
-			b_daesin_daegu = {}		
-			b_dalseo_daegu = {}
-			b_pyeongni_daegu = {}
-			b_daemyeong_daegu = {}
-			b_nongong_daegu = {}
-		}
-		c_palgong = {
-			color = { 50 100 167 }
-			b_palgong_palgong = {}
-			b_chilseong_palgong = {}
-			b_dalseong_palgong = {}
-			b_sinam_palgong = {}
-			b_hyomok_palgong = {}
-			b_bangchon_palgong = {}
-			b_dopyeong_palgong = {}
-		}
-		c_dalseong = {
-			color = { 97 154 144 }
-			b_dalseong_dalseong = {}
-			b_nongong_dalseong = {}
-			b_okpo_dalseong = {}
-			b_yuga_dalseong = {}
-			b_hyeonpung_dalseong = {}
-			b_guji_dalseong = {}
-			b_hwawon_dalseong = {}
-		}
-		c_dasa = {
-			color = { 189 135 249 }
-			b_dasa_dasa = {}
-			b_habin_dasa = {}
-			b_maegok_dasa = {}
-			b_jukgok_dasa = {}
-			b_seojae_dasa = {}
-			b_secheon_dasa = {}
-			b_bangcheon_dasa = {}
-		}
-	}
-	d_gyeongju = {
-		color = { 25 228 255 }
-
-		capital = 26
-
-		c_yeongcheon = {
-			color = { 0 0 217 }
-			b_yeongcheon_yeongcheon = {}
-			b_wansan_yeongcheon = {}
-			b_geumho_yeongcheon = {}
-			b_sinnyeong_yeongcheon = {}
-			b_cheongtong_yeongcheon = {}
-			b_bugan_yeongcheon = {}
-			b_imgo_yeongcheon = {}
-		}
-		c_gyeongsan = {
-			color = { 0 0 140 }
-			b_gyeongsan_gyeongsan = {}
-			b_jungbang_gyeongsan = {}
-			b_amnyang_gyeongsan = {}
-			b_namcheong_yeongsan = {}
-			b_jillyang_gyeongsan = {}
-			b_hayang_gyeongsan = {}
-			b_wachon_gyeongsan = {}
-		}
-		c_gyeongju = {
-			color = { 0 0 77 }
-			holy_site = mahayana
-			holy_site = cheondo
-			b_gyeongju_gyeongju = {}
-			b_angang_gyeongju = {}
-			b_bodeok_gyeongju = {}
-			b_bulguksa_gyeongju = {}
-			b_geoncheon_gyeongju = {}
-			b_gangdong_gyeongju = {}
-			b_hwangseong_gyeongju = {}
-		}
-		c_cheongdo = {
-			color = { 0 0 26 }
-			b_cheongdo_cheongdo = {}
-			b_hoeyang_cheongdo = {}
-			b_iseo_cheongdo = {}
-			b_punggak_cheongdo = {}
-			b_geumcheon_cheongdo = {}
-			b_unmun_cheongdo = {}
-			b_maejeon_cheongdo = {}
-		}
-	}
-	d_gumi = {
-		color = { 12 174 243 }
-
-		capital = 29
-
-		c_gumi = {
-			color = { 26 26 127 }
-			b_gumi_gumi = {}
-			b_songjeong_gumi = {}
-			b_wonpyeong_gumi = {}
-			b_doryang_gumi = {}
-			b_hyeonggok_gumi = {}
-			b_jinmi_gumi = {}
-			b_indong_gumi = {}
-		}
-		c_uiseong = {
-			color = { 38 51 102 }
-			b_uiseong_uiseong = {}
-			b_danchon_uiseong = {}
-			b_jeomgok_uiseong = {}
-			b_chunsan_uiseong = {}
-			b_geumseong_uiseong = {}
-			b_bongyang_uiseong = {}
-			b_angye_uiseong = {}
-		}
-		c_gunwi = {
-			color = { 64 64 127 }
-			b_gunwi_gunwi = {}
-			b_sobo_gunwi = {}
-			b_hyoryeong_gunwi = {}
-			b_uiheung_gunwi = {}
-			b_sanseong_gunwi = {}
-			b_goro_gunwi = {}
-			b_bugye_gunwi = {}
-		}
-	}
-	d_ulsan = {
-		color = { 40 0 74 }
-		capital = 21
-		c_ulsan = {
-			color = { 0 0 64 }
-			holy_site = steel_pagan
-			holy_site = steel_pagan_reformed
-			holy_site = cheondo
-			b_ulsan_ulsan = {}
-			b_samsan_ulsan = {}
-			b_bangeo_ulsan = {}
-			b_sinjeong_ulsan = {}
-			b_ilsan_ulsan = {}
-			b_mugeo_ulsan = {}
-			b_taehwa_ulsan = {}
-		}
-		c_ulju = {
-			color = { 69 123 236 }
-			b_ulju_ulju = {}
-			b_bemseo_ulju = {}
-			b_dudong_ulju = {}
-			b_onyang_ulju = {}
-			b_cheongnyang_ulju = {}
-			b_duseo_ulju = {}
-			b_onsan_ulju = {}
-		}
-		c_eonyang = {
-			color = { 217 167 236 }
-			b_eonyang_eonyang = {}
-			b_samnam_eonyang = {}
-			b_samdong_eonyang = {}
-			b_sangbuk_eonyang = {}
-			b_banggi_eonyang = {}
-			b_songdae_eonyang = {}
-			b_bancheon_eonyang = {}
+		c_tongyeong = {
+			color = { 0 0 242 }
+			holy_site = jeju_pagan
+			holy_site = jeju_pagan_reformed
+			b_tongyeong_tongyeong = {}
+			b_myeongjeong_tongyeong = {}
+			b_bongpyeong_tongyeong = {}
+			b_sanyang_tongyeong = {}
+			b_mujeon_tongyeong = {}
+			b_docheon_tongyeong = {}
+			b_gwangdo_tongyeong = {}
 		}
 	}
 }

@@ -17,11 +17,6 @@ k_mil_seoul = {
 	culture = seoul
 	religion = populist
 }
-k_gaya = {
-	color={ 211 126 65 }
-	color2={ 258 258 28 }
-
-}
 e_joseon = {
 	color={ 200 158 70 }
 	color2={ 200 158 70 }
@@ -43,11 +38,8 @@ e_south_korea = {
 		always = no
 	}
 }
-k_bulgukto = {
-	color={ 210 178 65 }
-	color2={ 132 148 120 }
 
-}
+
 d_gaian_union = { #자연인 연맹
 	color={ 34 220 82 }
 	color2={ 25 32 60 }
@@ -210,11 +202,7 @@ e_new_china = { #신중국
 	color2={ 6 120 222 }
 
 }
-k_jinhae = { #진해해군사령부
-	color = { 70 204 212 }
-	color2={ 186 10 22 }
 
-}
 e_kangsong_tae_kuk = {
 	color = { 191 51 25 }
 	color2 = { 50 200 230 }
@@ -230,11 +218,7 @@ e_usa_mil = { #미군정
 	color2={ 186 10 22 }
 
 }
-k_daegu_usa = { #대구미군
-	color = { 70 204 212 }
-	color2 = { 186 10 22 }
 
-}
 k_sinuiju_comm = { #신의주
 	color={ 199 5 9 }
 	color2={ 3 142 230 }
