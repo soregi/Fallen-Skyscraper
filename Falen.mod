@@ -14,7 +14,7 @@ replace_path = events
 replace_path = decisions
 tags=
 {
-	Total Conversion
+	"Total Conversion"
 }
 picture="thumbnail.png"
 version="0.1"
