@@ -10,10 +10,28 @@ south_koreanic = {
 		color = { 171 144 124 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -31,10 +49,28 @@ south_koreanic = {
 		color = { 71 44 224 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -55,10 +91,28 @@ giho_group = {
 		color = { 151 5 58 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -76,10 +130,28 @@ giho_group = {
 		color = { 132 26 86 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -97,10 +169,28 @@ giho_group = {
 		color = { 221 244 224 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -118,10 +208,28 @@ giho_group = {
 		color = { 45 221 44 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -142,10 +250,28 @@ southeast_group = {
 		color = { 251 111 63 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -163,10 +289,28 @@ southeast_group = {
 		color = { 155 187 228 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -187,10 +331,28 @@ southwest_group = {
 		color = { 222 173 124 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -208,10 +370,28 @@ southwest_group = {
 		color = { 16 166 227 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -233,10 +413,28 @@ jeju_koreanic = {
 		color = { 191 144 24 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -257,10 +455,28 @@ north_koreanic = {
 		color = { 221 44 24 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -281,10 +497,28 @@ kwanso_group = {
 		color = { 89 133 197 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -302,10 +536,28 @@ kwanso_group = {
 		color = { 221 44 44 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -323,10 +575,28 @@ kwanso_group = {
 		color = { 163 124 181 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -347,10 +617,28 @@ kwanbuk_group = {
 		color = { 119 103 137 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -368,10 +656,28 @@ kwanbuk_group = {
 		color = { 176 192 137 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
@@ -389,10 +695,28 @@ kwanbuk_group = {
 		color = { 48 107 85 }
 
 		male_names = {
-			Gaettong Bangwon Cheolsu Chi Chunchu Do Dolsoe Duri Gibeom Geon Gwangsu Hana Hanbyeol Haneul Hansol Hanmin Jaein Jeon Junyeong Jeonghee San Seongye Seugni Sunsik  Minsu Manse Minseung Munbok  Munseok Munsu Myeongbak Myeongbok Myeongsu Seungman Sunshin Yeongsu Yushin Yumin 
+			Minjun Seojun Yejun Doyun Siwoo Joowon Hajun Jiho Jihoo Junseo
+			Junwoo Hyunwoo Jihun Dohyeon Woojin Sunwoo Minjae Seojin Dongjin Kyeongsoo
+			Hyunjun Yeonwoo Yoojun Jungwoo Seunghyun Seungwoo Junhyeok Jihwan Siyoon Eunwoo
+			Seungmin Jiwoo Yoochan Minseong Yoonwoo Junyoung Sihoo Jinwoo Jiwon Soohyun
+			Jaeyeon Donghyun Sihyun Taeyoon Minkyu Sooho Minwoo Hangyeol Eunchan Siwon
+			Yoonho Minchan Leejun Sungmin Sion Jian Junho Seungjun Sunghyun Hyunseo
+			Hayul Jisung Taemin Leean Yeseong Woobin Taehyeon Minho Jihan Minhyeok
+			Jiyul Seongjun Seowoo Jeongmin Eunho Yoonseong Jimin Jun Yoonjae Yul
+			Jaehyeon Jaemin Minseok Junsu Haram Eunseong Hajin Yechan Taeyang Junhui
+			Dohun Hamin Junseong Geon Hyeonsu Seungwon Gangmin Jeonghyeon Subeom
 		}
 		female_names = {
-			Ari Ara Bada Binna Bom Gaon Ga'eul Gae'ul Gyeoul Hana Hanbyeol Haneul Hanee Kkot Myeonghee Nara Semi Seora Seolmi Sumi Suji Sunja Sunbok Jeonghee Yeongsu Yeoreum Yeongmi Yeonghee Yumi Yumin 
+			Seoyeon Seoyoon Jiwoo Seohyun Minseo Haeun Hayoon Yoonseo Jimin Jiyu
+			chaewon Jiyoon Eunseo Sooa Daeun Yeeun Soobin Jia Soyul Yewon
+			Yerin Jiwon Soyun Jian Sieun Yoojin Harin Chaeeun Yoona Gaeun
+			Yoona Seoyoung Minji Yejin Soomin Sooyeon Seoa Yeonwoo Yena Yeseo
+			Jooa Siyeon Yeonseo Hayul Dain Dayeon Hyunseo Ain Seoeun Sia
+			Yooju Seojin Seowoo Hayeon Yoobin Chaeyoon Seoyul Arin Soohyun Jiyul
+			Nayoon Yeji Dahyeon Minju Jieun Nayeon Soeun Sarang Sihyun Yoonji
+			Yebin Naeun Jihyeon Soyeon Seoha Ayoon Hyewon Eunchae Jisoo Jooha
+			Seunga Chaea Somin Dayun Seohui Nahyun Mina Chaerin Hayoung Seeun
+			Doyeon Gyuri Ayoung Jiyeon Gayoon Yerim Daon Taehui Minchae Yoonsong
 		}
 		
 		dynasty_title_names = no
