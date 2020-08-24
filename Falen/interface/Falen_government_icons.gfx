@@ -11,11 +11,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_icon_secular_republic_government"
-		texturefile = "gfx\\interface\\government_icon_marxist.dds"
+		texturefile = "gfx\\interface\\government_icon_republic.dds"
 	}
 	spriteType = {
 		name = "GFX_icon_maritime_government"
-		texturefile = "gfx\\interface\\government_icon_marxist.dds"
+		texturefile = "gfx\\interface\\government_icon_maritime.dds"
 	}
 	spriteType = {
 		name = "GFX_icon_confederation_government"
