@@ -192,9 +192,6 @@ narrative_event = { # EVT Chain 1 ##
 	}
 	option = {
 		name = enclave_3_a
-		trigger = {
-			THIS = { NOT = { character = ROOT } }
-		}
 	}
 	option = {
 		name = enclave_3_b
