@@ -16,3 +16,5 @@ tags=
 {
 	Total Conversion
 }
+picture="thumbnail.png"
+version="0.1"
