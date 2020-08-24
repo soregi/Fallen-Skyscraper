@@ -5,6 +5,100 @@ bm_2444 = {
 	era = yes
 	picture = GFX_pick_era_image_1
 	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+	selectable_character = {
+		id = 2011 # 양승주
+		age = 24
+		name = era_char_name_2011
+		title = k_mil_seoul
+		title_name = k_mil_seoul
+		coa_dynasty = no
+		character = {
+			dna = zhzaeihbuso
+			properties = ac000a000000
+			religion = authoritarian
+			culture = seoul
+			government = military_government
+			dynasty = 4002001
+		}
+	}
+    selectable_character = {
+		id = 2044 # 황지엽
+		age = 42
+		name = era_char_name_2044
+		title = k_civil_seoul
+		title_name = k_civil_seoul
+		coa_dynasty = no
+		character = {
+			dna = xqwcjncobwr
+			properties = wd00j0000000
+			religion = populist
+			culture = seoul
+			government = confederation_government
+			dynasty = 4002023
+		}
+	}
+	selectable_character = {
+		id = 611 # 왕지명
+		age = 30
+		name = era_char_name_611
+		title = k_kaesong
+		title_name = k_kaesong
+		character = {
+			dna = hhkpwhycwd
+			properties = ac0llkh00000
+			religion = populist
+			culture = hwanghae
+			government = merchant_republic_government
+			dynasty = 4000601
+		}
+	}
+	selectable_character = {
+		id = 2700 # 남만춘
+		age = 15
+		name = era_char_name_2700
+		title = k_incheon
+		title_name = k_incheon
+		coa_dynasty = no
+		character = {
+			dna = ldwhsorkmta
+			properties = dl0llf000000
+			religion = protestant
+			culture = gyeonggi
+			government = merchant_republic_government
+			dynasty = 4005001
+		}
+	}
+	selectable_character = {
+		id = 1851 # 화정학
+		age = 28
+		name = era_char_name_1851
+		title = d_daejeon
+		title_name = d_daejeon
+		coa_dynasty = no
+		character = {
+			dna = rcymkjhumou
+			properties = mhxcdlf000000
+			religion = mechanist
+			culture = hoseo
+			government = feudal_government
+			dynasty = 4001851
+		}
+	}
+	selectable_character = {
+		id = 2800 # 신유철
+		age = 39
+		name = era_char_name_2800
+		title = k_samsung
+		title_name = k_samsung
+		character = {
+			dna = cymrncimfxy
+			properties = al0djb000000
+			religion = mechanist
+			culture = gyeonggi
+			government = feudal_government
+			dynasty = 4002801
+		}
+	}
 }
 bm_hoseohonam = {
 	name = "BM_FAITH_AND_EMPERORS"
@@ -12,6 +106,100 @@ bm_hoseohonam = {
 	date = 2444.6.1
 	era = yes
 	picture = GFX_pick_era_image_3
+	selectable_character = {
+		id = 1 # 김문어
+		age = 40
+		name = era_char_name_1
+		title = e_hec
+		title_name = e_hec
+		coa_dynasty = no
+		character = {
+			dna = tmlsklzfrhj
+			properties = abe00a000000
+			religion = imperial
+			culture = honam
+			government = feudal_government
+			dynasty = 4000801
+		}
+	}
+    selectable_character = {
+		id = 1533 # 김문어
+		age = 44
+		name = era_char_name_1533
+		title = e_sinan
+		title_name = e_sinan
+		coa_dynasty = no
+		character = {
+			dna = ohaskmramtv
+			properties = aib0j0000000
+			religion = protestant
+			culture = sinan
+			government = maritime_government
+			dynasty = 4001501
+		}
+	}
+	selectable_character = {
+		id = 2132
+		age = 27
+		name = era_char_name_2132
+		title = d_yeosu
+		title_name = d_yeosu
+		character = {
+			dna = zvdsiheiwfm
+			properties = ad0elkh00000
+			religion = protestant
+			culture = sinan
+			government = maritime_government
+			dynasty = 4002131
+		}
+	}
+	selectable_character = {
+		id = 2851
+		age = 62
+		name = era_char_name_2851
+		title = k_northern_margraviate
+		title_name = k_northern_margraviate
+		coa_dynasty = no
+		character = {
+			dna = atqhwbrgjfh
+			properties = ajelj3j00000
+			religion = imperial
+			culture = honam
+			government = feudal_government
+			dynasty = 4002851
+		}
+	}
+	selectable_character = {
+		id = 2123
+		age = 49
+		name = era_char_name_2123
+		title = d_republic_haenam
+		title_name = d_republic_haenam
+		coa_dynasty = no
+		character = {
+			dna = vcytguzuoyp
+			properties = mgncclf000000
+			religion = marxist
+			culture = honam
+			government = marxist_government
+			dynasty = 4002123
+		}
+	}
+	selectable_character = {
+		id = 45 # Thomas
+		age = 23
+		name = era_char_name_45
+		title = d_gunsan
+		title_name = d_gunsan
+		character = {
+			dna = twdtqtkkoni
+			properties = hc0ejd000000
+			religion = imperial
+			culture = american
+			government = order_government
+			dynasty = 4000036
+		}
+	}
 }
 bm_yeongnam = {
 	name = "BM_YEONGNAM"
@@ -19,6 +207,96 @@ bm_yeongnam = {
 	date = 2444.6.1
 	era = yes
 	picture = GFX_pick_era_image_4
+	selectable_character = {
+		id = 1927
+		age = 31
+		name = era_char_name_1927
+		title = k_andong
+		title_name = k_andong
+		character = {
+			dna = baquiwuejdg
+			properties = hc0ejd000000
+			religion = confucian
+			culture = yeongnam
+			government = confucian_clan_government
+			dynasty = 40001901
+		}
+	}
+	selectable_character = {
+		id = 1311
+		age = 35
+		name = era_char_name_1311
+		title = k_bulgukto
+		title_name = k_bulgukto
+		character = {
+			dna = pywevmdugus
+			properties = hc0ejd000000
+			religion = mahayana
+			culture = yeongnam
+			government = feudal_government
+			dynasty = 40001301
+		}
+	}
+	selectable_character = {
+		id = 1412
+		age = 27
+		name = era_char_name_1412
+		title = k_pohang
+		title_name = k_pohang
+		character = {
+			dna = ykskrhncvci
+			properties = ag0ejd000000
+			religion = steel_pagan
+			culture = yeongnam
+			government = feudal_government
+			dynasty = 40001401
+		}
+	}
+	selectable_character = {
+		id = 1671
+		age = 52
+		name = era_char_name_1671
+		title = k_jinhae
+		title_name = k_jinhae
+		character = {
+			dna = yndvipfdrtj
+			properties = abiejd000000
+			religion = authoritarian
+			culture = yeongnam
+			government = military_government
+			dynasty = 40001671
+		}
+	}
+	selectable_character = {
+		id = 1801
+		age = 21
+		name = era_char_name_1801
+		title = k_gaya
+		title_name = k_gaya
+		character = {
+			dna = krfhpttlaqx
+			properties = hc0ejd000000
+			religion = mahayana
+			culture = yeongnam
+			government = feudal_government
+			dynasty = 40001801
+		}
+	}
+	selectable_character = {
+		id = 1775
+		age = 48
+		name = era_char_name_1775
+		title = k_daegu
+		title_name = k_daegu
+		character = {
+			dna = hcrafgrfwlg
+			properties = aojejd000000
+			religion = catholic
+			culture = american
+			government = feudal_government
+			dynasty = 4001771
+		}
+	}
 }
 bm_northland = {
 	name = "BM_NORTHLAND"
@@ -26,6 +304,96 @@ bm_northland = {
 	date = 2444.6.1
 	era = yes
 	picture = GFX_pick_era_image_5
+	selectable_character = {
+		id = 202
+		age = 28
+		name = era_char_name_202
+		title = k_prk
+		title_name = k_prk
+		character = {
+			dna = qenqwwgczjq
+			properties = aapejd000000
+			religion = cheondo
+			culture = pyeongnam
+			government = secular_republic_government
+			dynasty = 4000201
+		}
+	}
+	selectable_character = {
+		id = 2251
+		age = 68
+		name = era_char_name_2251
+		title = k_hwanghae_party
+		title_name = k_hwanghae_party
+		character = {
+			dna = jmqgkcefngc
+			properties = nbqejd000000
+			religion = juche
+			culture = pyeongnam
+			government = feudal_government
+			dynasty = 4002251
+		}
+	}
+	selectable_character = {
+		id = 405
+		age = 32
+		name = era_char_name_405
+		title = e_north_korea
+		title_name = e_north_korea
+		character = {
+			dna = xxhokxpdsux
+			properties = nijejd000000
+			religion = juche
+			culture = jagang
+			government = feudal_government
+			dynasty = 4000401
+		}
+	}
+	selectable_character = {
+		id = 649
+		age = 30
+		name = era_char_name_649
+		title = d_kumchon
+		title_name = d_kumchon
+		character = {
+			dna = raquochruuk
+			properties = tj0ejd000000
+			religion = gaian
+			culture = hwanghae
+			government = tribal_government
+			dynasty = 4000603
+		}
+	}
+	selectable_character = {
+		id = 2261
+		age = 46
+		name = era_char_name_2261
+		title = k_daedong
+		title_name = k_daedong
+		character = {
+			dna = geohefimvnr
+			properties = acjejd000000
+			religion = juche
+			culture = pyeongnam
+			government = feudal_government
+			dynasty = 4002261
+		}
+	}
+	selectable_character = {
+		id = 901
+		age = 21
+		name = era_char_name_901
+		title = k_people's_army
+		title_name = k_people's_army
+		character = {
+			dna = moihxmtxqdq
+			properties = ahyejd000000
+			religion = cheondo
+			culture = yeongseo
+			government = military_government
+			dynasty = 4000901
+		}
+	}
 }
 bm_outer_lords = {
 	name = "BM_OUTER_LORDS"
@@ -33,4 +401,94 @@ bm_outer_lords = {
 	date = 2444.6.1
 	era = yes
 	picture = GFX_pick_era_image_6
+	selectable_character = {
+		id = 301
+		age = 62
+		name = era_char_name_301
+		title = e_yalu
+		title_name = e_yalu
+		character = {
+			dna = vhidhvqinvl
+			properties = aojejd000000
+			religion = tengri_pagan
+			culture = yalu
+			government = nomadic_government
+			dynasty = 4000301
+		}
+	}
+	selectable_character = {
+		id = 2311
+		age = 22
+		name = era_char_name_2311
+		title = k_yanbian
+		title_name = k_yanbian
+		character = {
+			dna = yztrbrpjjmp
+			properties = mijajd000000
+			religion = holy_spirit_pagan
+			culture = chaoxian
+			government = tribal_government
+			dynasty = 4002301
+		}
+	}
+	selectable_character = {
+		id = 523
+		age = 30
+		name = era_char_name_523
+		title = k_haixi
+		title_name = k_haixi
+		character = {
+			dna = cybtmwmohzk
+			properties = ccjejd000000
+			religion = wanyan
+			culture = haixi
+			government = tribal_government
+			dynasty = 4000511
+		}
+	}
+	selectable_character = {
+		id = 514
+		age = 29
+		name = era_char_name_514
+		title = k_jianzhou
+		title_name = k_jianzhou
+		character = {
+			dna = gxhkbirppfc
+			properties = nexbjd000000
+			religion = aisin_gioro
+			culture = jianzhou
+			government = tribal_government
+			dynasty = 4000507
+		}
+	}
+	selectable_character = {
+		id = 102
+		age = 36
+		name = era_char_name_102
+		title = e_donghae
+		title_name = e_donghae
+		character = {
+			dna = zrrzovmicqf
+			properties = aojejd000000
+			religion = orthodox
+			culture = russian
+			government = military_government
+			dynasty = 4000101
+		}
+	}
+	selectable_character = {
+		id = 2913
+		age = 16
+		name = era_char_name_2913
+		title = k_mongolia
+		title_name = k_mongolia
+		character = {
+			dna = bjkvfqjctaw
+			properties = nbjejd000000
+			religion = vajrayana
+			culture = mongol
+			government = nomadic_government
+			dynasty = 11100
+		}
+	}
 }
