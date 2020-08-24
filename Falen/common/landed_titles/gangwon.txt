@@ -1,65 +1,8 @@
 k_gangwon = {
 	color = { 145 81 72 }
 
-	capital = 212
+	capital = 231
 
-	d_donghae = {
-		color = { 187 73 30 }
-
-		capital =  211
-
-		c_donghae = {
-			color = { 75 175 0 }
-			b_donghae_donghae = {}
-			b_guho_donghae = {}
-			b_mukho_donghae = {}
-			b_naan_donghae = {}
-			b_songjong_donghae = {}
-			b_samhwa_donghae = {}
-			b_dongho_donghae = {}
-
-		}
-		c_samcheok = {
-			color  =  { 50 255 50 }
-			b_samcheok_samcheok = {}
-			b_dogye_samcheok = {}
-			b_gagok_samcheok = {}
-			b_hosan_samcheok = {}
-			b_eupsang_samcheok = {}
-			b_namyang_samcheok = {}
-			b_dongmak_samcheok = {}
-		}
-		c_jeongseon = {
-			color = { 0 90 0 }
-			b_jeongseon_jeongseon = {}
-			b_sindong_jeongseon = {}
-			b_sabuk_jeongseon = {}
-			b_bukpyeong_jeongseon = {}
-			b_yeoryang_jeongseon = {}
-			b_imgye_jeongseon = {}
-			b_mureung_jeongseon = {}
-		}
-		c_taebek = {
-			color = { 25 100 25 }
-			b_taebak_taebak = {}
-			b_sangjang_taebak = {}
-			b_samsu_taebak = {}
-			b_jangseong_taebak = {}
-			b_cheoram_taebak = {}
-			b_hwajeon_taebak = {}
-			b_jeokgak_taebak = {}
-		}
-		c_yeongwol = {
-			color = { 0 50 0 }
-			b_yeongwol_yeongwol = {}
-			b_jucheon_yeongwol = {}
-			b_suju_yeongwol = {}
-			b_deokpo_yeongwol = {}
-			b_ssangyong_yeongwol = {}
-			b_jungdong_yeongwol = {}
-			b_gimsatgat_yeongwol = {}
-		}
-	}
 	d_east_wonju = {
 		color = { 191 105 95 }
 
@@ -130,52 +73,6 @@ k_gangwon = {
 			b_danwol_yangpyeong = {}
 			b_cheongun_yangpyeong = {}
 			b_jipyeong_yangpyeong = {}
-		}
-	}
-	d_gangneung = {
-		color = { 145 81 72 }
-
-		capital = 212
-
-		c_kangneng = {
-			color = { 45 90 0 }
-			b_kangneng_kangneng = {}
-			b_ponam_kangneng = {}
-			b_seongdeok_kangneng = {}
-			b_noam_kangneng = {}
-			b_jumungin_kangneng = {}
-			b_seongsan_kangneng = {}
-			b_okgye_kangneng = {}
-		}
-		c_yangyang = {
-			color = { 0 170 0 }
-			b_yangyang_yangyang = {}
-			b_sonyang_yangyang = {}
-			b_ganghyeon_yangyang = {}
-			b_seokgyo_yangyang = {}
-			b_hyeonnam_yangyang = {}
-			b_seokgye_yangyang = {}
-			b_yeongdeok_yangyang = {}
-		}
-		c_sokcho = {
-			color = { 10 150 35 }
-			b_sokcho_sokcho = {}
-			b_joyang_sokcho = {}
-			b_daepo_sokcho = {}
-			b_nohak_sokcho = {}
-			b_seorak_sokcho = {}
-			b_jangsa_sokcho = {}
-			b_yeongyang_sokcho = {}
-		}
-		c_ganseong = {
-			color = { 25 180 30 }
-			b_ganseong_ganseong = {}
-			b_toseong_ganseong = {}
-			b_geojin_ganseong = {}
-			b_ayajin_ganseong = {}
-			b_gonghyeonjin_ganseong = {}
-			b_daejin_ganseong = {}
-			b_myeongpa_ganseong = {}
 		}
 	}
 	d_south_chuncheon = {
@@ -476,6 +373,113 @@ k_gangwon = {
 			b_kajin_geumya = {}
 			b_sahyon_geumya = {}
 			b_sindang_geumya = {}
+		}
+	}
+}
+k_yeongdong = {
+	color = { 150 150 255 }
+	capital = 212
+		d_gangneung = {
+		color = { 145 81 72 }
+
+		capital = 212
+
+		c_kangneng = {
+			color = { 45 90 0 }
+			b_kangneng_kangneng = {}
+			b_ponam_kangneng = {}
+			b_seongdeok_kangneng = {}
+			b_noam_kangneng = {}
+			b_jumungin_kangneng = {}
+			b_seongsan_kangneng = {}
+			b_okgye_kangneng = {}
+		}
+		c_yangyang = {
+			color = { 0 170 0 }
+			b_yangyang_yangyang = {}
+			b_sonyang_yangyang = {}
+			b_ganghyeon_yangyang = {}
+			b_seokgyo_yangyang = {}
+			b_hyeonnam_yangyang = {}
+			b_seokgye_yangyang = {}
+			b_yeongdeok_yangyang = {}
+		}
+		c_sokcho = {
+			color = { 10 150 35 }
+			b_sokcho_sokcho = {}
+			b_joyang_sokcho = {}
+			b_daepo_sokcho = {}
+			b_nohak_sokcho = {}
+			b_seorak_sokcho = {}
+			b_jangsa_sokcho = {}
+			b_yeongyang_sokcho = {}
+		}
+		c_ganseong = {
+			color = { 25 180 30 }
+			b_ganseong_ganseong = {}
+			b_toseong_ganseong = {}
+			b_geojin_ganseong = {}
+			b_ayajin_ganseong = {}
+			b_gonghyeonjin_ganseong = {}
+			b_daejin_ganseong = {}
+			b_myeongpa_ganseong = {}
+		}
+	}
+	d_donghae = {
+		color = { 187 73 30 }
+
+		capital =  211
+
+		c_donghae = {
+			color = { 75 175 0 }
+			b_donghae_donghae = {}
+			b_guho_donghae = {}
+			b_mukho_donghae = {}
+			b_naan_donghae = {}
+			b_songjong_donghae = {}
+			b_samhwa_donghae = {}
+			b_dongho_donghae = {}
+
+		}
+		c_samcheok = {
+			color  =  { 50 255 50 }
+			b_samcheok_samcheok = {}
+			b_dogye_samcheok = {}
+			b_gagok_samcheok = {}
+			b_hosan_samcheok = {}
+			b_eupsang_samcheok = {}
+			b_namyang_samcheok = {}
+			b_dongmak_samcheok = {}
+		}
+		c_jeongseon = {
+			color = { 0 90 0 }
+			b_jeongseon_jeongseon = {}
+			b_sindong_jeongseon = {}
+			b_sabuk_jeongseon = {}
+			b_bukpyeong_jeongseon = {}
+			b_yeoryang_jeongseon = {}
+			b_imgye_jeongseon = {}
+			b_mureung_jeongseon = {}
+		}
+		c_taebek = {
+			color = { 25 100 25 }
+			b_taebak_taebak = {}
+			b_sangjang_taebak = {}
+			b_samsu_taebak = {}
+			b_jangseong_taebak = {}
+			b_cheoram_taebak = {}
+			b_hwajeon_taebak = {}
+			b_jeokgak_taebak = {}
+		}
+		c_yeongwol = {
+			color = { 0 50 0 }
+			b_yeongwol_yeongwol = {}
+			b_jucheon_yeongwol = {}
+			b_suju_yeongwol = {}
+			b_deokpo_yeongwol = {}
+			b_ssangyong_yeongwol = {}
+			b_jungdong_yeongwol = {}
+			b_gimsatgat_yeongwol = {}
 		}
 	}
 }

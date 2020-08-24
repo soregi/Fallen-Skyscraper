@@ -441,43 +441,6 @@ k_gyeonggi = {
 			b_dongbaek_yongin = {}
 		}
 	}
-	
-	d_icheon = {
-		color = { 195 229 45 }
-
-		capital = 143 #이천
-
-		c_icheon = {
-			color = { 158 0 0 }
-			b_icheon_icheon = {}
-			b_gwango_icheon = {}
-			b_jeungri_icheon = {}
-			b_jeungpo_icheon = {}
-			b_changjeon_icheon = {}
-			b_bubal_icheon = {}
-			b_majang_icheon = {}
-		}
-		c_cheoin = {
-			color = { 176 22 63 }
-			b_cheoin_cheoin = {}
-			b_pogok_cheoin = {}
-			b_mohyeon_cheoin = {}
-			b_wonsam_cheoin = {}
-			b_baegam_cheoin = {}
-			b_yurim_cheoin = {}
-			b_idong_cheoin = {}
-		}
-		c_anseong = {
-			color = { 46 0 0 }
-			b_anseong_anseong = {}
-			b_miyang_anseong = {}
-			b_seoun_anseong = {}
-			b_gongdo_anseong = {}
-			b_yangseong_anseong = {}
-			b_iljuk_anseong = {}
-			b_juksan_anseong = {}
-		}
-	}
 
 	d_ansan = {
 		color = { 153 235 143 }
@@ -564,6 +527,12 @@ k_gyeonggi = {
 		}
 	}
 	
+
+}
+k_samsung = { #강철 조합국
+	color = { 0 0 128 }
+	color2 = { 25 25 112 }
+	short_name = yes
 	d_pyeongtaek = {
 		color = { 153 199 16 }
 
@@ -598,6 +567,42 @@ k_gyeonggi = {
 			b_samjeong_anjung = {}
 			b_yongseong_anjung = {}
 			b_seonghae_anjung = {}
+		}
+	}
+	d_icheon = {
+		color = { 195 229 45 }
+
+		capital = 143 #이천
+
+		c_icheon = {
+			color = { 158 0 0 }
+			b_icheon_icheon = {}
+			b_gwango_icheon = {}
+			b_jeungri_icheon = {}
+			b_jeungpo_icheon = {}
+			b_changjeon_icheon = {}
+			b_bubal_icheon = {}
+			b_majang_icheon = {}
+		}
+		c_cheoin = {
+			color = { 176 22 63 }
+			b_cheoin_cheoin = {}
+			b_pogok_cheoin = {}
+			b_mohyeon_cheoin = {}
+			b_wonsam_cheoin = {}
+			b_baegam_cheoin = {}
+			b_yurim_cheoin = {}
+			b_idong_cheoin = {}
+		}
+		c_anseong = {
+			color = { 46 0 0 }
+			b_anseong_anseong = {}
+			b_miyang_anseong = {}
+			b_seoun_anseong = {}
+			b_gongdo_anseong = {}
+			b_yangseong_anseong = {}
+			b_iljuk_anseong = {}
+			b_juksan_anseong = {}
 		}
 	}
 }

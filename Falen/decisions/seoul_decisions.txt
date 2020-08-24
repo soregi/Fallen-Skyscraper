@@ -16,8 +16,8 @@ decisions = {
 			NOT = { has_global_flag = seoul_united }
 		}
 		allow = {
-			if = {
-				limit = {
+			conditional_tooltip = {
+				trigger = {
 					OR = {
 						religion = authoritarian
 						religion = populist
@@ -26,8 +26,8 @@ decisions = {
 				prestige = 750
 				wealth = 500
 			}
-			if = {
-				limit = {
+			conditional_tooltip = {
+				trigger = {
 					NOR = {
 						religion = authoritarian
 						religion = populist

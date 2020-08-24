@@ -18,4 +18,5 @@ china_china;국민정부;Chine;China;;China;;;;;;;;;x
 china_china_full;중화민국;;;;;;;;;;;;;x
 TXT_CHINA;중화민국;;;;;;;;;;x
 empire;국민정부;;;;;;;;;;x
+custom_seoul;서울 권역;;;;;;;;;;x
 XT_3_desc;Current Imperial Authority : [Root.global_imperial_authority.GetValue]\n Monthly Authority Changes : [e_c8.Holder.authority_changes.GetValue];;;;;;;;;;x

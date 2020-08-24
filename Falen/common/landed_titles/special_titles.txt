@@ -243,11 +243,6 @@ k_east_navy = { #동해해군
 	color = { 70 104 212 }
 	color2={ 186 110 22 }
 }
-k_samsung = { #강철 조합국
-	color = { 0 0 128 }
-	color2 = { 25 25 112 }
-	short_name = yes
-}
 d_gangseo = { #r강서공
 	color = { 132 0 201 }
 	color2= { 86 110 22 }
