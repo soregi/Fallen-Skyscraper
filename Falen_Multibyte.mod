@@ -5,3 +5,4 @@ user_dir="_Multibyte"
 dependencies = { 
 	"Fallen Skyscraper" "KoreanMultiByte"
 }
+picture="thumbnail.png"
