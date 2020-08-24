@@ -1,4 +1,4 @@
-k_liaoning = {
+k_liaodong = {
 	color = { 60 112 20 }
 	capital = 514
 	d_fengtian = {
@@ -9,7 +9,6 @@ k_liaoning = {
 			jianzhou = "Mukden"
 			haixi = "Mukden"
 			chaoxian = "Simyang"
-			yalu = "Simyang"
 			holy_site = aisin_gioro
 			holy_site = wanyan
 			holy_site = maoist
@@ -445,6 +444,10 @@ k_liaoning = {
 			b_tieling_b6 = {}
 		}
 	}
+}
+k_hebei = { #허베이
+	color={ 210 40 20 }
+	color2={ 6 110 222 }
 	d_huludao = {
 		color = { 68 111 47 }
 		capital = 513
@@ -533,3 +536,4 @@ k_liaoning = {
 			b_panshan_b6 = {}
 		}
 	}
+}

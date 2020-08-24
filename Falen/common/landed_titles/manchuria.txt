@@ -4,50 +4,6 @@ k_manchuria = {
 	allow = {
 		always = no
 	}
-	d_tonghua = {
-		color = { 149 164 47 }
-		capital = 460
-		c_jian = {
-			color = { 0 116 76 }
-			b_jian_b0 = {}
-			b_jian_b1 = {}
-			b_jian_b2 = {}
-			b_jian_b3 = {}
-			b_jian_b4 = {}
-			b_jian_b5 = {}
-			b_jian_b6 = {}
-		}
-		c_tonghua = {
-			color = { 0 233 107 }
-			b_tonghua_b0 = {}
-			b_tonghua_b1 = {}
-			b_tonghua_b2 = {}
-			b_tonghua_b3 = {}
-			b_tonghua_b4 = {}
-			b_tonghua_b5 = {}
-			b_tonghua_b6 = {}
-		}
-		c_meihekou = {
-			color = { 0 151 217 }
-			b_meihekou_b0 = {}
-			b_meihekou_b1 = {}
-			b_meihekou_b2 = {}
-			b_meihekou_b3 = {}
-			b_meihekou_b4 = {}
-			b_meihekou_b5 = {}
-			b_meihekou_b6 = {}
-		}
-		c_huinan = {
-			color = { 0 129 88 }
-			b_huinan_b0 = {}
-			b_huinan_b1 = {}
-			b_huinan_b2 = {}
-			b_huinan_b3 = {}
-			b_huinan_b4 = {}
-			b_huinan_b5 = {}
-			b_huinan_b6 = {}
-		}
-	}
 }
 
 k_jianzhou = { #건주
@@ -123,6 +79,50 @@ k_jianzhou = { #건주
 			b_hunjiang_b4 = {}
 			b_hunjiang_b5 = {}
 			b_hunjiang_b6 = {}
+		}
+	}
+	d_tonghua = {
+		color = { 149 164 47 }
+		capital = 460
+		c_jian = {
+			color = { 0 116 76 }
+			b_jian_b0 = {}
+			b_jian_b1 = {}
+			b_jian_b2 = {}
+			b_jian_b3 = {}
+			b_jian_b4 = {}
+			b_jian_b5 = {}
+			b_jian_b6 = {}
+		}
+		c_tonghua = {
+			color = { 0 233 107 }
+			b_tonghua_b0 = {}
+			b_tonghua_b1 = {}
+			b_tonghua_b2 = {}
+			b_tonghua_b3 = {}
+			b_tonghua_b4 = {}
+			b_tonghua_b5 = {}
+			b_tonghua_b6 = {}
+		}
+		c_meihekou = {
+			color = { 0 151 217 }
+			b_meihekou_b0 = {}
+			b_meihekou_b1 = {}
+			b_meihekou_b2 = {}
+			b_meihekou_b3 = {}
+			b_meihekou_b4 = {}
+			b_meihekou_b5 = {}
+			b_meihekou_b6 = {}
+		}
+		c_huinan = {
+			color = { 0 129 88 }
+			b_huinan_b0 = {}
+			b_huinan_b1 = {}
+			b_huinan_b2 = {}
+			b_huinan_b3 = {}
+			b_huinan_b4 = {}
+			b_huinan_b5 = {}
+			b_huinan_b6 = {}
 		}
 	}
 }

@@ -210,11 +210,6 @@ e_new_china = { #신중국
 	color2={ 6 120 222 }
 
 }
-k_hebei = { #허베이
-	color={ 210 40 20 }
-	color2={ 6 110 222 }
-
-}
 k_jinhae = { #진해해군사령부
 	color = { 70 204 212 }
 	color2={ 186 10 22 }
