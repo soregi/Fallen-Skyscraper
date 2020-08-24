@@ -2,8 +2,8 @@ k_seoul;Á¸Æ;;;;;;;;;;;;;x
 k_seoul_adj;Á¸Æ;;;;;;;;;;;;;x
 k_manchuria;Ì¹üÈ;;;;;;;;;;;;;x
 k_manchuria_adj;Ì¹üÈ;;;;;;;;;;;;;x
-k_liaoning;Ì¸U±;;;;;;;;;;;;;x
-k_liaoning_adj;Ì¸U±;;;;;;;;;;;;;x
+k_liaodong;”ÆÙ³;;;;;;;;;;;;;x
+k_liaodong_adj;”ÆÙ³;;;;;;;;;;;;;x
 k_gyeonggi;Ì¬0®;;;;;;;;;;;;;x
 k_gyeonggi_adj;Ì¬0®;;;;;;;;;;;;;x
 k_pyeongan;ÉÓHÅ;;;;;;;;;;;;;x
@@ -98,3 +98,5 @@ k_gwangju;­üÈ;;;;;;;;;;;;;x
 k_gwangju_adj;­üÈ;;;;;;;;;;;;;x
 k_incheon;xÇœÌ;;;;;;;;;;;;;x
 k_incheon_adj;xÇœÌ;;;;;;;;;;;;;x
+k_yeongdong;ÆÙ³;;;;;;;;;;;;;x
+k_yeongdong_adj;ÆÙ³;;;;;;;;;;;;;x

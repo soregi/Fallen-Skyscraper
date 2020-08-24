@@ -348,7 +348,7 @@
 2132 = {
 	name = "Bada"
 	dynasty = 4002131
-	culture = honam
+	culture = sinan
 	religion = protestant
 	father = 2131
 	mother = 2133

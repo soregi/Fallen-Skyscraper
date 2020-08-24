@@ -337,30 +337,6 @@ k_liaodong = {
 			b_zhuanghe_b6 = {}
 		}
 	}
-	d_jinzhou = {
-		color = { 26 85 66 }
-		capital = 435
-		c_taihe = {
-			color = { 107 154 0 }
-			b_taihe_b0 = {}
-			b_taihe_b1 = {}
-			b_taihe_b2 = {}
-			b_taihe_b3 = {}
-			b_taihe_b4 = {}
-			b_taihe_b5 = {}
-			b_taihe_b6 = {}
-		}
-		c_linghai = {
-			color = { 55 91 0 }
-			b_linghai_b0 = {}
-			b_linghai_b1 = {}
-			b_linghai_b2 = {}
-			b_linghai_b3 = {}
-			b_linghai_b4 = {}
-			b_linghai_b5 = {}
-			b_linghai_b6 = {}
-		}
-	}
 	d_tieling = {
 		color = { 166 133 17 }
 		capital = 444
@@ -444,10 +420,69 @@ k_liaodong = {
 			b_tieling_b6 = {}
 		}
 	}
+	d_panjin = {
+		color = { 39 129 108 }
+		capital = 413
+		c_taian = {
+			color = { 99 99 0 }
+			b_taian_b0 = {}
+			b_taian_b1 = {}
+			b_taian_b2 = {}
+			b_taian_b3 = {}
+			b_taian_b4 = {}
+			b_taian_b5 = {}
+			b_taian_b6 = {}
+		}
+		c_dawa = {
+			color = { 176 208 0 }
+			b_dawa_b0 = {}
+			b_dawa_b1 = {}
+			b_dawa_b2 = {}
+			b_dawa_b3 = {}
+			b_dawa_b4 = {}
+			b_dawa_b5 = {}
+			b_dawa_b6 = {}
+		}
+		c_panshan = {
+			color = { 50 60 0 }
+			b_panshan_b0 = {}
+			b_panshan_b1 = {}
+			b_panshan_b2 = {}
+			b_panshan_b3 = {}
+			b_panshan_b4 = {}
+			b_panshan_b5 = {}
+			b_panshan_b6 = {}
+		}
+	}
 }
 k_hebei = { #허베이
 	color={ 210 40 20 }
 	color2={ 6 110 222 }
+	capital = 513
+	d_jinzhou = {
+		color = { 26 85 66 }
+		capital = 435
+		c_taihe = {
+			color = { 107 154 0 }
+			b_taihe_b0 = {}
+			b_taihe_b1 = {}
+			b_taihe_b2 = {}
+			b_taihe_b3 = {}
+			b_taihe_b4 = {}
+			b_taihe_b5 = {}
+			b_taihe_b6 = {}
+		}
+		c_linghai = {
+			color = { 55 91 0 }
+			b_linghai_b0 = {}
+			b_linghai_b1 = {}
+			b_linghai_b2 = {}
+			b_linghai_b3 = {}
+			b_linghai_b4 = {}
+			b_linghai_b5 = {}
+			b_linghai_b6 = {}
+		}
+	}
 	d_huludao = {
 		color = { 68 111 47 }
 		capital = 513
@@ -500,40 +535,6 @@ k_hebei = { #허베이
 			b_nanpiao_b4 = {}
 			b_nanpiao_b5 = {}
 			b_nanpiao_b6 = {}
-		}
-	}
-	d_panjin = {
-		color = { 39 129 108 }
-		capital = 413
-		c_taian = {
-			color = { 99 99 0 }
-			b_taian_b0 = {}
-			b_taian_b1 = {}
-			b_taian_b2 = {}
-			b_taian_b3 = {}
-			b_taian_b4 = {}
-			b_taian_b5 = {}
-			b_taian_b6 = {}
-		}
-		c_dawa = {
-			color = { 176 208 0 }
-			b_dawa_b0 = {}
-			b_dawa_b1 = {}
-			b_dawa_b2 = {}
-			b_dawa_b3 = {}
-			b_dawa_b4 = {}
-			b_dawa_b5 = {}
-			b_dawa_b6 = {}
-		}
-		c_panshan = {
-			color = { 50 60 0 }
-			b_panshan_b0 = {}
-			b_panshan_b1 = {}
-			b_panshan_b2 = {}
-			b_panshan_b3 = {}
-			b_panshan_b4 = {}
-			b_panshan_b5 = {}
-			b_panshan_b6 = {}
 		}
 	}
 }

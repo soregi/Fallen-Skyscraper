@@ -9,4 +9,28 @@ spriteTypes = {
 		name = "GFX_icon_marxist_government"
 		texturefile = "gfx\\interface\\government_icon_marxist.dds"
 	}
+	spriteType = {
+		name = "GFX_icon_secular_republic_government"
+		texturefile = "gfx\\interface\\government_icon_marxist.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_maritime_government"
+		texturefile = "gfx\\interface\\government_icon_marxist.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_confederation_government"
+		texturefile = "gfx\\interface\\government_icon_marxist.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_confucian_clan_government"
+		texturefile = "gfx\\interface\\government_icon_confucian_bureaucracy.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_confucian_government"
+		texturefile = "gfx\\interface\\government_icon_confucian_bureaucracy.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_confucian_bureaucracy"
+		texturefile = "gfx\\interface\\government_icon_kmt.dds"
+	}
 }

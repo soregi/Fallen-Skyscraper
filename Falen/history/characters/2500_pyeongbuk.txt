@@ -46,6 +46,9 @@
 	2397.2.26 = {
 		add_spouse = 2405
 	}
+	2444.1.1 = {
+		add_claim = k_pyeongbuk
+	}
 }
 2505 = {
 	name = "Hyon A"

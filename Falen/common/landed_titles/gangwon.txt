@@ -240,16 +240,6 @@ k_gangwon = {
 
 		capital = 218
 
-		c_thongchon = {
-			color = { 10 100 10 }
-			b_thongchon_thongchon = {}
-			b_kosong_thongchon = {}
-			b_taegok_thongchon = {}
-			b_ryongchon_thongchon = {}
-			b_miphyong_thongchon = {}
-			b_pangpho_thongchon = {}
-			b_chasan_thongchon = {}
-		}
 		c_kumgang = {
 			color = { 0 190 0 }
 			b_kumgang_kumgang = {}
@@ -379,7 +369,7 @@ k_gangwon = {
 k_yeongdong = {
 	color = { 150 150 255 }
 	capital = 212
-		d_gangneung = {
+	d_gangneung = {
 		color = { 145 81 72 }
 
 		capital = 212
@@ -423,6 +413,16 @@ k_yeongdong = {
 			b_gonghyeonjin_ganseong = {}
 			b_daejin_ganseong = {}
 			b_myeongpa_ganseong = {}
+		}
+		c_thongchon = {
+			color = { 10 100 10 }
+			b_thongchon_thongchon = {}
+			b_kosong_thongchon = {}
+			b_taegok_thongchon = {}
+			b_ryongchon_thongchon = {}
+			b_miphyong_thongchon = {}
+			b_pangpho_thongchon = {}
+			b_chasan_thongchon = {}
 		}
 	}
 	d_donghae = {

@@ -80,8 +80,8 @@ d_miryang;Miryang;;;;;;;;;;;;;x
 d_miryang_adj;Miryang;;;;;;;;;;;;;x
 d_tsushima;Tsushima;;;;;;;;;;;;;x
 d_tsushima_adj;Tsushiman;;;;;;;;;;;;;x
-d_goryrong;Goryeong;;;;;;;;;;;;;x
-d_goryrong_adj;Goryeong;;;;;;;;;;;;;x
+d_goryeong;Goryeong;;;;;;;;;;;;;x
+d_goryeong_adj;Goryeong;;;;;;;;;;;;;x
 d_gaya;Gaya;;;;;;;;;;;;;x
 d_gaya_adj;Gaya;;;;;;;;;;;;;x
 d_namwon;Namwon;;;;;;;;;;;;;x
@@ -164,3 +164,5 @@ d_fengtian;Fengtian;;;;;;;;;;;;;x
 d_fengtian_adj;Fengtian;;;;;;;;;;;;;x
 d_kharchin;Kharchin;;;;;;;;;;;;;x
 d_kharchin_adj;Kharchin;;;;;;;;;;;;;x
+d_okcheon;Okcheon;;;;;;;;;;;;;x
+d_okcheon_adj;Okcheon;;;;;;;;;;;;;x

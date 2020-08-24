@@ -66,16 +66,6 @@ k_chungcheong = {
 			b_baekgok_jincheon = {}
 			b_munbaek_jincheon = {}
 		}
-		c_boeun = {
-			color = { 127 217 64 }
-			b_boeun_boeun = {}
-			b_maro_boeun = {}
-			b_tanbu_boeun = {}
-			b_samseung_boeun = {}
-			b_suhan_boeun = {}
-			b_sanoe_boeun = {}
-			b_hoein_boeun = {}
-		}
 		c_jeungpyeong = {
 			color = { 4 76 4 }
 			b_jeungpyeong_jeungpyeong = {}
@@ -192,6 +182,9 @@ k_chungcheong = {
 			b_nongso_gyeryong = {}
 			b_dugye_gyeryong = {}
 		}
+		
+	}
+	d_okcheon = {
 		c_okcheon = {
 			color = { 26 178 26 }
 			b_okcheon_okcheon = {}
@@ -202,8 +195,27 @@ k_chungcheong = {
 			b_gunseo_okcheon = {}
 			b_iwon_okcheon = {}
 		}
+		c_boeun = {
+			color = { 127 217 64 }
+			b_boeun_boeun = {}
+			b_maro_boeun = {}
+			b_tanbu_boeun = {}
+			b_samseung_boeun = {}
+			b_suhan_boeun = {}
+			b_sanoe_boeun = {}
+			b_hoein_boeun = {}
+		}
+		c_yeongdong = {
+			color = { 26 127 26 }
+			b_yeongdong_yeongdong = {}
+			b_yongsan_yeongdong = {}
+			b_Yanggang_yeongdong = {}
+			b_Simcheon_yeongdong = {}
+			b_hwanggan_yeongdong = {}
+			b_chupungnyeong_yeongdong = {}
+			b_Sangchon_yeongdong = {}
+		}
 	}
-	
 	d_gongju = {
 		color = { 185 191 122 }
 

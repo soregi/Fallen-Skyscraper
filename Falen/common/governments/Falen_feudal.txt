@@ -183,12 +183,12 @@ feudal_governments = {
 			city_vassal_tax_modifier = 0.1
 			temple_vassal_tax_modifier = 0.1
 			castle_vassal_tax_modifier = 0.1
-			global_revolt_risk = 1
+			global_revolt_risk = 0.01
 		}
 		court_size_modifier = 10
 	}
-	secular_republic = {
-		preferred_holdings = { CITY }
+	secular_republic_government = {
+		preferred_holdings = { CASTLE }
 		allowed_holdings = {
 			CASTLE
 			TRADE_POST 
@@ -209,21 +209,17 @@ feudal_governments = {
 			feudal_government
 			muslim_government
 		}
-		forced_contract = {
-			republic_government
-		}
 		frame_suffix = "_republic"
 		title_prefix = "republic_"
 		potential = {
 			primary_title = {
 				title = k_prk
 			}
-			NOR = {
+			NOT = {
 				is_government_potential = roman_imperial_government
 				is_government_potential = order_government
 				is_government_potential = merchant_republic_government
 			}
-			higher_tier_than = BARON
 			is_patrician = no
 			mercenary = no
 			is_landed = yes
@@ -300,4 +296,141 @@ feudal_governments = {
 		}
 		capital_move_delay = 600
 	}
+	confucian_clan_government = {
+		preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE 
+			TEMPLE
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			muslim_government
+			confederation_government
+			feudal_government
+			confucian_government
+			marxist_government
+			military_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_confucian"
+		title_prefix = "confucian_clan_"
+		potential = {
+			NOT = { is_government_potential = military_government }
+			NOT = { is_government_potential = order_government }
+			religion = confucian
+			NOT = { has_global_flag = reformed_confucian_gov }
+			OR = {
+				primary_title = { title = k_andong }
+				top_liege = {
+					primary_title = {
+						title = k_andong
+					}
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 255 190 23 }
+		
+		uses_piety_for_law_change = yes
+		barons_need_dynasty = yes
+		can_create_empires = no
+		free_retract_vassalage = yes
+		can_imprison_without_reason = no
+		marriage_ignore_religion = yes
+		have_gender_laws = no
+
+		can_build_tribal = no
+		character_modifier = {
+				retinue_maintenence_cost = -0.5
+		}
+		unit_modifier = {
+			levy_size = -1.25
+			
+			retinuesize_perc = 1.3
+		}
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+		capital_move_delay = 2400
+	}
+	
+	confucian_government = {
+		preferred_holdings = { CASTLE TEMPLE }
+		allowed_holdings = { 
+			CASTLE 
+			TEMPLE
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			theocracy_government
+			chinese_imperial_government
+			muslim_government
+			roman_imperial_government
+			confederation_government
+			feudal_government
+			confucian_clan_government
+			marxist_government
+			military_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_confucian"
+		title_prefix = "confucian_restored_"
+		potential = {
+			NOT = { is_government_potential = military_government }
+			NOT = { is_government_potential = order_government }
+			religion = confucian
+			has_global_flag = reformed_confucian_gov 
+			OR = {
+				primary_title = { title = k_andong }
+				top_liege = {
+					primary_title = {
+						title = k_andong
+					}
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 255 190 23 }
+		
+		uses_piety_for_law_change = yes
+		barons_need_dynasty = yes
+		can_create_empires = no
+		free_retract_vassalage = yes
+		can_imprison_without_reason = no
+		marriage_ignore_religion = yes
+		have_gender_laws = no
+
+		can_build_tribal = no
+		character_modifier = {
+				retinue_maintenence_cost = -0.5
+		}
+		unit_modifier = {
+			levy_size = -1
+			
+			retinuesize_perc = 1.5
+		}
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+		capital_move_delay = 1600
+	}
+	#문중관료제라 해서 징집병이 30% 줄고 직할령을 4개나 더 가질수있다
+
+#명분없이 봉신의 작위를 회수하는게 불가능함
+
+#그리고 자문회 폐지상태면 이크타처럼 신앙심을 써서 법률변경이 가능할거임
 }

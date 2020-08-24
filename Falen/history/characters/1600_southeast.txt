@@ -1,7 +1,7 @@
 1601 = {
 	name = "Yoshihiro"
 	dynasty = 4001601 #So
-	culture = yeongnam #원래는 일본인데, 아직 없음
+	culture = kyushuan
 	religion = mahayana #원래 신토
 	father = 1602
 	trait = skilled_tactician
@@ -15,7 +15,7 @@
 1602 = {
 	name = "Hitoshi"
 	dynasty = 4001601 #So
-	culture = yeongnam #원래는 일본인데, 아직 없음
+	culture = kyushuan
 	religion = mahayana #원래 신토
 	trait = tough_soldier
 	2376.1.16 = {

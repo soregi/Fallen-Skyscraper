@@ -16,3 +16,11 @@ military_government;군정;;;;;;;;;;;;;x
 military_government_desc;군정;;;;;;;;;;;;;x
 marxist_government;마르크스주의 정부;;;;;;;;;;;;;x
 marxist_government_desc;마르크스주의 정부;;;;;;;;;;;;;x
+maritime_government;해양 제국;;;;;;;;;;;;;x
+maritime_government_desc;해양 제국;;;;;;;;;;;;;x
+confucian_clan_government;문중 관료정;;;;;;;;;;;;;x
+confucian_clan_government_desc;유교 관료정;;;;;;;;;;;;;x
+confucian_government;유교 관료정;;;;;;;;;;;;;x
+confucian_government_desc;유교 관료정;;;;;;;;;;;;;x
+confederation_government;연합체;;;;;;;;;;;;;x
+confederation_government_desc;서울 민정은 여러 지배자들의 연합체입니다. 연합체 정부는 봉신의 병력을 징집하는 대신 그들에게 참전을 요청할 수 있습니다.;;;;;;;;;;;;;x

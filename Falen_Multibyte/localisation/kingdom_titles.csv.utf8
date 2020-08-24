@@ -2,8 +2,8 @@ k_seoul;서울;;;;;;;;;;;;;x
 k_seoul_adj;서울;;;;;;;;;;;;;x
 k_manchuria;만주;;;;;;;;;;;;;x
 k_manchuria_adj;만주;;;;;;;;;;;;;x
-k_liaoning;료녕;;;;;;;;;;;;;x
-k_liaoning_adj;료녕;;;;;;;;;;;;;x
+k_liaodong;요동;;;;;;;;;;;;;x
+k_liaodong_adj;요동;;;;;;;;;;;;;x
 k_gyeonggi;경기;;;;;;;;;;;;;x
 k_gyeonggi_adj;경기;;;;;;;;;;;;;x
 k_pyeongan;평안;;;;;;;;;;;;;x
@@ -98,3 +98,5 @@ k_gwangju;광주;;;;;;;;;;;;;x
 k_gwangju_adj;광주;;;;;;;;;;;;;x
 k_incheon;인천;;;;;;;;;;;;;x
 k_incheon_adj;인천;;;;;;;;;;;;;x
+k_yeongdong;영동;;;;;;;;;;;;;x
+k_yeongdong_adj;영동;;;;;;;;;;;;;x
