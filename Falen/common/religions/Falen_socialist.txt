@@ -30,7 +30,7 @@ socialist_group = {
 		high_god_name = GOD_REVOLUTION
 		
 		god_names = {
-			MARX ENGELS WORKERS
+			GOD_MARX GOD_ENGELS GOD_WORKERS
 		}
 		
 		evil_god_names = {
@@ -66,7 +66,7 @@ socialist_group = {
 		}
 		
 		evil_god_names = {
-			AMERICA SPARROW FOUR_KRUSCHEV
+			AMERICA FOUR_KRUSCHEV
 		}
 		
 		can_excommunicate = yes
@@ -90,15 +90,16 @@ socialist_group = {
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
+		parent = maoist
 		
-		high_god_name = GOD_XI
+		high_god_name = GOD_CHAIRMAN_XI
 		
 		god_names = {
-			MAO_ZEDONG XI_JINPING
+			GOD_MAO_ZEDONG GOD_THE_PEOPLE GOD_RED_ARMY GOD_PARTY
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+			AMERICA BOSHIRAI
 		}
 		
 		can_excommunicate = yes
@@ -159,14 +160,14 @@ socialist_group = {
 	#	
 	#	parent = marxist
 	#	
-	#	high_god_name = GOD_MAO
+	#	high_god_name = GOD_REVOLUTION
 	#	
 	#	god_names = {
-	#		MAO_ZEDONG
+	#		GOD_REVOLUTION
 	#	}
 	#	
 	#	evil_god_names = {
-	#		AMERICAN_IMPERIALIST
+	#		CORROPSION
 	#	}
 	#	
 	#	can_excommunicate = yes
