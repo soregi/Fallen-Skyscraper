@@ -24,3 +24,35 @@ RETTYPE_CUL_KOREAN =
 	modifier = {
 	}
 }
+Korean_military = {
+	first_type = 6
+	first_amount = 100
+
+	special_troops = soldier
+	
+	potential = {
+		is_nomadic = no
+		is_tribal = no
+		has_landed_title = k_rok_armed_forces
+		
+	}
+	hire_cost = 1
+	modifier = {
+	}
+}
+People's_Army = {
+	first_type = 6
+	first_amount = 100
+
+	special_troops = soldier
+	
+	potential = {
+		is_nomadic = no
+		is_tribal = no
+		has_landed_title = k_korean_people's_army
+		
+	}
+	hire_cost = 1
+	modifier = {
+	}
+}

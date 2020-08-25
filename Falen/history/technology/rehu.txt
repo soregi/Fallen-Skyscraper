@@ -1,0 +1,27 @@
+technology = {
+    titles = {
+        d_khorchin
+        d_ju_ud
+        d_chahar
+        d_cheongju
+        d_chungju
+        d_okcheon
+        d_buyeo
+        d_wonsan
+        d_gangneung
+        d_bucheon
+        d_pocheon
+        d_namyangju
+        d_mungyeong
+        d_gumi
+        d_goryeong
+        d_tsingdao
+        d_yantai
+        d_weihai
+    }
+    2444 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}

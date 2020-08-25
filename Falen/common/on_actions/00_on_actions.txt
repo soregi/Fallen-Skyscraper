@@ -1094,8 +1094,6 @@ on_five_year_pulse = {
 		10 = 3730
 		10 = 3735
 
-		#Zoroastrian pets
-		1 = ZP.1
 		
 		#Crown events.
 		10 = HF.20399

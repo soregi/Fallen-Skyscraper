@@ -29,7 +29,7 @@ d_bobusang_company = {
 	mercenary_type = bobusang_composition
 }
 ##전국보부상협회 계열
-d_bobusang_mokpo_company #전국보부상협회 목포지부 = {
+d_bobusang_mokpo_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 62 # 목포
@@ -44,7 +44,7 @@ d_bobusang_mokpo_company #전국보부상협회 목포지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_mokpo_composition
 }
-d_bobusang_sunchang_company #전국보부상협회 순창지부 = {
+d_bobusang_sunchang_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 83 # 순창
@@ -59,7 +59,7 @@ d_bobusang_sunchang_company #전국보부상협회 순창지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_sunchang_composition
 }
-d_bobusang_daejeon_company #전국보부상협회 대전지부 = {
+d_bobusang_daejeon_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 117 # 대전
@@ -74,7 +74,7 @@ d_bobusang_daejeon_company #전국보부상협회 대전지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_daejeon_composition
 }
-d_bobusang_andong_company #전국보부상협회 안동지부 = {
+d_bobusang_andong_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 35 # 안동
@@ -89,7 +89,7 @@ d_bobusang_andong_company #전국보부상협회 안동지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_andong_composition
 }
-d_bobusang_busan_company #전국보부상협회 부산지부 = {
+d_bobusang_busan_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 17 # 부산
@@ -104,7 +104,7 @@ d_bobusang_busan_company #전국보부상협회 부산지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_busan_composition
 }
-d_bobusang_gangneung_company #전국보부상협회 강릉지부 = {
+d_bobusang_gangneung_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 212 # 강릉
@@ -119,7 +119,7 @@ d_bobusang_gangneung_company #전국보부상협회 강릉지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_gangneung_composition
 }
-d_bobusang_suwon_company #전국보부상협회 수원지부 = {
+d_bobusang_suwon_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 147 # 수원
@@ -134,7 +134,7 @@ d_bobusang_suwon_company #전국보부상협회 수원지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_suwon_composition
 }
-d_bobusang_seoul_company #전국보부상협회 서울지부 = {
+d_bobusang_seoul_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 160 # 서울
@@ -149,7 +149,7 @@ d_bobusang_seoul_company #전국보부상협회 서울지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_seoul_composition
 }
-d_bobusang_haeju_company #전국보부상협회 해주지부 = {
+d_bobusang_haeju_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 237 # 해주
@@ -164,7 +164,7 @@ d_bobusang_haeju_company #전국보부상협회 해주지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_haeju_composition
 }
-d_bobusang_rajin_company #전국보부상협회 라진지부 = {
+d_bobusang_rajin_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 378 # 라진
@@ -179,7 +179,7 @@ d_bobusang_rajin_company #전국보부상협회 라진지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_rajin_composition
 }
-d_bobusang_hamheung_company #전국보부상협회 함흥지부 = {
+d_bobusang_hamheung_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 356 # 함흥
@@ -194,7 +194,7 @@ d_bobusang_hamheung_company #전국보부상협회 함흥지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_hamheung_composition
 }
-d_bobusang_pyongyang_company #전국보부상협회 평양지부 = {
+d_bobusang_pyongyang_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 271 # 평양
@@ -209,7 +209,7 @@ d_bobusang_pyongyang_company #전국보부상협회 평양지부 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = bobusang_pyongyang_composition
 }
-d_bobusang_uiju_company #전국보부상협회 의주지부 = {
+d_bobusang_uiju_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 303 # 의주
@@ -225,7 +225,7 @@ d_bobusang_uiju_company #전국보부상협회 의주지부 = {
 	mercenary_type = bobusang_uiju_composition
 }
 ##기타
-d_sixth_corps_company # 6군단 = {
+d_sixth_corps_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 377 # 청진
@@ -240,7 +240,7 @@ d_sixth_corps_company # 6군단 = {
 	strength_growth_per_century = 1.0
 	mercenary_type = sixth_corps_composition
 }
-d_veteran_marines_company # 해병전우회 = {
+d_veteran_marines_company = {
 	color = { 80 100 160 }
 	color2 = { 255 255 255 }
 	capital = 27 # 포항

@@ -690,7 +690,7 @@ pagan_group = {
 			SATAN LUCIFER THE_DEVIL EMPEROR
 		}
 		unit_modifier = {
-		    retinues_size = 0.1
+		    retinuesize_perc = 0.1
 		    garrison_size = 0.4
 		}
 		allow_looting = yes

@@ -1,4 +1,4 @@
-north korean_road = {
+north_korean_road = {
 	wealth = 197     # Total base wealth of north korean road
 	trade_post_display_trigger = {
 		OR = {
