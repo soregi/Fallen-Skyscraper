@@ -1,4 +1,4 @@
-east Sea_road = {
+east_Sea_road = {
 	wealth = 197     # Total base wealth of north korean road
 	trade_post_display_trigger = {
 		OR = {

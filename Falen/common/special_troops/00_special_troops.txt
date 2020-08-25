@@ -46,3 +46,15 @@ korean_troops = {
 	phase_pursue_defense = 20
 	base_type = heavy_infantry
 }
+
+soldier = {
+	morale = 4
+	maintenance = 2.5
+	phase_skirmish_attack = 2
+	phase_melee_attack = 2.3
+	phase_pursue_attack = 2.5
+	phase_skirmish_defense = 3
+	phase_melee_defense = 2.3
+	phase_pursue_defense = 3.25
+	base_type = light_infantry
+}

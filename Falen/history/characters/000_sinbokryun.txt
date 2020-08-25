@@ -51,7 +51,7 @@
 	trait = lunatic
 	trait = possessed
 	trait = kind
-	trait = curuel
+
 	disallow_random_traits = yes
 	female = yes
 	2409.2.18 = {
@@ -113,7 +113,6 @@
 	culture = honam
 	religion = imperial
 	trait = fortune_builder
-	trait = builder
 	trait = administrator
 	trait = gamer
 	trait = gregarious
@@ -176,9 +175,7 @@
 	dynasty = 4000009
 	culture = hoseo
 	religion = imperial
-	trait = skilled_tacticain
 	trait = cruel
-	trait = worth
 	trait = zealous
 	trait = brave
 	trait = strong
@@ -201,7 +198,6 @@
 	trait = content
 	trait = greedy
 	trait = slothful
-	trait = gardner
 	trait = administrator
 	trait = erudite
 	disallow_random_traits = yes
@@ -229,7 +225,6 @@
 	trait = deceitful
 	trait = cynical
 	trait = patient
-	trait = dilignet
 	trait = schemer
 	trait = strong
 	disallow_random_traits = yes
@@ -489,7 +484,6 @@
 	religion = imperial
 	trait = skilled_tactician
 	trait = strong
-	trait = worth
 	trait = paranoid
 	trait = just
 	2417.1.25 = {

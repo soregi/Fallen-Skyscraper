@@ -16,7 +16,7 @@ castle = {
 		light_infantry = 100
 		heavy_infantry = 250
 		archers = 50
-		retinue_size = 50
+		retinuesize = 50
 		garrison_size = 0.10
 		ai_creation_factor = 300
 
@@ -42,7 +42,7 @@ castle = {
 		pikemen = 200
 		knights = 200
 		archers = 200
-		retinue_size = 50
+		retinuesize = 50
 		ai_creation_factor = 300
 
 		extra_tech_building_start = 0.0

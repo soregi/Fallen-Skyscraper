@@ -73,7 +73,6 @@
 	culture = yeongnam
 	religion = populist
 }
-}
 4000793 = {
 	name = "Kim"
 	culture = yeongnam
@@ -83,7 +82,6 @@
 	name = "Jeong"
 	culture = yeongnam
 	religion = populist
-}
 }
 4000799 = {
 	name = "Lee"

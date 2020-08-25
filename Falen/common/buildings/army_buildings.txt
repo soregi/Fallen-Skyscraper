@@ -1,0 +1,26 @@
+castle = {
+	ca_army_special_1 = { # 인민군,국군상비군건물
+	    potential = {
+            FROM = {		
+		        OR = {
+		            has_landed_title = k_korean_people's_army
+			        has_landed_title = k_rok_armed_forces
+			    }
+			}
+		}
+		trigger = {
+            FROM = {		
+		        OR = {
+		            has_landed_title = k_korean_people's_army
+			        has_landed_title = k_rok_armed_forces
+			    }
+			}
+		}
+		desc = ca_army_special_desc
+		gold_cost = 100
+		build_time = 70
+		tax_income = -0.02
+		retinuesize = 250
+		ai_creation_factor = 500
+	}
+}
