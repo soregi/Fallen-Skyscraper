@@ -23,9 +23,9 @@ socialist_group = {
 		heresy_icon = 45
 		
 		color = { 0.9 0.0 0.0 }
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
-		priest_title = PRIEST
+		crusade_name = GREAT_PATRIOTIC_WAR
+		scripture_name = THE_COMMUNIST_MANIFESTO
+		priest_title = REVOLUTIONARY
 		
 		high_god_name = GOD_REVOLUTION
 		
@@ -55,18 +55,18 @@ socialist_group = {
 		heresy_icon = 41
 		
 		color = { 0.6 0.0 0.0 }
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
-		priest_title = PRIEST
+		crusade_name = GREAT_PATRIOTIC_WAR
+		scripture_name = THE_RED_BOOK
+		priest_title = PROCURATOR
 		
-		high_god_name = GOD_MAO
+		high_god_name = GOD_CHAIRMAN_MAO
 		
 		god_names = {
-			MAO_ZEDONG
+			GOD_THE_PEOPLE GOD_RED_ARMY GOD_PARTY
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+			AMERICA SPARROW FOUR_KRUSCHEV
 		}
 		
 		can_excommunicate = yes
@@ -119,20 +119,20 @@ socialist_group = {
 		heresy_icon = 45
 		
 		color = { 0.6 0.0 0.0 }
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
+		crusade_name = GREAT_PATRIOTIC_WAR
+		scripture_name = THE_COMMUNIST_MANIFESTO
 		priest_title = PRIEST
 		
 		parent = marxist
 		
-		high_god_name = GOD_MAO
+		high_god_name = GOD_STALIN
 		
 		god_names = {
-			MAO_ZEDONG
+			GOD_STALIN
 		}
 		
 		evil_god_names = {
-			AMERICAN_IMPERIALIST
+			LENIN BREZHNEV ROMANOV
 		}
 		
 		can_excommunicate = yes
@@ -146,75 +146,40 @@ socialist_group = {
 		religious_clothing_priest = 2
 		
 	}
-	trotskist = {		# 임시로 선언만 해둠. 추후 수정.
-		graphical_culture = westerngfx
-		
-		icon = 44
-		heresy_icon = 45
-		
-		color = { 0.6 0.0 0.0 }
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
-		priest_title = PRIEST
-		
-		parent = marxist
-		
-		high_god_name = GOD_MAO
-		
-		god_names = {
-			MAO_ZEDONG
-		}
-		
-		evil_god_names = {
-			AMERICAN_IMPERIALIST
-		}
-		
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_call_crusade = yes
-		can_retire_to_monastery = no
-		priests_can_inherit = yes
-		
-		religious_clothing_head = 2
-		religious_clothing_priest = 2
-		
-	}
-	social_democratic = {		# 임시로 선언만 해둠. 추후 수정.
-		graphical_culture = westerngfx
-		
-		icon = 44
-		heresy_icon = 45
-		
-		color = { 0.6 0.0 0.0 }
-		crusade_name = CRUSADE
-		scripture_name = THE_BIBLE
-		priest_title = PRIEST
-		
-		parent = marxist
-		
-		high_god_name = GOD_MAO
-		
-		god_names = {
-			MAO_ZEDONG
-		}
-		
-		evil_god_names = {
-			AMERICAN_IMPERIALIST
-		}
-		
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = invasion
-		can_call_crusade = yes
-		can_retire_to_monastery = no
-		priests_can_inherit = yes
-		
-		religious_clothing_head = 2
-		religious_clothing_priest = 2
-		
-	}
-	left_communism = {		# 임시로 선언만 해둠. 추후 수정.
+	#social_democratic = {		# 임시로 선언만 해둠. 추후 수정.
+	#	graphical_culture = westerngfx
+	#	
+	#	icon = 44
+	#	heresy_icon = 45
+	#	
+	#	color = { 0.6 0.0 0.0 }
+	#	crusade_name = CRUSADE
+	#	scripture_name = THE_BIBLE
+	#	priest_title = PRIEST
+	#	
+	#	parent = marxist
+	#	
+	#	high_god_name = GOD_MAO
+	#	
+	#	god_names = {
+	#		MAO_ZEDONG
+	#	}
+	#	
+	#	evil_god_names = {
+	#		AMERICAN_IMPERIALIST
+	#	}
+	#	
+	#	can_excommunicate = yes
+	#	can_grant_divorce = yes
+	#	can_grant_invasion_cb = invasion
+	#	can_call_crusade = yes
+	#	can_retire_to_monastery = no
+	#	priests_can_inherit = yes
+	#	
+	#	religious_clothing_head = 2
+	#	religious_clothing_priest = 2
+	#		
+	#}
 		graphical_culture = westerngfx
 		
 		icon = 44

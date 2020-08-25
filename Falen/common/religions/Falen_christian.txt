@@ -198,7 +198,7 @@ christian = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS
+			GOD_EMPEROR GOD_THE_LORD GOD_JESUS 
 		}
 		
 		evil_god_names = {
