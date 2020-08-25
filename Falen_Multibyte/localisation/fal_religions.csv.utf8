@@ -1,5 +1,5 @@
 mu_pagan;무속;;;;;;;;;;;;;x
-mu_pagan_reformed;무교;;;;;;;;;;;;;x
+mu_pagan_reformed;무속;;;;;;;;;;;;;x
 jeju_pagan;하르방교;;;;;;;;;;;;;x
 jeju_pagan_reformed;하르방교;;;;;;;;;;;;;x
 steel_pagan;태철교;;;;;;;;;;;;;x
@@ -33,3 +33,148 @@ unitary;합일교;;;;;;;;;;;;;x
 familiar;사랑가정교회;;;;;;;;;;;;;x
 c8_religion;씨발;;;;;;;;;;;;;x
 won_buddhist;원불교;;;;;;;;;;;;;x
+GOD_DANGUN;단군;;;;;;;;;;;;;x
+GOD_DEABYEORWANG;대별왕;;;;;;;;;;;;;x
+GOD_BARIDEGI;바리데기;;;;;;;;;;;;;x
+GOD_JACHUNGBI;자청비;;;;;;;;;;;;;x
+BULGASARI;불가사리;;;;;;;;;;;;;x
+AK'RYEONG;악령;;;;;;;;;;;;;x
+MUDANG;무당;;;;;;;;;;;;;x
+THE_GYEONGJEON;경전;;;;;;;;;;;;;x
+PIETY_MU;무;;;;;;;;;;;;;x
+GOD_GAIA;대지모신;;;;;;;;;;;;;x
+GOD_THE_GODDESS;지모신;;;;;;;;;;;;;x
+GOD_EARTH_MOTHER;어머니 땅;;;;;;;;;;;;;x
+GOD_PRIMORDIA;대자연;;;;;;;;;;;;;x
+GOD_OSTARA;산신령;;;;;;;;;;;;;x
+THE_DARK_FATHER;암흑신;;;;;;;;;;;;;x
+THE_SMOKE_SERPENT;매연의 뱀;;;;;;;;;;;;;x
+BLIGHT;문명;;;;;;;;;;;;;x
+NATURE;자연;;;;;;;;;;;;;x
+PURIFICATION_WAR;대정화;;;;;;;;;;;;;x
+THE_LEAF;초엽경전;;;;;;;;;;;;;x
+DRUID;소통자;;;;;;;;;;;;;x
+GOD_STEEL;강철의 신;;;;;;;;;;;;;x
+GOD_IRON;무쇠의 신;;;;;;;;;;;;;x
+GOD_METAL;금속의 신;;;;;;;;;;;;;x
+GOD_FORGE;고로의 여신;;;;;;;;;;;;;x
+GOD_FURNACE;용광로의 여신;;;;;;;;;;;;;x
+DEVUL_OF_CORROSION;부식의 악령;;;;;;;;;;;;;x
+LOAD_OF_RUST;녹의 군주;;;;;;;;;;;;;x
+GREAT_STEEL_WAR;대철쟁;;;;;;;;;;;;;x
+MANUAL_OF_FURNACE_MANAGEMENT;고로관리서;;;;;;;;;;;;;x
+MASTER_SMITH;명장;;;;;;;;;;;;;x
+GOD_ATOMOS;원자;;;;;;;;;;;;;x
+GOD_FAT_MAN;팻-맨;;;;;;;;;;;;;x
+GOD_LITTLE_BOY;리틀보이;;;;;;;;;;;;;x
+GOD_OPPENHEIMER;오펜하이마;;;;;;;;;;;;;x
+GOD_TRUMAN;트루먼;;;;;;;;;;;;;x
+THE_DEMON_CORE;악의 코어;;;;;;;;;;;;;x
+THE_VOID;공허;;;;;;;;;;;;;x
+FIRST_STRIKE;사전 공습;;;;;;;;;;;;;x
+THE_LECTURES;강의서;;;;;;;;;;;;;x
+GOD_HAREUBANG;하르방;;;;;;;;;;;;;x
+GOD_MANDARIN;감귤;;;;;;;;;;;;;x
+GOD_CAILLEACH;마귀;;;;;;;;;;;;;x
+MOLGOLIA;몽골;;;;;;;;;;;;;x
+THE_GENTILE;뭍사람;;;;;;;;;;;;;x
+PIETY_STONE_NOSE;돌코;;;;;;;;;;;;;x
+BUILD_HAREUBANG_WAR;하르방 건설 전쟁;;;;;;;;;;;;;x
+THE_CITRUS;감귤껍질;;;;;;;;;;;;;x
+HAENYEO;해녀;;;;;;;;;;;;;x
+GOD_KIMJESUSMARIAJOSEPH;김예수마리아요셉;;;;;;;;;;;;;x
+GOD_MOKSA;목사;;;;;;;;;;;;;x
+EMPEROR;황제;;;;;;;;;;;;;x
+KWANGMYONGJONJAENG;광명전쟁;;;;;;;;;;;;;x
+THE_SOLAR_BIBLE;태양경;;;;;;;;;;;;;x
+HATMURIKKUN;햇무리꾼;;;;;;;;;;;;;x
+GOD_RED_SOLAR;붉은태양;;;;;;;;;;;;;x
+GOD_RYONGDOJA;령도자;;;;;;;;;;;;;x
+GOD_PITSAL;빛살;;;;;;;;;;;;;x
+GOD_KANGNYONG;강령;;;;;;;;;;;;;x
+KORIP;고립;;;;;;;;;;;;;x
+CHOSEN_PEOPLE;선민;;;;;;;;;;;;;x
+GOD_NURHACHI;누르하치;;;;;;;;;;;;;x
+GOD_INJEON;인전;;;;;;;;;;;;;x
+GOD_HYOWANWEI;효완웨이;;;;;;;;;;;;;x
+YUAN_SHIKAI;위안스카이;;;;;;;;;;;;;x
+RESTORE_QING_WAR;청 재건전쟁;;;;;;;;;;;;;x
+HISTORY_OF_QING;청사;;;;;;;;;;;;;x
+GOD_AGUDA;아골타;;;;;;;;;;;;;x
+GOD_ONG;옹;;;;;;;;;;;;;x
+TEMUCHIN;테무친;;;;;;;;;;;;;x
+RESTORE_JIN_WAR;금 재건전쟁;;;;;;;;;;;;;x
+THE_HISTORY_OF_JIN;금사;;;;;;;;;;;;;x
+MOGEUK;모극;;;;;;;;;;;;;x
+TAIJI;타이지;;;;;;;;;;;;;x
+GOD_MAITREYA;미륵불;;;;;;;;;;;;;x
+GOD_AVALOKITESVARA;관세음보살;;;;;;;;;;;;;x
+JUJI;주지승;;;;;;;;;;;;;x
+GOD_MANJUSRI;문수보살;;;;;;;;;;;;;x
+GOD_KSITIGARBHA;지장보살;;;;;;;;;;;;;x
+YAKSA;야차;;;;;;;;;;;;;x
+KLESHAS;번뇌;;;;;;;;;;;;;x
+ASURAS;아수라;;;;;;;;;;;;;x
+GOD_BUDDHA;부처님;;;;;;;;;;;;;x
+GOD_SAMANTABHADRA;보현보살;;;;;;;;;;;;;x
+THE_DIAMOND_SUTRA;금강반야바라밀경;;;;;;;;;;;;;x
+THE_LOTUS_SUTRA;묘법연화경;;;;;;;;;;;;;x
+THE_MAITREYA_SUTRA;미륵대성불경;;;;;;;;;;;;;x
+GOD_THE_IL-WON;일원;;;;;;;;;;;;;x
+GOD_GABYEOK;개벽;;;;;;;;;;;;;x
+THE_DEAJONGKYEONG;대종경;;;;;;;;;;;;;x
+KYOMU;교무;;;;;;;;;;;;;x
+GOD_HANUL;한울;;;;;;;;;;;;;x
+THE_DONGHAK_SCRIPTURE;동경대전;;;;;;;;;;;;;x
+GOD_ATOM_EAVENLY_ORDER;원자-옥황상제;;;;;;;;;;;;;x
+THE_URANIUM_DAODE_TIANZUN;우라늄-태상노군;;;;;;;;;;;;;x
+THE_RADIUM_LINGBAO_TIANZUN;라듐-영보천존;;;;;;;;;;;;;x
+GOD_CURIUM_YANSHIH_TIENTSUN;퀴륨-원시천존;;;;;;;;;;;;;x
+PLUTONIUM_KING_YAN;플루토늄-염왕;;;;;;;;;;;;;x
+CAESIUM_YANLUO;세슘-염라;;;;;;;;;;;;;x
+ATOMIC_DAOSHI;원자-도사;;;;;;;;;;;;;x
+PIETY_ATE;원-도;;;;;;;;;;;;;x
+GOD_HEAVEN_ORDER;천명;;;;;;;;;;;;;x
+THE_CONFUCIUS;공자;;;;;;;;;;;;;x
+THE_MENCIUS;맹자;;;;;;;;;;;;;x
+GOD_XUNKUANG;순자;;;;;;;;;;;;;x
+GOD_WANGYANGMING;왕양명;;;;;;;;;;;;;x
+SAMUNNANJEOK;사문난적;;;;;;;;;;;;;x
+HONGWIBYEONG;홍위병;;;;;;;;;;;;;x
+FOUR_BOOKS_AND_FIVE_CLASSICS;사서삼경;;;;;;;;;;;;;x
+JWAEJU;좨주;;;;;;;;;;;;;x
+PIETY_DEOK;덕;;;;;;;;;;;;;x
+ATOM_TE_CHING;원자경;;;;;;;;;;;;;x
+GOD_SUNWEN;손문;;;;;;;;;;;;;x
+GOD_MINZU;민족;;;;;;;;;;;;;x
+GOD_MINQUAN;민권;;;;;;;;;;;;;x
+GOD_MINSHENG;민생;;;;;;;;;;;;;x
+GONGCHANDANG;공산당;;;;;;;;;;;;;x
+MAO_ZEDONG;마오쩌둥;;;;;;;;;;;;;x
+RESTORE_MAINLAND_WAR;본토수복전쟁;;;;;;;;;;;;;x
+THE_SANMINCHING;삼민경;;;;;;;;;;;;;x
+GREAT_PATRIOTIC_WAR;대조국전쟁;;;;;;;;;;;;;x
+THE_COMMUNIST_MANIFESTO;공산당선언;;;;;;;;;;;;;x
+REVOLUTIONARY;혁명가;;;;;;;;;;;;;x
+GOD_REVOLUTION;혁명;;;;;;;;;;;;;x
+GOD_MARX;마르크스;;;;;;;;;;;;;x
+GOD_ENGELS;엥겔스;;;;;;;;;;;;;x
+GOD_WORKERS;노동자;;;;;;;;;;;;;x
+BOURGEOISIE;부르주아지;;;;;;;;;;;;;x
+ANTI_REVOLUTION;반혁명;;;;;;;;;;;;;x
+THE_RED_BOOK;공산당서;;;;;;;;;;;;;x
+PROCURATOR;당 대리인;;;;;;;;;;;;;x
+GOD_CHAIRMAN_MAO;모주석;;;;;;;;;;;;;x
+GOD_THE_PEOPLE;인민;;;;;;;;;;;;;x
+GOD_RED_ARMY;인민군;;;;;;;;;;;;;x
+GOD_PARTY;당;;;;;;;;;;;;;x
+AMERICA;미국;;;;;;;;;;;;;x
+FOUR_KRUSCHEV;반역의 4수괴;;;;;;;;;;;;;x
+GOD_CHAIRMAN_XI;시주석;;;;;;;;;;;;;x
+GOD_MAO_ZEDONG;마오쩌둥;;;;;;;;;;;;;x
+BOSHIRAI;보시라이;;;;;;;;;;;;;x
+GOD_STALIN;스탈린;;;;;;;;;;;;;x
+LENIN;레닌;;;;;;;;;;;;;x
+BREZHNEV;브레즈네프;;;;;;;;;;;;;x
+ROMANOV;로마노프;;;;;;;;;;;;;x
+CORROPSION;부패;;;;;;;;;;;;;x

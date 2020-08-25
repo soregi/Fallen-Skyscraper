@@ -23,8 +23,8 @@ rpe_group = {
 		heresy_icon = 36
 		
 		color = { 0.85 0.05 0.1 }
-		crusade_name = CRUSADE
-		scripture_name = THE_LEGEND
+		crusade_name = RESTORE_MAINLAND_WAR
+		scripture_name = THE_SANMINCHING
 		priest_title = PRIEST
 		
 		high_god_name = GOD_SUNWEN
@@ -34,7 +34,7 @@ rpe_group = {
 		}
 		
 		evil_god_names = {
-			GONGCHANDANG MAO
+			GONGCHANDANG MAO_ZEDONG
 		}
 		
 		can_excommunicate = no

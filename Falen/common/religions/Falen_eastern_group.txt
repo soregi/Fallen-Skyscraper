@@ -29,14 +29,14 @@ indian_group = {
 		
 		color = { 0.8 0.4 0.0 }
 		
-		high_god_name = GOD_THE_BUDDHA
+		high_god_name = GOD_BUDDHA
 		
 		god_names = {
-			GOD_THE_BUDDHA GOD_THE_ARHAT GOD_THE_PERFECTED_ONES
+			GOD_BUDDHA GOD_AVALOKITESVARA GOD_MANJUSRI GOD_KSITIGARBHA GOD_MAITREYA
 		}
 		
 		evil_god_names = {
-			MARA
+			ASURAS YAKSA KLESHAS
 		}
 		
 		character_modifier = {
@@ -55,7 +55,7 @@ indian_group = {
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = THE_BUDDHACAVANA
+		scripture_name = THE_DIAMOND_SUTRA
 		priest_title = JUJI
 		piety_name = KARMA
 		
@@ -80,18 +80,14 @@ indian_group = {
 		
 		color = { 0.6 0.4 0.2 }
 		
-		high_god_name = GOD_THE_BUDDHA
+		high_god_name = GOD_MAITREYA
 		
 		god_names = {
-			GOD_THE_BUDDHA GOD_MAITREYA GOD_THE_ARHAT GOD_THE_PERFECTED_ONES
+			GOD_AVALOKITESVARA GOD_MANJUSRI GOD_KSITIGARBHA GOD_MAITREYA GOD_BUDDHA
 		}
 		
 		evil_god_names = {
-			MARA
-		}
-		
-		character_modifier = {
-			stewardship = 2
+			ASURAS YAKSA KLESHAS
 		}
 		
 		has_heir_designation = yes
@@ -106,7 +102,7 @@ indian_group = {
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = THE_BUDDHACAVANA
+		scripture_name = THE_MAITREYA_SUTRA
 		priest_title = JUJI
 		piety_name = KARMA
 		
@@ -131,14 +127,14 @@ indian_group = {
 		
 		color = { 0.8 0.7 0.7 }
 		
-		high_god_name = GOD_THE_BUDDHA
+		high_god_name = GOD_SAMANTABHADRA
 		
 		god_names = {
-			GOD_THE_BUDDHA GOD_THE_ARHAT GOD_THE_PERFECTED_ONES
+			GOD_BUDDHA GOD_SAMANTABHADRA GOD_AVALOKITESVARA GOD_MANJUSRI GOD_KSITIGARBHA GOD_MAITREYA
 		}
 		
 		evil_god_names = {
-			MARA
+			ASURAS YAKSA KLESHAS
 		}
 		
 		character_modifier = {
@@ -157,7 +153,7 @@ indian_group = {
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = THE_BUDDHACAVANA
+		scripture_name = THE_LOTUS_SUTRA
 		priest_title = JUJI
 		piety_name = KARMA
 		
@@ -234,7 +230,7 @@ indian_group = {
 		high_god_name = GOD_THE_IL-WON
 		
 		god_names = {
-			GOD_THE_IL-WON
+			GOD_THE_IL-WON GOD_GABYEOK
 		}
 		
 		evil_god_names = {
@@ -263,7 +259,7 @@ indian_group = {
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = THE_BUDDHACAVANA
+		scripture_name = THE_DEAJONGKYEONG
 		priest_title = KYOMU
 		piety_name = KARMA
 		
@@ -289,7 +285,7 @@ indian_group = {
 		high_god_name = GOD_HANUL
 		
 		god_names = {
-			GOD_HANUL
+			GOD_HANUL GOD_GABYEOK
 		}
 		
 		evil_god_names = {
@@ -312,7 +308,7 @@ indian_group = {
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = NONHAKMUN #논학문
+		scripture_name = THE_DONGHAK_SCRIPTURE
 		priest_title = KYOMU
 		piety_name = KARMA
 		
@@ -390,14 +386,14 @@ indian_group = {
 		
 		interface_skin = { taoist_interface indian_interface muslim_interface }
 		
-		high_god_name = GOD_HEAVENLY_ORDER
+		high_god_name = GOD_ATOM_EAVENLY_ORDER
 		
 		god_names = {
-			THE_THREE_PURITIES THE_ANCESTORS GOD_YANSHIH_TIENTSUN
+			THE_URANIUM_DAODE_TIANZUN THE_RADIUM_LINGBAO_TIANZUN GOD_CURIUM_YANSHIH_TIENTSUN
 		}
 		
 		evil_god_names = {
-			KING_YAN YANLUO
+			PLUTONIUM_KING_YAN CAESIUM_YANLUO
 		}
 
 		character_modifier = {
@@ -414,9 +410,9 @@ indian_group = {
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = TAO_TE_CHING
-		priest_title = DAOSHI
-		piety_name = PIETY_TE
+		scripture_name = ATOM_TE_CHING
+		priest_title = ATOMIC_DAOSHI
+		piety_name = PIETY_ATE
 		
 		intermarry = taoist
 	}
@@ -433,10 +429,10 @@ indian_group = {
 		
 		interface_skin = { taoist_interface indian_interface muslim_interface }
 		
-		high_god_name = GOD_HEAVENLY_ORDER
+		high_god_name = GOD_HEAVEN_ORDER
 		
 		god_names = {
-			THE_CONFUCIUS THE_MENCIUS GOD_SUNJA GOD_WANGYANGMYEONG
+			THE_CONFUCIUS THE_MENCIUS GOD_XUNKUANG GOD_WANGYANGMING
 		}
 		
 		evil_god_names = {
@@ -458,8 +454,8 @@ indian_group = {
 		religious_clothing_head = 10
 		religious_clothing_priest = 10
 
-		scripture_name = TAO_TE_CHING
-		priest_title = YOUHAKJA
+		scripture_name = FOUR_BOOKS_AND_FIVE_CLASSICS
+		priest_title = JWAEJU
 		piety_name = PIETY_DEOK
 		
 		intermarry = mahayana

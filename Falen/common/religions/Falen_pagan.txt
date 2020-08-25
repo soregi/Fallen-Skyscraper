@@ -47,6 +47,7 @@ pagan_group = {
 		dynamic_cult = no
 		secret_religion = no
 	}
+	
 	mu_pagan_reformed = {
 		graphical_culture = chinesegfx
 		secondary_event_pictures = finnish_pagan
@@ -64,10 +65,10 @@ pagan_group = {
 		high_god_name = GOD_DANGUN
 		
 		god_names = {
-			GOD_DANGUN
+			GOD_DEABYEORWANG GOD_BARIDEGI GOD_JACHEONGBI
 		}
 		evil_god_names = {
-			GOD_BULGASARI
+			BULGASARI AK'RYEONG
 		}
 		
 		#unit_modifier = {
@@ -77,10 +78,11 @@ pagan_group = {
 		#	
 		#	key = "OFF_RELIGION"
 		#}
+	
 		
 		piety_name = MU
 		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_SAGAS
+		scripture_name = THE_GYEONGJEON
 		priest_title = MUDANG
 		can_call_crusade = yes
 		priests_can_marry = yes
@@ -95,6 +97,72 @@ pagan_group = {
 		
 		intermarry = mu_pagan
 	}
+	mu_pagan = {
+		graphical_culture = pagangfx
+
+		icon = 25
+		heresy_icon = 27
+		
+		color = { 0.14 0.36 0.16 }
+		
+		#interface_skin = { celtic_interface pagan_interface }
+		
+		high_god_name = GOD_DANGUN
+		
+		god_names = {
+			GOD_DEABYEORWANG GOD_BARIDEGI GOD_JACHEONGBI
+		}
+		evil_god_names = {
+			BULGASARI AK'RYEONG
+		}
+		
+		unit_modifier = {	
+			levy_size = 0.15
+			
+			retinuesize_perc = 0.3	
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.6
+			light_infantry_defensive = 0.6
+			heavy_infantry_defensive = 0.6
+			pikemen_defensive = 0.6
+			light_cavalry_defensive = 0.6
+			knights_defensive = 0.6
+			archers_defensive = 0.6
+			horse_archers_defensive = 0.6
+			camel_cavalry_defensive = 0.6
+			war_elephants_defensive = 0.6
+			
+			garrison_size = 0.2
+			
+			key = "HERO_RELIGION_HOME_TERRITORY"
+		}
+		
+		piety_name = MU
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_GYEONGJEON
+		priest_title = MUDANG
+		
+		priests_can_marry = yes
+		allow_looting = yes
+		seafarer = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		feminist = yes
+		raised_vassal_opinion_loss = no
+		allow_in_ruler_designer = yes
+		reformed = mu_pagan_reformed
+		can_demand_religious_conversion = no
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mu_pagan_reformed
+	}
+	
 	tengri_pagan_reformed = { # Mongols
 		graphical_culture = mongolgfx
 		alternate_start = { always = no }
@@ -146,9 +214,8 @@ pagan_group = {
 		
 		intermarry = buddhist
 		intermarry = zoroastrian_group
+		
 	}		
-	
-	
 	tengri_pagan = { # This tag is used in code to override Nomad religions for purposes of Coats of Arms, etc
 	
 		graphical_culture = mongolgfx
@@ -202,71 +269,7 @@ pagan_group = {
 		intermarry = zoroastrian_group
 		can_demand_religious_conversion = no
 	}
-	mu_pagan = {
-		graphical_culture = pagangfx
 
-		icon = 25
-		heresy_icon = 27
-		
-		color = { 0.14 0.36 0.16 }
-		
-		#interface_skin = { celtic_interface pagan_interface }
-		
-		high_god_name = GOD_DANGUN
-		
-		god_names = {
-			GOD_DANGUN
-		}
-		evil_god_names = {
-			GOD_BULGASARI
-		}
-		
-		unit_modifier = {	
-			levy_size = 0.15
-			
-			retinuesize_perc = 0.3	
-			garrison_size = 0.2
-			
-			key = "HERO_RELIGION"
-		}
-		unit_home_modifier = {
-			land_morale = 0.6
-			light_infantry_defensive = 0.6
-			heavy_infantry_defensive = 0.6
-			pikemen_defensive = 0.6
-			light_cavalry_defensive = 0.6
-			knights_defensive = 0.6
-			archers_defensive = 0.6
-			horse_archers_defensive = 0.6
-			camel_cavalry_defensive = 0.6
-			war_elephants_defensive = 0.6
-			
-			garrison_size = 0.2
-			
-			key = "HERO_RELIGION_HOME_TERRITORY"
-		}
-		
-		piety_name = MU
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_SAGAS
-		priest_title = MUDANG
-		
-		priests_can_marry = yes
-		allow_looting = yes
-		seafarer = yes
-		allow_rivermovement = yes
-		female_temple_holders = yes
-		feminist = yes
-		raised_vassal_opinion_loss = no
-		allow_in_ruler_designer = yes
-		reformed = mu_pagan_reformed
-		can_demand_religious_conversion = no
-		
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
-		
-		intermarry = mu_pagan_reformed
-	}
 	gaian_reformed = {
 		graphical_culture = africangfx
 		secondary_event_pictures = finnish_pagan
@@ -287,7 +290,7 @@ pagan_group = {
 			GOD_GAIA GOD_THE_GODDESS GOD_EARTH_MOTHER GOD_PRIMORDIA GOD_OSTARA
 		}
 		evil_god_names = {
-			GOD_THE_DARK_FATHER GOD_THE_SMOKE_SERPENT GOD_BLIGHT GOD_HADES
+			THE_DARK_FATHER THE_SMOKE_SERPENT BLIGHT
 		}
 		
 		#unit_modifier = {
@@ -298,9 +301,9 @@ pagan_group = {
 		#	key = "OFF_RELIGION"
 		#}
 		
-		piety_name = AWEN
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_SAGAS
+		piety_name = NATURE
+		crusade_name = PURIFICATION_WAR
+		scripture_name = THE_LEAF
 		priest_title = DRUID
 		can_call_crusade = yes
 		priests_can_marry = yes
@@ -315,7 +318,6 @@ pagan_group = {
 		
 		intermarry = mu_pagan
 	}
-
 	gaian = {
 		graphical_culture = africangfx
 
@@ -332,7 +334,7 @@ pagan_group = {
 			GOD_GAIA GOD_THE_GODDESS GOD_EARTH_MOTHER GOD_PRIMORDIA GOD_OSTARA
 		}
 		evil_god_names = {
-			GOD_THE_DARK_FATHER GOD_THE_SMOKE_SERPENT GOD_BLIGHT GOD_HADES
+			THE_DARK_FATHER THE_SMOKE_SERPENT BLIGHT
 		}
 		
 		unit_modifier = {	
@@ -360,9 +362,9 @@ pagan_group = {
 			key = "HERO_RELIGION_HOME_TERRITORY"
 		}
 		
-		piety_name = AWEN
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_SAGAS
+		piety_name = NATURE
+		crusade_name = PURIFICATION_WAR
+		scripture_name = THE_LEAF
 		priest_title = DRUID
 		
 		priests_can_marry = yes
@@ -381,6 +383,7 @@ pagan_group = {
 		
 		intermarry = gaian_reformed
 	}
+	
 	steel_pagan_reformed = {
 		graphical_culture = norsegfx
 		secondary_event_pictures = finnish_pagan
@@ -419,7 +422,6 @@ pagan_group = {
 		intermarry = steel_pagan
 		intermarry = atomicist_reformed
 	}
-
 	steel_pagan = {
 		graphical_culture = norsegfx
 
@@ -484,6 +486,7 @@ pagan_group = {
 		intermarry = atomicist
 		intermarry = atomicist_reformed
 	}
+	
 	atomicist_reformed = { #
 		graphical_culture = hellenicgfx
 
@@ -497,7 +500,7 @@ pagan_group = {
 		high_god_name = GOD_ATOMOS
 
 		god_names = {
-			GOD_FAT_MAN GOD_LITTLE_BOY GOD_TSAR_BOMBA GOD_ATOMOS GOD_THE_ELEMENTS
+			GOD_FAT_MAN GOD_LITTLE_BOY GOD_OPPENHEIMER GOD_ATOMOS GOD_TRUMAN
 		}
 		evil_god_names = {
 			THE_DEMON_CORE THE_VOID
@@ -535,7 +538,7 @@ pagan_group = {
 		high_god_name = GOD_ATOMOS
 
 		god_names = {
-			GOD_FAT_MAN GOD_LITTLE_BOY GOD_TSAR_BOMBA GOD_ATOMOS GOD_THE_ELEMENTS
+			GOD_FAT_MAN GOD_LITTLE_BOY GOD_OPPENHEIMER GOD_ATOMOS GOD_TRUMAN
 		}
 		evil_god_names = {
 			THE_DEMON_CORE THE_VOID
@@ -560,6 +563,7 @@ pagan_group = {
 		intermarry = steel_pagan
 		intermarry = atomicist_reformed
 	}
+	
 	jeju_pagan_reformed = {
 		graphical_culture = norsegfx
 		secondary_event_pictures = finnish_pagan
@@ -575,18 +579,18 @@ pagan_group = {
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_THE_ANCESTORS
+		high_god_name = GOD_HAREUBANG
 		
 		god_names = {
-			GOD_THE_ANCESTORS
+			GOD_HAREUBANG GOD_MANDARIN
 		}
 		evil_god_names = {
-			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+			GOD_CAILLEACH MOLGOLIA THE_GENTILE
 		}
 		
-		piety_name = AWEN
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_SAGAS
+		piety_name = STONE_NOSE
+		crusade_name = BUILD_HAREUBANG_WAR
+		scripture_name = THE_CITRUS
 		priest_title = HAENYEO
 		can_call_crusade = yes
 		priests_can_marry = yes
@@ -600,7 +604,6 @@ pagan_group = {
 		
 		intermarry = jeju_pagan
 	}
-
 	jeju_pagan = {
 		graphical_culture = norsegfx
 
@@ -611,13 +614,13 @@ pagan_group = {
 		
 		#interface_skin = { celtic_interface pagan_interface }
 		
-		high_god_name = GOD_THE_ANCESTORS
+		high_god_name = GOD_HAREUBANG
 		
-		god_names = { 
-			GOD_THE_ANCESTORS
+		god_names = {
+			GOD_HAREUBANG GOD_MANDARIN
 		}
 		evil_god_names = {
-			GOD_CAILLEACH OLD_NOLL THE_FOMORIANS
+			GOD_CAILLEACH MOLGOLIA THE_GENTILE
 		}
 		
 		unit_modifier = {	
@@ -645,9 +648,9 @@ pagan_group = {
 			key = "HERO_RELIGION_HOME_TERRITORY"
 		}
 		
-		piety_name = AWEN
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_SAGAS
+		piety_name = STONE_NOSE
+		crusade_name = BUILD_HAREUBANG_WAR
+		scripture_name = THE_CITRUS
 		priest_title = HAENYEO
 		
 		priests_can_marry = yes
@@ -680,11 +683,11 @@ pagan_group = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS
+			GOD_GOD GOD_KIMJESUSMARIAJOSEPH GOD_MOKSA
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			SATAN LUCIFER THE_DEVIL EMPEROR
 		}
 		unit_modifier = {
 		    retinuesize_perc = 0.1
@@ -702,7 +705,6 @@ pagan_group = {
 		
 		intermarry = holy_spirit_pagan_reformed
 	}
-	
 	holy_spirit_pagan_reformed = {
 		graphical_culture = westerngfx
 		
@@ -718,13 +720,12 @@ pagan_group = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS
+			GOD_GOD GOD_KIMJESUSMARIAJOSEPH GOD_MOKSA
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			SATAN LUCIFER THE_DEVIL EMPEROR
 		}
-		
 		allow_looting = yes
 		female_temple_holders = no
 		#can_call_crusade = yes
@@ -736,6 +737,7 @@ pagan_group = {
 		
 		intermarry = holy_spirit_pagan
 	}
+	
 	red_solar_pagan = {
 		graphical_culture = westerngfx
 		
