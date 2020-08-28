@@ -68,7 +68,7 @@
 	culture = jagang
 	religion = juche
 	trait = misguided_warrior
-	trait = fat
+	trait = is_fat
 	trait = shrewd
 	trait = envious
 	trait = lustful
